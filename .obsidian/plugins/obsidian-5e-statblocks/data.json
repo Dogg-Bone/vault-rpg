@@ -1,0 +1,353 @@
+{
+  "monsters": [
+    [
+      "Eyrie Royal Guard",
+      {
+        "layout": "Root NPC Layout",
+        "bestiary": "true",
+        "name": "Eyrie Royal Guard",
+        "species": "Bird",
+        "faction": "Eyrie Dynasties",
+        "columns": 2,
+        "injury": 3,
+        "exhaustion": 3,
+        "wear": 3,
+        "morale": 3,
+        "attack": "2 injury",
+        "drive": "To defend the crown",
+        "item_01": "spear",
+        "item_02": "sword",
+        "item_03": "armor",
+        "description": "Imposing and silent, the Eyrie Crown's most trusted soldiers.",
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Eyrie Royal Guard",
+      {
+        "layout": "Root NPC Layout",
+        "bestiary": "true",
+        "name": "Eyrie Royal Guard",
+        "species": "Bird",
+        "faction": "Eyrie Dynasties",
+        "columns": 2,
+        "injury": 3,
+        "exhaustion": 3,
+        "wear": 3,
+        "morale": 3,
+        "attack": "2 injury",
+        "drive": "To defend the crown",
+        "item_01": "spear",
+        "item_02": "sword",
+        "item_03": "armor",
+        "description": "Imposing and silent, the Eyrie Crown's most trusted soldiers.",
+        "mtime": 1778956149042,
+        "path": "_Bestiary/Eyrie Royal Guard.md",
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Eyrie Royal Guard",
+      {
+        "layout": "Root NPC Layout",
+        "bestiary": "true",
+        "creature": "Eyrie Royal Guard",
+        "name": "Eyrie Royal Guard",
+        "species": "Bird",
+        "faction": "Eyrie Dynasties",
+        "columns": 2,
+        "injury": 3,
+        "exhaustion": 3,
+        "wear": 3,
+        "morale": 3,
+        "attack": "2 injury",
+        "drive": "To defend the crown",
+        "item_01": "spear",
+        "item_02": "sword",
+        "item_03": "armor",
+        "description": "Imposing and silent, the Eyrie Crown's most trusted soldiers.",
+        "mtime": 1778956846403,
+        "path": "_Bestiary/Eyrie Royal Guard.md",
+        "source": "Homebrew"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "6ad8d8e95a19",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "4be8eaca3b1a",
+              "properties": [
+                "name",
+                "size",
+                "type",
+                "subtype",
+                "alignment"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "c8f9780a6a38",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "68aa8a9ac9c8",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "090a092b3b0a",
+                  "properties": [
+                    "species"
+                  ],
+                  "conditioned": true,
+                  "separator": ", "
+                },
+                {
+                  "type": "heading",
+                  "id": "8bca092a0bab",
+                  "properties": [
+                    "faction"
+                  ],
+                  "size": 4,
+                  "fallback": ""
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "bb1a3b58aa29",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "28bb7bba4949",
+          "properties": [
+            "description"
+          ],
+          "text": null,
+          "fallback": "- INSERT DESCRIPTION",
+          "heading": "",
+          "hasRule": false,
+          "headingProp": false
+        },
+        {
+          "type": "group",
+          "id": "9a5b2a0b5979",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "1b58abca5a58",
+              "properties": [
+                "injury"
+              ],
+              "fallback": "-",
+              "display": "Injury"
+            },
+            {
+              "type": "property",
+              "id": "081bf9b97928",
+              "properties": [
+                "exhaustion"
+              ],
+              "fallback": "-",
+              "display": "Exhaustion"
+            },
+            {
+              "type": "property",
+              "id": "1a394baaa9d8",
+              "properties": [
+                "wear"
+              ],
+              "fallback": "-",
+              "display": "Wear"
+            },
+            {
+              "type": "property",
+              "id": "7b382b8989d8",
+              "properties": [
+                "morale"
+              ],
+              "fallback": "-",
+              "display": "Morale"
+            },
+            {
+              "type": "property",
+              "id": "38a8caeb0a09",
+              "properties": [
+                "attack"
+              ],
+              "fallback": "-",
+              "display": "Harm Dealt"
+            }
+          ],
+          "heading": "Harm Tracks",
+          "hasRule": true
+        },
+        {
+          "type": "property",
+          "id": "6a7b7b995bf9",
+          "properties": [
+            "drive"
+          ],
+          "fallback": "-",
+          "display": "Drive"
+        },
+        {
+          "type": "group",
+          "id": "da2b48b8484b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "6bfa2b2b9b79",
+              "properties": [
+                "move_01"
+              ],
+              "fallback": "-",
+              "display": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "8a2b3a59db3a",
+              "properties": [
+                "move_02"
+              ],
+              "fallback": "-",
+              "display": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "aa4b7aeb2b38",
+              "properties": [
+                "move_03"
+              ],
+              "fallback": "-",
+              "display": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "89aa28aad8da",
+              "properties": [
+                "move_04"
+              ],
+              "fallback": "",
+              "display": "-",
+              "conditioned": true
+            }
+          ],
+          "heading": "Moves",
+          "hasRule": false
+        },
+        {
+          "type": "group",
+          "id": "58b9dbda78ba",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "7a297a48fbc8",
+              "properties": [
+                "item_01"
+              ],
+              "fallback": "-",
+              "display": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ea48cb4b4b1b",
+              "properties": [
+                "item_02"
+              ],
+              "fallback": "-",
+              "display": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "2a192a7a5889",
+              "properties": [
+                "item_03"
+              ],
+              "fallback": "-",
+              "display": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "d97b1b096b69",
+              "properties": [
+                "item_04"
+              ],
+              "fallback": "-",
+              "display": "-",
+              "conditioned": true
+            }
+          ],
+          "heading": "Equipment"
+        },
+        {
+          "type": "text",
+          "id": "ab68c9da6bf8",
+          "properties": [
+            "request"
+          ],
+          "text": null,
+          "fallback": "-",
+          "heading": "Request for Vagabonds",
+          "conditioned": true
+        }
+      ],
+      "name": "Root NPC Layout",
+      "id": "e85bb8bb89cb"
+    }
+  ],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "_Bestiary"
+  ],
+  "autoParse": true,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}
