@@ -11,10 +11,14 @@
             "id": "52dbc1edcdc5b25d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Bestiary/Eyrie Royal Guard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Eyrie Royal Guard"
             }
           }
         ]
@@ -172,8 +176,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
             }
           }
         ]
@@ -196,62 +200,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "64d0ed7aab36d4d9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "74a0760bd319acbe",
-        "type": "window",
-        "children": [
-          {
-            "id": "ecae7287b49ad46f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d5f277ea0f233d88",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
-                    "title": "Getting Started - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Getting Started - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d5f277ea0f233d88",
+  "active": "52dbc1edcdc5b25d",
   "lastOpenFiles": [
-    "_PDF Archive/Root-Core-Book.pdf",
-    "Welcome.md",
+    "World/The Woodland.md",
+    "_Templates/test template.md",
+    "_PDF Archive/552026965-Root-RPG-Equipment-deck.pdf",
     "_Bestiary/Eyrie Royal Guard.md",
+    "Untitled.md",
+    "Welcome.md",
+    "_PDF Archive/Root-Core-Book.pdf",
     "_Bestiary/attachments/Pasted image 20260516124446.png",
     "_Bestiary/attachments",
-    "_Templates/test template.md",
     "_PDF Archive/552027113-Root-RPG-Denizens-deck.pdf",
-    "_PDF Archive/552026965-Root-RPG-Equipment-deck.pdf",
     "_PDF Archive/552027150-Root-RPG-GM-screen.pdf",
     "GM Screen",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "_PDF Archive",
     "World/Ruins",
-    "Mechanics/Moves",
-    "World/The Woodland.md",
-    "Untitled.md"
+    "Mechanics/Moves"
   ]
 }

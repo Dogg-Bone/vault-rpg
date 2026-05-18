@@ -1,1 +1,10 @@
-{}
+{
+  "theme": "moonstone",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ],
+  "textFontFamily": "Luminari",
+  "monospaceFontFamily": "Cutive Mono"
+}

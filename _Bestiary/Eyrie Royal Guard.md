@@ -24,4 +24,4 @@ item_03: "armor"
 description: "Imposing and silent, the Eyrie Crown's most trusted soldiers."
 ```
 
-![[Pasted image 20260516124446.png]]
+![[Pasted image 20260516124446.png|right lp| 300]]
