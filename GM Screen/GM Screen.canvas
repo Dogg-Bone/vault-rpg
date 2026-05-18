@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"4903aea3cc052ecb","type":"file","file":"GM Screen/Names.md","x":-320,"y":760,"width":720,"height":380},
+		{"id":"588f9f258636a0e8","type":"file","file":"GM Screen/Species.md","x":-320,"y":1180,"width":720,"height":152},
+		{"id":"aeef9b3867f8b055","type":"file","file":"GM Screen/Groups of NPCs as mobs.md","x":-320,"y":500,"width":720,"height":231},
+		{"id":"4affab11611b5c6c","type":"file","file":"GM Screen/Random Character Traits Table.md","x":-400,"y":140,"width":800,"height":311},
+		{"id":"ea729988c56f6264","type":"file","file":"GM Screen/NPC Stats Reference.md","x":-280,"y":-260,"width":680,"height":363},
+		{"id":"3c73998a5ab5f61e","type":"file","file":"GM Screen/Equipment Tags Reference.md","x":440,"y":-260,"width":620,"height":1305},
+		{"id":"0c6f5408f4319f5e","type":"file","file":"GM Screen/GM Rules Reference.md","x":1100,"y":-260,"width":600,"height":920}
+	],
+	"edges":[]
+}

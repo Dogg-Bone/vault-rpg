@@ -11,17 +11,56 @@
             "id": "52dbc1edcdc5b25d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_Bestiary/Eyrie Royal Guard.md",
-                "mode": "source",
-                "source": false
+                "file": "_PDF Archive/552027150-Root-RPG-GM-screen.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Eyrie Royal Guard"
+              "icon": "lucide-file-text",
+              "title": "552027150-Root-RPG-GM-screen"
             }
           }
         ]
+      },
+      {
+        "id": "e78822f0acd6c1ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5892eb0f1b11cb22",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GM Screen/GM Screen.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "GM Screen"
+            }
+          },
+          {
+            "id": "c2bac37c84063a10",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GM Screen/GM Screen.canvas",
+                "viewState": {
+                  "x": 980.6644109129542,
+                  "y": 503.0213891527735,
+                  "zoom": -1.1876284800966577
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "GM Screen"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +80,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GM Screen/GM Screen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for GM Screen"
             }
           },
           {
@@ -176,8 +216,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -197,26 +237,34 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "52dbc1edcdc5b25d",
+  "active": "c2bac37c84063a10",
   "lastOpenFiles": [
-    "World/The Woodland.md",
+    "_PDF Archive/552027150-Root-RPG-GM-screen.pdf",
+    "GM Screen/GM Rules Reference.md",
+    "GM Screen/GM Screen.canvas",
+    "GM Screen/Equipment Tags Reference.md",
+    "GM Screen/Species.md",
+    "GM Screen/Names.md",
+    "GM Screen/Groups of NPCs as mobs.md",
+    "GM Screen/Random Character Traits Table.md",
+    "GM Screen/NPC Stats Reference.md",
     "_Templates/test template.md",
-    "_PDF Archive/552026965-Root-RPG-Equipment-deck.pdf",
+    "GM Screen",
+    "Mechanics",
     "_Bestiary/Eyrie Royal Guard.md",
-    "Untitled.md",
+    "World/The Woodland.md",
+    "_PDF Archive/552026965-Root-RPG-Equipment-deck.pdf",
     "Welcome.md",
     "_PDF Archive/Root-Core-Book.pdf",
     "_Bestiary/attachments/Pasted image 20260516124446.png",
     "_Bestiary/attachments",
     "_PDF Archive/552027113-Root-RPG-Denizens-deck.pdf",
-    "_PDF Archive/552027150-Root-RPG-GM-screen.pdf",
     "GM Screen",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
-    "_PDF Archive",
-    "World/Ruins",
-    "Mechanics/Moves"
+    "_PDF Archive"
   ]
 }

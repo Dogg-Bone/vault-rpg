@@ -1,0 +1,1 @@
+badger • bat • beaver • bluejay • cardinal • cat • crow • fox • hawk • lizard • mole mouse • opossum • otter • owl • rabbit • raccoon • sparrow • squirrel • vulture • wolf
