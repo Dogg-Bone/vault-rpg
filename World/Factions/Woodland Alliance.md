@@ -1,0 +1,5 @@
+The vehement, vocal rebels of the Woodland. Passionate, disorganized, outmatched, and zealous. 
+
+The Woodland Alliance is a new, rising power in the Woodland. There have been rebellions before, of course, but rarely have the denizens of the Woodland been able to organize revolt across multiple clearings. The Alliance’s ability to wage war across the Woodland gives them a real chance to change the nature of rulership in the Woodland. 
+
+The Woodland Alliance is determined to overcome the other factions that seek to dominate the Woodland. Ostensibly, their members also seek new government after the revolution…but their leaders only truly agree on overthrowing the old powers, not on what the new government looks like. The leaders of the Woodland Alliance also show differing levels of willingness to sacrifice the denizens themselves for the sake of the larger Woodland.

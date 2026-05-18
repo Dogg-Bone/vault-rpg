@@ -1,0 +1,1 @@
+**Session moves**, as the name implies, are triggered once per session at the end of play. When you’re closing up your game for the night, that’s when a session move triggers. Though they happen once every session, you can get by looking them up every time you need to—just like with the travel moves—because they are triggered at the same time every time. 

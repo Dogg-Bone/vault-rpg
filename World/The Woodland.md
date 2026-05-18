@@ -1,0 +1,21 @@
+### [[The Woodland]]
+For ages, different factions have fought for control of the Woodland’s denizens and its resources, all amid conditions that amplify the threat of any battle. The place has always been dangerous, the thick woods concealing a multitude of threats from bears to bandits. It has resources to support life, but only after a great effort has been poured into creating a safe place. The clearings carved out of the forest are the best examples of this safety, little pockets where the greatest dangers have been pushed back—and a whole new set of dangers have taken their place. 
+
+The denizens of the Woodland have seen war fairly recently. The Grand Civil War between the Eyrie Dynasties rocked the Woodland a few decades ago, tearing down whatever remained of the Eyrie’s established order. Some clearings were left to govern themselves after the conflict. Others found themselves endangered without the aid of Eyrie soldiers to guard the clearing or nearby paths. While different clearings were affected in different ways to different extents, no place was left untouched, no life unchanged. 
+
+In the absence of another great power controlling the Woodland, the Marquise de Cat, a powerful and dangerous noble of a far-off empire, swept in to seize opportunity. She led her forces to invade the Woodland, bringing it under her control in the Marquisate. The Marquisate might have total control if the Eyrie Dynasties hadn’t recovered enough to try to retake the Woodland…and if the Woodland itself didn’t threaten rebellion with the newfound Woodland Alliance. 
+
+Now, more upheaval seems imminent. The Marquisate looks upon the Woodland with hungry eyes, eager to squeeze resources out of it; the Eyrie’s claws stretch out to reclaim their lost territory; the Woodland Alliance arises to push back all other powers; and more factions gaze upon the Woodland from afar, a gleam in their eyes. 
+
+War returns to the Woodland, and the vagabonds will be drawn in.
+
+### What is [[The Woodland]]?
+The Woodland is the name for the entire forested area of resources, clearings, and denizens. It’s like the name of a country, although the Woodland is more an area than a united nation. The denizens—an all- purpose word to refer to mice, rabbits, foxes, birds, and others—are the Woodland’s “peoples,” none human, all of them anthropomorphic animals. 
+
+The Woodland comprises thick, deep forests with plenty of resources for an enterprising empire, divided only by clearings and by paths. A clearing is a big area that the denizens of the Woodland have previously cut from the forest’s grip, now one of the important spaces playing home to denizen life in the Woodland. All clearings are fairly built up, their contents ranging from large villages to small cities.
+
+The paths were similarly cut down ages ago, clear tracks amid the forest that connect the clearings and enable trade and travel. They’re maintained by a combination of constant use and active effort, most of the time on the part of the leading factions of the Woodland who control and need those paths. Plenty of paths have been lost to time and the forest’s voracious regrowth. 
+
+Beyond the clearings and paths lies the forest, a dangerous, wild space. No good, self-respecting denizen will go into the forest unless they have to. Bandits, thieves, and miscreants will often take refuge there, striking out from the thick growth to attack merchants upon the paths. Plenty of dangerous creatures abide within the forest—from enormous and terrible bears to strange and hidden deer. And there is an abundance of purely natural threats in the forest—flash floods, lightning strikes, hidden caves, and more. 
+
+The forest contains another important feature of the Woodland, however— the ruins of old. Sometimes these ruins are just decades old, leftover broken structures from prior iterations of the Eyrie Dynasties. Sometimes the ruins are ancient and overgrown, hiding strange secrets from civilizations long forgotten. The ruins are always dangerous enough to turn away all but the bravest or most foolish of denizens…but still lucrative enough to keep drawing them in with the promise of lost treasures, ancient relics, and more that the vagabonds can sell back in the clearings.

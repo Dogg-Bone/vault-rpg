@@ -721,7 +721,11 @@
     "YourPredicateAdjective": null,
     "Yourself": null
   },
-  "userDictionary": [],
+  "userDictionary": [
+    "Eyrie",
+    "Marquisate",
+    "Monde"
+  ],
   "dialect": 0,
   "delay": -1,
   "lintEnabled": true,

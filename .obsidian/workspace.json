@@ -4,63 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "d0982fd6d115ea11",
+        "id": "e78822f0acd6c1ba",
         "type": "tabs",
         "children": [
           {
-            "id": "52dbc1edcdc5b25d",
+            "id": "c2bac37c84063a10",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "_PDF Archive/552027150-Root-RPG-GM-screen.pdf"
+                "file": "_PDF Archive/Root-Core-Book.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "552027150-Root-RPG-GM-screen"
+              "title": "Root-Core-Book"
             }
           }
         ]
       },
       {
-        "id": "e78822f0acd6c1ba",
+        "id": "9f3d006d3690798b",
         "type": "tabs",
         "children": [
           {
-            "id": "5892eb0f1b11cb22",
+            "id": "78d69a7d8fba154f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GM Screen/GM Screen.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Mechanics/Advantages/+1 Forward.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "GM Screen"
-            }
-          },
-          {
-            "id": "c2bac37c84063a10",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GM Screen/GM Screen.canvas",
-                "viewState": {
-                  "x": 980.6644109129542,
-                  "y": 503.0213891527735,
-                  "zoom": -1.1876284800966577
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "GM Screen"
+              "icon": "lucide-file",
+              "title": "+1 Forward"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Screen/GM Screen.canvas",
+                "file": "Mechanics/Advantages/+1 Forward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GM Screen"
+              "title": "Backlinks for +1 Forward"
             }
           },
           {
@@ -241,30 +220,44 @@
       "soundscapes:Soundscapes: My Music": false
     }
   },
-  "active": "c2bac37c84063a10",
+  "active": "bccd878814736dae",
   "lastOpenFiles": [
-    "_PDF Archive/552027150-Root-RPG-GM-screen.pdf",
-    "GM Screen/GM Rules Reference.md",
-    "GM Screen/GM Screen.canvas",
-    "GM Screen/Equipment Tags Reference.md",
-    "GM Screen/Species.md",
-    "GM Screen/Names.md",
-    "GM Screen/Groups of NPCs as mobs.md",
-    "GM Screen/Random Character Traits Table.md",
-    "GM Screen/NPC Stats Reference.md",
-    "_Templates/test template.md",
-    "GM Screen",
-    "Mechanics",
-    "_Bestiary/Eyrie Royal Guard.md",
-    "World/The Woodland.md",
-    "_PDF Archive/552026965-Root-RPG-Equipment-deck.pdf",
-    "Welcome.md",
+    "Mechanics/Basic Moves/Basic Moves.md",
+    "Mechanics/Advantages",
     "_PDF Archive/Root-Core-Book.pdf",
-    "_Bestiary/attachments/Pasted image 20260516124446.png",
-    "_Bestiary/attachments",
-    "_PDF Archive/552027113-Root-RPG-Denizens-deck.pdf",
-    "GM Screen",
+    "Mechanics/Advantages/+1 Ongoing.md",
+    "Mechanics/Advantages/+1 Forward.md",
+    "Mechanics/Advantages/Hold.md",
+    "Mechanics/Session Moves/Session Moves.md",
+    "Mechanics/Travel Moves/Travel Moves.md",
+    "Mechanics/Reputation/Reputation moves.md",
+    "Mechanics/Reputation/Reputation.md",
+    "Mechanics/Weapon Moves/Weapon Moves.md",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
-    "_PDF Archive"
+    "Mechanics/rave.md",
+    "Mechanics/Advancement",
+    "Mechanics/Equipment",
+    "Mechanics/Travel Moves",
+    "Mechanics/Reputation",
+    "World/Vagabonds.md",
+    "Mechanics/Session Moves",
+    "Mechanics/Harm",
+    "Mechanics/Weapon Moves",
+    "World/Denizens.md",
+    "World/Factions/Woodland Alliance.md",
+    "World/Factions/Marquise de Cat.md",
+    "World/Factions/Eyrie Dynasties.md",
+    "History of the Woodland.md",
+    "World/The Woodland.md",
+    "GM Screen/GM Screen.canvas",
+    "GM Screen/Weapon Moves Triggers.md",
+    "GM Screen/Random Valuable Items Table.md",
+    "GM Screen/Basic Moves Triggers.md",
+    "GM Screen/Roguish Feats Reference.md",
+    "GM Screen/Risks Definitions.md",
+    "GM Screen/Travel Moves Reference.md",
+    "GM Screen/Reputation Reference.md",
+    "GM Screen/GM Rules Reference.md",
+    "_Bestiary/attachments/Pasted image 20260516124446.png"
   ]
 }

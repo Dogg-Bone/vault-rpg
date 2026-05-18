@@ -1,0 +1,1 @@
+**+1 Forward** means that on your very next roll, you add +1 to the result. Sometimes, the move granting you +1 forward will give you a more specific situation in which you apply the +1—for example, a move saying “take +1 forward against the NPC” means you only take +1 on the next move you make that is “against” the NPC, involving them and directed towards them.

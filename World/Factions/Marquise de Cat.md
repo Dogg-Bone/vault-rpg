@@ -1,0 +1,5 @@
+The invaders from another empire, led by the Marquise de Cat. Industrializing, forceful, opportunistic, and pragmatic. 
+
+The Marquisate is, at heart, a foreign power come from far-off Le Monde de Cat to conquer the Woodland. But it grows more tied to the Woodland each day. It builds new structures across controlled clearings; it recruits new soldiers and agents directly from ruled denizens; and it forces the culture of the Marquisate upon the Woodland, even as the Marquisate itself changes to adapt. 
+
+The core goal of the Marquisate remains what it has always been—to control the Woodland as another holding of Le Monde, a base from which the Marquise can further her ambitions. But as it adds new members to its ranks, its goals are drawn towards establishing order, industry, and prosperity in the Woodland.

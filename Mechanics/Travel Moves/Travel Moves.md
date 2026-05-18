@@ -1,0 +1,1 @@
+**Travel moves** are all about the vagabond band moving from one clearing to another. They’re only triggered when the vagabonds want to travel between clearings, so as long as the GM and players know they exist, you don’t have to know them that well; you can get by looking them up when they actually are triggered.

@@ -2,11 +2,18 @@
 	"nodes":[
 		{"id":"4903aea3cc052ecb","type":"file","file":"GM Screen/Names.md","x":-320,"y":760,"width":720,"height":380},
 		{"id":"588f9f258636a0e8","type":"file","file":"GM Screen/Species.md","x":-320,"y":1180,"width":720,"height":152},
-		{"id":"aeef9b3867f8b055","type":"file","file":"GM Screen/Groups of NPCs as mobs.md","x":-320,"y":500,"width":720,"height":231},
-		{"id":"4affab11611b5c6c","type":"file","file":"GM Screen/Random Character Traits Table.md","x":-400,"y":140,"width":800,"height":311},
-		{"id":"ea729988c56f6264","type":"file","file":"GM Screen/NPC Stats Reference.md","x":-280,"y":-260,"width":680,"height":363},
-		{"id":"3c73998a5ab5f61e","type":"file","file":"GM Screen/Equipment Tags Reference.md","x":440,"y":-260,"width":620,"height":1305},
-		{"id":"0c6f5408f4319f5e","type":"file","file":"GM Screen/GM Rules Reference.md","x":1100,"y":-260,"width":600,"height":920}
+		{"id":"aeef9b3867f8b055","type":"file","file":"GM Screen/Groups of NPCs as mobs.md","x":-320,"y":480,"width":720,"height":231},
+		{"id":"ea729988c56f6264","type":"file","file":"GM Screen/NPC Stats Reference.md","x":-280,"y":-300,"width":680,"height":363},
+		{"id":"3c73998a5ab5f61e","type":"file","file":"GM Screen/Equipment Tags Reference.md","x":440,"y":-300,"width":800,"height":1140},
+		{"id":"02c61d62c038aad3","type":"file","file":"GM Screen/Weapon Moves Triggers.md","x":440,"y":913,"width":800,"height":650},
+		{"id":"0c6f5408f4319f5e","type":"file","file":"GM Screen/GM Rules Reference.md","x":1280,"y":-300,"width":600,"height":920},
+		{"id":"918ab59b097d3dd3","type":"file","file":"GM Screen/Random Valuable Items Table.md","x":-320,"y":1394,"width":720,"height":472},
+		{"id":"4affab11611b5c6c","type":"file","file":"GM Screen/Random Character Traits Table.md","x":-400,"y":120,"width":800,"height":311},
+		{"id":"298a7cd481e84932","type":"file","file":"GM Screen/Roguish Feats Reference.md","x":440,"y":1630,"width":800,"height":538},
+		{"id":"a46b353cfdc8bb3d","type":"file","file":"GM Screen/Risks Definitions.md","x":440,"y":2240,"width":800,"height":560},
+		{"id":"984245e37b5c7f6e","type":"file","file":"GM Screen/Travel Moves Reference.md","x":-320,"y":1920,"width":720,"height":880},
+		{"id":"09a866cecc03deac","type":"file","file":"GM Screen/Reputation Reference.md","x":1280,"y":720,"width":600,"height":1360},
+		{"id":"64a9d3cbf6dbd578","type":"file","file":"GM Screen/Basic Moves Triggers.md","x":1280,"y":2168,"width":461,"height":406}
 	],
 	"edges":[]
 }
