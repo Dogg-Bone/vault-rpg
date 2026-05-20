@@ -1,4 +1,3 @@
-### [[The Woodland]]
 For ages, different factions have fought for control of the Woodland’s denizens and its resources, all amid conditions that amplify the threat of any battle. The place has always been dangerous, the thick woods concealing a multitude of threats from bears to bandits. It has resources to support life, but only after a great effort has been poured into creating a safe place. The clearings carved out of the forest are the best examples of this safety, little pockets where the greatest dangers have been pushed back—and a whole new set of dangers have taken their place. 
 
 The denizens of the Woodland have seen war fairly recently. The Grand Civil War between the Eyrie Dynasties rocked the Woodland a few decades ago, tearing down whatever remained of the Eyrie’s established order. Some clearings were left to govern themselves after the conflict. Others found themselves endangered without the aid of Eyrie soldiers to guard the clearing or nearby paths. While different clearings were affected in different ways to different extents, no place was left untouched, no life unchanged. 
@@ -9,7 +8,7 @@ Now, more upheaval seems imminent. The Marquisate looks upon the Woodland with h
 
 War returns to the Woodland, and the vagabonds will be drawn in.
 
-### What is [[The Woodland]]?
+### What is the Woodland?
 The Woodland is the name for the entire forested area of resources, clearings, and denizens. It’s like the name of a country, although the Woodland is more an area than a united nation. The denizens—an all- purpose word to refer to mice, rabbits, foxes, birds, and others—are the Woodland’s “peoples,” none human, all of them anthropomorphic animals. 
 
 The Woodland comprises thick, deep forests with plenty of resources for an enterprising empire, divided only by clearings and by paths. A clearing is a big area that the denizens of the Woodland have previously cut from the forest’s grip, now one of the important spaces playing home to denizen life in the Woodland. All clearings are fairly built up, their contents ranging from large villages to small cities.
