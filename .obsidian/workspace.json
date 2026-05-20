@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/The Woodland.md",
+                "file": "Online Root RPG Keeper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Woodland"
+              "title": "Online Root RPG Keeper"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/The Woodland.md",
+                "file": "Online Root RPG Keeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Woodland"
+              "title": "Backlinks for Online Root RPG Keeper"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/The Woodland.md",
+                "file": "World/Vagabonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Woodland"
+              "title": "Outgoing links from Vagabonds"
             }
           },
           {
@@ -223,16 +223,17 @@
   },
   "active": "52dbc1edcdc5b25d",
   "lastOpenFiles": [
+    "World/Vagabonds.md",
+    "Online Root RPG Keeper.md",
+    "World/The Woodland.md",
+    "_Bestiary/Eyrie Royal Guard.md",
     "Rabbit Culture.md",
     "Mouse Culture.md",
     "Fox Culture.md",
     "Bird Culture.md",
     "GM Screen/Reputation Reference.md",
-    "_Bestiary/Eyrie Royal Guard.md",
     "_Bestiary/attachments/Pasted image 20260516124446.png",
-    "World/The Woodland.md",
     "_PDF Archive/Root Player Handouts Complete.pdf",
-    "World/Vagabonds.md",
     "World/History of the Woodland.md",
     "World/Factions/Woodland Alliance.md",
     "World/Factions/Marquise de Cat.md",
@@ -255,7 +256,6 @@
     "Mechanics/Basic Moves/Plead with a PC.md",
     "Mechanics/Basic Moves/Persuade an NPC.md",
     "Mechanics/Basic Moves/Help or Interfere.md",
-    "Mechanics/Basic Moves/Figure Someone Out.md",
     "Mechanics/Basic Moves",
     "Mechanics/Advantages",
     "GM Screen/GM Screen.canvas",

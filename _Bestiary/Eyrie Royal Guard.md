@@ -2,6 +2,7 @@
 statblock: inline
 name: Eyrie Royal Guard
 ---
+
 ```statblock
 layout: Root NPC Layout
 bestiary: "true"
