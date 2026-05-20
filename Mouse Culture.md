@@ -1,0 +1,1 @@
+Mice are known for their stealth and acumen at observation and spying. They often act as messengers, and they have devised codes for protecting those messages’ content. They’ll also act as scouts for traveling groups. They have their smaller, nimbler mousefolk weapons, and rumor has it that some mice set up smuggler trails throughout the Woodland.

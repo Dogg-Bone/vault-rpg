@@ -1,10 +1,13 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "ITS Theme",
+  "theme": "system",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "S - Encoded Fonts",
-    "S - Encoded Icons"
+    "S - Encoded Icons",
+    "heading-fonts"
   ],
-  "textFontFamily": "Luminari",
-  "monospaceFontFamily": "Cutive Mono"
+  "textFontFamily": "",
+  "monospaceFontFamily": "Cutive Mono",
+  "accentColor": "#d27b4b",
+  "interfaceFontFamily": ""
 }

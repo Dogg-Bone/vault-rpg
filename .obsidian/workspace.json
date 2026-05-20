@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c1248ce2a66801e",
+        "id": "d0982fd6d115ea11",
         "type": "tabs",
         "children": [
           {
-            "id": "4190ceda2adb92f9",
+            "id": "52dbc1edcdc5b25d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "World/The Woodland.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Woodland"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World/The Woodland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Woodland"
             }
           },
           {
@@ -108,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "World/The Woodland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from The Woodland"
             }
           },
           {
@@ -159,6 +164,26 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "13aa1d7f2b0f02b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4cbfe5f7280f14db",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ]
       },
@@ -180,11 +205,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "soundscapes:Soundscapes: My Music": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,48 +218,48 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false,
-      "soundscapes:Soundscapes: My Music": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4190ceda2adb92f9",
+  "active": "52dbc1edcdc5b25d",
   "lastOpenFiles": [
-    "GM Screen/GM Screen.canvas",
-    "Mechanics/Basic Moves/Basic Moves.md",
-    "Mechanics/Basic Moves/Plead with a PC.md",
-    "_PDF Archive/Root-Core-Book.pdf",
-    "Mechanics/Basic Moves/Help or Interfere.md",
+    "Rabbit Culture.md",
+    "Mouse Culture.md",
+    "Fox Culture.md",
+    "Bird Culture.md",
+    "GM Screen/Reputation Reference.md",
+    "_Bestiary/Eyrie Royal Guard.md",
+    "_Bestiary/attachments/Pasted image 20260516124446.png",
+    "World/The Woodland.md",
+    "_PDF Archive/Root Player Handouts Complete.pdf",
+    "World/Vagabonds.md",
+    "World/History of the Woodland.md",
+    "World/Factions/Woodland Alliance.md",
+    "World/Factions/Marquise de Cat.md",
+    "World/Factions/Eyrie Dynasties.md",
+    "World/Factions",
+    "World/Denizens.md",
+    "Mechanics/Weapon Moves/Weapon Moves.md",
+    "Mechanics/Weapon Moves",
+    "Mechanics/Travel Moves/Travel Moves.md",
+    "Mechanics/Travel Moves",
+    "Mechanics/Session Moves/Session Moves.md",
+    "Mechanics/Session Moves",
+    "Mechanics/Reputation/Reputation.md",
+    "Mechanics/Reputation/Reputation moves.md",
+    "Mechanics/Reputation",
     "Mechanics/Basic Moves/Wreck Something.md",
     "Mechanics/Basic Moves/Trust Fate.md",
     "Mechanics/Basic Moves/Trick an NPC.md",
     "Mechanics/Basic Moves/Read a Tense Situation.md",
+    "Mechanics/Basic Moves/Plead with a PC.md",
     "Mechanics/Basic Moves/Persuade an NPC.md",
+    "Mechanics/Basic Moves/Help or Interfere.md",
     "Mechanics/Basic Moves/Figure Someone Out.md",
-    "Mechanics/Basic Moves/Attempt a Roguish Feat.md",
-    "GM Screen/Risks Definitions.md",
-    "GM Screen/Roguish Feats Reference.md",
-    "Mechanics/Advantages/+1 Forward.md",
+    "Mechanics/Basic Moves",
     "Mechanics/Advantages",
-    "Mechanics/Advantages/+1 Ongoing.md",
-    "Mechanics/Advantages/Hold.md",
-    "Mechanics/Session Moves/Session Moves.md",
-    "Mechanics/Travel Moves/Travel Moves.md",
-    "Mechanics/Reputation/Reputation moves.md",
-    "Mechanics/Reputation/Reputation.md",
-    "Mechanics/Weapon Moves/Weapon Moves.md",
-    "_PDF Archive/Root-Travelers-Outsiders.pdf",
-    "Mechanics/rave.md",
-    "Mechanics/Advancement",
-    "Mechanics/Equipment",
-    "Mechanics/Travel Moves",
-    "Mechanics/Reputation",
-    "World/Vagabonds.md",
-    "Mechanics/Session Moves",
-    "Mechanics/Harm",
-    "Mechanics/Weapon Moves",
-    "World/Denizens.md",
-    "World/Factions/Woodland Alliance.md",
-    "World/Factions/Marquise de Cat.md",
-    "_Bestiary/attachments/Pasted image 20260516124446.png"
+    "GM Screen/GM Screen.canvas",
+    "_PDF Archive/552027150-Root-RPG-GM-screen.pdf",
+    "_PDF Archive/Root-Core-Book.pdf"
   ]
 }

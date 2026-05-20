@@ -1,0 +1,1 @@
+Rabbits are known for their foodstuffs, their pies and their teas, as well as their traveling gear. They also have their well-built “warrens,” a particular style of architecture and construction that makes hardy, semi- underground buildings. They are known to be in charge of perhaps the most successful multi-clearing bank in all of the woodland—the Better Burrow Bank.

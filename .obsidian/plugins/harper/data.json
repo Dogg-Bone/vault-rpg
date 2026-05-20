@@ -585,7 +585,7 @@
     "SpellCheck": null,
     "SpelledNumbers": null,
     "SpinalChord": null,
-    "SplitWords": null,
+    "SplitWords": false,
     "Starving": null,
     "StateOfTheArt": null,
     "StatuteOfLimitations": null,

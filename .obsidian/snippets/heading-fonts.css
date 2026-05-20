@@ -1,0 +1,9 @@
+body {
+    /* --inline-title-font: var(--h1-font); */
+    --h1-font: Luminari;
+    --h2-font: Luminari;
+    --h3-font: Luminari;
+    --h4-font: Luminari;
+    --h5-font: Luminari;
+    --h6-font: Luminari;
+}

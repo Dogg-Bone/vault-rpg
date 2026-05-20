@@ -1,0 +1,1 @@
+Foxes are known for metalworking, for their foxfolk steel and their coinage. In the days of the Eyrie Dynasties’ unchallenged rule, fox clearings operated mints and acted as tax collectors for the birds. In the interim between the Dynasties’ fall and the new war, some fox clearings built their own systems of taxation— which the other factions are all too happy to co-opt.
