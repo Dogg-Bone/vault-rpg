@@ -2,7 +2,7 @@
   "soundscape": "jazz",
   "volume": 25,
   "autoplay": false,
-  "scrollSongTitle": true,
+  "scrollSongTitle": false,
   "customSoundscapes": [],
   "myMusicIndex": [],
   "myMusicFolderPath": "",

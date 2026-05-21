@@ -212,8 +212,21 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "bc3c8c3cae33b855",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "5 Room Dungeon.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 5 Room Dungeon"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "5a93ee4b98aba2f9",
@@ -250,7 +263,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91a9d8264da3ea31",
+  "active": "bc3c8c3cae33b855",
   "lastOpenFiles": [
     "World/Vagabonds.md",
     "Big Bad Evil Guy.md",
