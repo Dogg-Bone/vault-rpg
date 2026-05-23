@@ -6,7 +6,7 @@
       {
         "id": "5c1248ce2a66801e",
         "type": "tabs",
-        "dimension": 22.134877947869256,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "4190ceda2adb92f9",
@@ -26,37 +26,21 @@
             "id": "866229fa1b6c2cc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Woodland Lost 1.md",
-                "mode": "source",
-                "source": false
+                "file": "GM Screen/GM Screen.canvas",
+                "viewState": {
+                  "x": 924.9649189673215,
+                  "y": 2672.867149041676,
+                  "zoom": -0.7479654568979796
+                }
               },
-              "icon": "lucide-file",
-              "title": "Woodland Lost 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "GM Screen"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "65c1771eb861c815",
-        "type": "tabs",
-        "dimension": 77.86512205213073,
-        "children": [
-          {
-            "id": "385c5b91c9d34a9e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Map of the Sunken Tomb.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Map of the Sunken Tomb"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map of the Sunken Tomb.md",
+                "file": "GM Screen/GM Screen.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map of the Sunken Tomb"
+              "title": "Backlinks for GM Screen"
             }
           },
           {
@@ -237,12 +221,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "385c5b91c9d34a9e",
+  "active": "866229fa1b6c2cc1",
   "lastOpenFiles": [
-    "_Bestiary/Giant Centipede.md",
-    "Map of the Sunken Tomb.md",
-    "_Bestiary/attachments/Giant Centipede-1779534498720.webp",
+    "GM Screen/Drawing 2026-05-23 05.21.08.excalidraw.md",
     "Woodland Lost 1.md",
+    "GM Screen/GM Screen.canvas",
+    "GM Screen/GM Rules Reference.md",
+    "GM Screen/Equipment Tags Reference.md",
+    "GM Screen/Basic Moves Triggers.md",
+    "Map of the Sunken Tomb.md",
+    "_Bestiary/Giant Centipede.md",
+    "_Bestiary/attachments/Giant Centipede-1779534498720.webp",
     "_Bestiary/Eyrie Royal Guard.md",
     "_Bestiary/attachments/Giant Centipede-1779534591617.webp",
     "Barewick Clearing.md",
@@ -259,7 +248,6 @@
     "Bird Culture.md",
     "_PDF Archive/Root Player Handouts Complete.pdf",
     "World/Map of the Woodland.jpg",
-    "GM Screen/GM Screen.canvas",
     "Mechanics/Basic Moves/Basic Moves.md",
     "Mechanics/Basic Moves/Plead with a PC.md",
     "_PDF Archive/Root-Core-Book.pdf",
@@ -268,10 +256,6 @@
     "Mechanics/Basic Moves/Trust Fate.md",
     "Mechanics/Basic Moves/Trick an NPC.md",
     "Mechanics/Basic Moves/Read a Tense Situation.md",
-    "Mechanics/Basic Moves/Persuade an NPC.md",
-    "Mechanics/Basic Moves/Figure Someone Out.md",
-    "Mechanics/Basic Moves/Attempt a Roguish Feat.md",
-    "GM Screen/Risks Definitions.md",
     "Mechanics/Advantages",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "Mechanics/Advancement",
