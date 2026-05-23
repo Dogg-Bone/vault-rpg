@@ -1,5 +1,5 @@
 {
-  "ignoredLints": "{\"context_hashes\":[7145719287240256976,12322613032788977456]}",
+  "ignoredLints": "{\"context_hashes\":[12322613032788977456,7145719287240256976]}",
   "useWebWorker": false,
   "lintSettings": {
     "ACoupleMore": null,
@@ -582,7 +582,7 @@
     "SoughtAfter": null,
     "Spaces": null,
     "SpecialAttention": null,
-    "SpellCheck": null,
+    "SpellCheck": false,
     "SpelledNumbers": null,
     "SpinalChord": null,
     "SplitWords": false,

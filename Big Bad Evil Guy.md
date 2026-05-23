@@ -7,7 +7,7 @@ Since this game is so defined by factions and player choice, each faction should
 
 1. BBEG
 	- Flesh out what or who this is. Competent, wicked, must be stopped.
-	- That means the BBEG should be evil. It's okay if lieutenants are morally gray or even anti-heroes, but the BBEG is evil.
+	- That means the BBEG should be evil. It's okay if lieutenants are morally gray or even antiheroes, but the BBEG is evil.
 2. High Tower Surprise
 	- Build up to the confrontation.
 	- Loyal Lieutenants
