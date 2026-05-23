@@ -26,21 +26,17 @@
             "id": "866229fa1b6c2cc1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GM Screen/GM Screen.canvas",
-                "viewState": {
-                  "x": 924.9649189673215,
-                  "y": 2672.867149041676,
-                  "zoom": -0.7479654568979796
-                }
+                "file": "GM Screen/Random Valuable Items Table.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "GM Screen"
+              "icon": "lucide-file",
+              "title": "Random Valuable Items Table"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM Screen/GM Screen.canvas",
+                "file": "Online Root RPG Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GM Screen"
+              "title": "Backlinks for Online Root RPG Tools"
             }
           },
           {
@@ -221,11 +217,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "866229fa1b6c2cc1",
+  "active": "4190ceda2adb92f9",
   "lastOpenFiles": [
+    "GM Screen/Random Valuable Items Table.md",
+    "GM Screen/Random Character Traits Table.md",
+    "GM Screen/GM Screen.canvas",
     "GM Screen/Drawing 2026-05-23 05.21.08.excalidraw.md",
     "Woodland Lost 1.md",
-    "GM Screen/GM Screen.canvas",
     "GM Screen/GM Rules Reference.md",
     "GM Screen/Equipment Tags Reference.md",
     "GM Screen/Basic Moves Triggers.md",
@@ -255,7 +253,6 @@
     "Mechanics/Basic Moves/Wreck Something.md",
     "Mechanics/Basic Moves/Trust Fate.md",
     "Mechanics/Basic Moves/Trick an NPC.md",
-    "Mechanics/Basic Moves/Read a Tense Situation.md",
     "Mechanics/Advantages",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "Mechanics/Advancement",
