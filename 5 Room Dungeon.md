@@ -21,3 +21,6 @@ Generalized to the **5 Scene Adventure**
 > [!tip] Exploration
 > Place interactables in each scene. Describe them when the [[Vagabonds]] enter in a way that indicates they can be interacted with, that there is something to be gained by the interaction. These interactables could be NPCs or creatures or scrolls or 'strange' text or 'locked' boxes or 'suspicious' barrels of fish or scratches/breadcrumbs leading to a disguised exit
 
+## Topology
+
+![[The-21-Forms of a 5 Room Dungeon.png]]

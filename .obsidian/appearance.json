@@ -2,8 +2,6 @@
   "theme": "obsidian",
   "cssTheme": "",
   "enabledCssSnippets": [
-    "S - Encoded Fonts",
-    "S - Encoded Icons",
     "heading-fonts"
   ],
   "textFontFamily": "",

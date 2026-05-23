@@ -213,7 +213,8 @@
             "drive"
           ],
           "fallback": "-",
-          "display": "Drive"
+          "display": "Drive",
+          "conditioned": true
         },
         {
           "type": "group",
@@ -262,7 +263,8 @@
             }
           ],
           "heading": "Moves",
-          "hasRule": false
+          "hasRule": false,
+          "conditioned": true
         },
         {
           "type": "group",
@@ -310,7 +312,8 @@
               "conditioned": true
             }
           ],
-          "heading": "Equipment"
+          "heading": "Equipment",
+          "conditioned": true
         },
         {
           "type": "text",
