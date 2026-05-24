@@ -356,6 +356,130 @@
       ],
       "name": "Root NPC Layout",
       "id": "e85bb8bb89cb"
+    },
+    {
+      "blocks": [
+        {
+          "type": "property",
+          "id": "6a7b7b995bf9",
+          "properties": [
+            "drive"
+          ],
+          "fallback": "-",
+          "display": "Drive",
+          "conditioned": true
+        },
+        {
+          "type": "heading",
+          "id": "3b59ba8af93b",
+          "properties": [
+            "name"
+          ],
+          "size": 1,
+          "fallback": "-"
+        },
+        {
+          "type": "image",
+          "id": "0959e9b85a7a",
+          "properties": [
+            "image"
+          ],
+          "fallback": "-",
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "d92bd86bf88b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "88b9cb588bc8",
+              "properties": [
+                "range"
+              ],
+              "fallback": "-",
+              "display": "Range: ",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "e88969792858",
+              "properties": [
+                "harm"
+              ],
+              "fallback": "-",
+              "display": "Harm: ",
+              "conditioned": true
+            }
+          ],
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "a86b29e969a8",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "ea2a48ca895b",
+              "properties": [
+                "wear"
+              ],
+              "fallback": "-",
+              "display": "Wear: ",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "c89b88696908",
+              "properties": [
+                "value"
+              ],
+              "fallback": "-",
+              "display": "Value:",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "text",
+          "id": "d9d809aa2a79",
+          "properties": [
+            "weapon_skill_tags"
+          ],
+          "text": null,
+          "fallback": "-",
+          "heading": "Weapon Skill Tags",
+          "conditioned": true
+        },
+        {
+          "type": "text",
+          "id": "aa38c8989ba8",
+          "properties": [
+            "special_tags"
+          ],
+          "text": null,
+          "fallback": "-",
+          "heading": "Special Tags",
+          "conditioned": true
+        },
+        {
+          "type": "text",
+          "id": "5b39ca7b3a09",
+          "properties": [
+            "description"
+          ],
+          "text": null,
+          "fallback": "-",
+          "conditioned": true
+        }
+      ],
+      "name": "Root Item Layout",
+      "id": "9be8ba692beb"
     }
   ],
   "default": "basic-5e-layout",

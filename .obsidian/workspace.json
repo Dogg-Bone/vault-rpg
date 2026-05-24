@@ -6,7 +6,7 @@
       {
         "id": "d0982fd6d115ea11",
         "type": "tabs",
-        "dimension": 26.671511627906973,
+        "dimension": 52.616279069767444,
         "children": [
           {
             "id": "65102b36a39fdecb",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woodland Lost/Woodland Lost 1.md",
+                "file": "_Bestiary/Twin Blades of  the Sun and Moon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Woodland Lost 1"
+              "title": "Twin Blades of  the Sun and Moon"
             }
           },
           {
@@ -39,7 +39,7 @@
       {
         "id": "fa6e1fdded98a09c",
         "type": "tabs",
-        "dimension": 73.32848837209302,
+        "dimension": 47.383720930232556,
         "children": [
           {
             "id": "6137d134cadd0114",
@@ -66,21 +66,9 @@
               "icon": "lucide-file-text",
               "title": "Root-Travelers-Outsiders"
             }
-          },
-          {
-            "id": "a8def4fefd9f6c95",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Woodland Lost/Map of the Sunken Tomb.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Map of the Sunken Tomb"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woodland Lost/Map of the Sunken Tomb.md",
+                "file": "_Bestiary/Twin Blades of  the Sun and Moon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map of the Sunken Tomb"
+              "title": "Backlinks for Twin Blades of  the Sun and Moon"
             }
           },
           {
@@ -250,10 +238,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Woodland Lost/Map of the Sunken Tomb.md"
+                "file": "_Bestiary/Twin Blades of  the Sun and Moon.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Map of the Sunken Tomb"
+              "title": "File properties for Twin Blades of  the Sun and Moon"
             }
           }
         ]
@@ -293,18 +281,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a8def4fefd9f6c95",
+  "active": "65102b36a39fdecb",
   "lastOpenFiles": [
-    "Woodland Lost/Woodland Lost 1.md",
+    "_PDF Archive/Root-Travelers-Outsiders.pdf",
+    "_Bestiary/Twin Blades of  the Sun and Moon.md",
+    "_Bestiary/Greatsword.md",
+    "_PDF Archive/552026965-Root-RPG-Equipment-deck.pdf",
+    "_Bestiary/attachments/Greatsword-1779582390084.webp",
+    "_Bestiary/attachments/Sword-1779582295155.webp",
+    "_Bestiary/attachments/Clockwork Sentinel-1779576001577 1.webp",
+    "_Bestiary/attachments/Clockwork Sentinel-1779576001577.webp",
     "Woodland Lost/Map of the Sunken Tomb.md",
+    "Woodland Lost/Woodland Lost 1.md",
     "_Bestiary/attachments/Sibilant Snake-1779575517893.webp",
     "_Bestiary/attachments/Sibilant Snake-1779575563129.webp",
-    "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "_PDF Archive/Root-Core-Book.pdf",
     "_Bestiary/Bandit.md",
     "_Bestiary/attachments/Bandit-1779576315891.webp",
     "_Bestiary/Clockwork Sentinel.md",
-    "_Bestiary/attachments/Clockwork Sentinel-1779576001577.webp",
     "_Bestiary/attachments/Clockwork Sentinel-1779575874806.webp",
     "Encounter Tables/Random Forest Encounters.md",
     "_Bestiary/Sibilant Snake.md",
@@ -314,9 +308,6 @@
     "_Bestiary/attachments/Swarming Ants-1779575070674.webp",
     "_Bestiary/attachments/Swarming Ants-1779575003974.webp",
     "_Bestiary/Riverfolk Mercenary.md",
-    "_Bestiary/attachments/Praying Mantis-1779574729679.webp",
-    "_Bestiary/attachments/Praying Mantis-1779574670490.webp",
-    "_Bestiary/attachments/Riverfolk Mercenary-1779574514909.webp",
     "Encounter Tables/2d6 Outcome Probabilities.md",
     "_Bestiary/Eyrie Royal Guard.md",
     "_Bestiary/Grizzly Bear.md",
@@ -337,10 +328,7 @@
     "GM Tools/Online Root RPG Tools.md",
     "GM Tools/5 Room Dungeon.md",
     "Luminari-Regular.ttf",
-    "World/Vagabonds.md",
-    "World/History of the Woodland.md",
     "World/Unconfirmed 471027.crdownload",
-    "Untitled.canvas",
-    "Factions"
+    "Untitled.canvas"
   ]
 }
