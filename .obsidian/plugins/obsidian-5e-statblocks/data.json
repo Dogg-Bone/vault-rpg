@@ -1,104 +1,5 @@
 {
-  "monsters": [
-    [
-      "Eyrie Royal Guard",
-      {
-        "layout": "Root NPC Layout",
-        "bestiary": "true",
-        "name": "Eyrie Royal Guard",
-        "species": "Bird",
-        "faction": "Eyrie Dynasties",
-        "columns": 2,
-        "injury": 3,
-        "exhaustion": 3,
-        "wear": 3,
-        "morale": 3,
-        "attack": "2 injury",
-        "drive": "To defend the crown",
-        "item_01": "spear",
-        "item_02": "sword",
-        "item_03": "armor",
-        "description": "Imposing and silent, the Eyrie Crown's most trusted soldiers.",
-        "source": "Homebrew"
-      }
-    ],
-    [
-      "Eyrie Royal Guard",
-      {
-        "layout": "Root NPC Layout",
-        "bestiary": "true",
-        "name": "Eyrie Royal Guard",
-        "species": "Bird",
-        "faction": "Eyrie Dynasties",
-        "columns": 2,
-        "injury": 3,
-        "exhaustion": 3,
-        "wear": 3,
-        "morale": 3,
-        "attack": "2 injury",
-        "drive": "To defend the crown",
-        "item_01": "spear",
-        "item_02": "sword",
-        "item_03": "armor",
-        "description": "Imposing and silent, the Eyrie Crown's most trusted soldiers.",
-        "mtime": 1778956149042,
-        "path": "_Bestiary/Eyrie Royal Guard.md",
-        "source": "Homebrew"
-      }
-    ],
-    [
-      "Eyrie Royal Guard",
-      {
-        "layout": "Root NPC Layout",
-        "bestiary": "true",
-        "creature": "Eyrie Royal Guard",
-        "name": "Eyrie Royal Guard",
-        "species": "Bird",
-        "faction": "Eyrie Dynasties",
-        "columns": 2,
-        "injury": 3,
-        "exhaustion": 3,
-        "wear": 3,
-        "morale": 3,
-        "attack": "2 injury",
-        "drive": "To defend the crown",
-        "item_01": "spear",
-        "item_02": "sword",
-        "item_03": "armor",
-        "description": "Imposing and silent, the Eyrie Crown's most trusted soldiers.",
-        "mtime": 1778956846403,
-        "path": "_Bestiary/Eyrie Royal Guard.md",
-        "source": "Homebrew"
-      }
-    ],
-    [
-      "Grizzly Bear",
-      {
-        "layout": "Root NPC Layout",
-        "bestiary": "true",
-        "image": "<STATBLOCK-WIKI-LINK>Grizzly Bear-1779567956082.webp<STATBLOCK-WIKI-LINK>",
-        "creature": "Grizzly Bear",
-        "name": "Grizzly Bear",
-        "species": "Behemoth",
-        "faction": "Monster",
-        "columns": 2,
-        "injury": 10,
-        "exhaustion": 5,
-        "wear": 5,
-        "morale": 8,
-        "attack": "4 injury + 2 wear",
-        "drive": "To protect the deep, untamed heart of the forest. Awakens to crush encroaching civilization, industry, or armies; acts as the forest's immune system",
-        "move_01": "Colossal Club Sweep - All within close range must succeed on Acrobatics or take damage.",
-        "move_02": "Earthshaker Stomp - All within close range roll with Might to stay on their feet.",
-        "move_03": "Deafening Bellow - 2 morale damage on any creature within earshot.",
-        "item_01": "A colossal club fashioned from a stripped tree trunk.",
-        "description": "A hulking mass of muscle, scars, and matted fur, this gargantuan bear dwarfs the tallest pines of the woodland.",
-        "mtime": 1779568553557,
-        "path": "_Bestiary/Grizzly Bear.md",
-        "source": "Homebrew"
-      }
-    ]
-  ],
+  "monsters": [],
   "defaultLayouts": {},
   "layouts": [
     {
@@ -495,7 +396,7 @@
   "paths": [
     "_Bestiary"
   ],
-  "autoParse": true,
+  "autoParse": false,
   "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": false,
