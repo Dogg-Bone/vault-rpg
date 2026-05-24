@@ -38,8 +38,23 @@
               "icon": "excalidraw-icon",
               "title": "Map of the Sunken Tomb"
             }
+          },
+          {
+            "id": "26e61125cfefc2c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woodland Lost/NPCs/Ramus Darkfur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ramus Darkfur"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woodland Lost/Woodland Lost 1.md",
+                "file": "Woodland Lost/NPCs/Ramus Darkfur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Woodland Lost 1"
+              "title": "Backlinks for Ramus Darkfur"
             }
           },
           {
@@ -209,10 +224,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Woodland Lost/Woodland Lost 1.md"
+                "file": "Woodland Lost/NPCs/Ramus Darkfur.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Woodland Lost 1"
+              "title": "File properties for Ramus Darkfur"
             }
           }
         ]
@@ -252,10 +267,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "00cf04cd47ae91df",
+  "active": "26e61125cfefc2c7",
   "lastOpenFiles": [
-    "Woodland Lost/Map of the Sunken Tomb.md",
+    "GM Tools/GM Screen/Names.md",
+    "Woodland Lost/NPCs/Ramus Darkfur.md",
     "Woodland Lost/Woodland Lost 1.md",
+    "Woodland Lost/Map of the Sunken Tomb.md",
     "_Bestiary/Giant King Centipede.md",
     "_Bestiary/attachments/Giant King Centipede-1779583162572.webp",
     "_Bestiary/attachments/Giant King Centipede-1779583127168.webp",
@@ -283,9 +300,8 @@
     "Encounter Tables/2d6 Outcome Probabilities.md",
     "_Bestiary/Eyrie Royal Guard.md",
     "_Bestiary/Grizzly Bear.md",
-    "Galen Erso.md",
+    "Woodland Lost/NPCs/Galen Erso.md",
     "Woodland Lost/NPCs/Count Shortpaw.md",
-    "GM Tools/GM Screen/Names.md",
     "Woodland Lost/NPCs/Jyn Erso.md",
     "GM Tools/GM Screen/GM Screen.canvas",
     "Woodland Lost/NPCs",

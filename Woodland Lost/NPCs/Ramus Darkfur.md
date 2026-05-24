@@ -1,0 +1,1 @@
+Ramus Darkfur is the current [[Lord of Hundreds]]. He murdered the previous Lord of Hundreds and exiled his son, [[Warren the Exile]]. He continues to hunt for Warren, whose death would solidify Darkfur's rule. 
