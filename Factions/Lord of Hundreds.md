@@ -1,0 +1,2 @@
+# Succession
+The mantle of the Lord of Hundreds passes from father to son, but may only be passed to the firstborn. If the Lord of Hundreds has no heir, the mantle passes to the next eldest member of the Lord of Hundreds' family.

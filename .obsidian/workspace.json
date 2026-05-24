@@ -4,39 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "5c1248ce2a66801e",
+        "id": "d0982fd6d115ea11",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 26.671511627906973,
         "children": [
           {
-            "id": "4190ceda2adb92f9",
+            "id": "65102b36a39fdecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Online Root RPG Tools.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Online Root RPG Tools"
-            }
-          },
-          {
-            "id": "866229fa1b6c2cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM Screen/Random Valuable Items Table.md",
+                "file": "Woodland Lost/Woodland Lost 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Valuable Items Table"
+              "title": "Woodland Lost 1"
+            }
+          },
+          {
+            "id": "00cf04cd47ae91df",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Bestiary/attachments/Sibilant Snake-1779575517893.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Sibilant Snake-1779575517893"
             }
           }
         ]
+      },
+      {
+        "id": "fa6e1fdded98a09c",
+        "type": "tabs",
+        "dimension": 73.32848837209302,
+        "children": [
+          {
+            "id": "6137d134cadd0114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounter Tables/Random Forest Encounters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Forest Encounters"
+            }
+          },
+          {
+            "id": "f9e02efd6651dff8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_PDF Archive/Root-Travelers-Outsiders.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Root-Travelers-Outsiders"
+            }
+          },
+          {
+            "id": "a8def4fefd9f6c95",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Woodland Lost/Map of the Sunken Tomb.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Map of the Sunken Tomb"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,8 +99,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -68,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Online Root RPG Tools.md",
+                "file": "Woodland Lost/Map of the Sunken Tomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Online Root RPG Tools"
+              "title": "Backlinks for Map of the Sunken Tomb"
             }
           },
           {
@@ -128,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "5 Room Dungeon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 5 Room Dungeon"
             }
           },
           {
@@ -179,6 +223,38 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "13aa1d7f2b0f02b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4cbfe5f7280f14db",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "bc3c8c3cae33b855",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Woodland Lost/Map of the Sunken Tomb.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Map of the Sunken Tomb"
+            }
           }
         ]
       },
@@ -200,10 +276,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "soundscapes:Soundscapes: My Music": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,53 +290,57 @@
       "bases:Create new base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
-      "soundscapes:Soundscapes: My Music": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4190ceda2adb92f9",
+  "active": "a8def4fefd9f6c95",
   "lastOpenFiles": [
-    "GM Screen/Random Valuable Items Table.md",
-    "GM Screen/Random Character Traits Table.md",
-    "GM Screen/GM Screen.canvas",
-    "GM Screen/Drawing 2026-05-23 05.21.08.excalidraw.md",
-    "Woodland Lost 1.md",
-    "GM Screen/GM Rules Reference.md",
-    "GM Screen/Equipment Tags Reference.md",
-    "GM Screen/Basic Moves Triggers.md",
-    "Map of the Sunken Tomb.md",
-    "_Bestiary/Giant Centipede.md",
-    "_Bestiary/attachments/Giant Centipede-1779534498720.webp",
-    "_Bestiary/Eyrie Royal Guard.md",
-    "_Bestiary/attachments/Giant Centipede-1779534591617.webp",
-    "Barewick Clearing.md",
-    "Online Root RPG Tools.md",
-    "Fox Culture.md",
-    "Mouse Culture.md",
-    "Rabbit Culture.md",
-    "5 Room Dungeon.md",
-    "The-21-Forms of a 5 Room Dungeon.png",
-    "Luminari-Regular.ttf",
-    "Mechanics/Session Moves/Session Moves.md",
-    "World/Denizens.md",
-    "Big Bad Evil Guy.md",
-    "Bird Culture.md",
-    "_PDF Archive/Root Player Handouts Complete.pdf",
-    "World/Map of the Woodland.jpg",
-    "Mechanics/Basic Moves/Basic Moves.md",
-    "Mechanics/Basic Moves/Plead with a PC.md",
-    "_PDF Archive/Root-Core-Book.pdf",
-    "Mechanics/Basic Moves/Help or Interfere.md",
-    "Mechanics/Basic Moves/Wreck Something.md",
-    "Mechanics/Basic Moves/Trust Fate.md",
-    "Mechanics/Basic Moves/Trick an NPC.md",
-    "Mechanics/Advantages",
+    "Woodland Lost/Woodland Lost 1.md",
+    "Woodland Lost/Map of the Sunken Tomb.md",
+    "_Bestiary/attachments/Sibilant Snake-1779575517893.webp",
+    "_Bestiary/attachments/Sibilant Snake-1779575563129.webp",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
-    "Mechanics/Advancement",
-    "Mechanics/Equipment",
-    "Mechanics/Travel Moves",
-    "Mechanics/Reputation",
-    "Mechanics/Session Moves",
-    "_Bestiary/attachments/Pasted image 20260516124446.png"
+    "_PDF Archive/Root-Core-Book.pdf",
+    "_Bestiary/Bandit.md",
+    "_Bestiary/attachments/Bandit-1779576315891.webp",
+    "_Bestiary/Clockwork Sentinel.md",
+    "_Bestiary/attachments/Clockwork Sentinel-1779576001577.webp",
+    "_Bestiary/attachments/Clockwork Sentinel-1779575874806.webp",
+    "Encounter Tables/Random Forest Encounters.md",
+    "_Bestiary/Sibilant Snake.md",
+    "_Bestiary/Praying Mantis.md",
+    "_Bestiary/Swarming Ants.md",
+    "_Bestiary/Giant Centipede.md",
+    "_Bestiary/attachments/Swarming Ants-1779575070674.webp",
+    "_Bestiary/attachments/Swarming Ants-1779575003974.webp",
+    "_Bestiary/Riverfolk Mercenary.md",
+    "_Bestiary/attachments/Praying Mantis-1779574729679.webp",
+    "_Bestiary/attachments/Praying Mantis-1779574670490.webp",
+    "_Bestiary/attachments/Riverfolk Mercenary-1779574514909.webp",
+    "Encounter Tables/2d6 Outcome Probabilities.md",
+    "_Bestiary/Eyrie Royal Guard.md",
+    "_Bestiary/Grizzly Bear.md",
+    "Galen Erso.md",
+    "Woodland Lost/NPCs/Count Shortpaw.md",
+    "GM Tools/GM Screen/Names.md",
+    "Woodland Lost/NPCs/Jyn Erso.md",
+    "GM Tools/GM Screen/GM Screen.canvas",
+    "Woodland Lost/NPCs",
+    "_PDF Archive/Root Player Handouts Complete.pdf",
+    "Woodland Lost",
+    "GM Tools/Big Bad Evil Guy.md",
+    "World/Bird Culture.md",
+    "GM Tools/GM Screen/Basic Moves Triggers.md",
+    "Factions/Lord of Hundreds.md",
+    "GM Tools/GM Screen",
+    "Encounter Tables",
+    "GM Tools/Online Root RPG Tools.md",
+    "GM Tools/5 Room Dungeon.md",
+    "Luminari-Regular.ttf",
+    "World/Vagabonds.md",
+    "World/History of the Woodland.md",
+    "World/Unconfirmed 471027.crdownload",
+    "Untitled.canvas",
+    "Factions"
   ]
 }
