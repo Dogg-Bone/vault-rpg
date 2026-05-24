@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Woodland Lost/Woodland Lost 1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woodland Lost/Map of the Sunken Tomb.md",
+                "file": "Woodland Lost/Woodland Lost 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map of the Sunken Tomb"
+              "title": "Backlinks for Woodland Lost 1"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Woodland Lost/Map of the Sunken Tomb.md"
+                "file": "Woodland Lost/Woodland Lost 1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Map of the Sunken Tomb"
+              "title": "File properties for Woodland Lost 1"
             }
           }
         ]
@@ -252,13 +252,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "568bb8643d41a22a",
+  "active": "00cf04cd47ae91df",
   "lastOpenFiles": [
-    "_Bestiary/Giant King Centipede.md",
+    "Woodland Lost/Map of the Sunken Tomb.md",
     "Woodland Lost/Woodland Lost 1.md",
+    "_Bestiary/Giant King Centipede.md",
     "_Bestiary/attachments/Giant King Centipede-1779583162572.webp",
     "_Bestiary/attachments/Giant King Centipede-1779583127168.webp",
-    "Woodland Lost/Map of the Sunken Tomb.md",
     "_Bestiary/attachments/Sibilant Snake-1779575517893.webp",
     "_Bestiary/Twin Blades of  the Sun and Moon.md",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
