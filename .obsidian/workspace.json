@@ -11,10 +11,14 @@
             "id": "00cf04cd47ae91df",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Encounter Tables/Random Forest Encounters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Forest Encounters"
             }
           }
         ]
@@ -230,6 +234,8 @@
   },
   "active": "00cf04cd47ae91df",
   "lastOpenFiles": [
+    "Encounter Tables/2d6 Outcome Probabilities.md",
+    "Encounter Tables/Random Forest Encounters.md",
     "Woodland Lost/Woodland Lost 1.md",
     "_Bestiary/Bandit.md",
     "Woodland Lost/Map of the Sunken Tomb.md",
@@ -252,13 +258,11 @@
     "_Bestiary/attachments/Bandit-1779576315891.webp",
     "_Bestiary/Clockwork Sentinel.md",
     "_Bestiary/attachments/Clockwork Sentinel-1779575874806.webp",
-    "Encounter Tables/Random Forest Encounters.md",
     "_Bestiary/Sibilant Snake.md",
     "_Bestiary/Praying Mantis.md",
     "_Bestiary/Swarming Ants.md",
     "_Bestiary/Giant Centipede.md",
     "_Bestiary/Riverfolk Mercenary.md",
-    "Encounter Tables/2d6 Outcome Probabilities.md",
     "_Bestiary/Eyrie Royal Guard.md",
     "_Bestiary/Grizzly Bear.md",
     "Woodland Lost/NPCs/Galen Erso.md",
