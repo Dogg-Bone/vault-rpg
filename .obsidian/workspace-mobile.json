@@ -11,12 +11,26 @@
             "id": "c0e5769ed9703a6b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Woodland Lost/Map of the Sunken Tomb.md"
+                "file": "_PDF Archive/Root-Core-Book.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Map of the Sunken Tomb"
+              "icon": "lucide-file-text",
+              "title": "Root-Core-Book"
+            }
+          },
+          {
+            "id": "41262f0986ccfbce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Bestiary/Elder Swamp Crocodile.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Elder Swamp Crocodile"
             }
           }
         ]
@@ -167,6 +181,12 @@
   },
   "active": "c0e5769ed9703a6b",
   "lastOpenFiles": [
+    "GM Tools/5 Room Dungeon.md",
+    "_Bestiary/Elder Swamp Crocodile.md",
+    "ElderCrocodile.md",
+    "Woodland Lost/Woodland Lost 1.md",
+    "Untitled",
+    "GM Tools/The-21-Forms of a 5 Room Dungeon.png",
     "Woodland Lost/Map of the Sunken Tomb.md"
   ]
 }
