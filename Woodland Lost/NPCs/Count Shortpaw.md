@@ -1,1 +1,1 @@
-An expert in industrial machines and advanced weaponry, especially siege weapons. Count Shortpaw Kidnapped [[Jyn Erso]] to force her Tinker father [[Galen Erso]] to make weapons for the [[Marquise de Cat]]. 
+An expert in industrial machines and advanced weaponry, especially siege weapons. Count Shortpaw Kidnapped [[Jyn Erso]] to force her Tinker father [[Woodland Lost/NPCs/Galen Erso]] to make weapons for the [[Marquise de Cat]]. 

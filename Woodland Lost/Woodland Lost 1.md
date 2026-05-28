@@ -1,5 +1,6 @@
+The party flees [[Marquise de Cat]] soldiers, pursued into the forest after their [[First Daring Exploit]].
 # The Sunken Tomb
-In the forest between [[Barewick Clearing]] and [[Drytown Clearing]] lies an old decrepit crypt, it's entrance nestled in a grove of birch trees. 
+In the forest west of [[Swanholde Clearing]] lies an old decrepit crypt, it's entrance nestled in a grove of birch trees.
 [[Map of the Sunken Tomb]]
 The walls of the crypt are decorated with engravings that seem to tell the story of a Knight fighting against a mythical serpent.
 
@@ -30,3 +31,6 @@ Beyond the double doors lies a dry, dust-choked circular chamber, miraculously u
 The ancient knight clutches against its chest a masterwork sword in each hand. One bears a gleaming brass hilt with an egg-sized ruby in its pommel. The other is elegant silver with an obsidian black handle and a small diamond at the base. Both swords are broken roughly a foot from the hilt, their tips nestled among the Mouse Knight's robes. The breaks are clean, and the swords are otherwise perfectly preserved. Both pommels are molded in the shape of snake heads that clutch the gems in gaping fangs.
 ### The Exit
 Behind the dais, thick birch roots have burst through the masonry ceiling over the centuries. Light filters down through the tangled roots, providing a natural, easy yet monotonous climb up a shaft that emerges safely inside a hollowed-out birch stump on the forest surface, miles away from the main entrance.
+
+# Notes
+[[Warren the Exile]], [[Anita Break]], and [[Robin Banks]] cleared this ruin of loot and monsters. The [[Sibilant Snake]] was released through the exit shaft into the forest. [[Warren the Exile]] pocketed the bracelet and the [[Twin Blades of  the Sun and Moon]]. [[Robin Banks]] dropped oil and torches on the centipede nest, [[Anita Break]] lodged her throwing knife in the [[Giant King Centipede]]'s flaming head before being swallowed whole, and [[Warren the Exile]] triggered his [[Greatest of the Age]] ability to cleave the monster open, freeing Anita.

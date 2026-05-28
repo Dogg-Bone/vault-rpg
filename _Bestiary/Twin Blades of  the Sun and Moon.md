@@ -2,7 +2,7 @@
 statblock: inline
 name: Twin Blades of the Sun and Moon
 ---
-
+[[]]
 ```statblock
 layout: Root Item Layout
 bestiary: "true"

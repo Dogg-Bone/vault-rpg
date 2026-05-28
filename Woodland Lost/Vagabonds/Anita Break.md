@@ -1,0 +1,7 @@
+When Anita was just a baby goat, her parents died at the hands of the [[Sad Troll Gang]], who then took her to raise her as one of their own. They told her she was discovered left alone in a ditch and that they had saved her. One day they all left, and after a week Anita assumed they had died and leaves the hideout. She wants to do for others what was done for her, taking in those who need to belong somewhere. 
+
+Nature: Trailblazer - *Clear your exhaustion track when you depart on a wild and risky new course of action with others.*
+Drives: *Crime* and *Freedom*
+Connections: Peer - Warren, Family - Galen
+
+*I was found in a ditch at the tender age of 2 summers. The party that found me looked at me and was like, "score! We can make it do all the chores," and so they took me in and raised me. They may not have been the ideal parents, all but one being in their teens and the last one so ancient that his eyebrows could touch, which was hard, him being a toad. After being left alone for more than a week, I started to think something was up, and now I am convinced they are all dead, this being the second longest they've ever left me alone (one was getting married, and they forgot me) so now im finding my own party*
