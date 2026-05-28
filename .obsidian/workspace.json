@@ -29,12 +29,14 @@
             "id": "b14e8f852b8b1d19",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "_PDF Archive/Root-Core-Book.pdf"
+                "file": "Encounter Tables/Faction Clocks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Root-Core-Book"
+              "icon": "lucide-file",
+              "title": "Faction Clocks"
             }
           },
           {
@@ -52,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +107,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Tables/Random Forest Encounters.md",
+                "file": "Encounter Tables/Faction Clocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random Forest Encounters"
+              "title": "Backlinks for Faction Clocks"
             }
           },
           {
@@ -188,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounter Tables/Random Forest Encounters.md",
+                "file": "Encounter Tables/Faction Clocks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Forest Encounters"
+              "title": "Outline of Faction Clocks"
             }
           },
           {
@@ -245,11 +246,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4f01e3c8fd8efc19",
+  "active": "b14e8f852b8b1d19",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Encounter Tables/Random Forest Encounters.md",
+    "_PDF Archive/Root-Travelers-Outsiders.pdf",
+    "Encounter Tables/Faction Clocks.md",
     "_PDF Archive/Root-Core-Book.pdf",
+    "Encounter Tables/Random Forest Encounters.md",
+    "conflict-files-obsidian-git.md",
     "Woodland Lost/Map of the Sunken Tomb.md",
     "Woodland Lost/Woodland Lost 1.md",
     "_Bestiary/Woodland Alliance Sympathizer.md",
@@ -269,13 +272,10 @@
     "_Bestiary/Blowgun.md",
     "_Bestiary/Twin Blades of  the Sun and Moon.md",
     "GM Tools/5 Room Dungeon.md",
-    "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "GM Tools/GM Screen/GM Screen.canvas",
     "GM Tools/GM Screen/Roguish Feats Reference.md",
     "Woodland Lost/Vagabonds/First Daring Exploit.md",
     "Woodland Lost/Vagabonds/Robin Banks.md",
-    "Woodland Lost/Vagabonds/Anita Break.md",
-    "Woodland Lost/Vagabonds/Anita Break Sheet.md",
     "Woodland Lost/Vagabonds/Playbook - The Prince.pdf",
     "Woodland Lost/Playbook - The Prince.pdf",
     "Playbook - The Prince.pdf",
