@@ -6,7 +6,6 @@
       {
         "id": "671982e1c8fa20b6",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "ae20db93642caf5e",
@@ -31,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounter Tables/Faction Clocks.md",
+                "file": "Using the Board Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faction Clocks"
+              "title": "Using the Board Game"
             }
           },
           {
@@ -73,7 +72,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Tables/Faction Clocks.md",
+                "file": "Using the Board Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Faction Clocks"
+              "title": "Backlinks for Using the Board Game"
             }
           },
           {
@@ -189,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounter Tables/Faction Clocks.md",
+                "file": "Using the Board Game.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Faction Clocks"
+              "title": "Outline of Using the Board Game"
             }
           },
           {
@@ -246,10 +245,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b14e8f852b8b1d19",
+  "active": "bccd878814736dae",
   "lastOpenFiles": [
-    "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "Encounter Tables/Faction Clocks.md",
+    "Using the Board Game.md",
+    "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "_PDF Archive/Root-Core-Book.pdf",
     "Encounter Tables/Random Forest Encounters.md",
     "conflict-files-obsidian-git.md",
