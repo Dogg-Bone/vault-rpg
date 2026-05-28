@@ -1,3 +1,4 @@
+# Encounters
 
 | Roll | Encounter                  | Combat option                                                                                                                                                                   | Noncombat option                                                                                                                                                                                                      |
 | ---- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,3 +14,29 @@
 | 11   | Hermit's Hut               | The hermit is intensely paranoid, aggressively defending their territory with hidden snares, tripwires, and poison blowdarts as soon as the Vagabonds approach                  | An eccentric outcast offers a safe campfire to clear Exhaustion, but demands a bizarre trade or a deeply uncomfortable favor in exchange for the shelter.                                                             |
 | 12   | Wounded Stag               | Maddened by an arrow wound, the colossal creature violently charges the party, tearing through the underbrush with its antlers                                                  | The [[Stag]] is a revered, ancient spirit resting near death. If the Vagabonds show respect and heal its wound, it peacefully guides them to a hidden, untouched clearing that can serve as a base for the Vagabonds. |
 [[2d6 Outcome Probabilities]]
+
+# Who Spots Who? (Optional)
+
+| 1d4 | Outcome                       |
+| --- | ----------------------------- |
+| 1   | Vagabonds spot the Encounter  |
+| 2   | Encounter spots the Vagabonds |
+| 3-4 | Both spot each other          |
+# When Does the Encounter Happen?
+
+| 1d6 | Time of Day |
+| --- | ----------- |
+| 1   | Dawn        |
+| 2   | Morning     |
+| 3   | Afternoon   |
+| 4   | Evening     |
+| 5   | Dusk        |
+| 6   | Night       |
+# Difficulty
+
+| 1d4 | Difficulty      |
+| --- | --------------- |
+| 1   | Openly friendly |
+| 2   | No hostility    |
+| 3   | Hostile         |
+| 4   | Large Assault   |

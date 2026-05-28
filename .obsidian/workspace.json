@@ -6,7 +6,7 @@
       {
         "id": "671982e1c8fa20b6",
         "type": "tabs",
-        "dimension": 44.579945799457995,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "ae20db93642caf5e",
@@ -36,42 +36,23 @@
               "icon": "lucide-file-text",
               "title": "Root-Core-Book"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5aaad6a0e02d3d2f",
-        "type": "tabs",
-        "dimension": 55.420054200542005,
-        "children": [
+          },
           {
-            "id": "ea93e699d187008d",
+            "id": "410fab3bf795127d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woodland Lost/Woodland Lost 1.md",
+                "file": "Encounter Tables/Random Forest Encounters.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Woodland Lost 1"
-            }
-          },
-          {
-            "id": "3ace8f51ebfed1cc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Woodland Lost/Map of the Sunken Tomb.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Map of the Sunken Tomb"
+              "title": "Random Forest Encounters"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woodland Lost/Woodland Lost 1.md",
+                "file": "Encounter Tables/Random Forest Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Woodland Lost 1"
+              "title": "Backlinks for Random Forest Encounters"
             }
           },
           {
@@ -206,16 +187,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Encounter Tables/Random Forest Encounters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Random Forest Encounters"
+            }
+          },
+          {
+            "id": "f9cfed4282f9b3b4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "5a93ee4b98aba2f9",
@@ -235,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,14 +244,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ea93e699d187008d",
+  "active": "410fab3bf795127d",
   "lastOpenFiles": [
-    "_Bestiary/Twin Blades of  the Sun and Moon.md",
-    "Woodland Lost/Woodland Lost 1.md",
+    "conflict-files-obsidian-git.md",
+    "Encounter Tables/Random Forest Encounters.md",
     "_PDF Archive/Root-Core-Book.pdf",
+    "Woodland Lost/Map of the Sunken Tomb.md",
+    "Woodland Lost/Woodland Lost 1.md",
+    "_Bestiary/Woodland Alliance Sympathizer.md",
+    "_Bestiary/Stag.md",
+    "_Bestiary/Spiked Mace.md",
+    "_Bestiary/Spider.md",
+    "_Bestiary/Satchel Charge.md",
+    "_Bestiary/Lord of Hundreds Warlord.md",
+    "_Bestiary/Knave of the Deepwood.md",
+    "_Bestiary/Keeper in Iron.md",
+    "_Bestiary/Hermit.md",
+    "_Bestiary/Heavy Crossbow.md",
+    "_Bestiary/Halberd.md",
+    "_Bestiary/Giant Water Bug.md",
+    "_Bestiary/Gentle Giant.md",
+    "_Bestiary/Bounty Hunter.md",
+    "_Bestiary/Blowgun.md",
+    "_Bestiary/Twin Blades of  the Sun and Moon.md",
     "GM Tools/5 Room Dungeon.md",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
-    "Woodland Lost/Map of the Sunken Tomb.md",
     "GM Tools/GM Screen/GM Screen.canvas",
     "GM Tools/GM Screen/Roguish Feats Reference.md",
     "Woodland Lost/Vagabonds/First Daring Exploit.md",
@@ -267,26 +276,10 @@
     "Woodland Lost/Vagabonds/Anita Break.md",
     "Woodland Lost/Vagabonds/Anita Break Sheet.md",
     "Woodland Lost/Vagabonds/Playbook - The Prince.pdf",
-    "Woodland Lost/Vagabonds/Warren the Exile.md",
-    "Woodland Lost/NPCs/Galen Erso.md",
-    "Woodland Lost/NPCs/Jyn Erso.md",
-    "Woodland Lost/Vagabonds/Galen Erso.md",
-    "Woodland Lost/NPCs/Count Shortpaw.md",
-    "Sad Troll Gang.md",
-    "-.md",
     "Woodland Lost/Playbook - The Prince.pdf",
     "Playbook - The Prince.pdf",
     "_PDF Archive/Root Player Handouts Complete.pdf",
     "Woodland Lost/Vagabonds",
-    "Encounter Tables/Random Forest Encounters.md",
-    "Encounter Tables/2d6 Outcome Probabilities.md",
-    "_Bestiary/Swarming Ants.md",
-    "_Bestiary/Sibilant Snake.md",
-    "_Bestiary/Riverfolk Mercenary.md",
-    "_Bestiary/Praying Mantis.md",
-    "_Bestiary/Grizzly Bear.md",
-    "_Bestiary/Giant King Centipede.md",
-    "_Bestiary/Giant Centipede.md",
     "_Bestiary/attachments/Swarming Ants-1779575070674.webp",
     "_Bestiary/attachments/Swarming Ants-1779575003974.webp",
     "_Bestiary/attachments/Sibilant Snake-1779575563129.webp",
