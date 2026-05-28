@@ -1,4 +1,5 @@
 ---
+author: jules
 statblock: inline
 name: Gentle Giant
 ---
