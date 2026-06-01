@@ -6,5 +6,6 @@ drive:
 fear:
 secret:
 faction:
+species:
 ---
 #npc

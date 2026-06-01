@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "_PDF Archive/Root-Core-Book.pdf"
+                "file": "_PDF Archive/Root-Travelers-Outsiders.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Root-Core-Book"
+              "title": "Root-Travelers-Outsiders"
             }
           },
           {
@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Villain Bracket.md",
-                "mode": "source",
+                "file": "Encounter Tables/Large animals in the fiction.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Villain Bracket"
+              "title": "Large animals in the fiction"
             }
           },
           {
@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woodland Lost/NPCs/Galen Erso.md",
+                "file": "Encounter Tables/Random Forest Encounters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galen Erso"
+              "title": "Random Forest Encounters"
             }
           },
           {
@@ -89,8 +89,7 @@
               "title": "Elder Swamp Crocodile"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +180,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Woodland Lost/NPCs/Galen Erso.md",
+            "file": "_PDF Archive/Root-Travelers-Outsiders.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -237,16 +236,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e64805fd014b0155",
+  "active": "c0e5769ed9703a6b",
   "lastOpenFiles": [
+    "_PDF Archive/Root-Core-Book.pdf",
+    "Encounter Tables/Large animals in the fiction.md",
+    "Bison.md",
+    "Deer.md",
+    "Encounter Tables/Random Forest Encounters.md",
+    "Villain Bracket.md",
+    "Encounter Tables/2d6 Outcome Probabilities.md",
     "Woodland Lost/NPCs/Jyn Erso.md",
     "Woodland Lost/NPCs/Count Shortpaw.md",
+    "Woodland Lost/NPCs/Galen Erso.md",
     "_Templates/NPC Template.md",
-    "Villain Bracket.md",
     "Faction Combos.md",
     "Untitled",
     "Notes from Johnn Four.md",
-    "_PDF Archive/Root-Core-Book.pdf",
     "GM Tools/5 Room Dungeon.md",
     "_Bestiary/Elder Swamp Crocodile.md",
     "ElderCrocodile.md",
