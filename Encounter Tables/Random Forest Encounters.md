@@ -40,3 +40,8 @@
 | 2   | No hostility    |
 | 3   | Hostile         |
 | 4   | Large Assault   |
+Make the most common encounter advance the plot. Each time a 7 is rolled, the encounter evolves.
+1. iteration 1
+2. iteration 2
+3. iteration 3
+4. iteration 4
