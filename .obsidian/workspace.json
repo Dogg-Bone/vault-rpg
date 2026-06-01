@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Random Forest Encounters"
             }
+          },
+          {
+            "id": "875f4e14e813ae5f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -53,10 +63,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "[\"author\":\"jules\"",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -195,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "5a93ee4b98aba2f9",
@@ -234,8 +244,24 @@
   },
   "active": "00cf04cd47ae91df",
   "lastOpenFiles": [
-    "Encounter Tables/2d6 Outcome Probabilities.md",
+    "Knaves of the Deepwood.md",
     "Encounter Tables/Random Forest Encounters.md",
+    "Encounter Tables/2d6 Outcome Probabilities.md",
+    "_Bestiary/Giant Water Bug.md",
+    "_Bestiary/Woodland Alliance Sympathizer.md",
+    "_Bestiary/Stag.md",
+    "_Bestiary/Spiked Mace.md",
+    "_Bestiary/Spider.md",
+    "_Bestiary/Satchel Charge.md",
+    "_Bestiary/Lord of Hundreds Warlord.md",
+    "_Bestiary/Keeper in Iron.md",
+    "_Bestiary/Knave of the Deepwood.md",
+    "_Bestiary/Hermit.md",
+    "_Bestiary/Heavy Crossbow.md",
+    "_Bestiary/Halberd.md",
+    "_Bestiary/Gentle Giant.md",
+    "_Bestiary/Bounty Hunter.md",
+    "_Bestiary/Blowgun.md",
     "Woodland Lost/Woodland Lost 1.md",
     "_Bestiary/Bandit.md",
     "Woodland Lost/Map of the Sunken Tomb.md",
@@ -256,29 +282,13 @@
     "_Bestiary/attachments/Sibilant Snake-1779575563129.webp",
     "_PDF Archive/Root-Core-Book.pdf",
     "_Bestiary/attachments/Bandit-1779576315891.webp",
-    "_Bestiary/Clockwork Sentinel.md",
     "_Bestiary/attachments/Clockwork Sentinel-1779575874806.webp",
-    "_Bestiary/Sibilant Snake.md",
-    "_Bestiary/Praying Mantis.md",
-    "_Bestiary/Swarming Ants.md",
-    "_Bestiary/Giant Centipede.md",
-    "_Bestiary/Riverfolk Mercenary.md",
-    "_Bestiary/Eyrie Royal Guard.md",
-    "_Bestiary/Grizzly Bear.md",
-    "Woodland Lost/NPCs/Galen Erso.md",
-    "Woodland Lost/NPCs/Count Shortpaw.md",
-    "Woodland Lost/NPCs/Jyn Erso.md",
     "GM Tools/GM Screen/GM Screen.canvas",
     "Woodland Lost/NPCs",
     "_PDF Archive/Root Player Handouts Complete.pdf",
     "Woodland Lost",
-    "GM Tools/Big Bad Evil Guy.md",
-    "World/Bird Culture.md",
-    "GM Tools/GM Screen/Basic Moves Triggers.md",
-    "Factions/Lord of Hundreds.md",
     "GM Tools/GM Screen",
     "Encounter Tables",
-    "GM Tools/Online Root RPG Tools.md",
     "Luminari-Regular.ttf",
     "World/Unconfirmed 471027.crdownload",
     "Untitled.canvas"
