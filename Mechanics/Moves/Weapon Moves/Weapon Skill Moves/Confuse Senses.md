@@ -1,0 +1,2 @@
+> [!tip]
+> When you *throw something to confuse an opponent’s senses at close or intimate range*, roll with Finesse. On a hit, you’ve thrown them off balance, blinded them, deafened them, or confused them, and given yourself an opportunity. On a 10+, they have to take some time to get their bearings and restore their senses before they can act clearly again. On a 7–9, you have just a few moments.
