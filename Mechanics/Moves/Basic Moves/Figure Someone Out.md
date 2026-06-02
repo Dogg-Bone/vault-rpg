@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Figure Someone Out
 > When you *try to figure someone out*, roll with Charm. 
 > On a 10+, hold 3. On a 7–9, hold 1. 
 > While interacting with them, spend your hold 1 for 1 to ask their player a question: 

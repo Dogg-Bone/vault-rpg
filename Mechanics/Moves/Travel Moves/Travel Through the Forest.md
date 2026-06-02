@@ -1,4 +1,4 @@
->[!tip]
+>[!tip] Travel Through the Forest
 >When you *travel from clearing to clearing through the forest*, the band collectively decides how it travels and one member of the band rolls for the group: 
 >· slowly, foraging heavily: everyone clears 2-depletion; the band collectively marks an exhaustion for each band member; –1 to the roll 
 >· carefully, avoiding trouble: the band collectively marks one depletion or exhaustion for each band member; +1 to the roll 

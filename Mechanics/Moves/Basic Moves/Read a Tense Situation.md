@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Read a Tense Situation
 > When you *read a tense situation*, roll with Cunning. On a 7–9, ask 1. On a 10+, ask 3. Take +1 when acting on the answers. 
 > 
 > · what’s my best way out / in / through? 

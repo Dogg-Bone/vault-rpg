@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Ask for a Favor
 > When you *ask for a reasonable favor based on your reputation*, roll with Reputation with the appropriate faction. On a hit, they’ll grant you what you want. On a 7–9, it costs your rep a bit; clear prestige or mark notoriety, your choice. On a miss, they refuse and view you with suspicion; mark notoriety.
 
 | Reputation | Favor                                                                          |

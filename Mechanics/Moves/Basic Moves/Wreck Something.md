@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Wreck Something
 > When you *wreck something*, roll with Might. On a hit, you seriously break it; it can’t be used again until it’s repaired. On a 7–9, you’re imprecise and dangerous; you cause collateral damage, attract attention, or end up in a bad spot, GM’s choice.
 
 You can’t “wreck” a living being—it’s just for nonliving things. Wrecking also isn’t subtle. As long as it’s an object and not a character you can probably wreck it, given there is a means to break the object in the fiction.

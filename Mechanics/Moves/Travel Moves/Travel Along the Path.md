@@ -1,4 +1,4 @@
->[!tip]
+>[!tip] Travel Along the Path
 >When you *travel from clearing to clearing along the path*, the band collectively decides how it travels and one member of the band rolls for the group: 
 >· at a relaxing pace: everyone clears 3-exhaustion; the band collectively marks a total of 2-depletion; –1 to the roll 
 >· at an average pace: everyone clears 2-exhaustion; the band collectively marks 1-depletion; +0 to the roll 

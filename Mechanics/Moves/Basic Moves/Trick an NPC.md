@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Trick an NPC
 > When you *trick an NPC* to get what you want, roll with Cunning. On a hit, they take the bait and do what you want. On a 7–9, they can instead choose one: 
 > · they hesitate; you shake their confidence or weaken their morale. 
 > · they stumble; you gain a critical opportunity. 

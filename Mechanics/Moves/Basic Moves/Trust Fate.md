@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Trust Fate
 > When you *trust fate to get through trouble,* roll with Luck. On a hit, you scrape by or barrel through; the GM will tell you what it costs you. On a 10+, fortune favors the bold; your panache also earns you a fleeting opportunity.
 
 If you’re taking action that feels risky and chancy, and you’re unsure of what’s going to happen, but no other move applies. If any other move fits better, use that move instead.

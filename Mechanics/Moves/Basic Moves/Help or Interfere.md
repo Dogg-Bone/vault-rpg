@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Help or Interfere
 > When you *help or interfere* with another vagabond, mark exhaustion to add +1 or –2 to their roll (after rolling). Mark exhaustion again to select one of the following: 
 > · conceal your help or interference 
 > · create an opportunity or obstacle

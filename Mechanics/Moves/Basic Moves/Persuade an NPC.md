@@ -1,4 +1,4 @@
-> [!tip]
+> [!tip] Persuade an NPC
 > When you persuade an NPC with promises or threats, roll with Charm. On a 10+, they see things your way, provided you have given them a strong motive or reasonable bribe. On a 7–9, they aren’t sure; the GM will tell you what you need to do to sway them.
 
 *Persuade an NPC* can only be used on individual NPCs.
