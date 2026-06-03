@@ -21,6 +21,7 @@ The recognized leader of the local foxes. Vulpis is old, tired, and deeply pragm
 *Fear: That the younger generation will rise up, forcing the Marquise to burn Swanholde to the ground in retaliation.*
 *Secret: He has been siphoning small amounts of community rations to bribe Marquise guards into looking the other way during curfew.*
 *Request:* He asks the Vagabonds to quietly deal with the Sibilant Snake so the logging roads can reopen, relieving the immediate pressure and anger of the Marquise commander.
+*Rumor to share:* He desperately warns the Vagabonds to steer clear of Kaelen 'Red-Tooth', knowing the young fox is planning something foolish and violent that will surely get innocent foxes killed.
 
 ### Reynard 'The Slip' (Fox)
 A charismatic and sharp-tongued merchant who runs a modest trading post in the Terraces. Outwardly, Reynard deals in river-stones, woven baskets, and dried fish. Secretly, he is a smuggler and information broker, funneling resources to those who resist the Marquise and occasionally passing messages for the Woodland Alliance. He is dangerous because he plays all sides for profit and spite.
@@ -28,6 +29,7 @@ A charismatic and sharp-tongued merchant who runs a modest trading post in the T
 *Fear: Being caught by the Marquise without a backup plan, leading to a swift and brutal execution.*
 *Secret: He once sold out a prominent Woodland Alliance sympathizer to the Marquise to secure his current smuggling route.*
 *Request:* He asks the Vagabonds to steal a specific, sealed ledger from Captain Aridara's office in the Ironwood Mill, promising them a cut of the blackmail money it will surely yield.
+*Rumor to share:* He can tell the Vagabonds that 'Smiles' the Otter isn't a tough guy—those muscle-bound bodyguards are just desperate debtors whose families are being threatened with ruin.
 
 ### Captain Aridara (Cat)
 The Marquise de Cat commander in charge of Swanholde. Aridara is a scarred, no-nonsense veteran of the initial invasion. She wears polished half-plate armor and carries a heavy, custom-forged halberd. She views the foxes not with malice, but with cold, calculating utility. Her mandate is to keep the lumber flowing to the capital, and she will crush any dissent with overwhelming, disciplined force. She is currently frustrated by the disruption caused by the Sibilant Snake.
@@ -35,6 +37,7 @@ The Marquise de Cat commander in charge of Swanholde. Aridara is a scarred, no-n
 *Fear: Failing the Marquise higher-ups and being demoted or reassigned to a meaningless outpost.*
 *Secret: The brutal quotas are actually a cover; she is skimming premium ironwood to build a private fortune back in Le Monde de Cat.*
 *Request:* She asks the Vagabonds to act as heavily-armed escorts for her next timber caravan, promising them Marquise coin if they ensure the wood gets past the Sibilant Snake unharmed.
+*Rumor to share:* She will smugly reveal to the Vagabonds that she knows Elder Vulpis is skimming rations to bribe her guards, but she allows it because it keeps the old fool complacent and compliant.
 
 ### Kaelen 'Red-Tooth' (Fox)
 A young, soot-stained fox who works grueling shifts at the Ironwood Mill. Kaelen's father died in a logging accident last month due to unsafe conditions pushed by the Marquise quotas. He has gathered a small group of angry youths in the Terraces and is preparing to violently strike back at the feline garrison, dismissing Elder Vulpis as a coward.
@@ -42,6 +45,7 @@ A young, soot-stained fox who works grueling shifts at the Ironwood Mill. Kaelen
 *Fear: That he will die before he can strike a meaningful blow against the feline occupation.*
 *Secret: He doesn't actually know how to fight and is terrified of the upcoming confrontation, hiding his fear behind loud bravado.*
 *Request:* He asks the Vagabonds to acquire a cache of black powder or satchel charges, which he plans to use to blow up the Ironwood Mill in the dead of night.
+*Rumor to share:* He bitterly warns the Vagabonds that Reynard 'The Slip' is a traitor and a snake, loudly claiming (correctly) that Reynard sells out local rebels for a quick buck.
 
 ### 'Smiles' the Otter (Otter)
 A smooth-talking Riverfolk Company representative operating out of a heavily patched skiff in The Shallows. Smiles offers exorbitant loans to desperate foxes who can no longer afford to feed their families due to the Marquise taxes. He always smiles, showing off perfectly sharp, white teeth.
@@ -49,6 +53,7 @@ A smooth-talking Riverfolk Company representative operating out of a heavily pat
 *Fear: The Marquise outright confiscating his skiff and goods, declaring his operation illegal under martial law.*
 *Secret: His "bodyguards" are actually heavily indebted locals whose families he is holding hostage via financial ruin.*
 *Request:* He asks the Vagabonds to collect on a massive debt owed by Reynard 'The Slip', offering them a significant percentage of the recovery if they can squeeze the slippery fox.
+*Rumor to share:* He implies to the Vagabonds that Captain Aridara isn't the loyal soldier she pretends to be, noting that he's seen unmarked barges loaded with premium timber floating past his skiff late at night.
 
 ## The Problems
 
