@@ -74,3 +74,18 @@ Captain Aridara has recently received orders from the capital to double the lumb
 
 ## Rumors & Hooks
 - **The Master Smith:** Reynard 'The Slip' is quietly seeking Vagabonds who have acquired broken, ancient, or otherwise valuable weaponry (such as those found in old ruins). He claims to know the location of a reclusive, incredibly gifted blacksmith hidden deep in the woodland—a smith capable of repairing true masterwork items that ordinary ferriers would ruin. Reynard refuses to name the smith, only offering to broker an introduction or provide a map in exchange for a staggering sum of coin or a massive favor against the Marquise.
+
+## First Session Encounters
+| Roll | Encounter |
+| :---: | :--- |
+| **2** | The Vagabonds stumble upon a brutal eviction in the Terraces; Marquise guards are throwing an indebted fox family out into the mud at the behest of 'Smiles' the Otter, who watches lazily from his skiff. |
+| **3** | A group of Kaelen's angry youths attempts to ambush a Marquise patrol in an alleyway, but they are wildly outmatched. The Vagabonds must decide whether to intervene before it becomes a massacre. |
+| **4** | A weary, mesmerized fox stumbles back into the clearing from the logging road, muttering nonsensical rhymes. They are suffering from exhaustion and venom after failing the Sibilant Snake's riddle. |
+| **5** | Reynard 'The Slip' frantically flags down the Vagabonds. A Marquise inspection team is heading for his shop, and he needs them to hold onto a satchel of illegal Woodland Alliance pamphlets until the coast is clear. |
+| **6** | Elder Vulpis publicly confronts Captain Aridara, begging her to lower the timber quotas. Aridara responds by publicly doubling the shift lengths, daring Vulpis to do something about it. Tension in the crowd is at a boiling point. |
+| **7** | A logging cart arrives at the Ironwood Mill carrying a massive, hollowed-out log. Something large and ancient is shifting inside the hollow wood, disturbed from its slumber during the clear-cutting. |
+| **8** | One of Smiles' "bodyguards" secretly slips the Vagabonds a note wrapped around a river-stone, desperately pleading for them to find a way to clear his debt so he can see his family again. |
+| **9** | Captain Aridara personally stops the Vagabonds at a checkpoint. She tries to press-gang them into service, offering a choice: escort a dangerous lumber shipment past the snake, or be locked up for vagrancy. |
+| **10** | The Sibilant Snake has slithered uncomfortably close to the clearing's edge. It is currently wrapped around the supports of the Riverside Terraces, refusing to let a terrified group of fox kits leave until they answer a riddle about "the wind." |
+| **11** | Kaelen 'Red-Tooth' approaches the Vagabonds with a stolen, leaking barrel of black powder. He has no idea how to safely rig it, and his reckless handling threatens to blow up a large chunk of the Terraces. |
+| **12** | An unmarked barge quietly docks near the Ironwood Mill in the dead of night. Captain Aridara is personally loading crates of premium ironwood onto it, guarded by mercenaries. The Vagabonds have just witnessed her skimming operation firsthand. |
