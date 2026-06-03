@@ -9,19 +9,21 @@ This document provides 2d6 spark tables to generate themes, rooms, and gameplay 
 To build your dungeon, roll on the Theme table, then roll on the respective Room Type and Interesting Things tables for each of the 5 rooms. Finally, roll once on the Twist/Plot Hook table to tie the narrative together.
 
 ## Dungeon Theme (Roll 2d6)
-| 2d6 | Theme |
-| --- | --- |
-| 2 | **Ancient Substructure:** A bizarre, overgrown facility from an unknown civilization. *Directions: 1) A massive subterranean aqueduct system. 2) A buried pre-Dynastic vault of strange machinery. 3) An underground amphitheater littered with bizarre relics.* |
-| 3 | **Corrupted Wilds:** A natural formation twisted by foul elements or disease. *Directions: 1) A grove where trees bleed acidic sap. 2) A cavern system filled with massive, mutated insects. 3) A dried riverbed choked by toxic, bioluminescent fungi.* |
-| 4 | **Chaotic Warrens:** A sprawling, disorganized network of tunnels. *Directions: 1) Lord of Hundreds mice hoarding stolen wealth. 2) A den of feral, aggressive badger scavengers. 3) A ruined underground village taken over by outcasts.* |
-| 5 | **Abandoned Stronghold:** A former military or noble outpost now in ruins. *Directions: 1) A crumbling Eyrie roost high in the canopy. 2) A forgotten woodland keep overtaken by vines. 3) A cliffside fortress with rusted armaments.* |
-| 6 | **Industrial Worksite:** A place of mass production or extraction, recently halted. *Directions: 1) A Marquisate logging camp abandoned in a hurry. 2) A flooded strip mine with heavy machinery. 3) A massive, silent sawmill surrounded by cleared forest.* |
-| 7 | **Secretive Hideout:** A concealed location meant for clandestine meetings. *Directions: 1) A compromised Woodland Alliance cellar. 2) A smuggler's den beneath a hollowed tree. 3) A covert listening post covered in camouflage.* |
-| 8 | **Scoundrel's Den:** A fortified space repurposed by criminals. *Directions: 1) A natural cave used to stash ill-gotten goods. 2) A ruined tollhouse taken over by highwaymen. 3) A barricaded ravine controlled by extortionists.* |
-| 9 | **Forgotten Sanctuary:** An old place of quiet reverence or contemplation. *Directions: 1) A dusty shrine with the scent of old incense. 2) A forgotten monastic retreat carved into stone. 3) An ancient burial mound undisturbed for centuries.* |
-| 10 | **Booby-Trapped Stash:** A heavily secured series of rooms hiding something valuable. *Directions: 1) A legendary Vagabond's final resting place. 2) A paranoid merchant's hidden vault. 3) A decommissioned armory with active defenses.* |
-| 11 | **Hazardous Depot:** A storage area compromised by environmental dangers. *Directions: 1) A flooded river trade post requiring swimming. 2) A munitions dump slowly leaking toxic chemicals. 3) A grain silo sinking into a sudden sinkhole.* |
-| 12 | **Apex Predator's Lair:** A massive, terrifying den of a true forest monster. *Directions: 1) The gore-strewn cave of a monstrous bear. 2) The high-altitude nest of a colossal eagle. 3) The damp hollow of a giant, ancient snapping turtle.* |
+| 2d6 | Theme                                                                                                                                                                                                                                                            |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | **Ancient Substructure:** A bizarre, overgrown facility from an unknown civilization. *Directions: 1) A massive subterranean aqueduct system. 2) A buried pre-Dynastic vault of strange machinery. 3) An underground amphitheater littered with bizarre relics.* |
+| 3   | **Corrupted Wilds:** A natural formation twisted by foul elements or disease. *Directions: 1) A grove where trees bleed acidic sap. 2) A cavern system filled with massive, mutated insects. 3) A dried riverbed choked by toxic, bioluminescent fungi.*         |
+| 4   | **Chaotic Warrens:** A sprawling, disorganized network of tunnels. *Directions: 1) Lord of Hundreds mice hoarding stolen wealth. 2) A den of feral, aggressive badger scavengers. 3) A ruined underground village taken over by outcasts.*                       |
+| 5   | **Abandoned Stronghold:** A former military or noble outpost now in ruins. *Directions: 1) A crumbling Eyrie roost high in the canopy. 2) A forgotten woodland keep overtaken by vines. 3) A cliffside fortress with rusted armaments.*                          |
+| 6   | **Industrial Worksite:** A place of mass production or extraction, recently halted. *Directions: 1) A Marquisate logging camp abandoned in a hurry. 2) A flooded strip mine with heavy machinery. 3) A massive, silent sawmill surrounded by cleared forest.*    |
+| 7   | **Secretive Hideout:** A concealed location meant for clandestine meetings. *Directions: 1) A compromised Woodland Alliance cellar. 2) A smuggler's den beneath a hollowed tree. 3) A covert listening post covered in camouflage.*                              |
+| 8   | **Scoundrel's Den:** A fortified space repurposed by criminals. *Directions: 1) A natural cave used to stash ill-gotten goods. 2) A ruined tollhouse taken over by highwaymen. 3) A barricaded ravine controlled by extortionists.*                              |
+| 9   | **Forgotten Sanctuary:** An old place of quiet reverence or contemplation. *Directions: 1) A dusty shrine with the scent of old incense. 2) A forgotten monastic retreat carved into stone. 3) An ancient burial mound undisturbed for centuries.*               |
+| 10  | **Booby-Trapped Stash:** A heavily secured series of rooms hiding something valuable. *Directions: 1) A legendary Vagabond's final resting place. 2) A paranoid merchant's hidden vault. 3) A decommissioned armory with active defenses.*                       |
+| 11  | **Hazardous Depot:** A storage area compromised by environmental dangers. *Directions: 1) A flooded river trade post requiring swimming. 2) A munitions dump slowly leaking toxic chemicals. 3) A grain silo sinking into a sudden sinkhole.*                    |
+| 12  | **Apex Predator's Lair:** A massive, terrifying den of a true forest monster. *Directions: 1) The gore-strewn cave of a monstrous bear. 2) The high-altitude nest of a colossal eagle. 3) The damp hollow of a giant, ancient snapping turtle.*                  |
+
+^d63494
 
 ## Room 1: Entrance / Guardian
 ### Room Type (Roll 2d6)
@@ -39,6 +41,9 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 11 | **Decoy Entrance:** An obvious path masking the true, hidden way. *Directions: 1) A heavily trapped main door next to a small servant's hatch. 2) A grand, dead-end hallway beside a concealed crawlspace. 3) A painted fake door while the real one is under the floorboards.* |
 | 12 | **Mechanical Facade:** A wall that perfectly mimics its surroundings until triggered. *Directions: 1) A counterweight wall that rotates seamlessly. 2) A rock face that retracts via hidden hydraulics. 3) A patch of artificial forest that slides aside.* |
 
+^b4fb0d
+
+`dice: 2d6`
 ### Interesting Things (Gameplay Effect) (Roll 2d6)
 | 2d6 | Gameplay Effect |
 | --- | --- |
@@ -54,6 +59,9 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 11 | **Environmental Anomaly:** The physical properties of the room are altered. *Directions: 1) Extreme magnetism: heavy armor users mark 1 Exhaustion to move. 2) Freezing draft: unprotected characters suffer minor fictional penalties. 3) Disorienting lighting: shadows obscure depth perception.* |
 | 12 | **Aggressive Flora/Fauna:** The environment itself attacks. *Directions: 1) Carnivorous vines: mark 1 Injury or 1 Wear to tear free. 2) Swarm of biting insects: forces characters to flee or waste Depletion. 3) Toxic moss that burns to the touch: complicates physical interactions.* |
 
+^f92de9
+
+`dice: 2d6`
 ## Room 2: Puzzle / Roleplaying Challenge
 ### Room Type (Roll 2d6)
 | 2d6 | Puzzle Room Type |
@@ -70,7 +78,11 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 11 | **Logic Conundrum:** A puzzle relying on deduction. *Directions: 1) Four statues, one pointing to the safe path, three to traps. 2) A series of scales that must balance different, unknown weights. 3) A room with multiple doors and conflicting warning signs.* |
 | 12 | **Shifting Architecture:** The room physically alters its layout. *Directions: 1) The room rotates periodically, confusing direction. 2) Walls slowly slide on tracks, changing the maze. 3) The floor raises and lowers in sections randomly.* |
 
+^15b382
+
+`dice: 2d6`
 ### Interesting Things (Gameplay Effect) (Roll 2d6)
+
 | 2d6 | Gameplay Effect |
 | --- | --- |
 | 2 | **Cognitive Hazard:** A gas or chemical affecting the mind. *Directions: 1) Memory-wipe gas: temporarily lose access to a Skill. 2) Confusion spores: penalty to logical reasoning rolls. 3) Paranoia dust: Trust Fate to accept help from allies.* |
@@ -84,6 +96,8 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 10 | **Valuable Mechanism:** The puzzle itself is made of precious materials. *Directions: 1) Copper wiring and gold gears: dismantle for 2d4 Value, destroying the easy path. 2) Gemstone lenses: stealing them triggers a trap. 3) Rare wood paneling: taking it angers the original builders.* |
 | 11 | **Historical Echo:** The room contains vivid, disturbing records. *Directions: 1) A gruesome diorama of a tragedy: mark 1 Morale, but learn dungeon lore. 2) Audio logs of a desperate final stand. 3) Perfectly preserved footprints of a fleeing crowd.* |
 | 12 | **Technological Nullifier:** Advanced gear or tricks cease to function. *Directions: 1) Extreme magnetism zone: metal weapons are pulled away and unusable. 2) Dampening field: explosives and chemical reactions fail. 3) Anti-friction floor: impossible to run or dodge effectively.* |
+
+^136cd1
 
 ## Room 3: Trick / Setback
 ### Room Type (Roll 2d6)
@@ -101,6 +115,8 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 11 | **The False Prisoner:** A sympathetic figure who is actually a threat. *Directions: 1) A captive begging for release who is a spy. 2) A "wounded" denizen rigged with a bomb. 3) A terrified merchant who immediately steals and runs.* |
 | 12 | **Spatial Disorientation:** The room's physics or layout violently change. *Directions: 1) The entire room tilts 45 degrees suddenly. 2) A high-speed elevator drop that causes extreme nausea. 3) A centrifuge room that spins rapidly, pinning everyone to the walls.* |
 
+^526baf
+
 ### Interesting Things (Gameplay Effect) (Roll 2d6)
 | 2d6 | Gameplay Effect |
 | --- | --- |
@@ -115,6 +131,8 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 10 | **Restricting Hazard:** A trap that immobilizes characters. *Directions: 1) Magnetic floor: remove metal armor or mark 1 Exhaustion per move. 2) Quick-drying cement: traps boots, requiring them to be abandoned. 3) Heavy netting: requires cutting free while under fire.* |
 | 11 | **Paralytic Agent:** A toxin that removes physical capability. *Directions: 1) A dart coated in venom: legs go numb, requiring allies to carry the victim. 2) A gas that causes severe muscle spasms. 3) A sap that hardens joints, making movement agonizing.* |
 | 12 | **Chemical Alteration:** A strange substance temporarily changes a character. *Directions: 1) A chemical vent causes intense localized amnesia: cannot use highest skill until a rest. 2) A stimulant gas: clears Exhaustion but causes erratic, aggressive behavior. 3) A mutagenic splash: temporary, weird physical alteration (e.g., glowing skin).* |
+
+^e940ea
 
 ## Room 4: Climax / Boss
 ### Room Type (Roll 2d6)
@@ -132,6 +150,8 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 11 | **The Den:** The sleeping or living quarters of a massive beast. *Directions: 1) A massive nest littered with the bones of past victims. 2) A burrow smelling terribly of musk and rot. 3) A hibernation chamber filled with thick webbing.* |
 | 12 | **Mobile Battlefield:** The "room" itself is moving. *Directions: 1) The back of a giant, slow-moving pre-Dynastic construct. 2) A rapidly descending massive elevator platform. 3) A runaway minecart train.* |
 
+^ad2939
+
 ### Interesting Things (Gameplay Effect) (Roll 2d6)
 | 2d6 | Gameplay Effect |
 | --- | --- |
@@ -146,6 +166,8 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 10 | **Exploitable Weakness:** The boss has a glaring, specific flaw. *Directions: 1) A rusted armor joint: attacking it grants significant advantage. 2) A blind spot on one side of their helmet. 3) An exposed power core on their machinery.* |
 | 11 | **Turnabout Weapon:** The boss wields something the party can steal. *Directions: 1) An empowering relic: disarming them (Trust Fate) allows the party to use it. 2) A heavy repeating crossbow that can be turned against them. 3) A remote control for the room's traps.* |
 | 12 | **Extreme Hazard:** A dangerous substance that alters the combatants. *Directions: 1) Mutagenic liquid: pushed characters mutate, gaining a random trait. 2) Electrified floor grid: stepping on it causes immediate paralysis. 3) A vat of liquid nitrogen: instantly freezes anything submerged.* |
+
+^67a463
 
 ## Room 5: Reward / Revelation
 ### Room Type (Roll 2d6)
@@ -163,6 +185,8 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 11 | **Immediate Extraction:** A safe, unexpected way out. *Directions: 1) A hidden minecart track leading directly to a friendly clearing. 2) A functional hot air balloon or glider. 3) A secret tunnel bypassing all enemies and the forest.* |
 | 12 | **Slumbering Behemoth:** A massive threat holding a valuable component. *Directions: 1) An ancient, hibernating beast; the "reward" is harvesting its scales without waking it. 2) A massive, dormant war machine holding a rare engine core. 3) A sleeping colossus guarding the true exit.* |
 
+^d2d42a
+
 ### Interesting Things (Gameplay Effect) (Roll 2d6)
 | 2d6 | Gameplay Effect |
 | --- | --- |
@@ -178,6 +202,8 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 11 | **Imminent Collapse:** Grabbing the loot triggers the dungeon's destruction. *Directions: 1) A countdown mechanism: flee immediately or be crushed. 2) Removing the idol causes the room to flood rapidly. 3) The treasure chest is the load-bearing pillar of the cavern.* |
 | 12 | **Proof of Lineage:** An item that changes a character's backstory. *Directions: 1) A document proving a Vagabond is the heir to a Woodland title. 2) A diary revealing a Vagabond's family was framed. 3) A signet ring identifying the bearer as the true leader of a local rebellion.* |
 
+^13fca8
+
 ## Twist / Plot Hook (Roll 2d6)
 | 2d6 | Twist |
 | --- | --- |
@@ -192,3 +218,6 @@ To build your dungeon, roll on the Theme table, then roll on the respective Room
 | 10 | **Geographic Displacement:** The exit is not where the entrance was. *Directions: 1) The tunnel caved in, and a landslide wiped out the path; you are lost. 2) The exit tunnel leads miles away into hostile territory. 3) You emerge onto a cliff face with no way down.* |
 | 11 | **The Swarm:** An overwhelming force arrives. *Directions: 1) A horde of Lord of Hundreds mice swarms the area, forcing a retreat. 2) Thousands of aggressive bats wake up and fill the tunnels. 3) A massive migration of deer trampe the campsite outside.* |
 | 12 | **Political Claim:** The location itself becomes a flashpoint. *Directions: 1) An Eyrie commander declares the ruin belongs to them; keeping loot is treason. 2) The Marquisate decides to build a fortress on top of the entrance. 3) The Alliance uses the dungeon as their new capital, drafting the Vagabonds.* |
+
+^0796e5
+
