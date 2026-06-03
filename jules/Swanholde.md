@@ -18,14 +18,20 @@ Swanholde is a bustling clearing situated along a major riverway, historically k
 ### Elder Vulpis (Fox)
 The recognized leader of the local foxes. Vulpis is old, tired, and deeply pragmatic. He wears an intricate, albeit faded, silken sash indicating his status. Vulpis believes that outright rebellion against the Marquise will only lead to the destruction of Swanholde. He spends his days in exhausting negotiations with the feline overlords, trying to soften their demands while urging his people to remain compliant for their own safety.
 *Drive: To protect his people by maintaining a fragile peace.*
+*Fear: That the younger generation will rise up, forcing the Marquise to burn Swanholde to the ground in retaliation.*
+*Secret: He has been siphoning small amounts of community rations to bribe Marquise guards into looking the other way during curfew.*
 
 ### Reynard 'The Slip' (Fox)
 A charismatic and sharp-tongued merchant who runs a modest trading post in the Terraces. Outwardly, Reynard deals in river-stones, woven baskets, and dried fish. Secretly, he is a smuggler and information broker, funneling resources to those who resist the Marquise and occasionally passing messages for the Woodland Alliance. He is dangerous because he plays all sides for profit and spite.
 *Drive: To undermine the Marquise while enriching himself.*
+*Fear: Being caught by the Marquise without a backup plan, leading to a swift and brutal execution.*
+*Secret: He once sold out a prominent Woodland Alliance sympathizer to the Marquise to secure his current smuggling route.*
 
 ### Captain Aridara (Cat)
 The Marquise de Cat commander in charge of Swanholde. Aridara is a scarred, no-nonsense veteran of the initial invasion. She wears polished half-plate armor and carries a heavy, custom-forged halberd. She views the foxes not with malice, but with cold, calculating utility. Her mandate is to keep the lumber flowing to the capital, and she will crush any dissent with overwhelming, disciplined force. She is currently frustrated by the disruption caused by the Sibilant Snake.
 *Drive: To meet her quotas and maintain absolute order in the clearing.*
+*Fear: Failing the Marquise higher-ups and being demoted or reassigned to a meaningless outpost.*
+*Secret: The brutal quotas are actually a cover; she is skimming premium ironwood to build a private fortune back in Le Monde de Cat.*
 
 ## The Problems
 
