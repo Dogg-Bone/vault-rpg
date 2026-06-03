@@ -30,6 +30,8 @@ A charismatic and sharp-tongued merchant who runs a modest trading post in the T
 *Drive: To undermine the Marquise while enriching himself.*
 *Fear: Being caught by the Marquise without a backup plan, leading to a swift and brutal execution.*
 *Secret: He once sold out a prominent Woodland Alliance sympathizer to the Marquise to secure his current smuggling route.*
+*Current Wares:* Dried fish, woven baskets, river-stones (as a front). Secretly sells lockpicks, basic woodland weaponry (daggers, shortbows), and forged Marquise travel papers.
+*Can Acquire:* Given a week and a hefty deposit, he can source stolen Marquise armor, localized patrol maps, and rare poisons.
 *Request:* He asks the Vagabonds to steal a specific, sealed ledger from Captain Aridara's office in the Ironwood Mill, promising them a cut of the blackmail money it will surely yield.
 *Rumor to share:* He can tell the Vagabonds that 'Smiles' the Otter isn't a tough guy—those muscle-bound bodyguards are just desperate debtors whose families are being threatened with ruin.
 
@@ -57,6 +59,8 @@ A smooth-talking Riverfolk Company representative operating out of a heavily pat
 *Drive: To extract maximum profit from the desperation of Swanholde's denizens.*
 *Fear: The Marquise outright confiscating his skiff and goods, declaring his operation illegal under martial law.*
 *Secret: His "bodyguards" are actually heavily indebted locals whose families he is holding hostage via financial ruin.*
+*Current Wares:* Exorbitant loans, hired muscle (his indebted bodyguards), safe passage downriver on Company skiffs, and imported goods like waterproof cloaks and foreign spices.
+*Can Acquire:* Using the vast Riverfolk network, he can acquire almost anything given a month and immense wealth, including masterwork weapons, clockwork mechanisms from the deep wood, or top-secret faction intelligence.
 *Request:* He asks the Vagabonds to collect on a massive debt owed by Reynard 'The Slip', offering them a significant percentage of the recovery if they can squeeze the slippery fox.
 *Rumor to share:* He implies to the Vagabonds that Captain Aridara isn't the loyal soldier she pretends to be, noting that he's seen unmarked barges loaded with premium timber floating past his skiff late at night.
 
