@@ -57,3 +57,6 @@ Recently displaced from its ancient lair in the Sunken Tomb (west of the clearin
 
 ### Problem 2: The Crushing Quota
 Captain Aridara has recently received orders from the capital to double the lumber output of the Ironwood Mill. To meet this impossible demand, she has instituted mandatory conscription, forcing the fox inhabitants to work exhausting shifts in the dangerous mill or drag heavy logs through the mud. The oppressive labor is pushing the foxes to the breaking point. Elder Vulpis is losing control of the angry youth, and Reynard is using the tension to fan the flames of a potential, bloody uprising.
+
+## Rumors & Hooks
+- **The Master Smith:** Reynard 'The Slip' is quietly seeking Vagabonds who have acquired broken, ancient, or otherwise valuable weaponry (such as those found in old ruins). He claims to know the location of a reclusive, incredibly gifted blacksmith hidden deep in the woodland—a smith capable of repairing true masterwork items that ordinary ferriers would ruin. Reynard refuses to name the smith, only offering to broker an introduction or provide a map in exchange for a staggering sum of coin or a massive favor against the Marquise.
