@@ -11,12 +11,14 @@
             "id": "c0e5769ed9703a6b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "_PDF Archive/Root-Travelers-Outsiders.pdf"
+                "file": "_Templates/test template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Root-Travelers-Outsiders"
+              "icon": "lucide-file",
+              "title": "test template"
             }
           },
           {
@@ -219,6 +221,16 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "edb5918b53ef45cc",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
       }
     ],
     "currentTab": 0
@@ -238,6 +250,8 @@
   },
   "active": "c0e5769ed9703a6b",
   "lastOpenFiles": [
+    "_Templates/NPC Template.md",
+    "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "_PDF Archive/Root-Core-Book.pdf",
     "Encounter Tables/Large animals in the fiction.md",
     "Bison.md",
@@ -248,7 +262,6 @@
     "Woodland Lost/NPCs/Jyn Erso.md",
     "Woodland Lost/NPCs/Count Shortpaw.md",
     "Woodland Lost/NPCs/Galen Erso.md",
-    "_Templates/NPC Template.md",
     "Faction Combos.md",
     "Untitled",
     "Notes from Johnn Four.md",
