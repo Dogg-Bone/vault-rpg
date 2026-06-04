@@ -34,6 +34,9 @@ Core and Exiles & Partisans
 	- Wardens/Constables - command fortresses and defenses
 	- Conscripts - Militia, Arbaletriers (archers, longbowmen, crossbowmen), Pikemen/Halbardiers, Peasant Levies - these provide their own weapons
 	- Mercenaries
+	- Capitaines, Lieutenants
+- Prevot - local royal enforcer and lower-level judge
+- Senechaux - high ranking regional magistrates, effectively a secular inquisitor
 - Marquis were assigned the borders, or marches, of the land. The [[Marquise de Cat]] could consider [[The Woodland]] a march.
 
 # [[Woodland Alliance]]
