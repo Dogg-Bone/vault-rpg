@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 
 excalidraw-plugin: parsed
