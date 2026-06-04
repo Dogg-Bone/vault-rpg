@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 name:
 description:
@@ -15,6 +16,8 @@ species:
 =======
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main
 ---
 name:
 description:
@@ -28,6 +31,9 @@ species:
 #npc
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 42c7b7dd3c857e20c5296a92b55dbce7b4fd9b4e
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main

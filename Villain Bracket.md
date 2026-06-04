@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Round 1
 1. Voldemort
 2. Vizzini
@@ -93,6 +94,8 @@ King Candy
 =======
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main
 # Round 1
 1. Voldemort
 2. Vizzini
@@ -184,6 +187,9 @@ Luke Castillo
 Count Olaf
 King Candy
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 42c7b7dd3c857e20c5296a92b55dbce7b4fd9b4e
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main

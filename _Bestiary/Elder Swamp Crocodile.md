@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 statblock: inline
 name: Elder Swamp Crocodile
@@ -30,6 +31,8 @@ description: "An enormous, ancient crocodile whose heavily armored back is compl
 =======
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main
 ---
 statblock: inline
 name: Elder Swamp Crocodile
@@ -58,7 +61,10 @@ description: "An enormous, ancient crocodile whose heavily armored back is compl
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 42c7b7dd3c857e20c5296a92b55dbce7b4fd9b4e
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
 ![[Giant King Centipede-1779583162572.webp]]

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 author: jules
 ---
@@ -93,6 +94,8 @@ Captain Aridara has recently received orders from the capital to double the lumb
 =======
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main
 ---
 author: jules
 ---
@@ -184,7 +187,10 @@ Captain Aridara has recently received orders from the capital to double the lumb
 | **10** | The Sibilant Snake has slithered uncomfortably close to the clearing's edge. It is currently wrapped around the supports of the Riverside Terraces, refusing to let a terrified group of fox kits leave until they answer a riddle about "the wind." |
 | **11** | Kaelen 'Red-Tooth' approaches the Vagabonds with a stolen, leaking barrel of black powder. He has no idea how to safely rig it, and his reckless handling threatens to blow up a large chunk of the Terraces. |
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 42c7b7dd3c857e20c5296a92b55dbce7b4fd9b4e
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
 | **12** | An unmarked barge quietly docks near the Ironwood Mill in the dead of night. Captain Aridara is personally loading crates of premium ironwood onto it, guarded by mercenaries. The Vagabonds have just witnessed her skimming operation firsthand. |
