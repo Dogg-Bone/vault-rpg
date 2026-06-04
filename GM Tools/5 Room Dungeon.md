@@ -97,4 +97,4 @@ Generalized to the **5 Scene Adventure**
 
 ## Topology
 
-![[The-21-Forms of a 5 Room Dungeon.png]]
+![[The-21-Forms of a 5 Room Dungeon.webp]]

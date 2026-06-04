@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 statblock: inline
 name: Elder Swamp Crocodile
@@ -27,6 +28,8 @@ description: "An enormous, ancient crocodile whose heavily armored back is compl
 ```
 
 =======
+=======
+>>>>>>> origin/main
 ---
 statblock: inline
 name: Elder Swamp Crocodile
@@ -54,5 +57,8 @@ move_03: Still as a Log - Ambushes from beneath perfectly still water, forcing v
 description: "An enormous, ancient crocodile whose heavily armored back is completely overgrown with thick swamp moss, rotting wood, and tangled roots. It lurks in the deepest bogs, acting as a terrifying, territorial brute that demands respect—or a meal—from anyone attempting to cross its waters."
 ```
 
+<<<<<<< HEAD
 >>>>>>> 42c7b7dd3c857e20c5296a92b55dbce7b4fd9b4e
+=======
+>>>>>>> origin/main
 ![[Giant King Centipede-1779583162572.webp]]
