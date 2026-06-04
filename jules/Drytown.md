@@ -27,12 +27,12 @@ The Eyrie Dynasties commander appointed to rule Drytown. Commander Vance is an u
 *Request:* He hires the Vagabonds to discreetly retrieve a heavily falsified operational ledger. The messenger carrying it was robbed near the edges of the Deep Slums, and if the Eyrie lords see the real numbers, Vance is ruined. He promises the Vagabonds access to the heavily guarded Eyrie armory to claim confiscated masterwork weaponry upon its return.
 *Rumor to share:* He smugly informs the Vagabonds that the beloved Matriarch Pip isn't the saint she appears to be, suggesting she is hoarding a secret, private water cache while her own people dehydrate.
 
-### Barnaby Quill (Code Name: Rook) (Crow)
-A master of disguise and a high-ranking agent of the Corvid Conspiracy. Barnaby currently operates under the guise of an eccentric antiquities dealer in the Grand Market. He uses his shop to launder money, distribute coded messages, and smuggle weapons into the Deep Slums. He is charming, cynical, and deeply committed to plunging Drytown into anarchy.
+### Barnaby Thistle (Code Name: Rook) (Mouse)
+A fast-talking smuggler and a field operative for the Corvid Conspiracy. Barnaby currently operates under the guise of an eccentric antiquities dealer in the Grand Market. He is not the mastermind; he takes direct orders from the unseen, true head of the Conspiracy in Drytown, using his shop to launder money, distribute coded messages, and smuggle tainted supplies into the Deep Slums. He is charming, cynical, and desperate to prove his worth to his mysterious boss.
 *Location: Tending to a dusty stall of 'ancient' trinkets in The Grand Market, or holding court in The Whispering Cellars at night.*
-*Drive: To humiliate the Eyrie Dynasties and detonate their sense of order.*
-*Fear: Being betrayed by one of his own informants for a bounty.*
-*Secret: He isn't actually a master planner; his "conspiracies" are mostly improvised chaos that he pretends were part of a grand design.*
+*Drive: To execute his orders perfectly and earn a permanent place in the Conspiracy's inner circle.*
+*Fear: Failing his mysterious superior, which he knows would result in a swift, silent assassination.*
+*Secret: He doesn't actually know who his boss is, receiving his orders entirely through dead drops and coded messages.*
 *Current Wares:* (Front) Dusty trinkets, old maps, broken pottery. (Secret) Lockpicks, smoke bombs, hidden blades, untraceable poisons.
 *Can Acquire:* Given a few days, he can source highly illegal Corvid explosives, forged Eyrie decrees, or blueprints to the ancient stone walls.
 *Request:* He asks the Vagabonds to plant a satchel of stolen Eyrie coin in the wagon of a specific Riverfolk merchant, framing them to cause a diplomatic incident between the factions.
@@ -56,7 +56,7 @@ The Corvid Conspiracy has deeply infiltrated Drytown, utilizing the chaotic arch
 Drytown is living up to its name. The ancient aqueduct system that historically supplied the massive clearing is failing, leaving the vast mouse population dangerously short on water. The Riverfolk Company has capitalized on this, monopolizing the remaining trickles and selling imported water at extortionate rates. The Eyrie has prioritized water for their soldiers, leaving the Deep Slums to die of thirst. The situation is a powder keg. The Vagabonds could investigate the source of the blockage upriver, negotiate (or fight) with the Riverfolk, or uncover hidden ancient cisterns within the city walls to save the populace.
 
 ## Rumors & Hooks
-- **The Sealed Vault:** Legends say that when the ancient builders constructed the stone walls of Drytown, they sealed a vault filled with their most powerful artifacts somewhere within the masonry. Barnaby Quill (Code Name: Rook) is actively looking for Vagabonds to help him find and breach this vault before the Eyrie realizes it exists.
+- **The Sealed Vault:** Legends say that when the ancient builders constructed the stone walls of Drytown, they sealed a vault filled with their most powerful artifacts somewhere within the masonry. Barnaby Thistle (Code Name: Rook) is actively looking for Vagabonds to help him find and breach this vault before the Eyrie realizes it exists.
 
 ## First Session Encounters
 | Roll | Encounter |
@@ -66,8 +66,8 @@ Drytown is living up to its name. The ancient aqueduct system that historically 
 | **4** | An Eyrie patrol stops the Vagabonds on the Commander's Promenade, aggressively demanding to see their travel papers and confiscating any "unlicensed" weaponry. |
 | **5** | Matriarch Pip desperately pulls the Vagabonds into an alley. She has found a cache of tainted grain meant for the slum's soup kitchen, laced with a potent hallucinogen, and needs help disposing of it safely. |
 | **6** | A brawl breaks out at the remaining public water pump between desperate mice and well-fed Eyrie soldiers. The Vagabonds are caught right in the middle of the violence. |
-| **7** | The Vagabonds find a hidden cache of stolen goods stashed by fugitives trying to buy their way out of the city before the Conspiracy catches them. |
-| **8** | A desperate fugitive, wounded by a poisoned Corvid blade, collapses at the Vagabonds' feet begging them to deliver a warning to their family. |
+| **7** | A heavily cloaked fugitive corners the Vagabonds in the market, offering them a priceless family heirloom if they will cause a massive, public distraction allowing the fugitives to slip through the Eyrie gates. |
+| **8** | The Vagabonds stumble upon an aggressive Eyrie patrol harshly interrogating a terrified slum-dweller about the fugitives' whereabouts, forcing the Vagabonds to decide whether to intervene and blow their cover. |
 | **9** | Commander Aurelius Vance publicly announces a massive bounty for the capture of any Corvid agents, dead or alive, causing the clearing to erupt into a violent witch hunt. |
 | **10**| A group of terrified fugitives who recently crossed the Corvid Conspiracy beg the Vagabonds for safe escort out of the city before Rook's assassins find them. |
 | **11**| The Vagabonds stumble upon a secret meeting between a Riverfolk Company merchant and an Eyrie officer, discussing a kickback scheme involving the city's water supply. |
