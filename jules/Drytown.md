@@ -66,9 +66,9 @@ Drytown is living up to its name. The ancient aqueduct system that historically 
 | **4** | An Eyrie patrol stops the Vagabonds on the Commander's Promenade, aggressively demanding to see their travel papers and confiscating any "unlicensed" weaponry. |
 | **5** | Matriarch Pip desperately pulls the Vagabonds into an alley. She has found a cache of tainted grain meant for the slum's soup kitchen, laced with a potent hallucinogen, and needs help disposing of it safely. |
 | **6** | A brawl breaks out at the remaining public water pump between desperate mice and well-fed Eyrie soldiers. The Vagabonds are caught right in the middle of the violence. |
-| **7** | Barnaby, in disguise, approaches the Vagabonds with a "treasure map" to a hidden section of the ancient walls, but it's actually a trap designed to lead Eyrie guards into an ambush. |
-| **8** | The Vagabonds discover a hidden, narrow passage inside the ancient stone walls, but it is heavily trapped with ancient, tripwire-activated mechanisms. |
+| **7** | The Vagabonds find a hidden cache of stolen goods stashed by fugitives trying to buy their way out of the city before the Conspiracy catches them. |
+| **8** | A desperate fugitive, wounded by a poisoned Corvid blade, collapses at the Vagabonds' feet begging them to deliver a warning to their family. |
 | **9** | Commander Aurelius Vance publicly announces a massive bounty for the capture of any Corvid agents, dead or alive, causing the clearing to erupt into a violent witch hunt. |
-| **10**| A group of Woodland Alliance sympathizers (whom Barnaby is trying to drive out) ask the Vagabonds for safe escort out of the city, away from the Corvid-Eyrie turf war. |
+| **10**| A group of terrified fugitives who recently crossed the Corvid Conspiracy beg the Vagabonds for safe escort out of the city before Rook's assassins find them. |
 | **11**| The Vagabonds stumble upon a secret meeting between a Riverfolk Company merchant and an Eyrie officer, discussing a kickback scheme involving the city's water supply. |
 | **12**| Widespread, coordinated poisoning of the remaining Eyrie water supply takes effect simultaneously, leaving half the avian garrison paralyzed and plunging the city into vulnerable anarchy. |
