@@ -2,12 +2,12 @@
 
 # Decks
 Core and Exiles & Partisans
-- [ ] for each card, if it could be an interesting item, NPC, or creature, add it to the bestiary
-- [ ] If the card could be a cool hook, add it to a hook inspo board or something
+- [x] for each card, if it could be an interesting item, NPC, or creature, add it to the bestiary
+- [x] If the card could be a cool hook, add it to a hook inspo board or something
 
 # Faction Setup
 - [ ] Use each faction's setup, basic and advanced, to influence woodland map generation
-- [ ] For each faction's board actions, look for adventure hooks or faction events
+- [x] For each faction's board actions, look for adventure hooks or faction events
 
 # [[Eyrie Dynasties]]
 - [ ] Create an NPC for each leader (Despot, Builder, Commander...)
