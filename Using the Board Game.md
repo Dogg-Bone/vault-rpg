@@ -23,8 +23,18 @@ Core and Exiles & Partisans
 	4. **Comte** (Count)
 	5. **Vicomte** (Viscount)
 	6. **Baron**
-	7. **Chevalier** (Knight) or Écuyer (Esquire)
+	7. **Chevalier** (Knight) or Écuyer (Squire)
 - [ ] Build an awesome Keep
+- [ ] Troops
+	- 1 Marechal
+	- Chevaliers (Military service days in exchange for land)
+	- Gens d'armes (men at arms, wealthy commoners or minor gentry who fight for pay)
+	- Ecuyers
+	- Sergents d'armes
+	- Wardens/Constables - command fortresses and defenses
+	- Conscripts - Militia, Arbaletriers (archers, longbowmen, crossbowmen), Pikemen/Halbardiers, Peasant Levies - these provide their own weapons
+	- Mercenaries
+- Marquis were assigned the borders, or marches, of the land. The [[Marquise de Cat]] could consider [[The Woodland]] a march.
 
 # [[Woodland Alliance]]
 - [ ] Rebel leader for each suit, rabbit, mouse, fox. Like Luthen, Saw, Mothma or something like that
