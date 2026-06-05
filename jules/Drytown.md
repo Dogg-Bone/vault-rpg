@@ -75,14 +75,8 @@ The Corvid Conspiracy has deeply infiltrated Drytown, utilizing the chaotic arch
 ### Problem 2: The Parched Crisis
 Drytown is living up to its name. The ancient aqueduct system that historically supplied the massive clearing is failing, leaving the vast mouse population dangerously short on water. The Riverfolk Company has capitalized on this, monopolizing the remaining trickles and selling imported water at extortionate rates. The Eyrie has prioritized water for their soldiers, leaving the Deep Slums to die of thirst. The situation is a powder keg. The Vagabonds could investigate the source of the blockage upriver, negotiate (or fight) with the Riverfolk, or uncover hidden ancient cisterns within the city walls to save the populace.
 
-## Custom Move: Traverse the Ancient Walls
-When you **attempt to use the crumbling, trapped ancient walls to bypass Eyrie patrols or access a restricted area**, roll with **Finesse**.
-- **On a 10+,** you navigate the perilous drops and ancient tripwires flawlessly; you get where you are going completely undetected.
-- **On a 7-9,** you make it through, but choose one:
-  - You trigger an ancient cloud of dust or a minor trap, marking 1 **Exhaustion**.
-  - Your noisy passage alerts an Eyrie patrol; you arrive, but they are searching the area right behind you.
-  - You must leave something important behind in a tight squeeze (mark 1 **Depletion**).
-- **On a miss,** you spring a deadly ancient mechanism, triggering a localized collapse. You take 2 **Injury** and are hopelessly pinned until you can make enough noise to attract someone (likely the Eyrie guards).
+## Special Rule: The Parched Air
+The drought and dust in Drytown are inescapable and punishing. While operating within the clearing or its immediate surrounding forests, Vagabonds cannot clear **Exhaustion** by resting unless they also consume a ration of clean, fresh water. Because the Riverfolk Company heavily controls the water supply, a single ration of clean water currently costs **3-Value** in coin or trade goods at the Grand Market. If Vagabonds cannot secure clean water, they may rest, but they do not clear any Exhaustion boxes.
 
 ## Rumors & Hooks
 - **The Sealed Vault:** Legends say that when the ancient builders constructed the stone walls of Drytown, they sealed a vault filled with their most powerful artifacts somewhere within the masonry. Barnaby Thistle (Code Name: Rook) is actively looking for Vagabonds to help him find and breach this vault before the Eyrie realizes it exists.
