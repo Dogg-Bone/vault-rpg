@@ -87,9 +87,9 @@ Drytown is living up to its name. The ancient aqueduct system that historically 
 ## Special Rule: The Parched Air
 The drought and dust in Drytown are inescapable and punishing. While operating within the clearing or its immediate surrounding forests, Vagabonds cannot clear **Exhaustion** by resting unless they also consume a ration of clean, fresh water. Because the Riverfolk Company heavily controls the water supply, a single ration of clean water currently costs **3-Value** in coin or trade goods at the Grand Market. If Vagabonds cannot secure clean water, they may rest, but they do not clear any Exhaustion boxes.
 
-## Special Resource: Grave-Dust Chalk
-Because of the unique, crumbling ancient masonry that makes up Drytown's walls and aqueducts, Vagabonds can easily acquire **Grave-Dust Chalk** from local scavengers or by harvesting it themselves deep in the slums.
-* **Mechanical Benefit:** When you use a piece of Grave-Dust Chalk to draw a temporary blending rune on your cloak or armor, mark 1 **Depletion**. You gain a **+1 ongoing** to **Sneak** rolls while remaining entirely motionless against stone surfaces. The effect lasts until you are exposed to heavy rain or water.
+## Special Resource: Ancient Mason's Ash
+Because of the unique, crumbling ancient masonry that makes up Drytown's walls and aqueducts, Vagabonds can easily acquire pouches of **Ancient Mason's Ash** from local scavengers or by harvesting it themselves deep in the slums.
+* **Mechanical Benefit:** When you take the time to thoroughly coat your cloak and fur/feathers in this fine, color-matching dust, mark 1 **Depletion**. You gain a **+1 ongoing** to **Sneak** rolls while remaining motionless against stone surfaces. The mundane camouflage effect lasts until you are exposed to heavy rain, water, or engage in vigorous combat.
 
 ## Rumors & Hooks
 - **The Sealed Vault:** Legends say that when the ancient builders constructed the stone walls of Drytown, they sealed a vault filled with their most powerful artifacts somewhere within the masonry. Barnaby Thistle (Code Name: Rook) is actively looking for Vagabonds to help him find and breach this vault before the Eyrie realizes it exists.
