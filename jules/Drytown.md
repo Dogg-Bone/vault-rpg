@@ -10,7 +10,7 @@ author: jules
 Drytown is a sprawling, almost city-sized clearing encircled by towering, ancient stone walls built by a long-forgotten civilization. The architecture within is a stark contrast of eras: massive, crumbling stone monoliths are intricately honeycombed with the wooden scaffolding, rope bridges, and densely packed burrows of the resident mice. The Eyrie Dynasties have established absolute control, their regal blue banners draping aggressively over the sun-bleached masonry. The air is arid and thick with dust, filled with the cacophony of a thousand mice going about their daily toil under the strict, watchful eyes of avian patrols.
 
 ## Important Locations
-- **The Stone Roost:** A heavily fortified, ancient state building built into the eastern wall. The Eyrie Dynasties have claimed this imposing structure, bristling with ballistae and guarded by elite hawk soldiers, as their seat of power and main roost.
+- **The Stone Roost:** A heavily fortified, ancient state building built into the eastern wall. The Eyrie Dynasties have claimed this imposing structure as their seat of power and main roost. While it bristles with ballistae, the avian garrison inside is demoralized, dehydrated, and stretched incredibly thin due to Commander Vance's constant patrols. It also houses other high-ranking avian nobility, most notably Chancellor Peregrine, an exhausted bureaucrat who manages the city's failing logistics.
 - **The Grand Market:** A sprawling, chaotic bazaar situated in the shadow of a collapsed stone aqueduct. Here, Riverfolk Company merchants peddle imported water and exotic goods from their heavy wagons, gouging the desperate locals.
 - **The Deep Slums:** An intensely overcrowded network of subterranean tunnels and root-cellars beneath the city streets. It is a maze of desperate poverty and the perfect hiding place for the Corvid Conspiracy to plot their sabotage.
 - **The Parched Aqueduct:** A massive, ruined stone channel that once brought fresh water to the city. It is now mostly dry, save for a few heavily-guarded trickle-pools. Vagabonds often use its hollowed-out pillars as hidden highways across the city.
@@ -63,7 +63,7 @@ The elusive, true head of the Corvid Conspiracy in Drytown, and Barnaby's myster
 *Location: Hidden away in the deepest, most secure section of The Whispering Cellars, surrounded by loyal enforcers.*
 *Drive: To completely destabilize the Eyrie's control and claim Drytown for the Corvid Conspiracy without a direct military confrontation.*
 *Fear: That an operative like Barnaby will be captured alive and break under Eyrie interrogation, exposing her entire network.*
-*Secret: She is actively manipulating both the Eyrie and the Riverfolk against each other, ensuring the populace's anger is directed anywhere but at her.*
+*Secret: She already has Chancellor Peregrine on her payroll, and has blackmailed several key Riverfolk mercenaries. She uses them to do her dirty work and manipulate the factions against each other, ensuring the populace's anger is never directed at her.*
 *Request:* She asks the Vagabonds to plant evidence of a Riverfolk kickback scheme in Commander Vance's personal quarters, framing him for corruption and forcing the Eyrie to recall him in disgrace.
 *Rumor to share:* She whispers that Saffron Scales is responsible for the blocked aqueduct, holding the proof necessary to ruin the Riverfolk merchant if the Vagabonds are willing to do her bidding.
 
