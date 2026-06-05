@@ -66,8 +66,8 @@ Drytown is living up to its name. The ancient aqueduct system that historically 
 | **4** | An Eyrie patrol stops the Vagabonds on the Commander's Promenade, aggressively demanding to see their travel papers and confiscating any "unlicensed" weaponry. |
 | **5** | Matriarch Pip desperately pulls the Vagabonds into an alley. She has found a cache of tainted grain meant for the slum's soup kitchen, laced with a potent hallucinogen, and needs help disposing of it safely. |
 | **6** | A brawl breaks out at the remaining public water pump between desperate mice and well-fed Eyrie soldiers. The Vagabonds are caught right in the middle of the violence. |
-| **7** | A heavily cloaked fugitive corners the Vagabonds in the market, offering them a priceless family heirloom if they will cause a massive, public distraction allowing the fugitives to slip through the Eyrie gates. |
-| **8** | The Vagabonds stumble upon an aggressive Eyrie patrol harshly interrogating a terrified slum-dweller about the fugitives' whereabouts, forcing the Vagabonds to decide whether to intervene and blow their cover. |
+| **7** | The Vagabonds are caught in the path of a terrified, paranoid mob of mice who are convinced the local bakery's flour has been poisoned by the Corvids, threatening to burn the building down. |
+| **8** | A Riverfolk Company merchant is aggressively auctioning off a small barrel of murky, foul-smelling water to a crowd of desperately dehydrated slum-dwellers, sparking a violent bidding war that threatens to turn into a riot. |
 | **9** | Commander Aurelius Vance publicly announces a massive bounty for the capture of any Corvid agents, dead or alive, causing the clearing to erupt into a violent witch hunt. |
 | **10**| A group of terrified fugitives who recently crossed the Corvid Conspiracy beg the Vagabonds for safe escort out of the city before Rook's assassins find them. |
 | **11**| The Vagabonds stumble upon a secret meeting between a Riverfolk Company merchant and an Eyrie officer, discussing a kickback scheme involving the city's water supply. |
