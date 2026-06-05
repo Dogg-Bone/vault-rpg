@@ -47,6 +47,26 @@ The unofficial leader of the Deep Slums. Pip is an elderly, exhausted mouse who 
 *Request:* She begs the Vagabonds to intercept a shipment of "relief supplies" orchestrated by Barnaby, suspecting the grain is laced with a potent hallucinogen meant to spark a frenzy.
 *Rumor to share:* She warns the Vagabonds that the 'antiquities dealer' in the market (Barnaby) is bad news, noting she saw him paying off Woodland Alliance scouts to leave the clearing entirely.
 
+### Saffron "Slippery" Scales (Otter)
+A ruthless and extravagantly dressed Riverfolk Company merchant who essentially runs the Grand Market. Saffron is making a fortune off the Parched Crisis, importing water from upriver and selling it at extortionate rates to the desperate mouse population. She is constantly surrounded by a retinue of heavily armed, well-paid guards.
+*Location: Holding court from the back of an opulent, reinforced trade wagon in the center of The Grand Market.*
+*Drive: To extract maximum profit from Drytown's misery before the clearing inevitably collapses into anarchy.*
+*Fear: That the Eyrie will nationalize her water shipments, or that the locals will successfully unblock the ancient aqueduct.*
+*Secret: She is the one secretly paying mercenaries to dam the aqueduct's source upriver, creating the very crisis she is profiting from.*
+*Current Wares:* Clean imported water (exorbitant prices), foreign spices, fine textiles, and overpriced mercenary contracts.
+*Can Acquire:* Given a week, she can source almost any legal or semi-legal trade good, including high-quality lockpicks, rare medicinal herbs, or blueprints of Eyrie supply routes.
+*Request:* She hires the Vagabonds to discreetly sabotage a rival Riverfolk merchant's wagon, ensuring she maintains her monopoly over the water supply. She offers a substantial amount of coin and a small, steady supply of clean water as payment.
+*Rumor to share:* She casually mentions that Commander Vance's "iron grip" is a facade, noting that she has seen Eyrie guards turning a blind eye to Corvid smuggling in exchange for fresh water.
+
+### Madam Whisper (Crow)
+The elusive, true head of the Corvid Conspiracy in Drytown, and Barnaby's mysterious boss. Madam Whisper is rarely seen and never operates in the open, preferring to pull strings from the shadows of the Whispering Cellars. She is a master manipulator who views the entire clearing as a grand chessboard.
+*Location: Hidden away in the deepest, most secure section of The Whispering Cellars, surrounded by loyal enforcers.*
+*Drive: To completely destabilize the Eyrie's control and claim Drytown for the Corvid Conspiracy without a direct military confrontation.*
+*Fear: That an operative like Barnaby will be captured alive and break under Eyrie interrogation, exposing her entire network.*
+*Secret: She is actively manipulating both the Eyrie and the Riverfolk against each other, ensuring the populace's anger is directed anywhere but at her.*
+*Request:* She asks the Vagabonds to plant evidence of a Riverfolk kickback scheme in Commander Vance's personal quarters, framing him for corruption and forcing the Eyrie to recall him in disgrace.
+*Rumor to share:* She whispers that Saffron Scales is responsible for the blocked aqueduct, holding the proof necessary to ruin the Riverfolk merchant if the Vagabonds are willing to do her bidding.
+
 ## The Problems
 
 ### Problem 1: The Corvid Sabotage
