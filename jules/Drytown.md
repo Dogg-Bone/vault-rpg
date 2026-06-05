@@ -67,6 +67,15 @@ The elusive, true head of the Corvid Conspiracy in Drytown, and Barnaby's myster
 *Request:* She asks the Vagabonds to plant evidence of a Riverfolk kickback scheme in Commander Vance's personal quarters, framing him for corruption and forcing the Eyrie to recall him in disgrace.
 *Rumor to share:* She whispers that Saffron Scales is responsible for the blocked aqueduct, holding the proof necessary to ruin the Riverfolk merchant if the Vagabonds are willing to do her bidding.
 
+### Chancellor Peregrine (Hawk)
+An exhausted, middle-aged Eyrie bureaucrat tasked with managing the failing logistics of Drytown. Peregrine is perpetually buried in paperwork and suffers from Commander Vance's impossible demands. He is a weak-willed bird who has completely compromised his morals just to keep his head above water.
+*Location: Slumped over a massive desk overflowing with requisition forms in the lower administrative levels of The Stone Roost.*
+*Drive: To survive his posting in Drytown without being executed for treason or dying of a stress-induced heart attack.*
+*Fear: That Commander Vance will discover his illicit connections with the Corvid Conspiracy and hang him from the Roost's highest balcony.*
+*Secret: He is firmly in the pocket of Madam Whisper. He manipulates patrol routes and supply drops to intentionally create blind spots for the Corvid operatives, all in exchange for enough coin to eventually flee the woodland.*
+*Request:* He desperately begs the Vagabonds to quietly eliminate a suspicious Eyrie auditor who was recently sent from the capital and is getting far too close to discovering his falsified patrol logs. He can offer official Eyrie travel documents and a stash of embezzled coin.
+*Rumor to share:* He nervously mutters that Barnaby Thistle in the Grand Market is far more dangerous than he looks, implying that the 'antiquities dealer' is actually a highly trained assassin waiting for an order.
+
 ## The Problems
 
 ### Problem 1: The Corvid Sabotage
