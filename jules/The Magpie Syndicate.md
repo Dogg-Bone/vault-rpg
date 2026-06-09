@@ -28,6 +28,14 @@ The Syndicate operates on a strict system of "earning," where promotion is based
 
 ## Notable NPCs
 
+### The Don: Malachi "The Vault" Thorne (Operative Code Name: *The Talon*)
+A massive, unnervingly calm Magpie dripping in ostentatious, stolen Marquisate gold jewelry. He runs the Syndicate not with frenzied greed, but with cold, calculating economic brutality.
+* **Location:** The heavily guarded master counting room deep within The Gilded Hollow.
+* **Fear:** That the Marquise de Cat will launch a full-scale military siege on his casino, destroying the wealth he has accumulated rather than negotiating.
+* **Secret:** He is secretly hoarding a massive cache of explosive powder, not for terrorism, but to blow the supports of The Gilded Hollow and bury the gold rather than let it be taken.
+* **Request for the Vagabonds:** He wants the Vagabonds to orchestrate a "bank run" on a rival Marquise-backed depository in a neighboring clearing to crash their local economy. *Reward:* First pick of the spoils from the depository, plus a high-ranking Syndicate contact.
+* **Opinion/Info:** "The Rooks? A bunch of dusty old birds playing dress-up with their papers and secrets. Give me ten enforcers and a bag of coin, and I'll show you who really rules the woodland."
+
 ### "Honest" Silas (Operative Code Name: *The Coin*)
 A flashy, fast-talking Magpie who wears entirely too much stolen jewelry. He runs a "legitimate" pawn shop that serves as a front for the Syndicate's fencing operations.
 * **Location:** Behind the counter of "Silas's Second-Hand Treasures."

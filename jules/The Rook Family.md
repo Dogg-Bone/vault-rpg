@@ -28,6 +28,14 @@ The Family is structured rigidly, resembling an older, formal syndicate:
 
 ## Notable NPCs
 
+### The Matriarch: Eleanor "The Widow" Sterling (Operative Code Name: *The Crown*)
+A frail, ancient Rook draped in mourning veils who has ruled the family for decades. She speaks softly, but her word dictates the rise and fall of woodland nobles.
+* **Location:** The deepest, most opulent private parlor beneath the Blackwood Spire.
+* **Fear:** That the younger generation of the Conspiracy, favoring explosives and chaos, will destroy the delicate web of control she has spent her life weaving.
+* **Secret:** She is the rightful, but unacknowledged, heir to a defunct Eyrie Dynasty, giving her a legitimate claim to the Woodland throne—a claim she uses merely as leverage.
+* **Request for the Vagabonds:** She requests the Vagabonds locate a specific, ancient family heirloom currently held by the Marquise. *Reward:* A permanent, powerful favor from the Rook Family, functioning as an absolute get-out-of-jail-free card with woodland nobility.
+* **Opinion/Info:** "The Magpies are crude, noisy beasts. They hoard coin like common bandits, but they lack the vision to see what coin is actually meant to buy: obedience."
+
 ### "Uncle" Barnaby (Operative Code Name: *The Quill*)
 An elderly, impeccably dressed Rook who operates an antique bookstore and scriptorium in a major Eyrie-controlled clearing.
 * **Location:** The dusty back room of "Barnaby's Rare Tomes."
