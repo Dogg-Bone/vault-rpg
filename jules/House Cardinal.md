@@ -22,7 +22,7 @@ Lorenzo is an older, stout cardinal with a meticulously groomed crest and eyes t
 Historically, House Cardinal was responsible for the construction of the Eyrie's most magnificent roosts—the sprawling complexes that once connected the highest branches of the Woodland. When the Dynasties fell, it was House Cardinal who managed to hide away the sacred texts detailing their engineering and smithing techniques. During the civil wars, they often played the role of neutral ground, offering repairs and supplies to whichever faction currently held power, ensuring their own survival.
 
 ## Notable Facts, Connections, and Resources
-- **The Roost-Builders:** They are the only House capable of rapidly constructing the complex, defensible Roosts the Eyrie requires to project power in a clearing.
+- **The Premier Roost-Builders:** While any Eyrie garrison can piece together basic fortifications, House Cardinal alone possesses the architectural secrets to rapidly construct the sprawling, highly defensible Roosts of old.
 - **Master Smiths:** Their weapons and armor are unparalleled within the Eyrie, rivaling even the finest Fox craftsmanship.
 - **Logistics Network:** They manage the vast majority of the Eyrie's supply chains, ensuring that troops have food and munitions.
 - **Rivalry:** They despise the Marquisate not just as invaders, but as careless industrialists who destroy the forest for cheap lumber rather than building in harmony with the trees.

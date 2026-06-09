@@ -25,5 +25,5 @@ In the old days of the Woodland, before the collapse of the Dynasties, House Str
 - **Military Academies:** House Strix maintains rigorous training roosts in the tallest ancient trees, producing the finest commanders and soldiers in the Woodland.
 - **The Night Watch:** They utilize their natural nocturnal abilities to run extensive scouting and night-raid operations, terrorizing enemy encampments.
 - **Rivalry:** They view House Condor's despotic tendencies as inefficient and bad for morale, preferring strict military law over arbitrary tyranny.
-- **Alliances:** While they scoff at the artisans of House Cardinal, Strix relies entirely on them for their heavy plate armor and weaponry, leading to a tense, symbiotic relationship.
+- **Alliances:** While they scoff at the artisans of House Cardinal, Strix strongly prefers to outfit their elite vanguard with Cardinal-forged heavy plate armor and weaponry, leading to a tense, mutually beneficial relationship.
 - **Resources:** They control significant caches of pre-collapse Eyrie weaponry, hidden deep within forgotten roosts.
