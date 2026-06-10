@@ -4,10 +4,10 @@ author: jules
 
 # The Magpie Syndicate
 
-If the Rook Family is the invisible hand guiding the Woodland's politics, the Magpie Syndicate is the heavy boot resting on its economy. Bold, aggressively wealthy, and fiercely territorial, this crime family operates like a sprawling, deeply entrenched mob. Primarily composed of Magpies—known for their striking black-and-white plumage and keen eye for valuables—the Syndicate is obsessed with the accumulation of wealth. They recruit heavily from the local denizens, offering protection, loans, and lucrative, if illegal, employment to those willing to look the other way.
+If the [[The Rook Family|Rook]] Family is the invisible hand guiding the Woodland's politics, the Magpie Syndicate is the heavy boot resting on its economy. Bold, aggressively wealthy, and fiercely territorial, this crime family operates like a sprawling, deeply entrenched mob. Primarily composed of Magpies—known for their striking black-and-white plumage and keen eye for valuables—the Syndicate is obsessed with the accumulation of wealth. They recruit heavily from the local denizens, offering protection, loans, and lucrative, if illegal, employment to those willing to look the other way.
 
 ## History
-The Magpie Syndicate began as a loose coalition of smugglers and highwaymen who realized that organized crime was far more profitable than chaotic banditry. During the early days of the Marquise de Cat's industrial expansion, the Magpies saw an opportunity. They didn't fight the Marquise; they bled them. By infiltrating supply lines, opening illicit gambling dens for overworked soldiers, and offering "protection" to local merchants, the Syndicate built an empire on the back of the Woodland's industrialization.
+The Magpie Syndicate began as a loose coalition of smugglers and highwaymen who realized that organized crime was far more profitable than chaotic banditry. During the early days of the [[Marquise de Cat]]'s industrial expansion, the Magpies saw an opportunity. They didn't fight the Marquise; they bled them. By infiltrating supply lines, opening illicit gambling dens for overworked soldiers, and offering "protection" to local merchants, the Syndicate built an empire on the back of the Woodland's industrialization.
 
 ## Current Operations
 The Magpie Syndicate controls the street-level illicit economy, focusing on the laypeople and the flow of goods:
@@ -33,7 +33,7 @@ A massive, unnervingly calm Magpie dripping in ostentatious, stolen Marquisate g
 * **Location:** The heavily guarded master counting room deep within The Gilded Hollow.
 * **Fear:** That the Marquise de Cat will launch a full-scale military siege on his casino, destroying the wealth he has accumulated rather than negotiating.
 * **Secret:** He is secretly hoarding a massive cache of explosive powder, not for terrorism, but to blow the supports of The Gilded Hollow and bury the gold rather than let it be taken.
-* **Request for the Vagabonds:** He wants the Vagabonds to orchestrate a "bank run" on a rival Marquise-backed depository in a neighboring clearing to crash their local economy. *Reward:* First pick of the spoils from the depository, plus a high-ranking Syndicate contact.
+* **Request for the [[Vagabonds]]:** He wants the Vagabonds to orchestrate a "bank run" on a rival Marquise-backed depository in a neighboring clearing to crash their local economy. *Reward:* First pick of the spoils from the depository, plus a high-ranking Syndicate contact.
 * **Opinion/Info:** "The Rooks? A bunch of dusty old birds playing dress-up with their papers and secrets. Give me ten enforcers and a bag of coin, and I'll show you who really rules the woodland."
 
 ### "Honest" Silas (Operative Code Name: *The Coin*)
@@ -59,5 +59,5 @@ A massive, scarred rabbit who serves as a Crew Boss and chief enforcer for the l
 | **2-3** | The Vagabonds enter a clearing to find a local bakery burned to the ground. The owner weeps, whispering that they missed their "insurance" payment to the Magpies. |
 | **4-6** | A desperate mouse begs the Vagabonds for help; they owe a massive gambling debt to the Syndicate, and the enforcers are coming to collect by sundown. |
 | **7-9** | A Marquise supply caravan is found abandoned. All the weapons are gone, but the food is left behind. A single Magpie feather is stuck into a crate. |
-| **10-11** | The Vagabonds are approached by a slick Magpie offering them a highly lucrative, but incredibly illegal, smuggling contract to move stolen Marquise iron across Eyrie lines. |
+| **10-11** | The Vagabonds are approached by a slick Magpie offering them a highly lucrative, but incredibly illegal, smuggling contract to move stolen Marquise iron across [[Eyrie Dynasties|Eyrie]] lines. |
 | **12** | The local mayor approaches the Vagabonds in secret. The Syndicate has completely taken over the town's economy, and the mayor wants to hire the Vagabonds to assassinate the local Crew Boss. |

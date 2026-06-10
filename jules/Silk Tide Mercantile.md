@@ -8,7 +8,7 @@ author: jules
 **Headquarters Base:** Highly mobile; operates out of sleek, low-profile skiffs that navigate the narrowest, darkest tributaries.
 
 ## Description
-Where the Undertow Shipping uses a sledgehammer, Silk Tide Mercantile uses a scalpel. They are the premier purveyors of the rare, the forbidden, and the highly illegal. They do not haul timber or iron; they haul spices from the deep south, masterwork clockwork from the ruins, powerful poisons, and desperate political exiles. Their vessels are built for speed and stealth—sleek, dark-wood skiffs that sit low in the water and are rowed with muffled oars, allowing them to slip past blockades and patrols in the dead of night.
+Where the [[Undertow Shipping]] uses a sledgehammer, Silk Tide Mercantile uses a scalpel. They are the premier purveyors of the rare, the forbidden, and the highly illegal. They do not haul timber or iron; they haul spices from the deep south, masterwork clockwork from the ruins, powerful poisons, and desperate political exiles. Their vessels are built for speed and stealth—sleek, dark-wood skiffs that sit low in the water and are rowed with muffled oars, allowing them to slip past blockades and patrols in the dead of night.
 
 Silk Tide Mercantile is just as dangerous as any heavy mercenary company, but their clout comes from leverage rather than brute force. They employ a small number of elite, highly trained operatives (often foxes and stoats) who act as assassins, saboteurs, or covert extractors for wealthy clients. Furthermore, because they smuggle goods for the powerful elite of every faction, they possess an incredible network of blackmail material.
 
@@ -20,9 +20,9 @@ Vane rarely raises her voice, speaking in soft, measured tones that force others
 - **Location:** Rarely in the same place twice; often holding secret meetings in hidden, water-accessible grottos or moving quickly downriver at night in her personal sleek skiff, *The Silent Promise*.
 - **Drive:** To pull the strings of the woodland's elite through accumulated leverage, becoming the true, unseen power behind the factions.
 - **Fear:** That the Corvid Conspiracy will successfully assassinate her and absorb her intelligence network into their own.
-- **Secret:** She holds a massive, crippling gambling debt to a Magpie Syndicate Don within the Corvid Conspiracy, forcing her to occasionally alter her smuggling routes or betray clients to keep the Don pacified.
-- **Request:** She asks the Vagabonds to break into the Corvid Conspiracy's local headquarters to steal a specific, encoded cipher ring, promising them a favor that "cannot be bought with coin."
-- **Opinion/Info:** She knows for a fact that the local Marquise commander's child is being held hostage in the capital to ensure his loyalty, making him desperate and unpredictable.
+- **Secret:** She holds a massive, crippling gambling debt to a Magpie [[The Magpie Syndicate|Syndicate]] Don within the Corvid Conspiracy, forcing her to occasionally alter her smuggling routes or betray clients to keep the Don pacified.
+- **Request:** She asks the [[Vagabonds]] to break into the Corvid Conspiracy's local headquarters to steal a specific, encoded cipher ring, promising them a favor that "cannot be bought with coin."
+- **Opinion/Info:** She knows for a fact that the local [[Marquise de Cat|Marquise]] commander's child is being held hostage in the capital to ensure his loyalty, making him desperate and unpredictable.
 - **Current Wares:** Exotic spices, rare poisons, lockpicks, smuggled luxury goods (silks, fine wines), safe passage for wanted individuals.
 - **Can Acquire:** High-level faction intelligence, deeply hidden blackmail material, elite assassination contracts, clockwork devices.
 
@@ -34,8 +34,8 @@ Silk Tide Mercantile thrives in the shadows and the gray areas of woodland law.
 
 ## Relations
 - **Marquise de Cat:** Officially, the Marquise heavily outlaws Silk Tide Mercantile, branding them smugglers and pirates. Unofficially, many Marquise commanders rely on them to acquire luxury goods from their homeland that the official supply lines fail to provide.
-- **Eyrie Dynasties:** The Eyrie despises them on principle, viewing them as honorless thieves. However, House Strix occasionally employs their covert operatives for wet-work they cannot be officially tied to.
-- **Woodland Alliance:** A complicated relationship. Silk Tide Mercantile frequently smuggles weapons and pamphlets for the Alliance, but only for a steep price. The Alliance knows the Company would gladly sell out their rebel cells to the Marquise if the price was right.
+- **[[Eyrie Dynasties]]:** The Eyrie despises them on principle, viewing them as honorless thieves. However, [[House Strix]] occasionally employs their covert operatives for wet-work they cannot be officially tied to.
+- **[[Woodland Alliance]]:** A complicated relationship. Silk Tide Mercantile frequently smuggles weapons and pamphlets for the Alliance, but only for a steep price. The Alliance knows the Company would gladly sell out their rebel cells to the Marquise if the price was right.
 - **The Corvid Conspiracy:** A dangerous rivalry. Both deal in secrets, smuggling, and leverage. They occasionally collaborate on major operations, but more often, they engage in shadow wars over control of lucrative blackmail networks in major clearings.
 
 ## Custom Move: The Whispers' Toll

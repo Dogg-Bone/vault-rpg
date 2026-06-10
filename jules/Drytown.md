@@ -4,7 +4,7 @@ author: jules
 # Drytown
 
 **Inhabitants:** Mice (Dominant)
-**Control:** Eyrie Dynasties
+**Control:** [[Eyrie Dynasties]]
 
 ## Description
 Drytown is a sprawling, almost city-sized clearing encircled by towering, ancient stone walls built by a long-forgotten civilization. The architecture within is a stark contrast of eras: massive, crumbling stone monoliths are intricately honeycombed with the wooden scaffolding, rope bridges, and densely packed burrows of the resident mice. The Eyrie Dynasties have established absolute control, their regal blue banners draping aggressively over the sun-bleached masonry. The air is arid and thick with dust, filled with the cacophony of a thousand mice going about their daily toil under the strict, watchful eyes of avian patrols.
@@ -13,7 +13,7 @@ Drytown is a sprawling, almost city-sized clearing encircled by towering, ancien
 - **The Stone Roost:** A heavily fortified, ancient state building built into the eastern wall. The Eyrie Dynasties have claimed this imposing structure as their seat of power and main roost. While it bristles with ballistae, the avian garrison inside is demoralized, dehydrated, and stretched incredibly thin due to Commander Vance's constant patrols. It also houses other high-ranking avian nobility, most notably Chancellor Peregrine, an exhausted bureaucrat who manages the city's failing logistics.
 - **The Grand Market:** A sprawling, chaotic bazaar situated in the shadow of a collapsed stone aqueduct. Here, Riverfolk Company merchants peddle imported water and exotic goods from their heavy wagons, gouging the desperate locals.
 - **The Deep Slums:** An intensely overcrowded network of subterranean tunnels and root-cellars beneath the city streets. It is a maze of desperate poverty and the perfect hiding place for the Corvid Conspiracy to plot their sabotage.
-- **The Parched Aqueduct:** A massive, ruined stone channel that once brought fresh water to the city. It is now mostly dry, save for a few heavily-guarded trickle-pools. Vagabonds often use its hollowed-out pillars as hidden highways across the city.
+- **The Parched Aqueduct:** A massive, ruined stone channel that once brought fresh water to the city. It is now mostly dry, save for a few heavily-guarded trickle-pools. [[Vagabonds]] often use its hollowed-out pillars as hidden highways across the city.
 - **The Whispering Cellars:** A forgotten, half-flooded catacomb beneath the market, currently operating as a Corvid Conspiracy safehouse and illicit tavern. You need a password—and a willingness to break Eyrie law—to enter.
 - **The Commander's Promenade:** A wide, cleared thoroughfare leading directly to the Stone Roost. It is heavily patrolled by the Eyrie and used for public executions, decrees, and military parades to project strength.
 
@@ -45,7 +45,7 @@ The unofficial leader of the Deep Slums. Pip is an elderly, exhausted mouse who 
 *Fear: That Corvid agents will successfully incite the starving slum-dwellers into a suicidal, unwinnable revolt against the Eyrie garrison.*
 *Secret: She has been secretly hoarding a large cache of fresh water in a sealed, ancient cistern beneath her kitchen, refusing to share it until the crisis worsens.*
 *Request:* She begs the Vagabonds to intercept a shipment of "relief supplies" orchestrated by Barnaby, suspecting the grain is laced with a potent hallucinogen meant to spark a frenzy.
-*Rumor to share:* She warns the Vagabonds that the 'antiquities dealer' in the market (Barnaby) is bad news, noting she saw him paying off Woodland Alliance scouts to leave the clearing entirely.
+*Rumor to share:* She warns the Vagabonds that the 'antiquities dealer' in the market (Barnaby) is bad news, noting she saw him paying off [[Woodland Alliance]] scouts to leave the clearing entirely.
 
 ### Saffron "Slippery" Scales (Otter)
 A ruthless and extravagantly dressed Riverfolk Company merchant who essentially runs the Grand Market. Saffron is making a fortune off the Parched Crisis, importing water from upriver and selling it at extortionate rates to the desperate mouse population. She is constantly surrounded by a retinue of heavily armed, well-paid guards.
@@ -72,7 +72,7 @@ An exhausted, middle-aged Eyrie bureaucrat tasked with managing the failing logi
 *Location: Slumped over a massive desk overflowing with requisition forms in the lower administrative levels of The Stone Roost.*
 *Drive: To survive his posting in Drytown without being executed for treason or dying of a stress-induced heart attack.*
 *Fear: That Commander Vance will discover his illicit connections with the Corvid Conspiracy and hang him from the Roost's highest balcony.*
-*Secret: He is firmly in the pocket of Madam Whisper. Years ago, to cover a massive gambling debt, he sold the exact patrol routes of an elite Eyrie strike force to the Marquise de Cat, leading to a slaughter. Madam Whisper possesses the letters proving his treason and uses them to force him to create blind spots for her operatives.*
+*Secret: He is firmly in the pocket of Madam Whisper. Years ago, to cover a massive gambling debt, he sold the exact patrol routes of an elite Eyrie strike force to the [[Marquise de Cat]], leading to a slaughter. Madam Whisper possesses the letters proving his treason and uses them to force him to create blind spots for her operatives.*
 *Request:* He desperately begs the Vagabonds to quietly eliminate a suspicious Eyrie auditor who was recently sent from the capital and is getting far too close to discovering his falsified patrol logs. He can offer official Eyrie travel documents and a stash of embezzled coin.
 *Rumor to share:* He nervously mutters that Barnaby Thistle in the Grand Market is far more dangerous than he looks, implying that the 'antiquities dealer' is actually a highly trained assassin waiting for an order.
 
@@ -92,7 +92,7 @@ Because of the unique, crumbling ancient masonry that makes up Drytown's walls a
 * **Mechanical Benefit:** When you take the time to thoroughly coat your cloak and fur/feathers in this fine, color-matching dust, mark 1 **Depletion**. You gain a **+1 ongoing** to **Sneak** rolls while remaining motionless against stone surfaces. The mundane camouflage effect lasts until you are exposed to heavy rain, water, or engage in vigorous combat.
 
 ## Rumors & Hooks
-- **The Sealed Vault:** Legends say that when the ancient builders constructed the stone walls of Drytown, they sealed a vault filled with their most powerful artifacts somewhere within the masonry. Barnaby Thistle (Code Name: Rook) is actively looking for Vagabonds to help him find and breach this vault before the Eyrie realizes it exists.
+- **The Sealed Vault:** Legends say that when the ancient builders constructed the stone walls of Drytown, they sealed a vault filled with their most powerful artifacts somewhere within the masonry. Barnaby Thistle (Code Name: [[The Rook Family|Rook]]) is actively looking for Vagabonds to help him find and breach this vault before the Eyrie realizes it exists.
 
 ## First Session Encounters
 | Roll | Encounter |

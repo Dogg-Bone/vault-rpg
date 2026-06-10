@@ -4,7 +4,7 @@ author: jules
 # Swanholde
 
 **Inhabitants:** Foxes (Dominant)
-**Control:** Marquise de Cat
+**Control:** [[Marquise de Cat]]
 
 ## Description
 Swanholde is a bustling clearing situated along a major riverway, historically known for its elegant, tiered burrows carved into the high riverbanks. The natural architecture of the foxes—curved archways, interwoven root supports, and softly glowing lantern-lit patios—stands in stark contrast to the recent, brutalist additions of the Marquise de Cat. Thick plumes of gray smoke rise from a large, newly constructed sawmill that dominates the western edge of the clearing, processing lumber from the surrounding forests. The air, once smelling of damp earth and river reeds, is now choked with the scent of sawdust, exhaust, and industry.
@@ -21,11 +21,11 @@ The recognized leader of the local foxes. Vulpis is old, tired, and deeply pragm
 *Drive: To protect his people by maintaining a fragile peace.*
 *Fear: That the younger generation will rise up, forcing the Marquise to burn Swanholde to the ground in retaliation.*
 *Secret: He has been siphoning small amounts of community rations to bribe Marquise guards into looking the other way during curfew.*
-*Request:* He asks the Vagabonds to quietly deal with the Sibilant Snake so the logging roads can reopen, relieving the immediate pressure and anger of the Marquise commander.
+*Request:* He asks the [[Vagabonds]] to quietly deal with the [[Sibilant Snake]] so the logging roads can reopen, relieving the immediate pressure and anger of the Marquise commander.
 *Rumor to share:* He desperately warns the Vagabonds to steer clear of Kaelen 'Red-Tooth', knowing the young fox is planning something foolish and violent that will surely get innocent foxes killed.
 
 ### Reynard 'The Slip' (Fox)
-A charismatic and sharp-tongued merchant who runs a modest trading post in the Terraces. Outwardly, Reynard deals in river-stones, woven baskets, and dried fish. Secretly, he is a smuggler and information broker, funneling resources to those who resist the Marquise and occasionally passing messages for the Woodland Alliance. He is dangerous because he plays all sides for profit and spite.
+A charismatic and sharp-tongued merchant who runs a modest trading post in the Terraces. Outwardly, Reynard deals in river-stones, woven baskets, and dried fish. Secretly, he is a smuggler and information broker, funneling resources to those who resist the Marquise and occasionally passing messages for the [[Woodland Alliance]]. He is dangerous because he plays all sides for profit and spite.
 *Location: Behind the counter of his cluttered trading post, located near the top of The Riverside Terraces.*
 *Drive: To undermine the Marquise while enriching himself.*
 *Fear: Being caught by the Marquise without a backup plan, leading to a swift and brutal execution.*

@@ -6,12 +6,12 @@ author: jules
 Here are adventure hooks and events inspired by the remaining cards and faction board actions from the Root board game.
 
 ## All Hooks
-- The Vagabonds are hired to escort a merchant caravan, but they must sniff out a planned ambush in the heavy brush before the attackers spring their trap.
-- A Marquise commander is using overwhelmingly violent methods to subjugate a clearing. The locals beg the Vagabonds to sabotage the commander's siege equipment to level the playing field.
-- The Vagabonds stumble upon a massive, hidden underground command bunker used by the Woodland Alliance. It is currently under threat from a Corvid Conspiracy bomb plot.
+- The [[Vagabonds]] are hired to escort a merchant caravan, but they must sniff out a planned ambush in the heavy brush before the attackers spring their trap.
+- A [[Marquise de Cat|Marquise]] commander is using overwhelmingly violent methods to subjugate a clearing. The locals beg the Vagabonds to sabotage the commander's siege equipment to level the playing field.
+- The Vagabonds stumble upon a massive, hidden underground command bunker used by the [[Woodland Alliance]]. It is currently under threat from a Corvid Conspiracy bomb plot.
 - The Woodland Alliance has set up soup kitchens to win over the populace. The Marquise wants the Vagabonds to poison the supply to turn the locals against the rebels.
 - A vicious partisan uprising has targeted all buildings of a specific faction in the clearing. The Vagabonds must navigate the chaos to extract a high-value target trapped inside a burning building.
-- The Eyrie are demanding tribute to build a massive new Roost. The locals don't have enough to pay, and ask the Vagabonds to steal the tribute back from the Eyrie tax collectors.
+- The [[Eyrie Dynasties|Eyrie]] are demanding tribute to build a massive new Roost. The locals don't have enough to pay, and ask the Vagabonds to steal the tribute back from the Eyrie tax collectors.
 - The local Eyrie commander has failed their decree and the roost is descending into chaos. A rival faction hires the Vagabonds to assassinate the disgraced leader before a new one can take power.
 - The Marquise is dragging wounded soldiers back to their Keep to be healed, but the carts are being ambushed by the Lord of the Hundreds. The Vagabonds are hired to protect the medical convoy.
 - The Corvids have placed an extortion token on a wealthy merchant's shop. The merchant hires the Vagabonds to find the Corvid agent and force them to remove the token before their business goes under.
@@ -22,7 +22,7 @@ Here are adventure hooks and events inspired by the remaining cards and faction 
 - The Corvids are planning a massive raid to scatter troops across the clearing. The Vagabonds are tipped off and must organize a defense.
 - A faction leader announces they are no longer playing for points, but for total domination of the corner clearings. They offer a king's ransom to the Vagabonds to secure a crucial chokepoint.
 - A massive, neutral swap meet is happening in the clearing. It's a perfect cover for a heist, an assassination, or to buy illegal Keeper artifacts.
-- A brutal tax collector is bleeding a clearing dry. The Vagabonds are hired to steal the tax lockbox and distribute the wealth back to the denizens.
+- A brutal [[Tax Collector|tax collector]] is bleeding a clearing dry. The Vagabonds are hired to steal the tax lockbox and distribute the wealth back to the denizens.
 - The Riverfolk have set up a trading post, but they are charging exorbitant prices for safe river passage. The Vagabonds are hired to find an alternative route or force the Riverfolk to lower their prices.
 - The Riverfolk Company's local trade post is holding a massive dividend payout. It's the perfect opportunity for a heist.
 - A map detailing a network of ancient, collapsed tunnels is found. It supposedly leads directly into the Marquise's Keep, bypassing all outer walls.
@@ -74,7 +74,7 @@ Here are adventure hooks and events inspired by the remaining cards and faction 
 - **Royal Claim (Card):** A faction invokes a Royal Claim, declaring themselves the true heirs to the Woodland. They hire the Vagabonds to find the ancient crown to prove it.
 
 ## The Horde
-- **Lord of Hundreds - Mob/Raze (Board):** The Lord of the Hundreds has incited a massive mob that is threatening to burn down a heavily populated clearing. The Vagabonds must find a way to disperse the mob or assassinate the Warlord leading it.
+- **[[Lord of Hundreds]] - Mob/Raze (Board):** The Lord of the Hundreds has incited a massive mob that is threatening to burn down a heavily populated clearing. The Vagabonds must find a way to disperse the mob or assassinate the Warlord leading it.
 - **Lord of Hundreds - Looters (Board):** Looters from the Hundreds have stolen a priceless artifact from the local mayor. The Vagabonds must track them back to their camp and steal it back.
 - **Stand and Deliver (Card):** A charismatic brigand leader urges the Vagabonds to Stand and Deliver on the main trade road.
 

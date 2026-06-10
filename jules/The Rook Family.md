@@ -7,13 +7,13 @@ author: jules
 The Rook Family represents one of the oldest and most aristocratic pillars of the Corvid Conspiracy. Modeling themselves after an archaic, deeply traditional mafia family, they operate with a strict code of silence and absolute loyalty. While they are predominantly Rooks—distinguished by their bare, pale faces and sophisticated attire—they employ a vast network of mice, foxes, and rabbits as their eyes, ears, and enforcers. They do not soil their hands with petty street crimes; instead, they deal in the currency of power, secrets, and high-level manipulation.
 
 ## History
-The Rooks claim their lineage predates the current incarnation of the Corvid Conspiracy, originally serving as spymasters and fixers during the height of the early Eyrie Dynasties. When the royal courts fractured, the Rooks realized that true power did not lie in sitting on a throne, but in controlling who sat upon it. They went underground, forming a syndicate bound by blood and oath. Over generations, they have perfected the art of the "invisible hand," ensuring their influence is felt in every major political shift in the Woodland without ever leaving a feather behind.
+The Rooks claim their lineage predates the current incarnation of the Corvid Conspiracy, originally serving as spymasters and fixers during the height of the early [[Eyrie Dynasties]]. When the royal courts fractured, the Rooks realized that true power did not lie in sitting on a throne, but in controlling who sat upon it. They went underground, forming a syndicate bound by blood and oath. Over generations, they have perfected the art of the "invisible hand," ensuring their influence is felt in every major political shift in the Woodland without ever leaving a feather behind.
 
 ## Current Operations
 The Rook Family specializes in manipulating the Woodland's elite, particularly the deeply political and ambitious factions like the Eyrie Dynasties. Their operations favor insidious, subtle, and long-term tactics:
 * **Blackmail & Information Brokerage:** They maintain extensive dossiers on prominent figures, trading secrets to ensure favorable policies or to ruin political rivals.
 * **Forgery:** Their master calligraphers and counterfeiters produce flawless forged documents, from land deeds and trade agreements to royal decrees and military orders.
-* **Infiltration:** They place operatives—often non-corvids with clean backgrounds—into the courts of House Strix or House Cardinal, subtly steering decisions to benefit the Conspiracy.
+* **Infiltration:** They place operatives—often non-corvids with clean backgrounds—into the courts of [[House Strix]] or [[House Cardinal]], subtly steering decisions to benefit the Conspiracy.
 * **Inciting Paranoia:** They frequently plant false evidence to ignite internal feuds among the Woodland's ruling class, keeping the elites too busy fighting each other to notice the Conspiracy's moves.
 
 ## Hierarchy & Structure
@@ -33,7 +33,7 @@ A frail, ancient Rook draped in mourning veils who has ruled the family for deca
 * **Location:** The deepest, most opulent private parlor beneath the Blackwood Spire.
 * **Fear:** That the younger generation of the Conspiracy, favoring explosives and chaos, will destroy the delicate web of control she has spent her life weaving.
 * **Secret:** She is the rightful, but unacknowledged, heir to a defunct Eyrie Dynasty, giving her a legitimate claim to the Woodland throne—a claim she uses merely as leverage.
-* **Request for the Vagabonds:** She requests the Vagabonds locate a specific, ancient family heirloom currently held by the Marquise. *Reward:* A permanent, powerful favor from the Rook Family, functioning as an absolute get-out-of-jail-free card with woodland nobility.
+* **Request for the [[Vagabonds]]:** She requests the Vagabonds locate a specific, ancient family heirloom currently held by the [[Marquise de Cat|Marquise]]. *Reward:* A permanent, powerful favor from the Rook Family, functioning as an absolute get-out-of-jail-free card with woodland nobility.
 * **Opinion/Info:** "The Magpies are crude, noisy beasts. They hoard coin like common bandits, but they lack the vision to see what coin is actually meant to buy: obedience."
 
 ### "Uncle" Barnaby (Operative Code Name: *The Quill*)

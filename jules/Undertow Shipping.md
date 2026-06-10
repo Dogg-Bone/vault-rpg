@@ -8,7 +8,7 @@ author: jules
 **Headquarters Base:** Often operates out of massive, slow-moving armored barges that link together to form floating fortresses.
 
 ## Description
-Undertow Shipping is one of the largest and most militarized Riverfolk companies operating in the Woodland. Unlike companies that deal in fine goods or subtle manipulation, Undertow Shipping deals in bulk and brute force. They control massive, heavy-bottomed barges capable of hauling massive quantities of raw materials—timber from Marquise clear-cuts, iron ore from deep mines, and stone for Eyrie roosts. They are the undeniable masters of heavy logistics.
+Undertow Shipping is one of the largest and most militarized Riverfolk companies operating in the Woodland. Unlike companies that deal in fine goods or subtle manipulation, Undertow Shipping deals in bulk and brute force. They control massive, heavy-bottomed barges capable of hauling massive quantities of raw materials—timber from [[Marquise de Cat|Marquise]] clear-cuts, iron ore from deep mines, and stone for [[Eyrie Dynasties|Eyrie]] roosts. They are the undeniable masters of heavy logistics.
 
 However, they are perhaps best known for their aggressive monopolization of key river checkpoints. Undertow Shipping frequently anchors their massive barges across narrow straits or critical junctions, effectively blockading the river and demanding exorbitant "protection tolls" from anyone wishing to pass. To enforce these tolls and protect their massive shipments, Undertow Shipping employs legions of heavy mercenaries—often heavily armored turtles, badgers, and bears—armed with polearms and heavy crossbows.
 
@@ -21,8 +21,8 @@ He speaks in a deep, rumbling baritone that commands immediate attention. Silas 
 - **Drive:** To control the flow of the Woodland's resources and amass unassailable wealth and power.
 - **Fear:** That a coalition of factions will realize they outnumber him and sink his fleet to break his monopoly.
 - **Secret:** His flagship, the *Iron Draft*, has a severe structural flaw in its hull that he hides desperately; a well-placed explosive could sink his entire floating fortress.
-- **Request:** He needs the Vagabonds to quietly eliminate a charismatic Woodland Alliance leader who is successfully organizing a boycott of Undertow goods in a major clearing downriver.
-- **Opinion/Info:** He warns that House Mallard of the Eyrie Dynasties is secretly building a fleet of shallow-draft war galleys in the northern lakes, preparing for a major river offensive.
+- **Request:** He needs the [[Vagabonds]] to quietly eliminate a charismatic [[Woodland Alliance]] leader who is successfully organizing a boycott of Undertow goods in a major clearing downriver.
+- **Opinion/Info:** He warns that [[House Mallard]] of the Eyrie Dynasties is secretly building a fleet of shallow-draft war galleys in the northern lakes, preparing for a major river offensive.
 - **Current Wares:** Bulk timber, raw iron ore, heavy mercenary contracts, safe (but expensive) passage past blockades.
 - **Can Acquire:** Siege engines, massive quantities of black powder, forged architectural plans for major fortresses.
 
@@ -52,7 +52,7 @@ When you **attempt to negotiate a lower toll or better shipping rate with an Und
 | **4** | The Vagabonds find the river ahead completely blocked by three linked Undertow barges. The toll demanded is outrageous, and the mercenaries on deck look eager for a fight. |
 | **5** | An Undertow recruiter tries to aggressively hire the Vagabonds to act as shock troops for an upcoming, highly dangerous assault on a contested riverway, promising incredible hazard pay. |
 | **6** | Skipper Silas Reed is personally overseeing the loading of a massive timber shipment. He is currently screaming at a Marquise quartermaster over a perceived slight regarding payment terms. |
-| **7** | A tense standoff is occurring on the docks between Undertow mercenaries and a squad of Eyrie House Strix soldiers who refuse to pay the toll, claiming royal exemption. |
+| **7** | A tense standoff is occurring on the docks between Undertow mercenaries and a squad of Eyrie [[House Strix]] soldiers who refuse to pay the toll, claiming royal exemption. |
 | **8** | The Vagabonds find a small, battered skiff belonging to a rival company that has been smashed to splinters. An Undertow 'warning marker' has been driven through the wreckage. |
 | **9** | An Undertow quartermaster quietly approaches the Vagabonds, offering to sell them raw materials (wood, iron) at a steep discount, provided they can haul it away quickly and without asking questions about where it came from. |
 | **10** | A Woodland Alliance saboteur is caught trying to drill a hole in the hull of an Undertow barge. The mercenaries are preparing to throw the saboteur into the river with weights attached. |
