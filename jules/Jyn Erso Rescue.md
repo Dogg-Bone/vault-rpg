@@ -59,11 +59,13 @@ Warren reaches Captain Aridara's elevated office, which temporarily holds the ke
 * **The Hazard:** The lock is trapped. Galen's advice warned: *Standard Marquise officer locks are spring-tension inverted... a clumsy pick will ring a bell.*
 * **The Skeleton Key Override:** Galen's note suggested using the skeleton key on a ventilation padlock instead. Near the door is a heavy iron grate sealing a narrow maintenance shaft that drops directly into the office. The grate is secured by a complex Marquise master-padlock. This is where the single-use skeleton key from the puzzle box must be used. It will open the padlock silently, but sheer off inside, permanently locking it open.
 * **Complications:** Whether Warren attempts to carefully pick the trapped door or uses the skeleton key to drop through the grate, a mixed success (7-9) reveals he is not alone. As he enters the office, he finds the Captain's favored pet, a massive, scarred feline hound, sleeping on the rug. The entry noise causes the hound's ears to perk up. Warren has mere seconds to pacify or intimidate the beast before it barks.
+* **The Loot:** If Warren safely searches the Captain's desk while retrieving the cell keys, he can find a locked lockbox containing her skimmed profits (3-Value of Marquise coins) and a sealed ledger detailing an illegal, private smuggling arrangement with a Riverfolk skipper.
 
 ### Room 4: The Holding Cells (Climax / Big Battle)
 Warren descends the maintenance stairwell to the reinforced holding cells where Jyn Erso is kept.
 * **The Hazard:** A lieutenant loyal to Count Shortpaw is standing guard directly outside Jyn's cell. Galen warned: *Shortpaw's lieutenants are issued high-frequency brass signal whistles.*
 * **Complications:** If Warren fails to instantly neutralize the lieutenant, the guard manages to bring the whistle to his lips. Even if Warren tackles him in time, the scuffle knocks over a heavy weapon rack. The loud crash alerts the shift-change guards upstairs. The encounter turns from a silent assassination into a desperate, barricaded holdout as Warren tries to get Jyn's cell open while soldiers begin battering down the reinforced stairwell door.
+* **The Loot:** Lieutenant Rax carries a fine, silver-inlaid shortsword (Weapon, 1 Harm, +valuable) given to him by Count Shortpaw as a bribe for betraying his people.
 
 ### Room 5: The Refuse Chute (Reward / Revelation)
 With the lieutenant dealt with and the cell unlocked, Warren reunites with Jyn Erso. They cannot go back the way Warren came; the mill is waking up.
