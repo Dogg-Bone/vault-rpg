@@ -72,23 +72,6 @@ Vagabonds have the power to disrupt these grand designs. If the Vagabonds strike
 
 ---
 
-## Lord of Hundreds: The Scorched Earth
-*The Lord of Hundreds seeks to burn the old world to the ground, ruling over a mob of fanatical followers who revel in chaos and destruction.*
-
-**The 6-Step Clock:**
-1. **The Horde Gathers:** Rumors spread of a massive mob of mice gathering on the fringes of the Woodland, whipped into a frenzy by a warlord.
-2. **The First Pyre:** A small clearing or important historical site is razed to the ground, leaving nothing but ash and terrified refugees.
-3. **Looters and Pillagers:** Warlord raiding parties become a constant threat, terrorizing merchants and hoarding stolen artifacts.
-4. **The Warlord's Decrees:** The Lord of Hundreds issues erratic, chaotic demands to nearby clearings, promising destruction if ignored.
-5. **The Sea of Fire:** A major forest fire is intentionally started, threatening to consume multiple clearings and critical infrastructure.
-6. **The Scorched Earth:** (Win Condition) The Woodland is reduced to a chaotic, burning wasteland. The Lord of Hundreds rules absolutely over a starving, fanatical mob.
-
-**How to Turn Back the Clock:**
-*   Steal or destroy the Warlord's prized artifacts, severely damaging their morale and legitimacy.
-*   Assassinate the Lord of Hundreds or their top lieutenants.
-*   Defeat a massive Warlord mob in a pitched battle, scattering their forces.
-
----
 
 ## Riverfolk Company: Economic Monopoly
 *The Riverfolk seek to control all trade, wealth, and movement within the Woodland, holding every faction hostage through debt and dependency.*
