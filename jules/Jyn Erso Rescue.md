@@ -15,40 +15,65 @@ He slips a folded parchment to Reynard 'The Slip' (a known smuggler in Swanholde
 **The Document:** Outwardly, the parchment looks like a technical maintenance log for the Ironwood Mill's massive waterwheel and central steam-saw. It is covered in detailed diagrams of gears, catwalks, and office layouts.
 
 **The Code:** Galen has heavily annotated the schematic in a specific dialect of old Hundred's shorthand, disguised as mathematical defect notes (e.g., "Gear ratio off by 3, load bearing will fail"). Because Warren is the son of the last Lord of Hundreds, he can easily decipher the true meaning.
+
 The "defects" actually correspond to a route through the mill and explicit warnings about hazards:
 - "Waterwheel intake grate - Rust accumulation high, structural integrity compromised. *Caution: Secondary gear will emit 100-decibel screech if forced.*"
 - "Left Catwalk Securing Bolts - Missing. *Caution: Load exceeding 20lbs will cause severe metallic groan.*"
 - "Foreman's Lock mechanism - Spring tension inverted. *Caution: Improper torque will engage the emergency bell.*"
 - "Holding Cell Guard Rotation - Inefficient. *Lieutenant carries high-frequency signal whistle.*"
 
+## Ironwood Mill Layout
+The Ironwood Mill has been heavily fortified by the Marquise, transforming from a simple timber processor to a multi-purpose military structure.
+
+**Points of Entry:**
+1. **Main Gates (Ground Floor):** Heavily guarded, directly leading to the primary lumber yard and the Barracks.
+2. **Water Intake (Sub-level):** The river-level grate feeding the massive water wheel. Highly dangerous due to the machinery.
+3. **Timber Chutes (Upper Level):** High up on the exterior walls where logs are occasionally winched in. Requires significant climbing gear.
+
+**Adjacencies:**
+- The **Water Intake** leads directly up into the **Primary Cutting Floor**.
+- The **Primary Cutting Floor** is a massive open space. The ground level serves as the **Barracks**, housing off-duty soldiers. High above it is the **Suspended Catwalk Network**.
+- The **Suspended Catwalk Network** connects directly to the **Foreman's Office** on the second floor.
+- The **Foreman's Office** contains a hidden maintenance stairwell leading down into the fortified **Holding Cells** (located in a reinforced basement level).
+- The **Holding Cells** contain a heavy iron hatch on the floor—the **Refuse Chute**, which dumps sawdust and scrap wood directly into the fast-flowing river outside (a viable exit).
+
 ## The 5-Room Infiltration
 
-The Ironwood Mill is not just a sawmill; under Captain Aridara's command, it has been fortified into a multi-purpose military structure, housing a large barracks on the ground floor. A direct assault is suicide for a single Vagabond. Warren must use Galen's coded map to navigate the upper levels and maintenance shafts.
+A direct assault on the ground floor barracks is suicide for a single Vagabond. Warren must use Galen's coded map to navigate the structure quietly.
 
 ### Room 1: The Intake Grate (Entrance / Guardian)
-To avoid the heavily guarded main gates, Warren must enter through the river-level water intake that powers the mill's massive wheel. The grate is locked and heavily rusted.
-* **The Hazard:** As noted in Galen's plans, the main gear connecting the wheel to the mill is precarious. If Warren tries to brute-force the grate or climb over the wheel improperly, the gear will slip and emit a deafening metallic screech that will wake the barracks.
-* **The Solution:** Warren must use his Exile cunning and strength carefully. He can dive underwater to find a rusted-out section of the lower bars to bend quietly, or time his movements perfectly with the thunderous, rhythmic crashing of the mill's primary saw above to mask any noise.
+To avoid the heavily guarded main gates, the map directs Warren to enter through the river-level water intake. The grate is locked and heavily rusted, and the massive wooden wheel is churning violently in the river current.
+* **The Hazard:** The main gear connecting the wheel to the mill is precarious. Galen's note warns: *Secondary gear will emit 100-decibel screech if forced.*
+* **Complications:** If Warren attempts to pick the rusted lock or pry the bars and fails the roll, the gear slips slightly. This doesn't trigger the screech immediately, but it causes the wheel to stutter, drawing the attention of an irritated Marquise engineer (NPC: **Grease-Paw**) who climbs down to inspect the machinery. Warren must now find a way to quickly hide in the churning water or intimidate/trick the engineer into leaving without raising the alarm.
 
 ### Room 2: The Saw Floor Catwalks (Puzzle / Roleplaying Challenge)
-Warren emerges into the rafters above the primary cutting floor. Below him, dozens of Marquise soldiers are sleeping in makeshift barracks. He must navigate a network of suspended wooden catwalks to reach the administrative offices.
-* **The Hazard:** Galen's notes warn that the left-side catwalks have missing bolts and will squeak loudly under his weight.
-* **The Challenge:** Warren must take the right-side catwalks. However, there is a single, bored sentry stationed on the right catwalk, leaning against a railing and smoking a pipe.
-* **The Solution:** A fight here risks a body falling to the floor below. Warren must silently neutralize the guard (e.g., a sleeper hold, a swift knockout blow, or slipping a mild toxin into the guard's pipe tobacco from the rafters above) or create a silent distraction (like tossing a pebble to make a rat scurry in the opposite corner) to slip past.
+Warren emerges into the rafters above the primary cutting floor. Below him, dozens of Marquise soldiers are sleeping in the makeshift barracks. He must navigate the suspended wooden catwalks to reach the administrative offices.
+* **The Hazard:** Galen's notes warn: *Left Catwalk Securing Bolts - Missing. Load exceeding 20lbs will cause severe metallic groan.*
+* **The Challenge:** Warren must take the right-side catwalks. However, there is a sentry stationed there.
+* **Complications:** If Warren attempts to sneak past or silently neutralize the guard and rolls poorly, he might accidentally bump a loose tool off the catwalk. It plummets toward the sleeping barracks below. Warren must make a desperate, split-second catch, or the tool hits the floor, waking a squad of soldiers who begin sweeping the catwalks with lanterns.
 
 ### Room 3: The Foreman's Office (Trick / Setback)
-Warren reaches Captain Aridara's elevated office, which temporarily holds the keys to the holding cells deeper in the mill. The door is locked.
-* **The Hazard:** The lock is trapped. As Galen's schematic warned: "Spring tension inverted. Improper torque engages bell." A clumsy lockpick attempt will trigger a loud mechanical bell inside the office.
-* **The Trick:** If Warren successfully picks the lock (accounting for the inverted tension), he enters the office only to find the key ring is hanging around the neck of a large, sleeping feline hound (a favored pet of the Captain).
-* **The Solution:** Warren must retrieve the keys without waking the hound. This requires immense dexterity, offering a peace offering of meat, or using an Exile's natural intimidation to cow the beast into silent submission if it wakes.
+Warren reaches Captain Aridara's elevated office, which temporarily holds the keys to the holding cells. The heavy oak door is locked.
+* **The Hazard:** The lock is trapped. Galen's schematic warns: *Spring tension inverted. Improper torque engages bell.*
+* **Complications:** If Warren attempts to pick the lock and rolls a mixed success (7-9), he manages to unlock the door without ringing the bell, but he breaks his lockpicks in the process. Worse, as he pushes the door open, he finds he is not alone. The Captain's favored pet, a massive, scarred feline hound, is sleeping on the rug. The broken lockpick makes a sharp *snap*, and the hound's ears perk up. Warren has mere seconds to pacify or intimidate the beast before it barks.
 
 ### Room 4: The Holding Cells (Climax / Big Battle)
-Warren descends a narrow maintenance stairwell to the reinforced holding cells where Jyn Erso is kept.
-* **The Hazard:** A lieutenant loyal to Count Shortpaw is standing guard directly outside Jyn's cell. As Galen warned, the lieutenant holds a signal whistle tightly in his paw. If he blows it, the entire barracks will swarm the room in seconds.
-* **The Battle:** This is not a drawn-out fight; it is a test of brutal, decisive action. Warren must use his Exile background to cross the room and neutralize the lieutenant *before* he can bring the whistle to his lips. It requires a swift, silent takedown, overwhelming force, or a perfectly aimed throw to knock the whistle away.
+Warren descends the maintenance stairwell to the reinforced holding cells where Jyn Erso is kept.
+* **The Hazard:** A lieutenant loyal to Count Shortpaw is standing guard directly outside Jyn's cell. Galen warned: *Lieutenant carries high-frequency signal whistle.*
+* **Complications:** If Warren fails to instantly neutralize the lieutenant, the guard manages to bring the whistle to his lips. Even if Warren tackles him in time, the scuffle knocks over a heavy weapon rack. The loud crash alerts the shift-change guards upstairs. The encounter turns from a silent assassination into a desperate, barricaded holdout as Warren tries to get Jyn's cell open while soldiers begin battering down the reinforced stairwell door.
 
 ### Room 5: The Refuse Chute (Reward / Revelation)
-With the lieutenant down and the cell unlocked, Warren reunites with Jyn Erso. They cannot go back the way Warren came; the shift is changing, and soldiers are waking up.
-* **The Escape:** Galen's map points to a heavy iron hatch in the floor of the cell block—the refuse chute used to dump sawdust and scrap wood directly into the fast-flowing river below.
-* **The Reward:** They slide down the chute, plunging into the cold, dark waters of the river and swimming to safety.
+With the lieutenant dealt with and the cell unlocked, Warren reunites with Jyn Erso. They cannot go back the way Warren came; the mill is waking up.
+* **The Escape:** Galen's map points to the heavy iron hatch in the floor of the cell block—the refuse chute leading to the river.
+* **The Reward:** They slide down the chute, plunging into the cold, dark waters and swimming to safety.
 * **The Revelation:** Once safely ashore, shivering and wet, Jyn thanks Warren. She reveals that during her captivity, she overhead Count Shortpaw's true plan: he isn't just building standard siege weapons. He is forcing Galen to construct a massive, steam-powered, armored river-dreadnought capable of destroying the Riverside Terraces and securing absolute control of the riverways for the Marquise.
+
+## Notable NPCs in the Mill
+
+### Grease-Paw (Marquise Engineer - Cat)
+A grumpy, soot-covered feline engineer in charge of keeping the Ironwood Mill running. He hates the military posturing of the Captain and just wants to fix his machines in peace.
+* **Roleplaying Angle:** Grease-Paw is easily intimidated by threats of violence, but he can also be tricked if Warren uses his knowledge of Tinker jargon (learned from his time with Galen) to convince the engineer he is an inspector sent by the capital, or that the machinery is too dangerous to approach.
+
+### Lieutenant Rax (Marquise Guard - Fox)
+A local fox who sold out his own people to serve the Marquise in exchange for a comfortable bunk and regular meals. He is currently guarding Jyn's cell.
+* **Roleplaying Angle:** Rax is a coward hiding behind his Marquise uniform. He holds the signal whistle like a lifeline. If Warren can separate him from the whistle (or if he manages to corner him silently), Rax is highly susceptible to intimidation, especially from a Vagabond known to have connections to the fearsome Lord of Hundreds. He will gladly trade Jyn's keys for a promise that Warren won't kill him.
