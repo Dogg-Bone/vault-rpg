@@ -16,9 +16,11 @@ He fabricates a small, intricate metal puzzle box from scrap gears and brass cas
 1. **A Single-Use Skeleton Key:** A fragile, expertly crafted brass key designed to sheer off inside a lock once turned, leaving the lock mechanism permanently jammed but open.
 2. **The Message:** A tightly rolled, grease-stained scrap of parchment. Because the puzzle box itself provides maximum security, the message is written in plain text.
 
-**The Tinker's Insight:** Galen does not know the exact layout of the Ironwood Mill or the specific patrol routes, but as a master Tinker who was forced to work for the Marquise, he intimately understands their standard-issue industrial machinery and military protocols. His message offers critical, generalized mechanical advice for an infiltration:
+**The Tinker's Insight:** The message begins with a desperate plea: *Warren, if you are reading this, Count Shortpaw has taken my daughter, Jyn. They are holding her in the Ironwood Mill to force my compliance. I beg you, use your skills to get her out.*
+
+Galen does not know the exact layout of the Ironwood Mill or the specific patrol routes, but as a master Tinker who was forced to work for the Marquise, he intimately understands their standard-issue industrial machinery and military protocols. His message continues with critical, generalized mechanical advice for an infiltration:
 - "The waterwheel grates on these Marquise mills are heavy, but the secondary intake gears are notoriously unbalanced. *Do not force them or try to stall the wheel; they will slip and screech loud enough to wake the dead.*"
-- "Marquise suspension catwalks use cheap iron bolts that shear under stress. *Stick to the primary support beams on the right side to avoid catastrophic groaning.*"
+- "Marquise suspension catwalks use cheap iron bolts that shear under stress. *Look closely at the joint plates; if you see dark rust bleeding down the wood, it means the bolt has sheared inside. Stepping there will cause a catastrophic metallic groan.*"
 - "Standard Marquise officer locks are spring-tension inverted to catch thieves. *A clumsy pick will ring a bell. Use the included skeleton key on the ventilation padlock instead.*"
 - "Shortpaw's lieutenants are issued high-frequency brass signal whistles. *Silence them before they can draw breath, or you'll have the whole garrison on you.*"
 
@@ -48,9 +50,9 @@ To avoid the heavily guarded main gates, Warren's best option is to enter throug
 
 ### Room 2: The Saw Floor Catwalks (Puzzle / Roleplaying Challenge)
 Warren emerges into the rafters above the primary cutting floor. Below him, dozens of Marquise soldiers are sleeping in the makeshift barracks. He must navigate the suspended wooden catwalks to reach the administrative offices.
-* **The Hazard:** Galen's notes warned: *Marquise suspension catwalks use cheap iron bolts that shear under stress. Stick to the primary support beams on the right side.*
-* **The Challenge:** Warren must take the right-side catwalks. However, there is a sentry stationed there.
-* **Complications:** If Warren attempts to sneak past or silently neutralize the guard and rolls poorly, he might accidentally bump a loose tool off the catwalk. It plummets toward the sleeping barracks below. Warren must make a desperate, split-second catch, or the tool hits the floor, waking a squad of soldiers who begin sweeping the catwalks with lanterns.
+* **The Hazard:** Galen's notes warned: *Look closely at the joint plates; if you see dark rust bleeding down the wood, it means the bolt has sheared inside.*
+* **The Challenge:** The catwalks crisscross the ceiling. Warren must carefully inspect the joints in the dim light to find a safe path. He manages to identify a secure route along the right side, but there is a sentry stationed squarely in his path.
+* **Complications:** If Warren attempts to sneak past or silently neutralize the guard and rolls poorly, his footing slips slightly onto a bad joint. The groan of the metal causes him to flinch, knocking a loose tool off the catwalk. It plummets toward the sleeping barracks below. Warren must make a desperate, split-second catch, or the tool hits the floor, waking a squad of soldiers who begin sweeping the catwalks with lanterns.
 
 ### Room 3: The Foreman's Office (Trick / Setback)
 Warren reaches Captain Aridara's elevated office, which temporarily holds the keys to the holding cells. The heavy oak door is locked.
