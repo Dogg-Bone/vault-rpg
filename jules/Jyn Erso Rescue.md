@@ -7,19 +7,21 @@ author: jules
 **Objective:** Rescue [[Jyn Erso]] from Marquise captivity.
 **Party:** Designed as a solo infiltration for [[Warren the Exile]].
 
-## The Hook: A Message Hidden in Plain Sight
-[[Galen Erso]], captive and forced to design weapons for the [[Marquise de Cat]] under the watchful eye of [[Count Shortpaw]], is desperate to free his daughter Jyn. Knowing that direct communication is heavily monitored by his Marquise handlers, Galen utilizes his position as a Tinker.
+## The Hook: The Tinker's Puzzle Box
+[[Galen Erso]], captive and forced to design weapons for the [[Marquise de Cat]] under the watchful eye of [[Count Shortpaw]], is desperate to free his daughter Jyn. Knowing that direct communication is heavily monitored, Galen uses his position as a Tinker to craft a covert distress signal.
 
-He slips a folded parchment to Reynard 'The Slip' (a known smuggler in Swanholde) during a supervised supply delivery, claiming it is a vital requisition form for "specialized gear-grease." Reynard, recognizing the high-grade parchment, sells it to Warren, suspecting it might be valuable intelligence.
+He fabricates a small, intricate metal puzzle box from scrap gears and brass casings. He manages to slip this box to Reynard 'The Slip' (a known smuggler in Swanholde) as "payment" for a small pouch of high-grade pipe tobacco during a supervised supply run. Reynard, unable to open the complex mechanism, sells the intriguing box to Warren, believing it contains a valuable gem.
 
-**The Document:** Outwardly, the parchment looks like a technical maintenance log for the Ironwood Mill's massive waterwheel and central steam-saw. It is covered in detailed diagrams of gears, catwalks, and office layouts.
+**The Box:** Warren, leveraging his Exile cunning and knowledge of mechanics, manages to solve the intricate sliding panels of the puzzle box. Inside, he finds two items:
+1. **A Single-Use Skeleton Key:** A fragile, expertly crafted brass key designed to sheer off inside a lock once turned, leaving the lock mechanism permanently jammed but open.
+2. **The Coded Message:** A tightly rolled, grease-stained scrap of parchment. Outwardly, it looks like a technical maintenance log for the Ironwood Mill.
 
-**The Code:** Galen has heavily annotated the schematic in a specific dialect of old Hundred's shorthand, disguised as mathematical defect notes (e.g., "Gear ratio off by 3, load bearing will fail"). Because Warren is the son of the last Lord of Hundreds, he can easily decipher the true meaning.
+**The Code:** Galen has heavily annotated the schematic in a specific dialect of old Hundred's shorthand, disguised as mathematical defect notes. Because Warren is the son of the last Lord of Hundreds, he can easily decipher the true meaning.
 
-The "defects" actually correspond to a route through the mill and explicit warnings about hazards:
+The "defects" correspond to a route through the mill and explicit warnings about hazards:
 - "Waterwheel intake grate - Rust accumulation high, structural integrity compromised. *Caution: Secondary gear will emit 100-decibel screech if forced.*"
 - "Left Catwalk Securing Bolts - Missing. *Caution: Load exceeding 20lbs will cause severe metallic groan.*"
-- "Foreman's Lock mechanism - Spring tension inverted. *Caution: Improper torque will engage the emergency bell.*"
+- "Foreman's Lock mechanism - Spring tension inverted. *Caution: Improper torque will engage the emergency bell. Suggest direct override via sub-level ventilation.*"
 - "Holding Cell Guard Rotation - Inefficient. *Lieutenant carries high-frequency signal whistle.*"
 
 ## Ironwood Mill Layout
@@ -55,7 +57,8 @@ Warren emerges into the rafters above the primary cutting floor. Below him, doze
 ### Room 3: The Foreman's Office (Trick / Setback)
 Warren reaches Captain Aridara's elevated office, which temporarily holds the keys to the holding cells. The heavy oak door is locked.
 * **The Hazard:** The lock is trapped. Galen's schematic warns: *Spring tension inverted. Improper torque engages bell.*
-* **Complications:** If Warren attempts to pick the lock and rolls a mixed success (7-9), he manages to unlock the door without ringing the bell, but he breaks his lockpicks in the process. Worse, as he pushes the door open, he finds he is not alone. The Captain's favored pet, a massive, scarred feline hound, is sleeping on the rug. The broken lockpick makes a sharp *snap*, and the hound's ears perk up. Warren has mere seconds to pacify or intimidate the beast before it barks.
+* **The Skeleton Key Override:** Galen's note suggested a "direct override via sub-level ventilation." Near the door is a heavy iron grate sealing a narrow maintenance shaft that drops directly into the office. The grate is secured by a complex Marquise master-padlock. This is where the single-use skeleton key from the puzzle box must be used. It will open the padlock silently, but sheer off inside, permanently locking it open.
+* **Complications:** Whether Warren attempts to carefully pick the trapped door or uses the skeleton key to drop through the grate, a mixed success (7-9) reveals he is not alone. As he enters the office, he finds the Captain's favored pet, a massive, scarred feline hound, sleeping on the rug. The entry noise causes the hound's ears to perk up. Warren has mere seconds to pacify or intimidate the beast before it barks.
 
 ### Room 4: The Holding Cells (Climax / Big Battle)
 Warren descends the maintenance stairwell to the reinforced holding cells where Jyn Erso is kept.
