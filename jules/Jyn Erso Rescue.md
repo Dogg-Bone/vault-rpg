@@ -10,7 +10,7 @@ author: jules
 ## The Hook: The Tinker's Puzzle Box
 [[Galen Erso]], captive and forced to design weapons for the [[Marquise de Cat]] under the watchful eye of [[Count Shortpaw]], is desperate to free his daughter Jyn. Knowing that direct communication is heavily monitored, Galen uses his position as a Tinker to craft a covert distress signal.
 
-He fabricates a small, intricate metal puzzle box from scrap gears and brass casings. Reynard 'The Slip' (a known smuggler in Swanholde) owes Galen a life-debt from before the occupation. During a supervised supply run, Galen calls in the favor, slipping Reynard the box and explicitly tasking him with smuggling it out of the mill and delivering it directly to Warren the Exile.
+He fabricates a small, intricate metal puzzle box from scrap gears and brass casings. Reynard 'Smiles' (a known smuggler in Swanholde) owes Galen a life-debt from before the occupation. During a supervised supply run, Galen calls in the favor, slipping Reynard the box and explicitly tasking him with smuggling it out of the mill and delivering it directly to Warren the Exile.
 
 **The Box:** When Reynard delivers the package, Warren leverages his Exile cunning and knowledge of mechanics to solve the intricate sliding panels of the puzzle box. Inside, he finds two items:
 1. **A Single-Use Skeleton Key:** A fragile, expertly crafted brass key designed to sheer off inside a lock once turned, leaving the lock mechanism permanently jammed but open.

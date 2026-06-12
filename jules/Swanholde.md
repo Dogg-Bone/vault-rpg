@@ -24,8 +24,8 @@ The recognized leader of the local foxes. Vulpis is old, tired, and deeply pragm
 *Request:* He asks the Vagabonds to quietly deal with the Sibilant Snake so the logging roads can reopen, relieving the immediate pressure and anger of the Marquise commander.
 *Rumor to share:* He desperately warns the Vagabonds to steer clear of Kaelen 'Red-Tooth', knowing the young fox is planning something foolish and violent that will surely get innocent foxes killed.
 
-### Reynard 'The Slip' (Fox)
-A charismatic and sharp-tongued merchant who runs a modest trading post in the Terraces. Outwardly, Reynard deals in river-stones, woven baskets, and dried fish. Secretly, he is a smuggler and information broker, funneling resources to those who resist the Marquise and occasionally passing messages for the Woodland Alliance. He is dangerous because he plays all sides for profit and spite.
+### Benji 'The Slip' (Fox)
+A charismatic and sharp-tongued merchant who runs a modest trading post in the Terraces. Outwardly, Benji deals in river-stones, woven baskets, and dried fish. Secretly, he is a smuggler and information broker, funneling resources to those who resist the Marquise and occasionally passing messages for the Woodland Alliance. He is dangerous because he plays all sides for profit and spite.
 *Location: Behind the counter of his cluttered trading post, located near the top of The Riverside Terraces.*
 *Drive: To undermine the Marquise while enriching himself.*
 *Fear: Being caught by the Marquise without a backup plan, leading to a swift and brutal execution.*
@@ -51,9 +51,9 @@ A young, soot-stained fox who works grueling shifts at the Ironwood Mill. Kaelen
 *Fear: That he will die before he can strike a meaningful blow against the feline occupation.*
 *Secret: He doesn't actually know how to fight and is terrified of the upcoming confrontation, hiding his fear behind loud bravado.*
 *Request:* He asks the Vagabonds to acquire a cache of black powder or satchel charges, which he plans to use to blow up the Ironwood Mill in the dead of night.
-*Rumor to share:* He bitterly warns the Vagabonds that Reynard 'The Slip' is a traitor and a snake, loudly claiming (correctly) that Reynard sells out local rebels for a quick buck.
+*Rumor to share:* He bitterly warns the Vagabonds that Benji 'The Slip' is a traitor and a snake, loudly claiming (correctly) that Benji sells out local rebels for a quick buck.
 
-### 'Smiles' the Otter (Otter)
+### Reynard 'Smiles' the Otter (Otter)
 A smooth-talking Riverfolk Company representative operating out of a heavily patched skiff in The Shallows. Smiles offers exorbitant loans to desperate foxes who can no longer afford to feed their families due to the Marquise taxes. He always smiles, showing off perfectly sharp, white teeth.
 *Location: Lounging on the deck of his heavily patched skiff moored in The Shallows.*
 *Drive: To extract maximum profit from the desperation of Swanholde's denizens.*
@@ -61,7 +61,7 @@ A smooth-talking Riverfolk Company representative operating out of a heavily pat
 *Secret: His "bodyguards" are actually heavily indebted locals whose families he is holding hostage via financial ruin.*
 *Current Wares:* Exorbitant loans, hired muscle (his indebted bodyguards), safe passage downriver on Company skiffs, and imported goods like waterproof cloaks and foreign spices.
 *Can Acquire:* Using the vast Riverfolk network, he can acquire almost anything given a month and immense wealth, including masterwork weapons, clockwork mechanisms from the deep wood, or top-secret faction intelligence.
-*Request:* He asks the Vagabonds to collect on a massive debt owed by Reynard 'The Slip', offering them a significant percentage of the recovery if they can squeeze the slippery fox.
+*Request:* He asks the Vagabonds to collect on a massive debt owed by Benji 'The Slip', offering them a significant percentage of the recovery if they can squeeze the slippery fox.
 *Rumor to share:* He implies to the Vagabonds that Captain Aridara isn't the loyal soldier she pretends to be, noting that he's seen unmarked barges loaded with premium timber floating past his skiff late at night.
 
 ## The Problems
@@ -70,10 +70,10 @@ A smooth-talking Riverfolk Company representative operating out of a heavily pat
 Recently displaced from its ancient lair in the Sunken Tomb (west of the clearing), the Sibilant Snake has slithered into the outskirts of Swanholde. It has taken up residence along the primary logging road, wrapping itself around a massive, ancient oak. The snake refuses to let supply caravans or travelers pass without answering its maddening riddles. Those who fail are left exhausted, mesmerized, or occasionally bitten. The disruption is halting the Marquise's lumber shipments and terrifying the local foxes who rely on the road for foraging.
 
 ### Problem 2: The Crushing Quota
-Captain Aridara has recently received orders from the capital to double the lumber output of the Ironwood Mill. To meet this impossible demand, she has instituted mandatory conscription, forcing the fox inhabitants to work exhausting shifts in the dangerous mill or drag heavy logs through the mud. The oppressive labor is pushing the foxes to the breaking point. Elder Vulpis is losing control of the angry youth, and Reynard is using the tension to fan the flames of a potential, bloody uprising.
+Captain Aridara has recently received orders from the capital to double the lumber output of the Ironwood Mill. To meet this impossible demand, she has instituted mandatory conscription, forcing the fox inhabitants to work exhausting shifts in the dangerous mill or drag heavy logs through the mud. The oppressive labor is pushing the foxes to the breaking point. Elder Vulpis is losing control of the angry youth, and Benji is using the tension to fan the flames of a potential, bloody uprising.
 
 ## Rumors & Hooks
-- **The Master Smith:** Reynard 'The Slip' is quietly seeking Vagabonds who have acquired broken, ancient, or otherwise valuable weaponry (such as those found in old ruins). He claims to know the location of a reclusive, incredibly gifted blacksmith hidden deep in the woodland—a smith capable of repairing true masterwork items that ordinary ferriers would ruin. Reynard refuses to name the smith, only offering to broker an introduction or provide a map in exchange for a staggering sum of coin or a massive favor against the Marquise.
+- **The Master Smith:** Benji 'The Slip' is quietly seeking Vagabonds who have acquired broken, ancient, or otherwise valuable weaponry (such as those found in old ruins). He claims to know the location of a reclusive, incredibly gifted blacksmith hidden deep in the woodland—a smith capable of repairing true masterwork items that ordinary ferriers would ruin. Benji refuses to name the smith, only offering to broker an introduction or provide a map in exchange for a staggering sum of coin or a massive favor against the Marquise.
 
 ## First Session Encounters
 |  Roll  | Encounter                                                                                                                                                                                                                                            |
@@ -81,7 +81,7 @@ Captain Aridara has recently received orders from the capital to double the lumb
 | **2**  | The Vagabonds stumble upon a brutal eviction in the Terraces; Marquise guards are throwing an indebted fox family out into the mud at the behest of 'Smiles' the Otter, who watches lazily from his skiff.                                           |
 | **3**  | A group of Kaelen's angry youths attempts to ambush a Marquise patrol in an alleyway, but they are wildly outmatched. The Vagabonds must decide whether to intervene before it becomes a massacre.                                                   |
 | **4**  | A weary, mesmerized fox stumbles back into the clearing from the logging road, muttering nonsensical rhymes. They are suffering from exhaustion and venom after failing the Sibilant Snake's riddle.                                                 |
-| **5**  | Reynard 'The Slip' frantically flags down the Vagabonds. A Marquise inspection team is heading for his shop, and he needs them to hold onto a satchel of illegal Woodland Alliance pamphlets until the coast is clear.                               |
+| **5**  | Benji 'The Slip' frantically flags down the Vagabonds. A Marquise inspection team is heading for his shop, and he needs them to hold onto a satchel of illegal Woodland Alliance pamphlets until the coast is clear.                               |
 | **6**  | Elder Vulpis publicly confronts Captain Aridara, begging her to lower the timber quotas. Aridara responds by publicly doubling the shift lengths, daring Vulpis to do something about it. Tension in the crowd is at a boiling point.                |
 | **7**  | A logging cart arrives at the Ironwood Mill carrying a massive, hollowed-out log. Something large and ancient is shifting inside the hollow wood, disturbed from its slumber during the clear-cutting.                                               |
 | **8**  | One of Smiles' "bodyguards" secretly slips the Vagabonds a note wrapped around a river-stone, desperately pleading for them to find a way to clear his debt so he can see his family again.                                                          |
