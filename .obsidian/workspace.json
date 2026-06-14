@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +247,8 @@
   },
   "active": "bccd878814736dae",
   "lastOpenFiles": [
-    "Encounter Tables/Faction Clocks.md",
     "Using the Board Game.md",
+    "Encounter Tables/Faction Clocks.md",
     "_PDF Archive/Root-Travelers-Outsiders.pdf",
     "_PDF Archive/Root-Core-Book.pdf",
     "Encounter Tables/Random Forest Encounters.md",
