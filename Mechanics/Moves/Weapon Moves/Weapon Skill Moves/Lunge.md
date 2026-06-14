@@ -1,0 +1,2 @@
+> [!tip] Lunge
+> When you *make an outright lunge at a foe within close range*, choose an amount of injury between 1-injury and 3-injury and roll with Finesse. On a hit, you inflict that amount of injury—ignoring armor—but if your target survives (or if other foes are present) they can take advantage of your overextension to inflict the same amount on you. On a 7-9, they can inflict 1-injury more upon you than you had originally chosen to inflict upon them.

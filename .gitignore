@@ -1,2 +1,5 @@
-
+/.obsidian/.gitattributes
 /.obsidian/graph.json
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/histories.json

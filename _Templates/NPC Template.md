@@ -1,0 +1,12 @@
+---
+name:
+description:
+job:
+drive:
+fear:
+secret:
+faction:
+species:
+---
+#npc
+

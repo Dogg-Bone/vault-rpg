@@ -1,1 +1,12 @@
-[[Woodland Lost/NPCs/Galen Erso]]'s daughter, the [[Marquise de Cat]] held her captive to coerce her father into inventing weapons for their armies. She was kidnapped by [[Count Shortpaw]]. 
+---
+name: Jyn Erso
+description:
+job:
+drive:
+fear:
+secret:
+faction: Denizens
+species:
+---
+#npc
+[[Galen Erso]]'s daughter, the [[Marquise de Cat]] held her captive to coerce her father into inventing weapons for their armies. She was kidnapped by [[Count Shortpaw]]. 

@@ -2,12 +2,12 @@
 
 # Decks
 Core and Exiles & Partisans
-- [ ] for each card, if it could be an interesting item, NPC, or creature, add it to the bestiary
-- [ ] If the card could be a cool hook, add it to a hook inspo board or something
+- [x] for each card, if it could be an interesting item, NPC, or creature, add it to the bestiary
+- [x] If the card could be a cool hook, add it to a hook inspo board or something
 
 # Faction Setup
 - [ ] Use each faction's setup, basic and advanced, to influence woodland map generation
-- [ ] For each faction's board actions, look for adventure hooks or faction events
+- [x] For each faction's board actions, look for adventure hooks or faction events
 
 # [[Eyrie Dynasties]]
 - [ ] Create an NPC for each leader (Despot, Builder, Commander...)
@@ -23,8 +23,21 @@ Core and Exiles & Partisans
 	4. **Comte** (Count)
 	5. **Vicomte** (Viscount)
 	6. **Baron**
-	7. **Chevalier** (Knight) or Écuyer (Esquire)
+	7. **Chevalier** (Knight) or Écuyer (Squire)
 - [ ] Build an awesome Keep
+- [ ] Troops
+	- 1 Marechal
+	- Chevaliers (Military service days in exchange for land)
+	- Gens d'armes (men at arms, wealthy commoners or minor gentry who fight for pay)
+	- Ecuyers
+	- Sergents d'armes
+	- Wardens/Constables - command fortresses and defenses
+	- Conscripts - Militia, Arbaletriers (archers, longbowmen, crossbowmen), Pikemen/Halbardiers, Peasant Levies - these provide their own weapons
+	- Mercenaries
+	- Capitaines, Lieutenants
+- Prevot - local royal enforcer and lower-level judge
+- Senechaux - high ranking regional magistrates, effectively a secular inquisitor
+- Marquis were assigned the borders, or marches, of the land. The [[Marquise de Cat]] could consider [[The Woodland]] a march.
 
 # [[Woodland Alliance]]
 - [ ] Rebel leader for each suit, rabbit, mouse, fox. Like Luthen, Saw, Mothma or something like that
