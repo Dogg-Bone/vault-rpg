@@ -9,11 +9,7 @@ tags:
 
 A sprawling metropolis nestled in a fertile basin, Fruit Valley is the breadbasket of the Woodland—or at least, its fruit basket. Boasting a massive population and divided into eight distinct districts, the city is a chaotic melting pot where every faction vies for dominance. No single power controls the city; instead, the Marquise de Cat maintains strongholds in industrial zones, the Eyrie Dynasties claim the highest peaks, the Riverfolk dominate the waterways, and various insurgent and expansionist factions carve out their own territories in the streets, cellars, and slums.
 
-Mice are the most populous denizens overall, but each district has its own dominant culture and demographic. The sheer size and wealth of Fruit Valley make it a vital strategic prize, resulting in a delicate, powder-keg peace where outright war is bad for business, but shadow warfare is a daily reality.
-
-## Special Resource: Valley Preserves
-Because of the immense agricultural output of the valley, a specialized industry of preserving fruit has emerged.
-**Valley Preserves** (1-Wear, 1-Depletion): When you consume a jar of Valley Preserves while resting, clear 1 Exhaustion. If you share it with an NPC, they will be favorably disposed to you for the duration of your interaction, granting you +1 to `Trust Fate` when attempting to persuade or negotiate with them.
+The sheer size and wealth of Fruit Valley make it a vital strategic prize, resulting in a delicate, powder-keg peace where outright war is bad for business, but shadow warfare is a daily reality.
 
 ## Observed Holidays
 
@@ -33,26 +29,13 @@ A somber, quiet night in deep winter. Denizens light single candles in their win
 ## Districts
 
 ### 1. The Tangled Orchards
-The agricultural heart of Fruit Valley, dominated by massive, overgrown fruit trees. Paths here are winding dirt trails beneath a thick canopy of branches.
+The agricultural heart of Fruit Valley, dominated by ancient, gnarled fruit trees. Paths here are winding dirt trails beneath a thick canopy of branches.
 * **Dominant Population:** Mice
 * **Factions Present:** Woodland Alliance (Hidden camps among the roots), Marquise de Cat (Tax collectors and lumberjacks eyeing the older trees).
 
 #### Notable NPCs
-**Brie "Thorn" Meadowsweet** (Mouse, Woodland Alliance Organizer)
+**Brie Thistle (Mouse, Woodland Alliance Organizer)
 * **Location:** A disguised root-cellar beneath the oldest apple tree.
-* **Fear:** That the Marquise will start clear-cutting the orchards to flush out her rebels.
-* **Secret:** She has been stockpiling black powder stolen from Marquise shipments, hidden in hollowed-out tree trunks.
-* **Request for the Vagabonds:** Sabotage a Marquise logging saw; offers a finely crafted Alliance shortbow and safe passage through the deep woods.
-* **Opinion/Info:** "I hear the Riverfolk at the market are inflating the prices of wheat just to starve the poorest districts."
-
-#### First Session Encounters (2d6)
-| Roll | Encounter |
-| :--- | :--- |
-| **2-3** | A Woodland Alliance ambush gone wrong; Marquise guards are pinning down a few poorly-armed mouse rebels. |
-| **4-6** | An overly aggressive Marquise tax collector is shaking down an elderly orchard-keeper for more fruit. |
-| **7-9** | A sudden, localized swarm of hungry beetles threatens to ruin a section of the crop; locals are desperately fighting them off. |
-| **10-11** | You stumble upon a hidden cache of Alliance weapons, but it's rigged with a crude alarm trap. |
-| **12** | A massive, ancient apple tree is creaking ominously, threatening to crush several homes beneath its rotting weight. |
 
 ### 2. The Cider Wards
 An industrial district filled with the constant sound of grinding presses and the sharp smell of vinegar and cider. The buildings are brick and timber, constantly slick with spilled juice.
