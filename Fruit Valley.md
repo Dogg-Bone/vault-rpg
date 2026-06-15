@@ -24,6 +24,7 @@ rotting slums, located at a bend in the [[Silver River]] downstream of the rest 
 # Conflicts
 1 core conflict that is readily apparent to newcomers
 several additional conflicts to be unearthed (3)
+The rest can be district-level conflicts or saved for other clearings
 
 - Keepers siege the Citadel (fight with Eyrie) or set up waystation in the Grotto (fight with Lizard Cult, if they have a garden there)
 - Hundreds mobs in the Red Ward become increasingly violent and threaten key districts
@@ -34,7 +35,13 @@ several additional conflicts to be unearthed (3)
 - Counterfeit River Scrip -  River Company captains discover they are being paid in false scrip, and have been for a while. They begin acting with a much rougher hand, foreclosing, evicting, and imprisoning those who fall behind on payments. Corvid counterfeiters managed to acquire enormous wealth before the counterfeits were discovered and can now bring that wealth to bear. Woodland Alliance support swells in the face of the River Company's force.
 - Erratic Eyrie - the daughter of the Citadel's ruling house disappears from within her quarters. now Eyrie patrols randomly search shops, residences, and denizens without notice as the Eyrie leader grows increasingly paranoid
 - Eye of the Dragon - A group of Lizard Cult fanatics awakens an enormous reptile (max size giant snake or alligator) which begins to rampage topside. Cultists actively work to prevent others from harming the monster, claiming it is here to sate itself on the blood of the wicked and that it will return to its lair soon. The monster doesn't seem to have an end to its appetite.
-- 
+- Alliance cells headquartered in the Warren prepare to steal a month's worth of Marquise payroll
+- Imprisoned - Marquise officers with knowledge of key secrets are imprisoned within the Citadel's dungeons. Marquise leaders fear the Eyrie learning the secrets and seek out the vagabonds to break the officers out. Replace Marquise with a faction friendlier to the vagabonds if they are not.
+- Uprising - an uprising in the red ward leads to a massacre that sparks all out war that threatens to involve all factions a la WWI
+- Succession - An Eyrie scion seeks to hire assassins to remove the Eyrie leader so he can take control of Eyrie forces
+- Siphoning - local Woodland Alliance cells are impressively well-funded. These funds come from a sympathetic aristocrat in the Gilded Lofts who is funneling family fortune secretly to Alliance leaders. However, she's left a paper trail and needs someone to clean it up. Vagabonds would be nice because they can't be tied back to members of the Woodland Alliance. Works particularly well if the vagabonds have slightly negative reputation with the Alliance
+- Rampaging swarms - someone has contaminated the food supply of a hive with a psychoactive chemical that causes the creatures to attack the city in droves
+- Framed - one of the vagabonds is framed for the murder of a key suspect in a bombing. Even better if they are framed for the murder of someone they have just captured, accused by the same people that hired them. Either imprison the framed vagabond and give the others a chance to break them out, or put them on the run until another faction or someone else shelters them
 
 
 # Important Residents
