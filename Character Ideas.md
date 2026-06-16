@@ -19,3 +19,8 @@
 ### Deputy Kara Dun
 - Deputy to Clancy
 - Totally loyal to faction, disobedience to superiors is cardinal sin
+
+### Captain Mondo Yafir
+- Hondo Ohnaka but as Riverfolk Company skipper
+- Possum, weasel, or fox
+- runs an absolutely completely legal operation that is totally above board in every way
