@@ -88,3 +88,4 @@ Long John Silver
 Luke Castillo
 Count Olaf
 King Candy
+Ernesto de la Cruz

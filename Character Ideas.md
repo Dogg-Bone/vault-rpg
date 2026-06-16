@@ -13,6 +13,7 @@
 
 ### Clancy "Pants" Morgan
 - Chief of police in a clearing
+- Begins as a Javert or Syril Karn
 - Strong moral compass and sense for justice
 - Initially believes in the cause of his faction, but as he interacts with the [[Vagabonds]] he becomes uncomfortable with injustice in his faction and willing to disobey orders to do what he thinks is right. May even side with a Robin Hood-like figure
 
@@ -24,3 +25,4 @@
 - Hondo Ohnaka but as Riverfolk Company skipper, kind of like Long John Silver
 - Possum, weasel, or fox
 - runs an absolutely completely legal operation that is totally above board in every way
+
