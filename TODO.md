@@ -43,7 +43,7 @@ Core and Exiles & Partisans
 - [ ] Rebel leader for each suit, rabbit, mouse, fox. Like Luthen, Saw, Mothma or something like that
 
 # [[Vagabonds]]
-- [ ] Make an NPC Vagabond for each vagabond archetype, scoundrel - arbiter - thief - ronin - adventurer
+- [x] Make an NPC Vagabond for each vagabond archetype, scoundrel - arbiter - thief - ronin - adventurer
 
 # [[Corvid Conspiracy]]
 - [ ] NPC for each plot type
