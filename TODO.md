@@ -10,10 +10,10 @@ Core and Exiles & Partisans
 - [x] For each faction's board actions, look for adventure hooks or faction events
 
 # [[Eyrie Dynasties]]
-- [ ] Create an NPC for each leader (Despot, Builder, Commander...)
-- [ ] Create Vizier NPCs 
-	- [ ] Name all of them and give them secrets
-	- [ ] Describe their personality with a single word, a prime drive, or something they will never do
+- [x] Create an NPC for each leader (Despot, Builder, Commander...)
+- [x] Create Vizier NPCs
+	- [x] Name all of them and give them secrets
+	- [x] Describe their personality with a single word, a prime drive, or something they will never do
 
 # [[Marquise de Cat]]
 - [ ] Counts, Viscounts, Barons, and Knights for lieutenants, have a couple of each
