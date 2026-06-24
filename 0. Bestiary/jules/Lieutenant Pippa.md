@@ -37,3 +37,7 @@ description: "Pippa views the destruction wrought by the Hundreds not as a trage
 ## Background
 **Why They Joined the Hundreds**: After escaping the Marquise work camp, Pippa wandered the woodland aimlessly until she encountered a Hundreds raid tearing down a toll bridge. The sight of the oppressive structure falling into the river was the most beautiful thing she had ever seen. She picked up a crowbar and joined in.
 **How They Rose to Lieutenant**: Pippa's utter lack of fear and terrifying enthusiasm is infectious. During a grueling siege, when morale was at its lowest, Pippa led a seemingly suicidal charge against the gatehouse, laughing the entire way. The sheer audacity of it broke the defenders' resolve and inspired the horde to follow her. The Lord of Hundreds recognized her value as a mascot of their chaotic cause.
+
+## GM Moves
+- Unleash indiscriminate destruction that catches both friend and foe.
+- Laugh maniacally in the face of mortal danger, unnerving onlookers.

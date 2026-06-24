@@ -37,3 +37,7 @@ description: "Tilde is the anchor of the horde. While the others push forward, s
 ## Background
 **Why They Joined the Hundreds**: Tilde's village was razed during an Eyrie 'pacification' campaign. As a master mason, she watched her life's work reduced to rubble. She joined the Hundreds seeking a group strong enough that no one would ever be able to tear down her home again.
 **How They Rose to Lieutenant**: During a disastrous counter-attack by the Marquise, the Hundreds were routed. Tilde rallied a small group of stragglers, fortified a narrow pass with overturned wagons, and held off a company of cat soldiers for three days, allowing the main horde to escape and regroup. She earned her rank through unshakeable reliability.
+
+## GM Moves
+- Refuse to budge or negotiate, escalating a situation to violence.
+- Command followers to rapidly construct a makeshift, impassable barricade.

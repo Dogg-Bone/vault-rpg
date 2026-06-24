@@ -37,3 +37,7 @@ description: "Alden was once a village elder's son, raised on tales of a unified
 ## Background
 **Why They Joined the Hundreds**: Alden watched his village's historic council hall be repurposed into a Marquise lumber storage facility. The cats dismissed his family's generational authority as 'quaint peasant customs.' The Hundreds offered the first real chance to strike back against an occupying force and reclaim denizen sovereignty.
 **How They Rose to Lieutenant**: Alden possesses genuine organizational skills and a commanding voice. During a chaotic raid that was falling apart, Alden stepped up, organized a defensive line, and secured an orderly retreat. The Lord of Hundreds recognized that a horde needs at least one person who knows how to manage logistics and keep morale high during lulls.
+
+## GM Moves
+- Demand unreasonable deference and respect from 'lesser' denizens.
+- Quote (or misquote) an ancient law to justify a brutal act.

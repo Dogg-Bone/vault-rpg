@@ -37,3 +37,7 @@ description: "Fenn spent his youth as a highly skilled, underpaid servant in a M
 ## Background
 **Why They Joined the Hundreds**: After years of enduring the casual cruelty of a Marquise Baron, Fenn finally snapped, poisoning the Baron's prized hounds before fleeing into the woods. He joined the Hundreds because they were the only force actively tearing down the walls he grew up behind.
 **How They Rose to Lieutenant**: The Hundreds are blunt instruments, but Fenn understood the value of asymmetric warfare. He secured his rank by independently assassinating three Eyrie supply officers in a single week, crippling an enemy roost without the Hundreds losing a single soldier. The Lord of Hundreds values his ruthless efficiency.
+
+## GM Moves
+- Exploit a trusted relationship or a hidden weakness to strike a crippling blow.
+- Deliver a cruel, personalized insult that distracts or enrages a target.

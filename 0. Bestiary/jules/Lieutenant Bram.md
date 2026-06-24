@@ -38,3 +38,7 @@ description: "A pragmatic, hard-bitten veteran of border skirmishes. Bram does n
 ## Background
 **Why They Joined the Hundreds**: As a refugee displaced by faction warfare, Bram found that the woodland was hostile to individuals. The Hundreds offered a harsh, simple proposition: march with us, fight, and eat. It wasn't ideological; it was survival math.
 **How They Rose to Lieutenant**: Bram survived. While other recruits died charging fortified positions or deserted during hard winters, Bram simply kept marching, kept fighting, and kept surviving. He earned lieutenant status through sheer attrition—he was the only veteran left standing who knew how to keep a column moving under arrow fire.
+
+## GM Moves
+- Push exhausted troops far past their breaking point to achieve an objective.
+- Ignore a direct plea for mercy in favor of a tactical advantage.

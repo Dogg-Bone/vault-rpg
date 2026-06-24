@@ -38,3 +38,7 @@ description: "Voss is a rare fox in the upper echelons of the Hundreds. He is sm
 ## Background
 **Why They Joined the Hundreds**: Voss was a moderately successful merchant whose business was ruined by exorbitant Eyrie taxes. He realized that in a woodland consumed by war, the only real power was raw force. He joined the Hundreds not to fight, but to manage their chaotic economy and get rich in the process.
 **How They Rose to Lieutenant**: The Hundreds are excellent at taking things, but terrible at managing them. The horde was starving despite sitting on piles of looted silver because no one knew how to fence it. Voss stepped in, established supply lines with the Riverfolk, and turned stolen trinkets into food and weapons. He is a lieutenant because they literally cannot afford to lose him.
+
+## GM Moves
+- Offer an exorbitant bribe to turn a loyal ally into a traitor.
+- Casually reveal a piece of blackmail to force compliance.
