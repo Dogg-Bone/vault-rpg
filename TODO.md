@@ -54,7 +54,7 @@ Core and Exiles & Partisans
 
 # [[Lord of Hundreds]]
 - [ ] NPC for the [[Lord of Hundreds]]
-- [ ] NPCs for lieutenants
+- [x] NPCs for lieutenants
 - [ ] Items that grant bonuses similar to the attitudes of the Hundreds
 
 
