@@ -23,6 +23,11 @@ To the public and high society, "Lord Alistair Reynard" is a charming, slightly 
 * **Request for the Vagabonds:** He wants the Vagabonds to steal a specific, seemingly mundane ledger from a heavily guarded Marquise tax collector. In exchange, he offers them a hefty pouch of unminted gold and access to a hidden smuggler's route across the woodland.
 * **Opinion/Info:** "Elara is a visionary, but her hands are too clean. She thinks we can win this war with speeches and voting blocs. She doesn't realize the mud and blood required to build the foundation of her utopia."
 
+### Moves
+* Smoothly pivot into his affable aristocrat persona to deflect suspicion.
+* Ruthlessly burn a valuable asset or ally to protect the larger operation.
+* Reveal that a seemingly random tragedy was actually a calculated, necessary strike.
+
 ---
 
 ## Elara Pips
@@ -39,6 +44,11 @@ Elara Pips is a calm, composed mouse who always dresses in simple but impeccably
 * **Request for the Vagabonds:** She asks the Vagabonds to escort a high-profile defector (an Eyrie quartermaster) safely across hostile territory to an Alliance safehouse. She promises them a lifetime writ of safe passage through any Alliance-controlled territory and a rare, masterwork item.
 * **Opinion/Info:** "Thaddeus has lost his way. His anger was a tool once, but now it's a wildfire. If we don't reign him in, the ashes he leaves behind won't be worth ruling."
 
+### Moves
+* Unveil a previously hidden stream of clandestine funding or supplies.
+* Cut through a tense negotiation with unyielding moral authority.
+* Call in a favor from a high-ranking official in an opposing faction.
+
 ---
 
 ## Thaddeus Warren
@@ -54,3 +64,8 @@ Thaddeus Warren is a towering, heavily scarred rabbit missing half of his left e
 * **Secret:** He is dying from a chronic, untreatable lung condition caused by breathing in fumes from his own improvised explosives over the years. His increasing desperation and violence are born from a desire to see the war end before he dies.
 * **Request for the Vagabonds:** He wants the Vagabonds to sabotage a critical bridge right as a Marquise supply train crosses it, ensuring maximum casualties. If they succeed, he will reward them with a cache of dangerous, high-grade explosives and military-grade weaponry.
 * **Opinion/Info:** "Silas thinks he's playing a grand game of chess in his velvet coats. He's a coward who sends others to die while he drinks tea. The only language our enemies understand is fire."
+
+### Moves
+* Detonate a hidden, highly destructive explosive without warning.
+* Violently and stubbornly reject a perfectly reasonable compromise.
+* Order a fanatical, suicidal charge from his radicalized followers.
