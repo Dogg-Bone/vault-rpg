@@ -11,7 +11,7 @@ bestiary: "true"
 image: [[Placeholder.webp]]
 creature: "Lord of Hundreds Warlord"
 name: "Hundreds Warlord"
-species: "Rat"
+species: "Mouse"
 faction: Lord of Hundreds
 columns: 2
 injury: 3
@@ -25,7 +25,7 @@ move_02: Scorched Earth - Set fire to the surroundings, creating chaotic hazards
 item_01: Heavy scavenged blade
 item_02: Pitch-soaked torch
 item_03: War horn
-description: "A brutal, imposing leader of the rat hordes. Clad in intimidating armor pieced together from the ruins of their enemies, they command through fear and the promise of endless pillaging."
+description: "A brutal, imposing leader of the mouse hordes. Clad in intimidating armor pieced together from the ruins of their enemies, they command through fear and the promise of endless pillaging."
 ```
 
 ![[Placeholder.webp]]
