@@ -41,7 +41,7 @@ The Bastion is divided into five distinct wings, each serving a specific functio
 
 1. **The Iron Gate (Guardian):** Massive twin doors flanked by watchtowers. Heavily guarded by arbaletriers and inspected by a meticulous Senechaux. Access requires forged papers or a hefty bribe.
 2. **The Muster Yard (Puzzle/Roleplay):** A sprawling, muddy courtyard where conscripts are drilled. Vagabonds must blend in with the chaotic movement or talk their way past the drill sergeants to cross the yard safely.
-3. **The Quartermaster's Checkpoint (Setback):** A narrow chokepoint filled with requisition forms and skeptical quartermasters. A sudden inspection or a missing stamp threatens to expose the group.
+3. **The Field Triage & Checkpoint (Setback):** A narrow, chaotic chokepoint overflowing with makeshift hospital beds and groaning soldiers. Harried quartermasters and medics ruthlessly triage the wounded while inspecting supply lines. Intruders risk exposure by bumping into the injured or failing to produce medical requisition forms.
 4. **The Barracks Blockhouse (Climax):** A sturdy, fortified building housing off-duty soldiers. Bypassing or quietly neutralizing the guards here is necessary to access the inner Keep.
 5. **The Smuggler's Postern (Reward):** A hidden, lesser-known sally port utilized by corrupt quartermasters. Provides a secure entry point into the Inner Ward and a stash of discarded, poorly tracked supplies (minor loot).
 
