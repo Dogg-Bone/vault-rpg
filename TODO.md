@@ -40,7 +40,7 @@ Core and Exiles & Partisans
 - Marquis were assigned the borders, or marches, of the land. The [[Marquise de Cat]] could consider [[The Woodland]] a march.
 
 # [[Woodland Alliance]]
-- [ ] Rebel leader for each suit, rabbit, mouse, fox. Like Luthen, Saw, Mothma or something like that
+- [x] Rebel leader for each suit, rabbit, mouse, fox. Like Luthen, Saw, Mothma or something like that
 
 # [[Vagabonds]]
 - [ ] Make an NPC Vagabond for each vagabond archetype, scoundrel - arbiter - thief - ronin - adventurer
