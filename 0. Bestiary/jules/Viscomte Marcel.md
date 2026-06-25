@@ -7,7 +7,7 @@ author: jules
 
 `statblock: inline`
 > [!tip]+ Viscomte Marcel, Quartermaster of the Outer Ward
-> **Location:** The Outer Ward, Bastion de la Lisière
+> **Location:** The Outer Ward, Bastion de la Lisiere
 > **Description:** A harried, perpetually tired-looking cat juggling too many requisitions. Ink stains cover his paws and snout.
 >
 > **Injury:** `[ ] [ ]`

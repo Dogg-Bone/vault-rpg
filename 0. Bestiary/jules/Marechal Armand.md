@@ -7,7 +7,7 @@ author: jules
 
 `statblock: inline`
 > [!tip]+ Marechal Armand, Commander of the Bastion
-> **Location:** The Command Zenith, Bastion de la Lisière
+> **Location:** The Command Zenith, Bastion de la Lisiere
 > **Description:** A scarred, imposing cat with a pristine, tailored uniform that contrasts with his battle-worn face. He speaks quietly but carries absolute authority.
 >
 > **Injury:** `[ ] [ ] [ ] [ ]`

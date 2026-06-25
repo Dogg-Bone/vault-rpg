@@ -7,7 +7,7 @@ author: jules
 
 `statblock: inline`
 > [!tip]+ Comte Beatrice, Warden of the Depths
-> **Location:** The Dungeons & Interrogation Wing, Bastion de la Lisière
+> **Location:** The Dungeons & Interrogation Wing, Bastion de la Lisiere
 > **Description:** A lean, sharp-featured cat with cold, unblinking eyes. She wears dark, utilitarian leather over her uniform and carries a multitude of intricate keys.
 >
 > **Injury:** `[ ] [ ] [ ]`

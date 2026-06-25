@@ -7,7 +7,7 @@ author: jules
 
 `statblock: inline`
 > [!tip]+ Comte Valerius, Overseer of the Forges
-> **Location:** The Industrial Forges, Bastion de la Lisière
+> **Location:** The Industrial Forges, Bastion de la Lisiere
 > **Description:** A plump, meticulously groomed cat who obsessively cleans soot from his fine clothes. He is rarely seen without a ledger in paw.
 >
 > **Injury:** `[ ] [ ]`

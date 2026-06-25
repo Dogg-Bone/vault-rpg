@@ -2,9 +2,9 @@
 author: jules
 ---
 
-# Bastion de la Lisière
+# Bastion de la Lisiere
 
-The Bastion de la Lisière (Bastion of the Border) is a massive, soot-stained fortress built by the [[Marquise de Cat]]. Situated strategically near the edge of [[The Woodland]], it serves as the primary military command center, industrial hub, and defensive bulwark for the Marquise's ambitions in the region. Plumes of acrid smoke constantly rise from its central forges, and the rhythmic pounding of industry can be heard echoing through the surrounding forests.
+The Bastion de la Lisiere (Bastion of the Border) is a massive, soot-stained fortress built by the [[Marquise de Cat]]. Situated strategically near the edge of [[The Woodland]], it serves as the primary military command center, industrial hub, and defensive bulwark for the Marquise's ambitions in the region. Plumes of acrid smoke constantly rise from its central forges, and the rhythmic pounding of industry can be heard echoing through the surrounding forests.
 
 The Keep is not just a military installation; it is a sprawling, multi-tiered complex designed to project power. The architecture is brutalist and utilitarian, favoring heavy stone blocks, iron reinforcements, and sharp angles designed to deflect siege weapons. It is a place of industry and war, where conscripts are trained, weapons are forged, and campaigns are planned.
 
@@ -12,7 +12,7 @@ The Keep is not just a military installation; it is a sprawling, multi-tiered co
 
 ### Custom Player Move: Infiltrate the Bastion
 > [!tip] Infiltrate the Bastion
-> When you **attempt to navigate or infiltrate a new wing of the Bastion de la Lisière**, roll with Finesse or Cunning (your choice).
+> When you **attempt to navigate or infiltrate a new wing of the Bastion de la Lisiere**, roll with Finesse or Cunning (your choice).
 > - On a 10+, you successfully navigate the area and remain undetected. Choose 1:
 >   - You bypass an environmental hazard without spending resources.
 >   - You glean a valuable piece of intelligence about the Keep's layout or guard rotations.
@@ -23,7 +23,7 @@ The Keep is not just a military installation; it is a sprawling, multi-tiered co
 > - On a 6-, the Keep's defenses bear down on you. The GM makes a hard move, and you are cornered or captured.
 
 ### GM Moves for the Keep
-> [!tip] GM Moves: Bastion de la Lisière
+> [!tip] GM Moves: Bastion de la Lisiere
 > - **Sound the Alarm:** Increase the visible presence of guards (Conscripts, Gens d'armes, or Chevaliers).
 > - **Industrial Hazard:** Introduce a sudden complication from the Keep's machinery (venting steam, a collapsed gantry, an automated mechanism).
 > - **Bureaucratic Red Tape:** A patrol demands proper documentation, insignia, or a password that the Vagabonds lack.

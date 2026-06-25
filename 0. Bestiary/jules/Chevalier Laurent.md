@@ -7,7 +7,7 @@ author: jules
 
 `statblock: inline`
 > [!tip]+ Chevalier Laurent, Elite Guard
-> **Location:** The Noble Quarters, Bastion de la Lisière
+> **Location:** The Noble Quarters, Bastion de la Lisiere
 > **Description:** A young, athletic, and overly proud cat wearing gleaming, impeccably maintained plate armor. He moves with practiced, almost theatrical grace.
 >
 > **Injury:** `[ ] [ ] [ ]`

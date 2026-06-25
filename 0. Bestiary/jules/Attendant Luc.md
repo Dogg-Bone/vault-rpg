@@ -7,7 +7,7 @@ author: jules
 
 `statblock: inline`
 > [!tip]+ Attendant Luc, Squire to the Marechal
-> **Location:** The Command Zenith, Bastion de la Lisière
+> **Location:** The Command Zenith, Bastion de la Lisiere
 > **Description:** A young, unassuming cat who blends into the background. He is always present, holding maps, pouring wine, or taking notes.
 >
 > **Injury:** `[ ] [ ]`
