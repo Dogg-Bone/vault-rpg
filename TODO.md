@@ -24,8 +24,8 @@ Core and Exiles & Partisans
 	5. **Vicomte** (Viscount)
 	6. **Baron**
 	7. **Chevalier** (Knight) or Écuyer (Squire)
-- [ ] Build an awesome Keep
-- [ ] Troops
+- [x] Build an awesome Keep
+- [x] Troops
 	- 1 Marechal
 	- Chevaliers (Military service days in exchange for land)
 	- Gens d'armes (men at arms, wealthy commoners or minor gentry who fight for pay)
