@@ -50,3 +50,23 @@ Here are a few possible weapons and attacks NPCs can use against the vagabonds:
 ## Important Residents 
 The characters whom the vagabonds meet are how the Woodland comes to life, and providing a variety of interesting, exciting, threatening, complicated, and intriguing NPCs is one of your most important goals. Take some time before you play to create useful NPC outlines, complete with harm tracks and drives so you’re ready to portray them when they show up in the story. And tie them to conflicts!
 
+
+# Template
+## Layer 1
+Name
+Species
+Job
+Drive
+
+Equipment
+- personally significant item
+## Layer 2
+Moves
+- move a
+- move b
+- move c
+
+Center location: head, chest, hips, stomach, etc.
+Movement quality:
+- 
+## Layer 3
