@@ -61,9 +61,26 @@ Or a smoldering demon: It looks at you the way a starving man looks at bread he'
 And then you can resummon them later with the same impulse next session. All you need to remember is this guy crushes, or this woman reaches, or this thing hungers, that's it. You're not doing Chekhov in any formal way, you're just stealing some very smart shortcuts to make your instinct sharper and your table's experience clearer.
 
 # Laban Movement Theory
+
+### Effort States
+**Press:** Strong, sustained, direct
+**Wring:** Strong, sustained, indirect
+**Slash:** Strong, sudden, indirect
+**Punch:** Strong, sudden, direct
+**Float:** Light, sustained, indirect
+**Glide:** Light, sustained, direct
+**Flick:** Light, sudden, indirect
+**Dab:** Light, sudden, direct
 ## Movement Quality
 ### Step one
-before the session, tag your major enemies with four qualities. you can write something like: 
+before the session, tag your major enemies with four qualities.
+Weight, Time, Space, and Flow
+**Weight:** Light or Heavy
+**Time:** Sudden or Sustained
+**Space:** Direct or Indirect
+**Flow:** Free energy or Bound energy
+
+You can write something like: 
 - ogre - heavy, sustained, direct, bound 
 - wraith assassin - light, sudden, indirect, free 
 ### Step two
