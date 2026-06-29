@@ -134,3 +134,38 @@ This layer covers what the vagabonds can actually *do*, who is there, and how th
 **The Call to Action (The Pressure)**
 *What is the immediate problem or shift in stakes that forces the Vagabonds to act right now?*
 -> *"What do you do?"*
+
+- - -
+
+# Clearing Template
+
+> [!tip] Clearing Name
+> **Control:** [Faction currently holding power]
+> **Dominant Inhabitants:** [Primary species or groups]
+
+**Important Locations**
+- **[Location Name]:** [Description, including architectural details and atmosphere].
+
+**Notable NPCs**
+- **[NPC Name]:** [Brief description and their role/drive in the clearing].
+
+**Problems / Conflicts**
+1. **[Problem 1]:** [Description of the issue].
+2. **[Problem 2]:** [Description of the issue].
+
+**Special Resource**
+- **[Resource Name]:** [Mundane, non-magical resource easily acquired here, with a clear mechanical benefit].
+
+**Rumors & Hooks**
+- *[Rumor 1]:* [Hook tying into a problem or NPC].
+- *[Rumor 2]:* [Hook tying into a problem or NPC].
+
+**First Session Encounters**
+
+| Roll (2d6) | Encounter | Tie-in |
+| :---: | :--- | :--- |
+| 2-3 | [Dangerous/Rare encounter] | [Ties to Problem 1 or 2] |
+| 4-6 | [Uncommon complication] | [Ties to Problem 1 or 2] |
+| 7-9 | [Common sight or minor obstacle] | [Ties to Problem 1 or 2] |
+| 10-11 | [Beneficial or intriguing interaction] | [Ties to Problem 1 or 2] |
+| 12 | [Highly lucrative or extremely rare encounter] | [Ties to Problem 1 or 2] |
