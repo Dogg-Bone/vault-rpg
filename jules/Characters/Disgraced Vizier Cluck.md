@@ -47,10 +47,3 @@ Morale: [ ] [ ] [ ] [ ]
 **Social Status:** 1 - Dirt (Formerly 4, now an outcast)
 
 **Perception of Vagabonds:** *"Tools. Blunt instruments to be pointed at the foundations of those self-righteous fools in their roosts."*
-
-### Roleplaying Info
-- **Location:** A hidden safehouse in a heavily criminal-controlled district.
-- **Fear:** Being captured alive by the Eyrie and subjected to a public execution.
-- **Secret:** He still has loyalist spies planted within the Eyrie's bureaucracy who feed him information.
-- **Request for the Vagabonds:** Wants the Vagabonds to break into an Eyrie roost and steal a specific ledger that proves the corruption of the current leader. Offers a substantial cache of hidden Eyrie gold he smuggled out during his exile.
-- **Opinion/Info:** He knows that Nico "Albert" Malloy is planning to expand his protection racket into a new clearing, and suggests Malloy could be a useful, if dangerous, ally against the Eyrie.

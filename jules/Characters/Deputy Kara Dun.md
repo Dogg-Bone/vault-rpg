@@ -48,10 +48,3 @@ Morale: [ ] [ ] [ ] [ ]
 **Social Status:** 2 - Lower (Authority figure, but not wealthy)
 
 **Perception of Vagabonds:** *"Roving catalysts for disorder. They have no respect for authority, no chain of command, and no place in a civilized clearing."*
-
-### Roleplaying Info
-- **Location:** The local jailhouse or patrolling the streets.
-- **Fear:** Anarchy and the breakdown of the chain of command, leading to the collapse of the clearing's society.
-- **Secret:** She has drafted a formal report detailing her Chief's "treasonous leniency," but hasn't yet submitted it to the higher-ups out of a lingering sense of loyalty to him personally.
-- **Request for the Vagabonds:** Wants the Vagabonds to quietly gather evidence of Woodland Alliance sympathy among a specific group of denizens so she can justify a raid. Offers a small bounty and a promise to look the other way on their minor infractions.
-- **Opinion/Info:** She knows that Nico "Albert" Malloy is bribing politicians, but without direct orders to investigate him from her Chief, she rigidly refuses to act on it herself.

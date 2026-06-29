@@ -48,10 +48,3 @@ Morale: [ ] [ ]
 **Social Status:** 3 - Upper
 
 **Perception of Vagabonds:** *"Dreadful, dirty creatures! But... terribly useful for doing the messy stabbing while I stay here and look majestic."*
-
-### Roleplaying Info
-- **Location:** The most upscale tavern in a Marquise-controlled clearing.
-- **Fear:** Being forced into a fair, one-on-one fight where he cannot cheat or flee.
-- **Secret:** He accidentally lost a crucial shipment of Marquise weapons in a game of cards to the Magpie Syndicate and is desperately trying to cover it up.
-- **Request for the Vagabonds:** Wants the Vagabonds to steal back the lost weapons from the Magpie Syndicate before his superiors notice they are missing. Offers a frankly unbelievable (and likely forged) Marquise writ of nobility as a reward.
-- **Opinion/Info:** He believes Marechal Kyne is a brutish, uncultured thug who is holding back the true "elegance" of the Marquise military machine, and secretly hopes the Marechal's clockwork legs rust solid.

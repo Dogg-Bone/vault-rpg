@@ -48,10 +48,3 @@ Morale: [ ] [ ] [ ]
 **Social Status:** 2 - Lower (Technically a merchant, treated like a pirate)
 
 **Perception of Vagabonds:** *"Ah, my favorite kind of business partners! Expendable, deniable, and usually willing to work for a fraction of what a professional crew demands!"*
-
-### Roleplaying Info
-- **Location:** The docks of a major river clearing, usually aboard his boat, the *Honest Profit*.
-- **Fear:** Being trapped in a dry clearing, miles away from the escape route of a river.
-- **Secret:** He accidentally smuggled an incredibly dangerous, highly sought-after Woodland Alliance leader out of a besieged clearing, and now both the Alliance and the Marquise are looking for him.
-- **Request for the Vagabonds:** Wants the Vagabonds to create a massive distraction at the docks (like a fire or a riot) so he can slip past the Marquise blockade. Offers a cut of his heavily exaggerated profits and free passage downriver.
-- **Opinion/Info:** He claims to have sold Marechal Kyne the clockwork parts for his legs, and insists the Marechal overpaid by a factor of ten because "he was desperate, and I am an honest businessman."

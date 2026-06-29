@@ -47,10 +47,3 @@ Morale: [ ] [ ] [ ] [ ] [ ]
 **Social Status:** 4 - Elite
 
 **Perception of Vagabonds:** *"Mercenaries and vagrants are chaotic elements that break formation. They are useful only as expendable vanguard forces."*
-
-### Roleplaying Info
-- **Location:** The heavily fortified command tent of a major Marquise encampment.
-- **Fear:** Being outmaneuvered or appearing physically weak/vulnerable due to his prosthetics.
-- **Secret:** The clockwork legs require a very specific, rare lubricating oil supplied by the Riverfolk Company, leaving him indebted to certain skippers.
-- **Request for the Vagabonds:** Wants the Vagabonds to track down and eliminate a specific, elusive Woodland Alliance saboteur. Offers a cache of rare Marquise weapons or a writ of safe passage in return.
-- **Opinion/Info:** He holds profound contempt for Vicomte Cousteau, viewing him as a vain, cowardly sycophant who plays at being a soldier.

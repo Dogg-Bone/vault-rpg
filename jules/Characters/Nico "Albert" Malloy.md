@@ -47,10 +47,3 @@ Morale: [ ] [ ] [ ] [ ]
 **Social Status:** 3 - Upper (Publicly) / 4 - Elite (Underworld)
 
 **Perception of Vagabonds:** *"Fascinating creatures, vagabonds. So unpredictable! Give them a good meal and a heavy purse, and they'll solve problems the police are too squeamish to handle."*
-
-### Roleplaying Info
-- **Location:** The private, opulent dining room of a high-end restaurant he secretly owns.
-- **Fear:** His comfortable, carefully constructed public life being exposed to the general denizens, causing a mob.
-- **Secret:** His entire operation is currently skimming from the Marquise de Cat's local treasury, a dangerous game he thinks he's winning.
-- **Request for the Vagabonds:** Wants the Vagabonds to "convince" a stubborn local merchant to sell their prime real estate to one of his front companies. Offers a massive payout and permanent free drinks at his establishments.
-- **Opinion/Info:** He finds Disgraced Vizier Cluck's obsession with revenge to be messy and bad for business, warning the Vagabonds that the chicken is a liability.
