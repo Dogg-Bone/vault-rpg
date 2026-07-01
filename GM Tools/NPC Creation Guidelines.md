@@ -48,25 +48,97 @@ Here are a few possible weapons and attacks NPCs can use against the vagabonds:
 # Travelers and Outsiders Book
 
 ## Important Residents 
+
 The characters whom the vagabonds meet are how the Woodland comes to life, and providing a variety of interesting, exciting, threatening, complicated, and intriguing NPCs is one of your most important goals. Take some time before you play to create useful NPC outlines, complete with harm tracks and drives so you’re ready to portray them when they show up in the story. And tie them to conflicts!
 
+## Movement Quality Anchor
 
-# Template
-## Layer 1
+Describe each NPC or creature's movement quality with Weight, Time, Space, and Flow.
+- **Weight:** Light or Heavy
+- **Time:** Sudden or Sustained
+- **Space:** Direct or Indirect
+- **Flow:** Free energy or Bound energy
+
+These qualities form an anchor for how the NPC or creature acts. They provide a certain form of narrative identity for a character.
+- - -
+# Layers of a Character
+## Layer 1 - Presentation
+
 Name
-Species
 Job
+Faction
 Drive
+Species
 
 Equipment
 - personally significant item
-## Layer 2
-Moves
-- move a
-- move b
-- move c
 
-Center location: head, chest, hips, stomach, etc.
-Movement quality:
-- 
-## Layer 3
+Regular location: where the character is most likely to interact with the PCs
+
+Moment before: what is this character doing 10 seconds before appearing in the story?
+## Layer 2 - Movement
+
+Moves: 2 or 3 narrative actions this character may do that show their drive and personality.
+
+Center location: symbolic bodily center of the character, head, chest, hips, stomach, etc.
+
+Movement anchor: Choose one option for each
+- **Weight:** Light or Heavy
+- **Time:** Sudden or Sustained
+- **Space:** Direct or Indirect
+- **Flow:** Free energy or Bound energy
+## Layer 3 - Roleplaying
+
+Two enduring key facts about the character:
+1. Key fact 1
+2. Key fact 2
+
+One immediate key pressure facing the character:
+- Key pressure
+
+Two preferred tactics of persuasion:
+1. Tactic 1
+2. Tactic 2
+
+Social status: (scaled from 1 to 4)
+
+Story lever: What value does a PC have to this character?
+- - - 
+# Character template
+
+FACTION
+**Name**
+*Job*
+Drive: to...
+*"Description"*
+
+**Equipment**
+- Item indicative of this character's personality
+- Additional items
+
+**Found at:**
+
+**Found doing:**
+
+**Moves**
+- Move a
+- Move b
+
+**Movement Anchor:** Weight, time, space, flow
+
+**Center:** body part
+
+**Key Facts**
+1. Fact 1
+2. Fact 2
+
+**Immediate Pressure:** key pressure
+
+**Persuasion Tactics:**
+1. Primary tactic
+2. Secondary tactic
+
+**Social Status:** Dirt/Lower/Upper/Elite
+
+**Perception of Vagabonds:** *"A quote of this character's thoughts on vagabonds."*
+- - -
