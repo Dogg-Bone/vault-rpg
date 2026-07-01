@@ -50,7 +50,7 @@ Core and Exiles & Partisans
 - [ ] Mob bosses/crime lords
 
 # [[Keepers in Iron]]
-- [ ] Give them flavor, history, and at least two NPCs with secrets and good character 
+- [x] Give them flavor, history, and at least two NPCs with secrets and good character
 
 # [[Lord of Hundreds]]
 - [ ] NPC for the [[Lord of Hundreds]]
