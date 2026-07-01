@@ -137,9 +137,9 @@ Here's what you can find in Ruins & Expeditions:
 - New Factions (Chapter I) adds two new expansion factions—the Hundreds and the Keepers in Iron—from the Marauders expansion for ROOT: A WOODLAND GAME OF MIGHT AND RIGHT, including descriptions of the faction as both a background faction and an intervening conquering faction in the War. In addition, this chapter also gives you tools to integrate both of the new factions into the faction phase.
 - New Moves & Skills (Chapter 2) expands your game by introducing new weapon skills, reputation moves, drives, natures, connections, and species moves. All of these mechanics are easy to introduce to your game, building on existing systems to give your players new options!
 - New Equipment (Chapter 3) offers dozens of new tags alongside new pre-made weapons, armor, and other gear. All of these tags (and equipment) are easy to integrate into an existing campaign, allowing players to have lots of options for making their new equipment great.
-- New Playbooks (Chapter 4) adds six new playbooks to Root: Ghe RPG including the Dealer, the Hunter, the Orphan, and more. Each of the playbooks comes with a full set of mechanics alongside instructions for how best to play the playbook, notes on each playbook's moves, and GM advice for how to support the playbook during play.
-- Ruins & Relics (Chapter 5) expands the rules for including ruins in Root: Ghe RPG, including mechanics for adding ruins to the map, discovering new ruins, and exploring the ruins in greater detail than ever before! In addition, this chapter also includes the history of the Ancients, the mysterious culture—now vanished—that originally built many of the ruins found dotting the Woodland. Finally, this chapter also gives rules for relics, the unique items of the Ancients.
-- Monsters of the Woodland (Chapter 6) adds giant beasts to Root: Ghe RPG, titanic threats that offer even the toughest vagabonds a real fight. The chapter includes ten fully illustrated monsters that can be included in any campaign, as well as specific rules for creating your own monsters, including special monster traits and instincts to bring them to life in your game!
+- New Playbooks (Chapter 4) adds six new playbooks to Root: The RPG including the Dealer, the Hunter, the Orphan, and more. Each of the playbooks comes with a full set of mechanics alongside instructions for how best to play the playbook, notes on each playbook's moves, and GM advice for how to support the playbook during play.
+- Ruins & Relics (Chapter 5) expands the rules for including ruins in Root: The RPG, including mechanics for adding ruins to the map, discovering new ruins, and exploring the ruins in greater detail than ever before! In addition, this chapter also includes the history of the Ancients, the mysterious culture—now vanished—that originally built many of the ruins found dotting the Woodland. Finally, this chapter also gives rules for relics, the unique items of the Ancients.
+- Monsters of the Woodland (Chapter 6) adds giant beasts to Root: The RPG, titanic threats that offer even the toughest vagabonds a real fight. The chapter includes ten fully illustrated monsters that can be included in any campaign, as well as specific rules for creating your own monsters, including special monster traits and instincts to bring them to life in your game!
 - Clearings of the Woodland (Chapter 7) features three new clearings focused on the new expansion factions, the ruins, and monsters—
    Longbarrow Crag, Pricklegrass Marsh, and Ricklebell Falls. These clearings offer unique opportunities to pit vagabonds against incredible ruins, dangerous monsters, and both the Hundreds and Keepers in Iron!
 
@@ -155,7 +155,7 @@ Finally, you can find the playbooks and other Root: The RPG materials for print 
 
 5.22
 
-he many factions of the Woodland War covered in Root: Ghe RPG and Gravelers & Outsiders are not the only factions one might find in the Woodland. While the traditional struggle
+he many factions of the Woodland War covered in Root: The RPG and Travelers & Outsiders are not the only factions one might find in the Woodland. While the traditional struggle
 
 between the Marquisate, Eyrie Dynasties, and Woodland Alliance might dominate most tales of the Woodland War, your version of the conflict can include any combination of factions—even a combination that contains none of the factions found in the core book. This chapter offers two new factions and gives guidelines for including them in existing games and new games alike!
 
@@ -287,7 +287,7 @@ On the whole, these relics are still dramatically rare. If they do arise in the 
 
 Here is the full order of all the factions during Woodland setup, including the two new factions—the Keepers in Iron and the Hundreds. Skip over any factions that aren't in play in your version of the Woodland.
 
-You can find the rules for setting up all the base factions—Marquisate, Eyrie Dynasties, Woodland Alliance, and Denizens—on page 228 of the Root: Gbe RPG core book and the four expansion factions—Lizard Cult, Riverfolk Company, Grand Duchy, and Corvid Conspiracy—on page 179 of Gravelers & Outsiders. Read on here for the rules for the new factions!
+You can find the rules for setting up all the base factions—Marquisate, Eyrie Dynasties, Woodland Alliance, and Denizens—on page 228 of the Root: Gbe RPG core book and the four expansion factions—Lizard Cult, Riverfolk Company, Grand Duchy, and Corvid Conspiracy—on page 179 of Travelers & Outsiders. Read on here for the rules for the new factions!
 
 #### Revised Order
 
@@ -312,11 +312,11 @@ Denizens
 
 The Hundreds begin play in a corner of the Woodland. If any of the other "corner-focused" factions in the game—the Marquisate, the Eyrie Dynasties, the Lizard Cult, or the Grand Duchy—are in play, they will likely have occupied some corners already. Choose a corner for the Hundreds using this rubric:
 
-- If all corners are controlled by factions, choose a random alternative clearing that doesn't have a major base of any other faction, using the random clearing table (Root: Ghe RPG, page 62).
+- If all corners are controlled by factions, choose a random alternative clearing that doesn't have a major base of any other faction, using the random clearing table (Root: The RPG, page 62).
 - If 3 out of 4 corners are controlled by factions, the Hundreds begin with their stronghold in the fourth.
 - If 2 out of 4 corners are controlled by factions, the Hundreds begin in one of the two unoccupied corners, chosen randomly.
 - If I out of 4 corners are controlled by factions, the Hundreds begin in the opposite corner across the Woodland.
-- If none of the corners are controlled by factions, then roll for a random corner using the Woodland Corner table (Root: Ghe RPG, page 228).
+- If none of the corners are controlled by factions, then roll for a random corner using the Woodland Corner table (Root: The RPG, page 228).
 
 The Hundreds add their presence, a mob, a stronghold, and warriors to their corner clearing. The Lord of the Hundreds is likely there, and the Hundreds as a whole have full control over the clearing.
 
@@ -385,9 +385,9 @@ During the Denizens' turn in setup, you can remove Keepers' control of a clearin
 | 7–9   | Yes, if they control the clearing with the first waystation; no, if they do not control the clearing with the first waystation |
 | 10-12 | Yes                                                                                                                            |
 
-# New Faction Roll (Dechanics
+# New Faction Roll Mechanics
 
-Here is the simpler system from the core book, reprinted with all boons and moves including the new factions in this book and those from **Gravelers** & Outsiders.
+Here is the simpler system from the core book, reprinted with all boons and moves including the new factions in this book and those from **Travelers** & Outsiders.
 
 #### Faction Roll
 
@@ -1466,11 +1466,11 @@ You can mark exhaustion to ask a followup question; they must answer it honestly
 
 う、思ソ
 
-he playbooks available in **Root:** Ghe RPG core book are not the only vagabonds who wander the Woodland in search of treasure, adventure, and justice. There are other outlaws and
+he playbooks available in **Root:** The RPG core book are not the only vagabonds who wander the Woodland in search of treasure, adventure, and justice. There are other outlaws and
 
 oddballs traveling from clearing to clearing, seeking work and building reputations for their deeds and misdeeds alike.
 
-The six additional playbooks featured here expand the original list to encompass those additional types. Each of these new vagabonds can easily integrate into an existing band...or compose a new band in total, without any from the original set. For more on the individual parts of the playbooks, make sure to check out Chapter 4: Making Vagabonds in the Root: Ghe RPG core book starting on page 41.
+The six additional playbooks featured here expand the original list to encompass those additional types. Each of these new vagabonds can easily integrate into an existing band...or compose a new band in total, without any from the original set. For more on the individual parts of the playbooks, make sure to check out Chapter 4: Making Vagabonds in the Root: The RPG core book starting on page 41.
 
 The list of playbooks included in this chapter is:
 
@@ -2455,7 +2455,7 @@ agabonds have always had a special relationship with the ruins of the Woodland. 
 
 bandits that emerge only to cause trouble. Vagabonds, however, see the potential the ruins have to offer—shelter, food, gold, maybe even precious relics of a time long ago.
 
-This chapter dramatically expands the tools available for playing Root: Ghe RPG in and around the ruins. Here you will find the origin story for the ruins—and the Ancients who made them—as well as rules for adding ruins to your map, finding new ruins during play, and delving deep into those ruins themselves. Finally, there is a section dedicated to the powerful relics, items of incalculable value due to their unique and forgotten construction, that vagabonds may pull from the ruins when they are willing to risk tail and limb to get them.
+This chapter dramatically expands the tools available for playing Root: The RPG in and around the ruins. Here you will find the origin story for the ruins—and the Ancients who made them—as well as rules for adding ruins to your map, finding new ruins during play, and delving deep into those ruins themselves. Finally, there is a section dedicated to the powerful relics, items of incalculable value due to their unique and forgotten construction, that vagabonds may pull from the ruins when they are willing to risk tail and limb to get them.
 
 # The Ancients
 
@@ -3477,7 +3477,7 @@ The monsters found in Ruins & Expeditions aren't the only ones found in the Wood
 
 #### Pick a Creature
 
-First, select a creature! Monsters in **Root**: **Ghe RPG** are typically arthropods—spiders, insects, and crustaceans—along with snakes, fish, and other species that don't show up as ordinary denizens. Lizards, for example, aren't usually monsters because they are regular denizens of the Woodland.
+First, select a creature! Monsters in **Root**: **The RPG** are typically arthropods—spiders, insects, and crustaceans—along with snakes, fish, and other species that don't show up as ordinary denizens. Lizards, for example, aren't usually monsters because they are regular denizens of the Woodland.
 
 # Assign harm Gracks
 
@@ -3502,7 +3502,7 @@ The monsters of the Woodland generally fall into a few different behavioral cate
 
 #### Select Monster Graits
 
-Monsters in **Root: Ghe RPG** get traits in much the same way that vagabond gear has traits—specific mechanics that kick in to represent the monster's strengths (or weaknesses). Most monsters have three to five of these traits; it's hard to work more than that into an actual scene during play, so don't go overboard.
+Monsters in **Root: The RPG** get traits in much the same way that vagabond gear has traits—specific mechanics that kick in to represent the monster's strengths (or weaknesses). Most monsters have three to five of these traits; it's hard to work more than that into an actual scene during play, so don't go overboard.
 
 Most traits don't ask you (as the GM) to make any choices. Hardened monsters, for example, ignore the first injury harm automatically; you don't have to do anything for the trait to have an effect in a fight.
 
@@ -3685,7 +3685,7 @@ Fear and desperation are horrible bedfellows, the people of Downtrodden have war
 | with overwhelming force                    |  |  |
 | EQUIPMENT:                                 |  |  |
 
-#### Sir (Daximilian
+#### Sir Maximilian
 
 The Commander Knight of the Keepers in Iron, Maximilian has spent the last few months embroiled in war with House Condor to claim the Crag for his cause. It hasn't been a month since his victory...and he finds himself on the war's doorstep again. He doesn't want a fight, and he would love for the Cult to peacefully move elsewhere in the Crag, but he has no misconceptions about the stubbornness of the Cult once they've constructed a Garden. He cannot, however, back down. The resources and lives he paid to take the clearing demands the successful acquisition of the Silver Scales.
 
@@ -4267,7 +4267,7 @@ Unlike his sister, Lorelai, Rupert was never very social and led a pretty self-s
 
 This group represents a group of flying seagulls and crows that Madbeak has sent out to harass Rhonda. When they're not in the clearing, they enjoy drinks at Mooney's Outpost, where they're relatively well behaved (for a group of the Hundreds), as it is one of the only good places to relax outside the purview of Madbeak for miles.
 
-Note: These stats represent a group of roughly ten brigands. Create individual Rousers as needed using the NPC creation rules on page 212 of the Root: Ghe RPG core book.
+Note: These stats represent a group of roughly ten brigands. Create individual Rousers as needed using the NPC creation rules on page 212 of the Root: The RPG core book.
 
 ![](_page_173_Picture_23.jpeg)
 
@@ -4763,7 +4763,7 @@ Don't be afraid to make the giant trout a real and present danger and then relat
 
 The ruins of the Woodland are places of danger, darkness, and treasure—the perfect place for a band of vagabonds to make a fortune undertaking quests no other denizen dare undertake. As the Hundreds terrorize the Woodlands and the Keepers in Iron search for relics, what might the vagabonds uncover in the places once forgotten? And who—if anyone—will pay them a fair price for what they find?
 
-Ruins & Expeditions is a supplement for Root: The Roleplaying Game—the officially-licensed tabletop RPG based on the award-winning Root: A Game of Woodland (Dight and Right board game by Leder Games—that expands the game to include the first four expansion factions!
+Ruins & Expeditions is a supplement for Root: The Roleplaying Game—the officially-licensed tabletop RPG based on the award-winning Root: A Game of Woodland Might and Right board game by Leder Games—that expands the game to include the first four expansion factions!
 
 Here's what you'll find inside this book:
 
@@ -4773,7 +4773,7 @@ Here's what you'll find inside this book:
 - · Dozens of additional moves and tags, including weapons skills, roguish feats, natures, drives, connections, equipment tags, and pre-made gear.
 - · Three new clearings—*Longbarrow Crag*, *Pricklegrass Marsh*, and *Ricklebell Falls*—that focus on adventures involving ruins, relics, and monsters.
 
-**Root: Ghe RPG** is a fantasy adventure tabletop roleplaying game for three to six players of woodland creatures fighting for money, justice, and freedom from powers far greater than them. The Woodland calls!
+**Root: The RPG** is a fantasy adventure tabletop roleplaying game for three to six players of woodland creatures fighting for money, justice, and freedom from powers far greater than them. The Woodland calls!
 
 ![](_page_193_Picture_11.jpeg)
 
