@@ -122,7 +122,7 @@ The board game is an asymmetric wargame featuring wildly different factions of a
 
 At the time of writing, two additional expansions are available for the board game: one that adds the mercenary Riverfolk Company and the cryptic Lizard Cult; and another that adds the arrogant Great Underground Duchy and the anarchic Corvid Conspiracy. A third—The Marauder Expansion—will soon be available for fans as well!
 
-**Root: Ghe Roleplaying Game** is based on the same fictional world as Root: A Game of Woodland Might and Right, playing with many of the same themes and ideas, but from a different perspective—that of a tabletop roleplaying game focused on the vagabonds themselves.
+**Root: The Roleplaying Game** is based on the same fictional world as Root: A Game of Woodland Might and Right, playing with many of the same themes and ideas, but from a different perspective—that of a tabletop roleplaying game focused on the vagabonds themselves.
 
 さい金しいいといるしいいといるしいい
 
@@ -148,11 +148,11 @@ Whether they mean to be or not, the vagabonds are often drawn into the overarchi
 
 {6}------------------------------------------------
 
-# Now Does Gabletop Roleplaying Work?
+# How Does Tabletop Roleplaying Work?
 
 For the most part, a tabletop roleplaying game plays like a conversation—you take turns speaking, describing the action or sharing dialogue, reacting to each other, switching back and forth between in-character speech and out-of-character speech. But the conversation leads to places of uncertainty, times when no one is sure exactly what to say next, when no one knows what happens in the story. When one character tries to jump from a flaming tree to another, across a seven-foot gap, no one knows for sure what happens, whether they successfully reach the next tree or go plummeting to the ground!
 
-In those moments, you turn to the game's rules. The rules of **Root: Ghe RPG** help you to figure out what happens in moments of tense uncertainty, guiding the conversation forward into new, interesting, and surprising outcomes. The rules themselves will provide plenty of guidance on exactly when they come into play, what to do to resolve a situation, and what the outcomes are. But much of the time, the GM will have to provide some additional interpretation to help the mechanics fit the very specific situation in your game.
+In those moments, you turn to the game's rules. The rules of **Root: The RPG** help you to figure out what happens in moments of tense uncertainty, guiding the conversation forward into new, interesting, and surprising outcomes. The rules themselves will provide plenty of guidance on exactly when they come into play, what to do to resolve a situation, and what the outcomes are. But much of the time, the GM will have to provide some additional interpretation to help the mechanics fit the very specific situation in your game.
 
 What's more, the GM also acts as a kind of impartial judge, helping the table determine when the rules actually come into play. If there's ever doubt about whether or not the rules apply, the GM acts as the final arbiter and decision maker.
 
@@ -231,7 +231,7 @@ Chaper 1: Introduction 9
 
 # <span id="page-10-0"></span>What You'll Need
 
-To play **Root**: **Ghe RPG**, you need a few friends willing to commit to playing at least one session lasting 2–4 hours. A single session of Root is fun, but the game will come alive if you can string together multiple linked sessions. You also need one player to be the GM and 2–5 players to portray the main characters of the game, the player characters or PCs.
+To play **Root**: **The RPG**, you need a few friends willing to commit to playing at least one session lasting 2–4 hours. A single session of Root is fun, but the game will come alive if you can string together multiple linked sessions. You also need one player to be the GM and 2–5 players to portray the main characters of the game, the player characters or PCs.
 
 #### Dice
 
@@ -239,13 +239,13 @@ You need at least two six-sided dice, like the kind you find in Monopoly or Risk
 
 # Playbooks
 
-You need a printed copy of each of the playbooks you're using in your game. This book comes with nine playbooks, and you can easily have all nine printed and ready to use. The **Gravelers** & Outsiders expansion book comes with another ten playbooks. We recommend either defaulting to the nine in this book, or choosing a selection of the total available when you start a game.
+You need a printed copy of each of the playbooks you're using in your game. This book comes with nine playbooks, and you can easily have all nine printed and ready to use. The **Travelers** & Outsiders expansion book comes with another ten playbooks. We recommend either defaulting to the nine in this book, or choosing a selection of the total available when you start a game.
 
-# Woodland (Dap
+# Woodland Map
 
 The GM fleshes out a map of the Woodland, either before or during the first session. That map can be scribbled on a sheet of paper, drawn over one of the map images we've provided, or even built off the map from the ROOT: A GAME OF WOODLAND MIGHT AND RIGHT board game.
 
-#### Additional (Daterials
+#### Additional Materials
 
 Here are some other materials you'll need or want:
 
@@ -255,7 +255,7 @@ Here are some other materials you'll need or want:
 - A printed copy of the GM materials.
 - Pencils, paper, and other materials for marking up your sheets and maps.
 
-You can find the materials for running a game of **Root**: **Ghe RPG** as downloads, along with more information on the decks, at www.magpiegames.com/root.
+You can find the materials for running a game of **Root**: **The RPG** as downloads, along with more information on the decks, at www.magpiegames.com/root.
 
 ![](_page_10_Picture_16.jpeg)
 
@@ -273,7 +273,7 @@ the things that must be true, along with plenty of information and guidance to s
 
 When you set up the board game ROOT: A GAME OF WOODLAND MIGHT AND RIGHT, you choose which faction each player will play. In exactly the same way, when you set up a game of Root: The RPG, you make decisions about your particular version of the Woodland—who the major players are, what the current state of the Woodland is, and more.
 
-Maybe in your version, the Marquisate and the Eyrie have smashed each other to pieces, and the real story is about the Woodland Alliance competing with the Lizard Cult and the Riverfolk Company (two factions you can find more about in the Gravelers & Outsiders supplement to this game). Maybe the Marquisate destroyed the Eyrie and quelled the Woodland Alliance, and the story is primarily about the Marquisate contending with an invasion from the Great Underground Duchy (again, see Gravelers & Outsiders).
+Maybe in your version, the Marquisate and the Eyrie have smashed each other to pieces, and the real story is about the Woodland Alliance competing with the Lizard Cult and the Riverfolk Company (two factions you can find more about in the Travelers & Outsiders supplement to this game). Maybe the Marquisate destroyed the Eyrie and quelled the Woodland Alliance, and the story is primarily about the Marquisate contending with an invasion from the Great Underground Duchy (again, see Travelers & Outsiders).
 
 Everything in this chapter is here to guide you—to provide tools, concepts, and starting points to build from—but not to tell you exactly how things are, without any room for adjustment. Keep that in mind as you continue through the chapter: every Woodland is different...and yet every Woodland is the same.
 
@@ -883,7 +883,7 @@ Your species is what kind of animal you are; either pick one option from the lis
 
 In fact, your species can more or less be anything, with a few limits:
 
-- Don't pick an animal that is bigger than a wolf in the real world. All denizens in Root: Ghe RPG are more or less person-sized, but it starts feeling a bit strange if you bring in larger animals...and in the background of the Woodland, a lot of the larger animals (deer, bears) are particularly strange or dangerous.
+- Don't pick an animal that is bigger than a wolf in the real world. All denizens in Root: The RPG are more or less person-sized, but it starts feeling a bit strange if you bring in larger animals...and in the background of the Woodland, a lot of the larger animals (deer, bears) are particularly strange or dangerous.
 - Don't choose purely aquatic animals. Amphibious animals can work, but no fish. The denizens of the Woodland—and the other player characters—are going to be skewed heavily to land animals. Make sure you're picking an animal that can physically interact with the other denizens, and about whom you won't be asking every five seconds, "But how do your gills work above water? How can you breathe?"
 
 {44}------------------------------------------------
@@ -1865,7 +1865,7 @@ It's never enough to just have the skill marked, or just have a weapon with the 
 
 # <span id="page-91-0"></span>Ranges
 
-Many of the weapon moves refer to a particular range, meaning a distance between you and your target. Range in **Root: Ghe RPG** is not a carefully measured thing—you don't keep track of specific quantities of distance, and you're certainly never that worried about the difference between someone 25 feet away and someone 20 feet away. Instead, **Root: Ghe RPG** uses three basic ranges entirely based on the fiction.
+Many of the weapon moves refer to a particular range, meaning a distance between you and your target. Range in **Root: The RPG** is not a carefully measured thing—you don't keep track of specific quantities of distance, and you're certainly never that worried about the difference between someone 25 feet away and someone 20 feet away. Instead, **Root: The RPG** uses three basic ranges entirely based on the fiction.
 
 - Intimate: You're right up in each other's faces, easily in touching range, breaking each other's personal space bubbles. The kind of range you'd be in to start wrestling, to poke a finger into someone's chest, to hug someone.
 - Close: You're close enough to talk comfortably, to fight with weapons—not close enough to touch without effort, but certainly close enough to lunge at the other denizen and reach them. The kind of range you'd be in to sword-fight (or to fistfight from a distance), to walk in each other's company without holding hands, to easily toss something.
@@ -2354,7 +2354,7 @@ Vagabonds are sharp enough to pick up on small cues and signs of an NPC's loyalt
 
 In the rarest of cases, an NPC might be deep undercover, hiding who they are with great skill and verve—and in those cases, a GM should tell the PCs to roll only with the faction of that NPC's cover identity. But those situations are fringe cases, exceptions and not the rule.
 
-# (Deet Someone Important
+# Meet Someone Important
 
 When you *meet with someone important for the first time*, roll with Reputation for their faction. On a hit, you're aware of their wider reputation (if any), and they're aware of yours (if any). On a 7-9, pick one. On a 10+, both.
 
@@ -2493,7 +2493,7 @@ There is no restriction on whom this move can be used—if you've managed to ear
 
 {121}------------------------------------------------
 
-# <span id="page-121-1"></span><span id="page-121-0"></span>Gravel Moves
+# <span id="page-121-1"></span><span id="page-121-0"></span>Travel Moves
 
 The vagabonds don't have real homes. They journey across the Woodland, moving from clearing to clearing. Sometimes they cross the paths of the Woodland, and sometimes they cross the dangerous forests. But travel is always a crucial part of the vagabonds' tales, and these moves are here to support the game with interesting uncertainty when the vagabonds begin a new journey.
 
@@ -2585,7 +2585,7 @@ There are two other kinds of important harm: wear and morale.
 
 {126}------------------------------------------------
 
-#### <span id="page-126-0"></span>(Darking Depletion
+#### <span id="page-126-0"></span>Marking Depletion
 
 Sometimes a vagabond marks depletion because their pouches get torn when they tumble out a window, but vagabonds often mark depletion because they need some all-purpose "stuff"; anything a vagabond might be carrying on their person in their pouches or backpack is fair game. It's never high quality, but it's always good enough.
 
@@ -2663,7 +2663,7 @@ If an NPC needs to mark morale when their morale track is full, they submit or f
 
 # <span id="page-128-0"></span>Clearing harm
 
-Over the course of **Root**: **Ghe RPG**, you will mark harm on all your tracks, and eventually you'll be in real danger of needing to mark harm past the end—so you need to find a way to clear them out from time to time!
+Over the course of **Root**: **The RPG**, you will mark harm on all your tracks, and eventually you'll be in real danger of needing to mark harm past the end—so you need to find a way to clear them out from time to time!
 
 You can clear depletion by gaining new supplies or money—filling your pockets with useful items and coin again. Gathering useful supplies from the forest and scrounging about in someone's home both clear depletion.
 
@@ -2703,7 +2703,7 @@ You can clear wear by repairing the damaged item—restringing, tightening, rebi
 
 # <span id="page-130-1"></span><span id="page-130-0"></span>Session Moves
 
-**Root:** Ghe RPG has two "session moves"—moves that trigger at the end of each session of play. For this game, these moves are more or less reminders to make sure you check in on certain aspects of the vagabond PCs.
+**Root:** The RPG has two "session moves"—moves that trigger at the end of each session of play. For this game, these moves are more or less reminders to make sure you check in on certain aspects of the vagabond PCs.
 
 When the session ends, one at a time, each player reads their drives out loud. The players and GM discuss whether the player fulfilled their drive during the session in an instance that wasn't already called out during the session. If they did, and they did not already advance this session for the drive in question, then they advance.
 
@@ -3689,7 +3689,7 @@ When you create a makeshift device on the fly, roll with Cunning. On a hit, you 
 
 On a miss, the device works, but it has an unintended side effect that the GM will reveal when you use it.
 
-#### □ Nimble (Dind
+#### □ Nimble Mind
 
 When you *attempt roguish feats* involving mechanisms or locks, mark depletion to roll with Cunning instead of Finesse.
 
@@ -3718,7 +3718,7 @@ The Tinker absolutely needs the other vagabonds in the band to support them. The
 
 {164}------------------------------------------------
 
-#### Dotes on The Tinker (Doves
+#### Dotes on The Tinker Moves
 
 For *Toolbox*, your features are mostly about limiting the conditions the GM might set for you, while most of your drawbacks are about creating more problems for you in the fiction, outside of this move.
 
@@ -4113,9 +4113,9 @@ Otherwise, however, a PC most likely becomes an NPC. A vagabond who settles down
 
 {180}------------------------------------------------
 
-#### On (Dasteries
+#### On Masteries
 
-In **Gravelers** & Outsiders, the supplement book for Root: Ghe RPG, you will find more information about masteries. Masteries are special advancements that can push you above normal skill with many of the weapon skills and even basic moves, giving you special outcomes on a 12+ result that reward you even further. They're advancements designed to support the idea of specialization. If you're interested in knowing more, make sure to check out **Gravelers** & Outsiders!
+In **Travelers** & Outsiders, the supplement book for Root: The RPG, you will find more information about masteries. Masteries are special advancements that can push you above normal skill with many of the weapon skills and even basic moves, giving you special outcomes on a 12+ result that reward you even further. They're advancements designed to support the idea of specialization. If you're interested in knowing more, make sure to check out **Travelers** & Outsiders!
 
 If a player accepts their PC becoming an NPC in the Woodland, then the GM has a duty to portray that character in a way honest to that character's nature and desires—just like with any other NPC. But the GM does not have any obligation to check in with the original player before making new choices for the former PC. The former PC can change and become a different character, as long as it makes sense in the fiction and matches up with the GM's agendas, principles, and moves (see page 194 for more on these GM tools).
 
@@ -4139,7 +4139,7 @@ Then, the player makes a brand-new vagabond! Choose a new playbook as if you wer
 
 # <span id="page-181-1"></span>Equipment
 
-Equipment is an important part of **Root: Ghe RPG**. A vagabond is incredibly capable, but one with bad tools is going to have a hard time, no matter their skills. Throughout the game, vagabonds will put strain on their existing equipment and then spend resources to repair it or to buy new equipment altogether. They'll steal noteworthy or valuable items to upgrade their existing kit. They'll debate whether to wield twin daggers or to wield one enormous greatsword.
+Equipment is an important part of **Root: The RPG**. A vagabond is incredibly capable, but one with bad tools is going to have a hard time, no matter their skills. Throughout the game, vagabonds will put strain on their existing equipment and then spend resources to repair it or to buy new equipment altogether. They'll steal noteworthy or valuable items to upgrade their existing kit. They'll debate whether to wield twin daggers or to wield one enormous greatsword.
 
 That said, it's important to note up front that equipment is far from the be all and end all of a vagabond's competency. While a vagabond can have better or worse equipment, there is plenty going on that no equipment will help resolve. A vagabond with the epic greatsword of Eyrie Dynasties legend Yorick Thunderwing will still have a hard time going up against a whole platoon of soldiers, and if the vagabond doesn't maintain a good reputation with the Eyrie, that's what they might find themself facing one day.
 
@@ -4433,7 +4433,7 @@ Here is a set of pre-made equipment, common enough throughout the Woodland. Use 
 
 <span id="page-194-0"></span>![](_page_194_Picture_0.jpeg)
 
-very game of **Root**: **Ghe RPG** needs a few players (about 2–5) to portray the vagabond player characters. But every game also needs one player to take on the role of "gamemaster" or
+very game of **Root**: **The RPG** needs a few players (about 2–5) to portray the vagabond player characters. But every game also needs one player to take on the role of "gamemaster" or
 
 "GM," the person "running" the game. This chapter is all about the responsibilities and best practices for GMing Root: The RPG. Players may find it interesting to read this chapter—there's nothing hidden or secret here—but if you want to be the GM for your game, then this chapter is here to guide you.
 
@@ -4441,7 +4441,7 @@ very game of **Root**: **Ghe RPG** needs a few players (about 2–5) to portray 
 
 上命し、このいと一命し、このいと一命し、この
 
-In most tabletop roleplaying games, there is some kind of Gamemaster or equivalent role with a different name. In **Root: Ghe RPG**, the role is "Gamemaster" because of the familiarity and ease of reference of the term. But here's a breakdown of what the GM does in **Root: Ghe RPG** and what (if anything) you're really the "master" of in this role. After this broad overview of a GM's job during a game, you'll find more about the GM's goals, principles, and moves.
+In most tabletop roleplaying games, there is some kind of Gamemaster or equivalent role with a different name. In **Root: The RPG**, the role is "Gamemaster" because of the familiarity and ease of reference of the term. But here's a breakdown of what the GM does in **Root: The RPG** and what (if anything) you're really the "master" of in this role. After this broad overview of a GM's job during a game, you'll find more about the GM's goals, principles, and moves.
 
 # Portray the World Beyond the Vagabonds
 
@@ -4518,7 +4518,7 @@ Your GM principles (page 199) are the paths you take to reach your agendas. Keep
 
 #### What the Rules Demand
 
-The rules of **Root: Ghe RPG** require interpretation—exactly how the wording is translated into your particular fiction. But whatever you say sits in accord with the rules, even if you interpreted those rules for this moment. If the rules say that a character suffers injury, they suffer injury. If the rules say that a character's treasured piece of equipment breaks, it breaks. And if a character reaches the end of the line at the sword of an enemy...that's the end of that character's story.
+The rules of **Root: The RPG** require interpretation—exactly how the wording is translated into your particular fiction. But whatever you say sits in accord with the rules, even if you interpreted those rules for this moment. If the rules say that a character suffers injury, they suffer injury. If the rules say that a character's treasured piece of equipment breaks, it breaks. And if a character reaches the end of the line at the sword of an enemy...that's the end of that character's story.
 
 # What Honesty Demands
 
@@ -4695,7 +4695,7 @@ These are your GM moves:
 - Activate a downside of their background, reputation, or equipment.
 - After every move, "what do you do?"
 
-# Inflict Injury, Exhaustion, Wear, Depletion, or (Dorale (as Established)
+# Inflict Injury, Exhaustion, Wear, Depletion, or Morale (as Established)
 
 This move is pretty basic in form—tell a PC to mark harm of some kind, and you've made this move. It's a great move in situations where harm has been well-established as being a potential risk and, depending on how much harm you are inflicting, in situations where you want to modulate your move away from dire consequences. A single box marked on any individual harm track is unlikely to lead to dire consequences right this second...unless the vagabond has already suffered a lot of harm, in which case you are delivering on the promise of every other bit of harm they've suffered.
 
@@ -5111,7 +5111,7 @@ As the GM, you can make your version of the Woodland while the players fill out 
 
 The first step to making your version of the Woodland is to decide which factions you are playing with. You must always play with the "Denizens" faction, meaning that the general inhabitants of the Woodland are always present.
 
-Then, you select two or three other factions to play with. In this book, you'll find support for the Marquisate, the Eyrie Dynasties, and the Woodland Alliance. In Gravelers & Outsiders, you'll find additional support for four more factions—the Riverfolk Company, the Lizard Cult, the Corvid Conspiracy, and the Grand Duchy. You can use any of those factions in any combination, though whatever set you choose will have effects on your version of the Woodland and its implied history. You can find more about the effects of those expansion factions in Gravelers & Outsiders.
+Then, you select two or three other factions to play with. In this book, you'll find support for the Marquisate, the Eyrie Dynasties, and the Woodland Alliance. In Travelers & Outsiders, you'll find additional support for four more factions—the Riverfolk Company, the Lizard Cult, the Corvid Conspiracy, and the Grand Duchy. You can use any of those factions in any combination, though whatever set you choose will have effects on your version of the Woodland and its implied history. You can find more about the effects of those expansion factions in Travelers & Outsiders.
 
 では今し、いらいとは今し、いらいとは今し、いら
 
@@ -5480,11 +5480,11 @@ To determine how a clearing has been impacted by the war when the vagabonds enco
 
 #### The War Continues
 
-As you play your campaign of **Root: Ghe RPG**, the war will rage on across the Woodland. The vagabonds can affect its course or divert it, of course, but it will continue with or without them. To represent the war's ebb and flow over the course of play, use the faction roll on the next page for each faction when time passes.
+As you play your campaign of **Root: The RPG**, the war will rage on across the Woodland. The vagabonds can affect its course or divert it, of course, but it will continue with or without them. To represent the war's ebb and flow over the course of play, use the faction roll on the next page for each faction when time passes.
 
 Time passes whenever the spotlight of the story shifts forward a couple weeks; maybe the vagabonds take a particularly long journey or rest for a time, creating a period of downtime that isn't interesting to play through beat by beat. "Time passes" is a kind of mild reset, allowing vagabonds to clear their harm tracks by virtue of off-screen actions, and allowing the time needed for changes in the broader Woodland to come to the fore.
 
-The mechanics presented are suited for fast, easy resolution that, in turn, leads to new results and developments in the Woodland. But if you want to see more in-depth faction mechanics suited to each faction's individual play style, check out the expanded faction mechanics in **Gravelers & Outsiders**. The rules in that expansion create a deep, complicated, ever shifting Woodland—but take more time and require more work on the part of the GM, either between sessions or in breaks.
+The mechanics presented are suited for fast, easy resolution that, in turn, leads to new results and developments in the Woodland. But if you want to see more in-depth faction mechanics suited to each faction's individual play style, check out the expanded faction mechanics in **Travelers & Outsiders**. The rules in that expansion create a deep, complicated, ever shifting Woodland—but take more time and require more work on the part of the GM, either between sessions or in breaks.
 
 {240}------------------------------------------------
 
@@ -5830,7 +5830,7 @@ Moves:
 - A Gelilah's Grove bow
 - Marquisate badge
 
-#### (Dirrim Sablefur
+#### Mirrim Sablefur
 
 Secure in her position in the Marquisate, Mirrim is an older cat who truly enjoys helping others. She's been doing this a while, so she sees the benefit in letting clearings retain their individuality. But she also knows a shrewd business decision when she sees it, and she knows that the power to help others flows from her own acquisition of power and wealth. She thinks the best way to help the Grove is to take control of it and the hornwine trade on behalf of the Marquisate—it will give her the power to bring real help. Mirrim isn't afraid of work, and she's not a fan of anyone she deems lazy.
 
@@ -5919,7 +5919,7 @@ Lenk Strayly is a big fox, a treecutter who regularly carts whole sledges full o
 - A Gelilah's Grove bow
 - Flask of hornwine
 
-# Ceridwen (Dorgan
+# Ceridwen Morgan
 
 Ceridwen is an elder goat, grizzled, with striking large, shiny horns. She talks a lot when riled up, but can be closemouthed most of the time. Her family comes first, and nothing will provoke Ceridwen's wrath like a threat to them—or what's theirs.
 

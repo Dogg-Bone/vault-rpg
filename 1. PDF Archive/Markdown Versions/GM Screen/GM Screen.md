@@ -17,7 +17,7 @@
 
 I=Injury, W=Wear, E=Exhaustion, M=Morale
 
-### Random Character Graits Gable
+### Random Character Traits Table
 
 | 2d6 | 1            | 2               | 3          | 4           | 5            | 6          |
 |-----|--------------|-----------------|------------|-------------|--------------|------------|
@@ -46,7 +46,7 @@ badger • bat • beaver • bluejay • cardinal • cat • crow • fox • 
 
 | Tag         | Effect                                                                                                                                                         |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arrow-proof | Ignore the first hit dealing injury from arrows that you suffe in a scene.                                                                                     |
+| Arrow-proof | Ignore the first hit dealing injury from arrows that you suffer in a scene.                                                                                     |
 | Blunted     | This weapon inflicts exhaustion, not injury.                                                                                                                   |
 | Ceremonial  | Choose an attached faction. While this item is displayed, tre<br>yourself as having +1 Reputation with that faction, and -1<br>Reputation with other factions. |
 | Comfortable | This item counts as 1 fewer Load.                                                                                                                              |
@@ -73,20 +73,20 @@ badger • bat • beaver • bluejay • cardinal • cat • crow • fox • 
 
 Echo • Ellaine • Emmie • Ewan • Eward • Faye • Flannera • Fog • Foster • Frink • Gamila Quill • Quinella • Ramus • Reece • Rhodia • Roric • Rose • Sarra • Selwin • Sorin • Stasee
 
-| quipment Gags |                                                                                                                                                            |  |  |
+| Equipment Tags |                                                                                                                                                            |  |  |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| ag            | Effect                                                                                                                                                     |  |  |
-| row-proof     | Ignore the first hit dealing injury from arrows that you suffer in a scene.                                                                                |  |  |
-| unted         | This weapon inflicts exhaustion, not injury.                                                                                                               |  |  |
-| eremonial     | Choose an attached faction. While this item is displayed, treat yourself as having +1 Reputation with that faction, and -1 Reputation with other factions. |  |  |
-| omfortable    | This item counts as 1 fewer Load.                                                                                                                          |  |  |
-| nglecraft     | Mark wear when engaging in melee to both make and suffer another exchange of harm.                                                                         |  |  |
-| est           | Mark wear when engaging in melee to suffer 1 fewer harm, even on a miss.                                                                                   |  |  |
-| iendly        | When you meet someone important, mark exhaustion to roll with your Reputation +1.                                                                          |  |  |
+| Tag           | Effect                                                                                                                                                     |  |  |
+| Arrow-proof   | Ignore the first hit dealing injury from arrows that you suffer in a scene.                                                                                |  |  |
+| Blunted       | This weapon inflicts exhaustion, not injury.                                                                                                               |  |  |
+| Ceremonial    | Choose an attached faction. While this item is displayed, treat yourself as having +1 Reputation with that faction, and -1 Reputation with other factions. |  |  |
+| Comfortable   | This item counts as 1 fewer Load.                                                                                                                          |  |  |
+| Eaglecraft    | Mark wear when engaging in melee to both make and suffer another exchange of harm.                                                                         |  |  |
+| Fast          | Mark wear when engaging in melee to suffer 1 fewer harm, even on a miss.                                                                                   |  |  |
+| Friendly      | When you meet someone important, mark exhaustion to roll with your Reputation +1.                                                                          |  |  |
 | exible        | When you grapple with someone, mark exhaustion to ignore the first choice they make.                                                                       |  |  |
 | xfolk steel   | Ignore the first box of wear you mark on this item each session.                                                                                           |  |  |
 | eavy bludgeon | Mark exhaustion to ignore your enemy's armor when you inflict harm.                                                                                        |  |  |
-| on bolts      | This weapon inflicts 1 additional wear when its harm is absorbed by armor.                                                                                 |  |  |
+| Iron bolts    | This weapon inflicts 1 additional wear when its harm is absorbed by armor.                                                                                 |  |  |
 | arge          | Mark exhaustion when inflicting harm with this weapon to                                                                                                   |  |  |
 
 # inflict 1 additional harm. After creation, this item is worth +3-Value. Luxury Mousefolk steel Mark wear to engage in melee using Cunning instead of Might. Ouick Mark exhaustion to engage in melee with Finesse instead of Might. Rabbitfolk steel Mark wear to engage in melee with Finesse instead of Might. When you engage in melee, mark wear on this weapon to inflict harm instead of trading harm; you cannot use this tag if your enemy's weapon also has reach. Mark wear when inflicting harm with this weapon to inflict 1 additional harm. When you take a few seconds to repair this armor after a fight, Tightly woven
@@ -163,7 +163,7 @@ Minor infraction: Meaningfully or publically slight a leader, misdemeanors
 
 Legendary service: Deliver the leader of or destroy an enemy faction
 
-### 60 Moves
+### GM Moves
 
 - Inflict injury, exhaustion, wear, depletion, or morale (as established).
 - Reveal an unwelcome truth.
@@ -233,7 +233,7 @@ Reputation Effect
 | Help or interfere with another Vagabond   | Stat La |
 | Plead with another Vagabond               |         |
 
-## Gravel Moves
+## Travel Moves
 
 ### Gravel Along the Path
 
@@ -263,9 +263,9 @@ On a hit, you pass through the forest to any clearing on the other side. Along t
 - depletion or exhaustion for each band member; +1 to the roll.
 - +2 to the roll.
 
-Weapon Moves Griggers
+Weapon Moves Triggers
 
-| Harris           | Trained Only                     | 995.                                                                          | 2031                  | 1.011   |
+| Name | Trained Only | Trigger | Cost | Roll |
 |------------------|----------------------------------|-------------------------------------------------------------------------------|-----------------------|---------|
 | Engage in Melee  |                                  | engage an enemy in melee at close or intimate range                           |                       | Might   |
 | Grapple an Enemy |                                  | grapple with an enemy at intimate range                                       |                       | Might   |
@@ -295,7 +295,7 @@ Weapon Moves Griggers
 | Sleight of Hand | Palming, switching, ditching, flourishes.     | Draw unwanted attention, leave evidence, weak result        |  |
 | Sneak           | Get into or out of places without being seen. | Break something, draw unwanted attention, plunge            |  |
 
-# Random Valuable Items Gable
+# Random Valuable Items Table
 
 | 2d6 | 1                         | 2                       | 3                      | 4                       | 5                          | 6                      |
 |-----|---------------------------|-------------------------|------------------------|-------------------------|----------------------------|------------------------|

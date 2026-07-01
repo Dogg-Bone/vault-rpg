@@ -105,14 +105,14 @@ Of course, you do need to know how to play Root: The RPG to make use of this boo
 
 {4}------------------------------------------------
 
-#### Here's what you can find in Gravelers & Outsiders:
+#### Here's what you can find in Travelers & Outsiders:
 
 - The Woodland Expanded (Chapter 1) adds the four expansion factions—the Riverfolk Company, the Lizard Cult, the Grand Duchy, and the Corvid Conspiracy—to Root: The RPG, including descriptions of each faction as both a background faction and an intervening, conquering faction in the War.
 - New Moves & Skills (Chapter 2) expands your game by introducing new weapon skills, reputation moves, roguish feats, drives, natures, and connections. All of these mechanics are easy to introduce to your game, building on existing systems to give your players new options!
 - Masteries & More (Chapter 3) goes beyond creating new instances of existing systems to offer brand new rules for introducing species mechanics—including two different systems for making species matter—as well as advice for writing custom moves and masteries, specializations that allow PCs to get triumphant results on a 12+.
 - New Equipment (Chapter 4) offers dozens of new tags alongside new pre-made weapons, armor, and other gear. All of these tags (and equipment) are easy to integrate into an existing campaign, allowing players to have lots of options for making their new equipment great!
 - New Playbooks (Chapter 5) adds ten new playbooks to Root: Gbe RPG, including the Champion, the Pirate, the Raconteur, and more! Each of the playbooks comes with a full set of mechanics alongside instructions for how best to play the playbook and notes on each playbook's moves.
-- Tailoring Campaign Play (Chapter 6) expands on the GM advice in the Root: Ghe RPG core book to talk about running a long-term campaign, including advice for the first session of a campaign, tips for managing the PCs' ongoing adventures, and ideas for how to bring a campaign to a close. In addition, this chapter also includes GM advice for all nineteen playbooks, a system for introducing large-scale random events like new factions entering the War, generational play, and rules for leaving the Woodland entirely!
+- Tailoring Campaign Play (Chapter 6) expands on the GM advice in the Root: The RPG core book to talk about running a long-term campaign, including advice for the first session of a campaign, tips for managing the PCs' ongoing adventures, and ideas for how to bring a campaign to a close. In addition, this chapter also includes GM advice for all nineteen playbooks, a system for introducing large-scale random events like new factions entering the War, generational play, and rules for leaving the Woodland entirely!
 - The War Advances (Chapter 7) replaces the simple faction roll in the Root: Gbe RPG core book with a robust system—the faction turn—for managing conflict between the factions directly when time passes. This chapter contains new rules for all eight factions, including the newly introduced expansion factions, as well as instructions for using the board game, Root: A WOODLAND GAME OF MIGHT AND RIGHT, as part of your campaign.
 - Clearings of the Woodland (Chapter 8) features two new clearings focused on the new expansion factions—*Heartwood* and *Sundew Bend*—alongside a guide to creating your own clearings for your campaign.
 
@@ -130,7 +130,7 @@ Finally, you can find these playbooks and other **Root**: The RPG materials for 
 
 he Woodland is populated by various factions, from the Marquisate to the Woodland Alliance, but these are not the only factions that exist in the world. Other factions exist in and around
 
-the Woodland, but due to internal Woodland politics and external factors, never rose to prominence. This chapter presents four new factions you can use in your games of **Root**: **Ghe** RPG and gives guidelines for including them in an existing game, or creating a new game with them.
+the Woodland, but due to internal Woodland politics and external factors, never rose to prominence. This chapter presents four new factions you can use in your games of **Root**: **The** RPG and gives guidelines for including them in an existing game, or creating a new game with them.
 
 The Riverfolk Company are entrepreneurs seeking a profit. They buy, trade, and sell literally anything and everything the Woodland could need. The Lizard Cult is a religious sect, proselytizing to the denizens of the Woodland and offering succor to the most downtrodden and poor in the area. The Grand Duchy seeks to overtake the Woodland, incorporating the denizens into its highly political Duchy. The Corvid Conspiracy weaves itself secretly into every clearing of the Woodland, attempting to subtly gain power over all of them.
 
@@ -380,7 +380,7 @@ Agents keep a level of anonymity in their actions by conscripting hapless denize
 
 <span id="page-24-0"></span>![](_page_24_Picture_0.jpeg)
 
-n the core book of Root: **Ghe** RPG, there are ten different special weapon skills, six different Reputation moves, nine different roguish feats, and more. Altogether, it's plenty of
+n the core book of Root: **The** RPG, there are ten different special weapon skills, six different Reputation moves, nine different roguish feats, and more. Altogether, it's plenty of
 
 options to play a full campaign and to develop PCs in many different ways. But having still more specific options for development allows you to tailor your campaign to exactly your needs!
 
@@ -395,7 +395,7 @@ In this chapter, there are:
 
 ### **New Weapon Skills**
 
-These weapon skills in general follow the same rules as weapon skills in the **Root**: **Ghe RPG** core book (page 89). In order to use one of these skills, you must have learned the skill, usually by advancing; you must have a weapon tagged with the skill; and you must be able to trigger the move as appropriate within the fiction.
+These weapon skills in general follow the same rules as weapon skills in the **Root**: **The RPG** core book (page 89). In order to use one of these skills, you must have learned the skill, usually by advancing; you must have a weapon tagged with the skill; and you must be able to trigger the move as appropriate within the fiction.
 
 If a move includes the "no tag required" label, you do not need a weapon with the tag in order to use the weapon skill. Moves like *hurl* or *hammerpaws* don't require a weapon tag because they either don't rely on the weapon or can be used with any weapon.
 
@@ -555,7 +555,7 @@ Switching hands requires well-balanced and designed weapons and grips hence requ
 
 ### <span id="page-31-0"></span>**New Reputation Moves**
 
-These moves supplement the Reputation moves included in the **Root: Ghe** RPG core book on page III. They still all have a Reputation requirement, meaning that you cannot use these moves at all unless your Reputation with the appropriate faction is at the correct level.
+These moves supplement the Reputation moves included in the **Root: The** RPG core book on page III. They still all have a Reputation requirement, meaning that you cannot use these moves at all unless your Reputation with the appropriate faction is at the correct level.
 
 Some of these new moves are universal—you can use them with any faction, as long as your Reputation is at the right level—and some are specific to a given faction.
 
@@ -1132,7 +1132,7 @@ Use these systems because you're interested in adding additional definition to y
 
 {60}------------------------------------------------
 
-#### <span id="page-60-0"></span>Species (Doves as Separate Advances
+#### <span id="page-60-0"></span>Species Moves as Separate Advances
 
 Alternatively, if you're interested in characters with lots of options, you can take a new species move as appropriate to the fiction with each advancement, to a maximum of two total species moves. In this mode, they don't count against the number of moves you can have from your own playbook. All PCs can wind up with two more moves than usual, as a result.
 
@@ -1146,7 +1146,7 @@ Implementing this system is simple:
 - You can take a new species move as an advancement, as long as it is appropriate to the fiction; you let your previously shorn talons grow long, thereby letting you take *Built-In Weapons* (page 61), for example.
 - When you advance your character, any species moves count toward the limit of moves from your own playbook.
 
-Every one of these moves calls out some appropriate species, noting a few animal types the move would normally fit. These lists aren't intended to be all-encompassing—players can play an enormous variety of animal species in **Root**: **Ghe RPG**, far more than could be easily listed. Those appropriate species are pulled from those you are most likely to encounter in the Woodland, selected to provide a baseline for thinking about which animals might have the move. In the end, it's always down to a discussion at your table, with your GM and the other players, to determine if a move is appropriate to your species or your concept of your character.
+Every one of these moves calls out some appropriate species, noting a few animal types the move would normally fit. These lists aren't intended to be all-encompassing—players can play an enormous variety of animal species in **Root**: **The RPG**, far more than could be easily listed. Those appropriate species are pulled from those you are most likely to encounter in the Woodland, selected to provide a baseline for thinking about which animals might have the move. In the end, it's always down to a discussion at your table, with your GM and the other players, to determine if a move is appropriate to your species or your concept of your character.
 
 {61}------------------------------------------------
 
@@ -1971,7 +1971,7 @@ he playbooks available in Root: The RPG core book are not the only vagabonds who
 
 oddballs traveling from clearing to clearing, seeking work and building reputations for their deeds and misdeeds alike.
 
-The ten additional playbooks featured here expand the original list to encompass those additional types. Each of these new vagabonds can easily integrate into an existing band...or compose a new band in total, without any from the original set. For more on the individual parts of the playbooks, make sure to check out Chapter 4: Making Vagabonds in the Root: Ghe RPG core book starting on page 41.
+The ten additional playbooks featured here expand the original list to encompass those additional types. Each of these new vagabonds can easily integrate into an existing band...or compose a new band in total, without any from the original set. For more on the individual parts of the playbooks, make sure to check out Chapter 4: Making Vagabonds in the Root: The RPG core book starting on page 41.
 
 The list of playbooks included in this chapter is:
 
@@ -2244,7 +2244,7 @@ Your drives point you towards all sorts of goals you can latch onto as you dig i
 
 {100}------------------------------------------------
 
-#### Notes on The Chronicler (Doves
+#### Notes on The Chronicler Moves
 
 For The Worth of a Book, you are a bearer of real knowledge, a vagabond who can end a plague, reshape a clearing's infrastructure, or even reform failed institutions with knowledge that can pave a path to solve otherwise intractable problems.
 
@@ -2849,7 +2849,7 @@ While your boat is a huge asset for you and your band, don't be afraid to ventur
 
 {116}------------------------------------------------
 
-#### Notes on The Pirate (Doves
+#### Notes on The Pirate Moves
 
 For *Small Ship*, you have a small riverboat (or equivalent vessel) capable of hauling your band and some cargo across the rivers or lakes of the Woodland. Your ship—like any other meaningful piece of equipment—has a wear track. Fill the track, and the ship must be repaired by a skilled craftsdenizen; the ship is lost if you ever have to mark wear when the track is full. You can't just throw your boat over your shoulder and hike with it to the next clearing, so you have to find somewhere to dock it and someone to keep it safe if you need to travel by foot to the next clearing.
 
@@ -3078,7 +3078,7 @@ See Root: The RPG page 51 for mechanical effects.
 
 {122}------------------------------------------------
 
-### Raconteur (Doves
+### Raconteur Moves
 
 YOU GET TOOLS OF THE TRADE, THEN CHOOSE TWO MORE
 
@@ -3099,7 +3099,7 @@ YOU GET TOOLS OF THE TRADE, THEN CHOOSE TWO MORE
 | draw the worst kind of attention to you and your friends.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ☐ Adoring Fans                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | When you <b>first enter a clearing</b> , roll with Charm. On a hit, a fan recognizes you; they relate gossip, offer a place to stay, and show your band around. On a 10+, your fan will go even further to help you. On a miss, you meet a fan with good intentions who immediately makes your situation much, much worse.                                                                                                                                                                                                     |
-| ☐ All Eyes on (De                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ☐ All Eyes on Me                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | When you <b>create</b> a <b>distraction through outlandish performance</b> , mark exhaustion and roll with Charm. On a hit, the room can't look away; your allies take +1 ongoing to <i>Sneak</i> , <i>Hide</i> , <i>Pickpocket</i> , or <i>trust fate</i> while you perform. On a 10+, hold I; spend the hold to grant an ally a +3 for one of the aforementioned rolls instead. On a miss, your audience finds something about your performance insulting or misguided; they fall over themselves to give you their opinion. |
 | Quick Fingers, Quicker Eyes When you read a tense situation while performing, you may always ask one question, even on a miss.                                                                                                                                                                                                                                                                                                                                                                                                 |
 | □ Silver Gongue                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -3541,15 +3541,15 @@ Here are some other key things to strive for during your first session, ideas an
 
 #### **ENGAGE IN ACTION**
 
-Having action scenes—not necessarily combat, but action—in your first session of **Root**: **Ghe RPG** is practically a must. The vagabonds get a chance to show off their myriad skills for getting into and out of dangerous situations, and you get to have a thrilling, over-the-top encounter. So make GM moves to escalate to the point of action, of vagabonds racing around, diving out of windows, wielding swords, and so on.
+Having action scenes—not necessarily combat, but action—in your first session of **Root**: **The RPG** is practically a must. The vagabonds get a chance to show off their myriad skills for getting into and out of dangerous situations, and you get to have a thrilling, over-the-top encounter. So make GM moves to escalate to the point of action, of vagabonds racing around, diving out of windows, wielding swords, and so on.
 
 #### OFFER UP OPPORTUNITIES TO TRIGGER DRIVES AND NATURES
 
-Throughout a campaign of **Root: Ghe RPG**, you'll be providing opportunities for PCs to hit their drives and natures. But it's especially important to at least show the PCs how those systems work so they can also participate in pushing towards those triggers. You don't have to provide a chance for every single PC to hit every single drive and nature, but you should try to hold them in your head, and make GM moves towards a few drives and natures a bit more aggressively than you might otherwise.
+Throughout a campaign of **Root: The RPG**, you'll be providing opportunities for PCs to hit their drives and natures. But it's especially important to at least show the PCs how those systems work so they can also participate in pushing towards those triggers. You don't have to provide a chance for every single PC to hit every single drive and nature, but you should try to hold them in your head, and make GM moves towards a few drives and natures a bit more aggressively than you might otherwise.
 
 #### **ASK QUESTIONS CONSTANTLY**
 
-When you start a game of **Root**: **Ghe RPG**, there are plenty of holes, blank spaces left throughout your fictional world and the backstories of the PCs. Ask questions constantly to fill in those holes! And use leading questions, pointed questions that aren't just entirely open-ended. When a PC comes into the tavern, ask "What impression would the taverngoers have of you? What music would be playing on the soundtrack?" When they speak to the bartender, ask "You've probably met this denizen before, right? Are you good buddies? Why?" You'll flesh out your world far more quickly than you think.
+When you start a game of **Root**: **The RPG**, there are plenty of holes, blank spaces left throughout your fictional world and the backstories of the PCs. Ask questions constantly to fill in those holes! And use leading questions, pointed questions that aren't just entirely open-ended. When a PC comes into the tavern, ask "What impression would the taverngoers have of you? What music would be playing on the soundtrack?" When they speak to the bartender, ask "You've probably met this denizen before, right? Are you good buddies? Why?" You'll flesh out your world far more quickly than you think.
 
 {139}------------------------------------------------
 
@@ -3740,7 +3740,7 @@ And finally, once you're all the way through the epic final conflict, and most o
 
 ### <span id="page-150-1"></span><span id="page-150-0"></span>Beneath the Surface (Playbooks)
 
-Every playbook in Root: Ghe RPG has its own focus and brings its own issues to the fore. To better play into the styles of the individual playbooks over the course of a campaign, here are some GM-side guidelines and a few playbook-specific GM moves you can use during play. These tips include every playbook in the game as of publication, whether in the core book or in Gravelers & Outsiders.
+Every playbook in Root: The RPG has its own focus and brings its own issues to the fore. To better play into the styles of the individual playbooks over the course of a campaign, here are some GM-side guidelines and a few playbook-specific GM moves you can use during play. These tips include every playbook in the game as of publication, whether in the core book or in Travelers & Outsiders.
 
 ![](_page_150_Picture_2.jpeg)
 
@@ -3784,12 +3784,12 @@ Champion clear causes to champion, clear enemies to face, and moments that remov
 
 #### Chronicler
 
-The Chronicler is focused on history and learning—on an understanding of truth and the past. Without a Chronicler in play, it's possible to play most of a campaign of **Root**: **Ghe RPG** without ever really contending with issues of false narratives or fake histories, but the Chronicler demands that those issues become real. Emphasize that current powers, current leaders, build their strength on the stories of the
+The Chronicler is focused on history and learning—on an understanding of truth and the past. Without a Chronicler in play, it's possible to play most of a campaign of **Root**: **The RPG** without ever really contending with issues of false narratives or fake histories, but the Chronicler demands that those issues become real. Emphasize that current powers, current leaders, build their strength on the stories of the
 
 past. Those stories have a real effect on the present, and they are often built on lies. The Chronicler can face those stories, destroy them, strengthen them, and reshape the Woodland through them. What's more, through the knowledge they have gained, the Chronicler can create opportunities to effect real, broad, overwhelming change throughout the Woodland. Remind the Chronicler that they have such a potent tool at their disposal!
 
 - Spread rumors of a valuable secret history or text
-- (Dake claims of power and truth based on the past
+- Make claims of power and truth based on the past
 - Share purposeful lies about history and current events
 
 {152}------------------------------------------------
@@ -3868,7 +3868,7 @@ their own legacy and path, but opportunities to do so entirely without reference
 
 - Confront them with a terrible truth about their parent(s)
 - Gempt them with a chance for recognition on their own
-- (Dake them choose to support or walk back their parents' actions
+- Make them choose to support or walk back their parents' actions
 
 {155}------------------------------------------------
 
@@ -3908,7 +3908,7 @@ to victory, slipping away from danger and poisoning foes' food or drink. These a
 
 - Threaten them in a way that requires another vagabond's help
 - Offer them paths through shadows
-- · (Dake an NPC pass judgment on their tactics
+- · Make an NPC pass judgment on their tactics
 
 ![](_page_156_Picture_7.jpeg)
 
@@ -3985,7 +3985,7 @@ The Vagrant is a charmer and a liar, solving problems with words first and forem
 the only thing facing them on a return trip will be the consequences of those lies. As a GM, make sure to give the Vagrant reasons to return where they came from, to show them those consequences in a varied way—some denizens angry, some still believing exactly what the vagabond said—and to help build relationships that can pierce through the Vagrant's tricksy exterior.
 
 - Show them the consequences of their tricks
-- · (Dake an NPC believe in and care about them, truly
+- · Make an NPC believe in and care about them, truly
 - Confront them with problems that cannot be talked past
 
 ![](_page_159_Picture_7.jpeg)
@@ -4227,7 +4227,7 @@ Each player can choose a finale for their vagabond, assuming they still live. Ha
 - The vagabond departs the Woodland for other faraway places
 - The vagabond remains active as a roguish independent figure
 
-#### Shift Forward One or (Dore Decades— Change the Woodland Landscape
+#### Shift Forward One or More Decades— Change the Woodland Landscape
 
 Next, "time passes" in your Woodland at a high scale. At least one decade, and possibly more, passes. You don't have to define exactly how many years fly by—the only requirement is that enough time passed that the Woodland would "reset," achieving a new form that new PCs can approach with fresh eyes.
 
@@ -5274,7 +5274,7 @@ Then, stop playing, and take note of your Woodland! If you'd like to give it a c
 
 #### Make sure to take note of:
 
-- Which factions are in control of which clearings, including clearings that are uncontrolled (or nigh-uncontrolled—when thinking about it for **Root**: **Ghe RPG**, a single military unit might provide control in the board game but would barely be holding onto control in the fictional setting of your RPG campaign).
+- Which factions are in control of which clearings, including clearings that are uncontrolled (or nigh-uncontrolled—when thinking about it for **Root**: **The RPG**, a single military unit might provide control in the board game but would barely be holding onto control in the fictional setting of your RPG campaign).
 - Any buildings built in the Woodland: the Marquisate keep and structures, Eyrie Dynasty Roosts, Woodland Alliance bases, Lizard Cult gardens, Riverfolk Company trading posts, and Great Underground Duchy tunnels/citadels/markets.
 - Any ruins located on the map. These shouldn't have changed at all because you aren't playing with the vagabonds, but it's good to note where they are and what clearings they might have been affecting definite jobs that nearby factions will want to hire vagabonds for!
 - Any interesting battles or fights that had taken place during those three turns—anything that catches your attention.
@@ -5301,14 +5301,14 @@ Woodland
 
 hile the mechanics of Root: The RPG consistently create opportunities for you and your players to engage new conflicts and discover surprising twists in the story, the game often
 
-works best when you take the time to prepare a clearing for the vagabonds before they arrive. Root: Ghe RPG is a game of contested loyalties and difficult choices—themes that are much easier to center for your players when you have taken some time to prepare conflicts, NPCs, locations, and special rules in advance of the session.
+works best when you take the time to prepare a clearing for the vagabonds before they arrive. Root: The RPG is a game of contested loyalties and difficult choices—themes that are much easier to center for your players when you have taken some time to prepare conflicts, NPCs, locations, and special rules in advance of the session.
 
 This chapter offers some advice about creating your own clearings from scratch, including tips on making the most of the essential components of a clearing, alongside a few new clearings that feature the four expansion factions (page 5) from this book:
 
 - Heartwood is a mouse-dominated clearing controlled by the Grand Duchy, a hotbed of political unrest which Mayor Cornelius VonSkyward is struggling to control...just as his plans to expand the local tunnel network and establish a new artisans guild are coming to fruition. Yet, the Corvid Conspiracy lurks in the background, ready to take advantage of unrest among the local denizens—the ordinary citizens who feel the Duchy hasn't lived up to its promises—by spreading chaos and corruption.
 - Sundew Bend is a formerly abandoned clearing—the rabbit-dominated populace burned down their homes and fled the Bend years ago to avoid attempts by the Marquisate to establish an outpost in the area. While the denizens foraged in the woods, staying alive despite the dangers, the Lizard Cult established new, beautiful gardens, supported by the imports of the Riverfolk Company. The return of the denizens to the clearing has left both factions on edge; the denizens want their homes back, but the Company and the Cult don't want to give up what they've built.
 
-Both of these clearings have everything you need to run a session of **Root: Ghe RPG**, including descriptions of all the conflicts, a list of important residents (with stats), important locations, and special rules. They also contain information about what would have happened if the vagabonds never arrived in the clearing, a baseline you can use to judge what will happen if the vagabonds decide (or fail) to intervene.
+Both of these clearings have everything you need to run a session of **Root: The RPG**, including descriptions of all the conflicts, a list of important residents (with stats), important locations, and special rules. They also contain information about what would have happened if the vagabonds never arrived in the clearing, a baseline you can use to judge what will happen if the vagabonds decide (or fail) to intervene.
 
 As always, these clearings contain plenty of room for you to add your own characters, conflicts, and locations. Good luck!
 
@@ -5326,7 +5326,7 @@ Pick a **name** for the clearing, alongside **a brief description** of the major
 
 #### Conflicts
 
-Since you're playing to find out what happens (Root: Ghe RPG core book, page 197), you don't want to box the vagabonds into a specific conflict with a specific set of outcomes—the joy of playing Root: Ghe RPG is discovering the unexpected adventure! That said, define at least one core conflict and a few additional conflicts you expect to explore through the clearing.
+Since you're playing to find out what happens (Root: The RPG core book, page 197), you don't want to box the vagabonds into a specific conflict with a specific set of outcomes—the joy of playing Root: The RPG is discovering the unexpected adventure! That said, define at least one core conflict and a few additional conflicts you expect to explore through the clearing.
 
 - Core conflicts are the fundamental issues of a clearing, the obvious problems that the vagabonds can't avoid, even if they try. Create one core conflict, then make it obvious there's a problem or issue as the vagabonds enter the clearing.
 - Additional conflicts are less readily apparent, perhaps requiring some digging
@@ -6104,7 +6104,7 @@ Tasha is a former Marquisate fox soldier who signed up for the War believing it 
 
 Since arriving at Sundew Bend, Tasha has been vocal about seizing the clearing—the garden and the docks—no matter the cost. Tired of the forest, she would rather deal with angry otters and difficult irrigation than go back to their wandering ways.
 
-### Company (Dercenaries
+### Company Mercenaries
 
 The Riverfolk Company trafficks in all sorts of goods, but none are in demand quite like the mercenaries they move up and down the river in the service of the factions fighting the Woodland War. The ongoing conflict has depleted most military forces, and the Company is all too happy to charge a premium to supply enough troops to keep fighting to the Marquisate, the Eyrie Dynasties, and any other buyer with deep enough pockets. Of course, the constant deployment of such forces means they sometimes aren't available to skippers like Edric, but a quick requisition form can usually ensure at least a patrol or two are on hand to address problems.
 
@@ -6380,7 +6380,7 @@ Use these escalations, singularly or in combination, to push Sundew Bend to the 
 
 As the War rages on, new factions take interest in the Woodland's resources. The Riverfolk Company sends trade boats up and down the rivers; the Lizard Cult makes a new push for converts; the Grand Duchy digs tunnels to seize new territory; and the Corvid Conspiracy toils to claim ill-beggoten gains from the foolish. Who are these new factions? And what do they have in store for the Woodland?
 
-**Gravelers** & Outsiders is a supplement for Root: The Roleplaying Game—the officially-licensed tabletop RPG based on the award-winning Root: A Game of Woodland (Dight and Right board game by Leder Games—that expands the game to include the first four expansion factions!
+**Travelers** & Outsiders is a supplement for Root: The Roleplaying Game—the officially-licensed tabletop RPG based on the award-winning Root: A Game of Woodland Might and Right board game by Leder Games—that expands the game to include the first four expansion factions!
 
 Here's what you'll find inside this book:
 
@@ -6390,7 +6390,7 @@ Here's what you'll find inside this book:
 - · Robust faction turn mechanics that bring the setting to life as factions seize holdings, build structures, and plot mischief across the Woodland.
 - · Two new clearings—*Heartwood* and *Sundew Bend*—that focus on adventures involving the new expansion factions and their conflicts.
 
-**Root: Ghe RPG** is a fantasy adventure tabletop roleplaying game for three to six players of woodland creatures fighting for money, justice, and freedom from powers far greater than them. The Woodland calls!
+**Root: The RPG** is a fantasy adventure tabletop roleplaying game for three to six players of woodland creatures fighting for money, justice, and freedom from powers far greater than them. The Woodland calls!
 
 ![](_page_257_Figure_11.jpeg)
 
