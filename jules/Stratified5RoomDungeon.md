@@ -8,7 +8,7 @@ author: jules
 **Strata Overview:** This dungeon is a vertical descent through a deep geological fault line.
 *   **Layer 1 (The Surface):** A recently abandoned, hyper-industrial Marquise de Cat strip mine.
 *   **Layer 2 (The Mid-Depths):** A crumbling, overgrown stone fortress from a forgotten, pre-woodland era, its roofs smashed open by the Marquise machinery.
-*   **Layer 3 (The Deep Roots):** A bioluminescent, fungal cavern system choked with the petrified roots of an ancient World Tree, currently being looted by Lord of Hundreds scavengers.
+*   **Layer 3 (The Deep Roots):** A sprawling, utterly silent pre-Dynastic mechanical vault, currently being looted by a frenzied mob of the Lord of Hundreds seeking relics for their hoard.
 
 ---
 
@@ -42,39 +42,45 @@ author: jules
 
 ## Room 3: Trick / Setback (Layer 2 descending into Layer 3)
 
-**Setting the Scene:** Beyond the stone doors lies a spiraling, incredibly steep stone staircase that transitions from the worked stone of the fortress into the natural, glowing fungus-covered rock of the deep roots.
+**Setting the Scene:** Beyond the stone doors lies a spiraling, incredibly steep stone staircase that transitions from the worked stone of the fortress into the cold, riveted brass and steel tunnels of the deep vault.
 
-**The Trap (Structural Obstacle & Crushing Weight):** The staircase is a trap designed by the fortress's original builders to deter deep-earth predators. It is a **Frictionless Surface**; the steps are angled slightly downward and coated in an ancient, incredibly slick black algae that thrives in the bioluminescence.
-*   **Hazard Telegraph:** The stairs look wet, but the liquid doesn't bead—it coats the stone like oil. Scrape marks show where previous intruders tried desperately to slow their descent. At the bottom of the long spiral, a massive, spiked iron grate blocks the path.
+**The Trap (Structural Obstacle & Crushing Weight):** The staircase is a trap designed by the vault's original builders to deter intruders. The brass stairs are actually a **Frictionless Surface**; the steps are angled slightly downward and rigged to collapse flat into a continuous, oiled slide when sufficient weight is applied.
+*   **Hazard Telegraph:** The stairs feel loose and groan mechanically underfoot. Scrape marks and dented brass panels show where previous intruders tried desperately to slow their descent. At the bottom of the long spiral, a massive, spiked iron grate blocks the path.
 *   **PbtA Complications:**
-    *   *If characters try to walk normally:* They instantly lose their footing and begin a terrifying, high-speed slide in the dark. To avoid smashing into the iron grate at the bottom (2 Injury), they must wedge a weapon into the wall (causing 1 Wear) or grab a passing ally (pulling them down too).
-    *   *If they try to bypass it slowly:* It takes immense time and effort. The glowing fungus is a **Cognitive Hazard**; breathing heavily from the exertion causes the spores to induce mild hallucinations and paranoia (take -1 ongoing to *Read a Tense Situation* until they can rest in clean air).
+    *   *If characters try to walk normally:* The stairs snap flat, and they instantly lose their footing, beginning a terrifying, high-speed slide in the dark. To avoid smashing into the iron grate at the bottom (2 Injury), they must wedge a weapon into the wall (causing 1 Wear) or grab a passing ally (pulling them down too).
+    *   *If they try to bypass it slowly:* They must edge along a narrow maintenance lip on the wall. This requires intense physical exertion in the claustrophobic space (mark 1 Exhaustion).
 
 ---
 
-## Room 4: Climax / Boss (Layer 3 - The Deep Roots)
+## Room 4: Climax / Boss (Layer 3 - The Deep Vault)
 
-**Setting the Scene:** At the bottom of the stairs lies a massive cavern illuminated by pulsing blue and green fungal pods. The floor is choked with petrified, colossal roots as thick as houses.
+**Setting the Scene:** At the bottom of the stairs lies a massive, early-industrial cavern filled with towering, silent pneumatic engines and rusted conveyor belts. The floor is littered with discarded, half-broken machinery parts.
 
-**The Boss:** A chaotic **Industrial Hazard / Hoard Battlefield**. A large raiding party of the Lord of Hundreds (a mob of frenzied mice) has set up a crude, highly dangerous refinery here. They are using volatile alchemical fire to burn away the petrified roots to extract rare, glowing sap. They are led by **Warlord Scorch**, a hulking mouse wielding a massive, jury-rigged flamethrower.
-*   **Layout:** The room has ample cover behind the massive roots, but the Lord of Hundreds have set up explosive barrels of refined sap everywhere. There is a clear high-ground advantage on top of a central, arched root.
-*   **Hazard Telegraph:** The air smells heavily of sulfur and ozone. Warlord Scorch's flamethrower sputters and leaks glowing fluid.
+**The Boss:** A chaotic **Hoard Battlefield**. A massive, disorganized mob of Lord of Hundreds scavengers (mice) has broken into the vault from a separate tunnel. They are in a state of absolute anarchy, tearing apart the delicate ancient machinery to pile into a massive, jagged hoard of "relics" in the center of the room to prove their worth to their Lord. They are whipped into a frenzy by **Captain Scrap**, a fanatic adorned in mismatched, stolen armor plates.
+*   **Layout:** The room is a maze of towering gears, rusted pipes, and the ever-growing central pile of scrap. The Lord of Hundreds mice are swarming everywhere, acting without strategy but with overwhelming numbers.
+*   **Hazard Telegraph:** The scavengers are haphazardly tossing heavy metal parts; the air is thick with dust and the deafening clatter of metal on metal.
 *   **PbtA Complications:**
-    *   *Ablative Cover:* Vagabonds can take cover behind the petrified wood to absorb a hit, but Scorch's flames will ignite the wood, turning that cover into a burning hazard on subsequent turns.
-    *   *Collateral Damage:* If the explosive sap barrels are hit by stray attacks, they explode violently, causing massive area damage and threatening to bring down the cavern roof.
-    *   *Escalating Threat:* Every turn, the noise draws 1d4 more frenzied mice scavengers from deeper tunnels.
+    *   *Continuous Reinforcements:* The mice aren't fighting a coordinated battle; they are rioting. If the Vagabonds try to stand their ground, they will simply be overwhelmed by sheer numbers. They must use mobility to navigate the room.
+    *   *Ablative Cover:* Vagabonds can take cover behind the towering piles of scrap, but stray attacks will cause the unstable piles of metal to collapse, potentially burying them (mark 1 Exhaustion to dig out) or destroying dropped items.
+    *   *Collateral Damage:* Captain Scrap is using a massive, heavy rivet-gun as a blunt weapon. If he misses, he punctures the ancient pressurized pipes in the walls, releasing blinding bursts of high-pressure steam (severe fictional disadvantage to vision).
 
 ---
 
-## Room 5: Reward / Revelation (Layer 3 - The Deep Roots)
+## Room 5: Reward / Revelation (Layer 3 - The Deep Vault)
 
-**Setting the Scene:** Behind Warlord Scorch's makeshift refinery lies a small, pristine, hermetically sealed geode-like chamber that the mice hadn't managed to break into yet.
+**Setting the Scene:** Behind the towering pneumatic engines, hidden behind a locked pressure door the Hundreds hadn't managed to pry open, lies a pristine engineer's office.
 
-**The Reward (Strategic Asset / High-Maintenance Artifact):** Inside the geode rests a perfectly preserved, pre-Dynastic **Seed Core**—a glowing, mechanical terrarium containing a single, uncorrupted sapling of the World Tree, suspended in a stasis field.
-*   **The Value:** This is a priceless artifact. The Eyrie would pay a king's ransom to plant it as a symbol of their divine right; the Alliance would use it as a symbol of a new, untainted woodland; the Marquise would want to study its rapid-growth properties.
-*   **PbtA Complications (Encumbering Haul & Delicate Footing):**
-    *   The mechanism is heavy (requires marking 1 Exhaustion to carry while moving normally).
-    *   If dropped or hit, the stasis field flickers. If it breaks, the sapling will rapidly age and die in the contaminated cavern air.
+**The Reward (The Masterpiece):** Resting on a heavy oak desk is a true relic of the Ancients, miraculously untouched by time or the scavengers outside.
+
+> [!tip] The Pneumatic Gauntlet (Relic)
+> **Wear:** 4 | **Load:** 1
+> A marvel of early-industrial engineering, this heavy brass and leather gauntlet covers the wearer's forearm and hand. It is studded with small, pressurized canisters and a series of delicate, incredibly precise gears that whir silently. It grants the wearer immense, mechanical strength in one arm without relying on magical properties.
+>
+> **Ability: The Anvil Strike**
+> *Mark 1 Exhaustion to activate.* You unleash the built-up pneumatic pressure into a single, devastating punch. If used to break an object (a door, a lock, a wall), you succeed instantly and loudly. If used in combat, your strike ignores all armor and inflicts +1 Injury.
+>
+> **Ability: The Vice Grip**
+> *Mark 1 Exhaustion to activate.* The gears lock your hand into an unbreakable grip. Once you grab onto something (a ledge, a rope, or an enemy), you cannot be forcibly removed or disarmed until you choose to release the pressure.
 
 **The Twist:**
-*   **Geographic Displacement:** The explosion from the boss fight (or the shifting of the roots) causes the staircase back to Layer 2 to completely collapse. The Vagabonds are trapped in Layer 3. The only way out is a narrow, rushing underground river that plunges deeper into the dark, leading miles away into completely unknown, hostile territory.
+*   **Geographic Displacement:** The sheer weight of the Lord of Hundreds' massive scrap hoard in Room 4 causes the weakened floor of the vault to buckle. The staircase back to Layer 2 completely collapses as the cavern begins to sink. The Vagabonds are trapped in Layer 3. The only way out is to follow the rusted pneumatic pipes deeper into the dark, leading miles away into an unknown, unexplored section of the deep woodland.
