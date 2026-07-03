@@ -22,5 +22,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "command-palette:open"
-  ]
+  ],
+  "promptDelete": false
 }
