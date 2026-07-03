@@ -15,12 +15,10 @@ Drive: to unearth and understand the forbidden history of the Woodland
 - Several satchels of volatile alchemical dusts
 
 **Harm**
-```statblock: inline
 Injury: 2
 Exhaustion: 3
 Wear: 2
 Morale: 3
-```
 
 **Found at:**
 Deep within a ruin, meticulously brushing dirt away from an ancient inscription, or huddled over a makeshift desk in the waystation's archives.

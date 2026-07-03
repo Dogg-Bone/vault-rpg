@@ -7,7 +7,7 @@
 
 ### [[Disgraced Vizier Cluck]]
 
-### [[Nico "Albert" Malloy]]
+### [[Nico 'Albert' Malloy]]
 
 ### [[Vicomte Cousteau]]
 
