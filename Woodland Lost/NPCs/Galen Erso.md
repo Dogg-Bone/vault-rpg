@@ -3,8 +3,6 @@ name: Galen Erso
 description:
 job:
 drive: Rescue daughter Jyn Erso
-fear:
-secret:
 faction: Vagabond
 species:
 ---

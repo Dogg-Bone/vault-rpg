@@ -2,10 +2,14 @@
   "theme": "obsidian",
   "cssTheme": "",
   "enabledCssSnippets": [
-    "heading-fonts"
+    "heading-fonts",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide View"
   ],
   "textFontFamily": "",
   "monospaceFontFamily": "Cutive Mono",
   "accentColor": "#d27b4b",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "nativeMenus": false
 }

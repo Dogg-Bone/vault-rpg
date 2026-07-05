@@ -1,4 +1,4 @@
-Who could be a final boss in a a [[Vagabonds]] legend?
+Who could be a final boss in a [[Vagabonds]] legend?
 Since this game is so defined by factions and player choice, each faction should have a *potential* BBEG. Also have a factionless BBEG. If there is somehow a connection between each of these BBEGs, it's easier to link them together and foreshadowing with hints becomes more effective.
 
 

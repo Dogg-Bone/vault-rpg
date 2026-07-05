@@ -1,9 +1,3 @@
----
-author: jules
----
-
-# The Rook Family
-
 The Rook Family represents one of the oldest and most aristocratic pillars of the Corvid Conspiracy. Modeling themselves after an archaic, deeply traditional mafia family, they operate with a strict code of silence and absolute loyalty. While they are predominantly Rooks—distinguished by their bare, pale faces and sophisticated attire—they employ a vast network of mice, foxes, and rabbits as their eyes, ears, and enforcers. They do not soil their hands with petty street crimes; instead, they deal in the currency of power, secrets, and high-level manipulation.
 
 ## History

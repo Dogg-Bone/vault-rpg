@@ -1,9 +1,8 @@
 ---
-topic: 
+topic:
 date: "{{date}}"
-course: 
+course:
 tags:
-  - studies
 ---
 
 # {{title}}

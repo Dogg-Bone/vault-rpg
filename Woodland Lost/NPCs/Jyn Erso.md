@@ -3,8 +3,6 @@ name: Jyn Erso
 description:
 job:
 drive:
-fear:
-secret:
 faction: Denizens
 species:
 ---

@@ -3,8 +3,6 @@ name: Count Shortpaw
 description:
 job:
 drive:
-fear:
-secret:
 faction: Marquise de Cat
 species: Cat
 ---

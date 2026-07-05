@@ -1,4 +1,4 @@
-
+#npc
 EYRIE DYNASTIES
 **Disgraced Vizier Cluck**
 *Exiled Eyrie Politician*

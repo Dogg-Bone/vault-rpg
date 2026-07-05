@@ -1,4 +1,4 @@
-
+#npc
 CORVID CONSPIRACY
 **Nico "Albert" Malloy**
 *Corvid Crime Boss (The Magpie Syndicate)*

@@ -6288,7 +6288,7 @@ A score of barracks, many still empty, stand along the southern area of the comp
 - Warehouse #2 contains specialty gardening supplies: bone meal, sealed containers of seeds, garden tools, coils of rope, and ladders of varying sizes. Cult members and denizens working in the gardens have access to the building during normal work hours.
 - Warehouse #3 contains the Claws' armory, moderately valuable Cult documents and books, and a variety of overflow storage crates. Only Hibiscus Gray and the guards have unrestricted access to this warehouse.
 
-Warehouse #I is the most vulnerable to attack. Peeta runs an informal school for children of both the Cult members and the local denizens nearby, teaching the ways of the Cult, basic reading, and basic counting skills. It is normal to see children running around throughout the compound during their breaks, and many workers come and go each day.
+Warehouse #1 is the most vulnerable to attack. Peeta runs an informal school for children of both the Cult members and the local denizens nearby, teaching the ways of the Cult, basic reading, and basic counting skills. It is normal to see children running around throughout the compound during their breaks, and many workers come and go each day.
 
 {253}------------------------------------------------
 
