@@ -29,5 +29,8 @@
   "typomagical-colour@@theme-variant": "obsidian",
   "typomagical-colour@@background-color-enable": false,
   "typomagical-images@@ss-image-caption": false,
-  "typomagical-title@@font-title": "Playfair Display"
+  "typomagical-title@@font-title": "Playfair Display",
+  "CG@@CG-settings-background": false,
+  "CG@@CG-workspace-background-image": "CG-workspace-background-image-custom",
+  "CG@@CG-workspace-background": true
 }

@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "Lamont Plinstrilius": {
+    "Running the Game": {
       "main": {
         "id": "6d1a457040adf420",
         "type": "split",
@@ -15,12 +15,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
-                    "mode": "source",
+                    "file": "GM Tools/Running the Game/GM Rules Reference.md",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Jyn Erso Rescue"
+                  "title": "GM Rules Reference"
                 }
               }
             ]
@@ -55,319 +55,11 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#todo",
+                    "query": "stratif",
                     "matchingCase": false,
                     "explainSearch": false,
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "59a8c10cba484ca8",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 200
-      },
-      "right": {
-        "id": "e9e26a9d9d7d3537",
-        "type": "split",
-        "children": [
-          {
-            "id": "390b017d8754413a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "377955a4084dbb67",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.753499348958333,
-                      "repelStrength": 4.84212239583333,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7153492191344645,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of Jyn Erso Rescue"
-                }
-              },
-              {
-                "id": "36ca057f2ea57481",
-                "type": "leaf",
-                "state": {
-                  "type": "CALENDARIUM",
-                  "icon": "CALENDARIUM",
-                  "title": "Calendarium"
-                }
-              },
-              {
-                "id": "e502ca4c3fa99b95",
-                "type": "leaf",
-                "state": {
-                  "type": "CALENDARIUM",
-                  "state": {
-                    "calendar": "ID_bb88295858b9",
-                    "ephemeral": {
-                      "viewState": 1,
-                      "displaying": {
-                        "day": 1,
-                        "month": 0,
-                        "year": 998
-                      },
-                      "displayDayNumber": false,
-                      "displaySeasonColors": true,
-                      "interpolateColors": true,
-                      "displayMoons": true,
-                      "displayWeather": true
-                    },
-                    "id": "ID_fb6b0b69faa9"
-                  },
-                  "icon": "CALENDARIUM",
-                  "title": "Calendarium"
-                }
-              },
-              {
-                "id": "373cf427aa6bc31c",
-                "type": "leaf",
-                "state": {
-                  "type": "CALENDARIUM",
-                  "state": {
-                    "calendar": "ID_8808f8eaa838",
-                    "ephemeral": {
-                      "viewState": 0,
-                      "displaying": {
-                        "day": 1,
-                        "month": 0,
-                        "year": 591
-                      },
-                      "displayDayNumber": false,
-                      "displaySeasonColors": true,
-                      "interpolateColors": true,
-                      "displayMoons": true,
-                      "displayWeather": true
-                    },
-                    "id": "ID_783a3b982a49"
-                  },
-                  "icon": "CALENDARIUM",
-                  "title": "Calendarium"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f9011fbe4042a2b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ae10d09b5a720d58",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Jyn Erso Rescue"
-                }
-              },
-              {
-                "id": "f9cfed4282f9b3b4",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              },
-              {
-                "id": "22d3b13618a5c3e0",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
                     "collapseAll": false,
                     "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Jyn Erso Rescue"
-                }
-              },
-              {
-                "id": "c6bc3eef635cd653",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links from Jyn Erso Rescue"
-                }
-              },
-              {
-                "id": "15537f38c63217eb",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "4ac060fc64adcda7",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "All properties"
-                }
-              }
-            ],
-            "currentTab": 5
-          }
-        ],
-        "direction": "horizontal",
-        "width": 283.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "command-palette:Open command palette": false,
-          "bases:Create new base": false,
-          "obsidian-5e-statblocks:Open Creature pane": false,
-          "obsidian-git:Open Git source control": false,
-          "soundscapes:Soundscapes: My Music": false,
-          "obsidian-excalidraw-plugin:New drawing": false,
-          "random-note:Open random note": false,
-          "workspaces:Manage workspace layouts": false,
-          "calendarium:Open Calendarium": false
-        }
-      },
-      "active": "e9fa534f33a7cc1f",
-      "mtime": "2026-07-09T00:41:28-06:00"
-    },
-    "Lequint Plinstrius": {
-      "main": {
-        "id": "6d1a457040adf420",
-        "type": "split",
-        "children": [
-          {
-            "id": "9deb21b730ca5063",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e9fa534f33a7cc1f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Jyn Erso Rescue"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "13556b2a2aad34cd",
-        "type": "split",
-        "children": [
-          {
-            "id": "561206cded246ed6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bccd878814736dae",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "byCreatedTime",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "4f01e3c8fd8efc19",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "tag:#todo",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": true,
-                    "extraContext": false,
                     "sortOrder": "alphabetical"
                   },
                   "icon": "lucide-search",
@@ -404,7 +96,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
+                    "file": "GM Tools/Running the Game/GM Rules Reference.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -432,7 +124,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Jyn Erso Rescue"
+                  "title": "Graph of GM Rules Reference"
                 }
               },
               {
@@ -473,23 +165,25 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
+                    "file": "jules/Cinematic Scene Ideas.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Jyn Erso Rescue"
+                  "title": "Outline of Cinematic Scene Ideas"
                 }
               },
               {
-                "id": "f9cfed4282f9b3b4",
+                "id": "6cb89baf8da02da0",
                 "type": "leaf",
                 "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
+                  "type": "file-properties",
+                  "state": {
+                    "file": "GM Tools/Running the Game/GM Rules Reference.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for GM Rules Reference"
                 }
               },
               {
@@ -498,7 +192,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
+                    "file": "jules/Cinematic Scene Ideas.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -508,7 +202,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Jyn Erso Rescue"
+                  "title": "Backlinks for Cinematic Scene Ideas"
                 }
               },
               {
@@ -553,9 +247,19 @@
                   "icon": "lucide-archive",
                   "title": "All properties"
                 }
+              },
+              {
+                "id": "f9cfed4282f9b3b4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -578,9 +282,294 @@
           "calendarium:Open Calendarium": false
         }
       },
-      "active": "377955a4084dbb67",
-      "mtime": "2026-07-09T01:03:05-06:00"
+      "active": "bccd878814736dae",
+      "mtime": "2026-07-09T01:21:31-06:00"
+    },
+    "Building the Woodland": {
+      "main": {
+        "id": "6d1a457040adf420",
+        "type": "split",
+        "children": [
+          {
+            "id": "9deb21b730ca5063",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e9fa534f33a7cc1f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World/History of the Woodland.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "History of the Woodland"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "13556b2a2aad34cd",
+        "type": "split",
+        "children": [
+          {
+            "id": "561206cded246ed6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bccd878814736dae",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "4f01e3c8fd8efc19",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "stratif",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "59a8c10cba484ca8",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "e9e26a9d9d7d3537",
+        "type": "split",
+        "children": [
+          {
+            "id": "390b017d8754413a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "377955a4084dbb67",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "World/History of the Woodland.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": false,
+                      "centerStrength": 0.753499348958333,
+                      "repelStrength": 4.84212239583333,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7153492191344645,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of History of the Woodland"
+                }
+              },
+              {
+                "id": "b8989fb2062b4fce",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM",
+                  "state": {
+                    "calendar": "ID_bb88295858b9",
+                    "ephemeral": {
+                      "viewState": 1,
+                      "displaying": {
+                        "day": 1,
+                        "month": 0,
+                        "year": 998
+                      },
+                      "displayDayNumber": false,
+                      "displaySeasonColors": true,
+                      "interpolateColors": true,
+                      "displayMoons": true,
+                      "displayWeather": true
+                    },
+                    "id": "ID_69cb495b3bbb"
+                  },
+                  "icon": "CALENDARIUM",
+                  "title": "Calendarium"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f9011fbe4042a2b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae10d09b5a720d58",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "jules/Cinematic Scene Ideas.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Cinematic Scene Ideas"
+                }
+              },
+              {
+                "id": "6cb89baf8da02da0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "World/History of the Woodland.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for History of the Woodland"
+                }
+              },
+              {
+                "id": "22d3b13618a5c3e0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "jules/Cinematic Scene Ideas.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Cinematic Scene Ideas"
+                }
+              },
+              {
+                "id": "c6bc3eef635cd653",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "jules/Jyn Erso Rescue.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Jyn Erso Rescue"
+                }
+              },
+              {
+                "id": "15537f38c63217eb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "4ac060fc64adcda7",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "f9cfed4282f9b3b4",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 418.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "obsidian-git:Open Git source control": false,
+          "soundscapes:Soundscapes: My Music": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "calendarium:Open Calendarium": false
+        }
+      },
+      "active": "e9fa534f33a7cc1f",
+      "mtime": "2026-07-09T01:23:26-06:00"
     }
   },
-  "active": "Lequint Plinstrius"
+  "active": "Building the Woodland"
 }

@@ -25,5 +25,6 @@
   ],
   "promptDelete": false,
   "readableLineLength": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "propertiesInDocument": "hidden"
 }
