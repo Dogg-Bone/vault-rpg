@@ -67,7 +67,7 @@ Soon enough, Marquisate control over the Woodland began to solidify. Their thin 
 
 But the Marquisate wouldn’t be without challenge for long.
 
-### The War for [[The Woodland]]
+### The War for [[the Woodland]]
 While the Marquise de Cat was eyeing the Woodland, the Eyrie Dynasties, shredded and tattered though they were, had fled to the edges of the Woodland and beyond. In those spaces at the edges of the clearings, they reestablished themselves under new leadership. They appealed to loyalists in exile. They grew in power and strength, waiting for the moment to return to the Woodland, triumphant and powerful. They were preparing to attack… 
 
 Then the Marquisate invaded the Woodland, before the Eyrie had brought itself to action. The Woodland was no longer simply “awaiting their return”; now it was occupied by a powerful enemy. 
