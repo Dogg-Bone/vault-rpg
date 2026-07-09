@@ -1,6 +1,6 @@
 Known to [[Denizens]] throughout the Woodland simply as "The Valley," this clearing is the largest in the woodland by miles, geographically and by population. The Valley contains eight major districts, each one almost a clearing unto itself. All factions have presence here in one way or another, and may outright control certain districts, but no faction has been able to take control of the Valley in its entirety. 
 
-Fruit Valley is so named for the orchards that span its breadth. The orchards are ancient, and only parts are actively cultivated by the valley's constituents. The city itself is also ancient, inhabited since time immemorial, before the earliest records of the [[Eyrie Dynasties]]. 
+Fruit Valley is so named for the orchards that span its breadth. The orchards are ancient, and only parts are actively cultivated by the valley's constituents. The city itself is also ancient, inhabited since time immemorial, before the earliest records of the [[Eyrie Dynasties]] history. 
 
 Fruit Valley is verdant and beautiful, with plentiful food and fresh water from the orchards and the [[Silver River]]. Fruit Valley is the prime example of the War among the factions spoiling the Woodland's beauty.
 # Districts

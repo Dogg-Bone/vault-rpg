@@ -23,5 +23,11 @@
   "ITS@@hr-icon-font": "default-font",
   "ITS@@font-monospace": "'Cutive Mono', 'Fira Code Medium', 'Source Code Pro', monospace",
   "ITS@@comment-font": "'Cutive Mono', 'Fira Code Medium'",
-  "modular-css-layout-wv@@is-adj-rll": false
+  "modular-css-layout-wv@@is-adj-rll": false,
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-text@@mjx-font": "mathjax-font-default",
+  "typomagical-colour@@theme-variant": "obsidian",
+  "typomagical-colour@@background-color-enable": false,
+  "typomagical-images@@ss-image-caption": false,
+  "typomagical-title@@font-title": "Playfair Display"
 }

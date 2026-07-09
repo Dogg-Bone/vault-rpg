@@ -1,0 +1,6 @@
+.modal.mod-settings {
+    width: clamp(600px, 80vw, 1200px) !important;
+    height: 80vh !important;
+    max-height: 80vh !important;
+}
+

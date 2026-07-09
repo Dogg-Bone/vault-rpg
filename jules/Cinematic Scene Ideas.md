@@ -1,7 +1,6 @@
 ---
 author: jules
 ---
-
 # Cinematic Scene Ideas
 
 1. **The Ash-Choked Canopy:** A dense section of the forest where a recent, unnatural fire has left the trees charred and the air thick with gray snow. Vagabonds must navigate a precarious canopy walkway constructed of half-burnt ropes while unseen scavengers shadow them from the soot-blackened branches below.
