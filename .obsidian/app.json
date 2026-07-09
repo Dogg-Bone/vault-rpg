@@ -24,5 +24,6 @@
     "command-palette:open"
   ],
   "promptDelete": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showLineNumber": true
 }

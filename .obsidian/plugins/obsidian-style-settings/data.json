@@ -23,5 +23,5 @@
   "ITS@@hr-icon-font": "default-font",
   "ITS@@font-monospace": "'Cutive Mono', 'Fira Code Medium', 'Source Code Pro', monospace",
   "ITS@@comment-font": "'Cutive Mono', 'Fira Code Medium'",
-  "modular-css-layout-wv@@is-adj-rll": true
+  "modular-css-layout-wv@@is-adj-rll": false
 }
