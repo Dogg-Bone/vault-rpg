@@ -1,0 +1,12 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":black_large_square:",
+    ":white_large_square:",
+    ":white_medium_square:",
+    ":black_square_button:"
+  ]
+}

@@ -3,7 +3,8 @@ In the lakes and deep waters of the Woodland, rumors abound of fish large enough
 
 Sometimes, the stories have more…teeth. Fishers returning to port with torn nets, broken rods, and boats scored with teeth marks; veteran anglers sailing home with eyes hollow, hearts shaken, and the word "monster" upon their trembling lips. In some clearings, kingly bounties have been posted for the capture of these legendary beasts. These generous rewards have attracted the attention of many vagabonds, many of whom set out on the water ready for a hunt…never to be seen nor heard from again.
 
-GM Advice: The giant trout is a truly dangerous foe. It is tough, deals a lot of damage, and can swallow a vagabond whole. This monster works best as a looming threat, one the vagabonds have to prepare and plan for lest they enter a fight they cannot win. Bands without martial characters may need to find completely alternative ways of dealing with such a beast!
+# GM Advice
+The giant trout is a truly dangerous foe. It is tough, deals a lot of damage, and can swallow a vagabond whole. This monster works best as a looming threat, one the vagabonds have to prepare and plan for lest they enter a fight they cannot win. Bands without martial characters may need to find completely alternative ways of dealing with such a beast!
 
 Because a giant trout is so dangerous, introducing this monster requires some forethought about why the vagabonds would engage it. Perhaps a fisherman lost someone to the creature and is willing to pay someone to kill it…or maybe a clearing without anything to offer has to beg the vagabonds for help. That said, a band could always happen upon a giant trout by chance while traveling from one clearing to another across a large body of water…
 
@@ -13,9 +14,23 @@ When the vagabonds finally face the giant trout, be sure to play up the epic nat
 
 ---
 
+| HARM INFLICTED | 3-injury           |
+| -------------- | ------------------ |
+| EXHAUSTION     | ⬛⬛⬛⬛⬛ ~ ⬛⬛⬛⬛⬛      |
+| INJURY         | ⬛⬛⬛⬛⬛ ~ ⬛⬛⬛⬛⬛ ~ ⬛⬛ |
+| WEAR           | ⬛⬛⬛⬛               |
+| MORALE         | ⬛⬛⬛⬛⬛ ~ ⬛          |
+
+---
 **Instinct:** [[Monster Instincts#^0e08da|Bullheaded]]
 #### TRAITS:
 - [[Monster Traits#^bfc8c6|Aquatic]]
 - [[Monster Traits#^d3ba3f|Terrifying]]
 - [[Monster Traits#^cdfdd4|Aggressive]]
 - [[Monster Traits#^d589eb|Entangling (Vomerine Teeth)]]
+- [[Monster Traits#^315e3d|Slippery (Slick Scales)]]
+#### MOVES:
+- Capsize a boat, spilling everyone inside into the water
+- Strike out above the waves with a quick attack at intimate range
+- Dive beneath the waves, avoiding harm
+- Flail about to free itself from restraints
