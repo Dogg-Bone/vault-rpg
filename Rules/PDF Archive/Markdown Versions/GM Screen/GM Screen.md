@@ -344,4 +344,4 @@ Root" and Leder Games" logo and key art TM & © 2017 Leder Games, Text and desig
 
 {1}------------------------------------------------
 
-![](_page_1_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/GM%20Screen/_page_1_Picture_0.jpeg)

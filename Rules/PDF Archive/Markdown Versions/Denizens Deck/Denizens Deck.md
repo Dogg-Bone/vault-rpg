@@ -2,7 +2,7 @@
 
 {0}------------------------------------------------
 
-![](_page_0_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_0_Picture_0.jpeg)
 
 ## EYRIE DYNASTIES
 
@@ -30,7 +30,7 @@ The Whitetalon (ancestral family sword)
 
 Request for the vagabonds: Enter a clearing and secretly create an opening in the clearing's defenses for his troops.
 
-![](_page_1_Picture_11.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_1_Picture_11.jpeg)
 
 {2}------------------------------------------------
 
@@ -226,7 +226,7 @@ Request for the vagabonds: Seize goods she has identified as illegally withheld 
 
 {14}------------------------------------------------
 
-![](_page_14_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_14_Figure_0.jpeg)
 
 ## MARQUISATE
 
@@ -428,7 +428,7 @@ Request for the vagabonds: Help them "reappropriate" a confiscated satchel of va
 
 {26}------------------------------------------------
 
-![](_page_26_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_26_Figure_0.jpeg)
 
 # DENIZENS
 
@@ -494,7 +494,7 @@ Request for the vagabonds: Investigate a suspicious denizen of her clearing.
 
 {30}------------------------------------------------
 
-![](_page_30_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_30_Picture_0.jpeg)
 
 # DENIZENS
 
@@ -576,7 +576,7 @@ Equipment Blacksmith tools
 
 {36}------------------------------------------------
 
-![](_page_36_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_36_Figure_0.jpeg)
 
 ## DENIZENS
 
@@ -726,7 +726,7 @@ Equipment Shortbow, satchel
 
 {46}------------------------------------------------
 
-![](_page_46_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_46_Figure_0.jpeg)
 
 ### VAGABONDS
 
@@ -824,7 +824,7 @@ Request for the vagabonds: Sabotage a meeting proposing a temporary truce betwee
 
 {52}------------------------------------------------
 
-![](_page_52_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_52_Picture_0.jpeg)
 
 Fairley has seen the Woodland over the course of countless decades. She has seen it change and return and change again. She now only desires to see it one more time, in full, in her old age.
 
@@ -880,7 +880,7 @@ Equipment Longbow
 
 {56}------------------------------------------------
 
-![](_page_56_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_56_Figure_0.jpeg)
 
 ### WOODLAND ALLIANCE
 
@@ -1530,7 +1530,7 @@ Request for the vagabonds: Deliver on a threat against a wealthy vagabond, and b
 
 {96}------------------------------------------------
 
-![](_page_96_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_96_Picture_0.jpeg)
 
 # CORVID CONSPIRACY
 
@@ -1684,7 +1684,7 @@ Noble raiment
 
 Request for the vagabonds: Destroy a local faction's cache of supplies, increasing demand for the Duchy's goods.
 
-![](_page_105_Picture_12.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Denizens%20Deck/_page_105_Picture_12.jpeg)
 
 {106}------------------------------------------------
 

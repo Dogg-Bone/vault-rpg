@@ -2,11 +2,11 @@
 
 {0}------------------------------------------------
 
-![](_page_0_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_0_Figure_0.jpeg)
 
 {1}------------------------------------------------
 
-![](_page_1_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_1_Picture_0.jpeg)
 
 # Travelers & Outsiders
 
@@ -34,7 +34,7 @@ Root Board Game Concept: Patrick Leder
 
 ![](_page_1_Picture_13.jpeg)
 
-![](_page_1_Picture_14.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_1_Picture_14.jpeg)
 
 Root: The Roleplaying Game text and design @ 2019-2021 Magpie Games. All rights reserved. Root: A Game of Woodland Right and Might @ 2017 Leder Games. All rights reserved. Leder Games logo and Root art TM & @ 2017-2020. All rights reserved.
 
@@ -93,7 +93,7 @@ Wilds at the Edge [.............................160](#page-160-0)
 
 {3}------------------------------------------------
 
-![](_page_3_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_3_Picture_0.jpeg)
 
 ### Welcome, fair traveler!
 
@@ -120,13 +120,13 @@ Finally, you can find these playbooks and other **Root**: The RPG materials for 
 
 {5}------------------------------------------------
 
-<span id="page-5-0"></span>![](_page_5_Picture_0.jpeg)
+<span id="page-5-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_5_Picture_0.jpeg)
 
 <span id="page-5-1"></span>The Woodland Expanded
 
 {6}------------------------------------------------
 
-![](_page_6_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_6_Picture_0.jpeg)
 
 he Woodland is populated by various factions, from the Marquisate to the Woodland Alliance, but these are not the only factions that exist in the world. Other factions exist in and around
 
@@ -276,7 +276,7 @@ Most denizens rarely see a Duchy citizen, but they are around. Those denizens wh
 
 {17}------------------------------------------------
 
-![](_page_17_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_17_Picture_0.jpeg)
 
 ### The Grand Duchy in the Woodland War
 
@@ -374,7 +374,7 @@ Agents keep a level of anonymity in their actions by conscripting hapless denize
 
 {23}------------------------------------------------
 
-<span id="page-23-0"></span>![](_page_23_Picture_0.jpeg)
+<span id="page-23-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_23_Picture_0.jpeg)
 
 {24}------------------------------------------------
 
@@ -937,7 +937,7 @@ You can't trigger this drive by ditching your equipment and picking up a replace
 
 {49}------------------------------------------------
 
-![](_page_49_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_49_Picture_0.jpeg)
 
 #### Wanted
 
@@ -1086,7 +1086,7 @@ You and the vagabond you share this connection with are always trying to outdo e
 
 {57}------------------------------------------------
 
-<span id="page-57-1"></span><span id="page-57-0"></span>![](_page_57_Picture_0.jpeg)
+<span id="page-57-1"></span><span id="page-57-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_57_Picture_0.jpeg)
 
 {58}------------------------------------------------
 
@@ -1263,7 +1263,7 @@ Each of these sets of abilities also comes with an **instinct move**. Your insti
 
 {65}------------------------------------------------
 
-![](_page_65_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_65_Picture_0.jpeg)
 
 ### Making Your Own Species Abilities
 
@@ -1321,7 +1321,7 @@ Instinct move: Once per session, clear exhaustion when you convince your allies 
 
 {67}------------------------------------------------
 
-![](_page_67_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_67_Picture_0.jpeg)
 
 #### Otter
 
@@ -1345,7 +1345,7 @@ Mark exhaustion to activate an ability:
 
 Instinct move: Once per session, clear exhaustion when you acquire information that gives you an advantage over an enemy.
 
-![](_page_67_Picture_14.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_67_Picture_14.jpeg)
 
 #### Cat
 
@@ -1371,7 +1371,7 @@ Instinct move: Once per session, clear exhaustion when you spend several hours b
 
 {68}------------------------------------------------
 
-![](_page_68_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_68_Picture_0.jpeg)
 
 #### Corvid
 
@@ -1584,7 +1584,7 @@ On a 12+, in addition to the results of the 10+, you strike them so well you inc
 
 Incapacitating an enemy is a fictional effect that leaves them less able to function, removing certain moves and actions they might take—they can't run if they can't change position; they can't trade harm or fight back if they can't wield a weapon; and they can't call for help if they can't communicate.
 
-![](_page_76_Picture_12.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_76_Picture_12.jpeg)
 
 {77}------------------------------------------------
 
@@ -2121,7 +2121,7 @@ For *Raw Force*, remember that your weapons must also have the weapon skill tag 
 
 {97}------------------------------------------------
 
-<span id="page-97-0"></span>![](_page_97_Picture_0.jpeg)
+<span id="page-97-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_97_Picture_0.jpeg)
 
 # The Chronicler
 
@@ -2264,7 +2264,7 @@ For Good Advice, you don't have to wait for NPCs to ask for advice—you're offe
 
 For **Dedicated Scholar**, acquiring a new tome or scroll filled with Woodland history effectively becomes a second nature. Whatever you get your hands on has to be a work of some significance to trigger the move!
 
-![](_page_100_Picture_11.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_100_Picture_11.jpeg)
 
 {101}------------------------------------------------
 
@@ -2428,7 +2428,7 @@ For *Fancy Paper*, you are using your knowledge of terminology, style, patterns,
 
 {105}------------------------------------------------
 
-<span id="page-105-0"></span>![](_page_105_Picture_0.jpeg)
+<span id="page-105-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_105_Picture_0.jpeg)
 
 # The Envoy
 
@@ -2450,7 +2450,7 @@ For *Fancy Paper*, you are using your knowledge of terminology, style, patterns,
 
 #### Charm 0
 
-![](_page_105_Picture_12.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_105_Picture_12.jpeg)
 
 ![](_page_105_Picture_13.jpeg)
 
@@ -3008,7 +3008,7 @@ For **No Jail Can Hold Me**, you can mark exhaustion to shift a miss to a 7–9 
 
 {121}------------------------------------------------
 
-<span id="page-121-0"></span>![](_page_121_Picture_0.jpeg)
+<span id="page-121-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_121_Picture_0.jpeg)
 
 # The Raconteur
 
@@ -3294,7 +3294,7 @@ For *Fearsome Visage*, you usually can't even trigger *make a pointed threat* or
 
 {129}------------------------------------------------
 
-<span id="page-129-0"></span>![](_page_129_Picture_0.jpeg)
+<span id="page-129-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_129_Picture_0.jpeg)
 
 # The Seeker
 
@@ -3438,11 +3438,11 @@ For *Unstable Ground*, the environment has to be chaotic enough to knock your op
 
 {133}------------------------------------------------
 
-<span id="page-133-0"></span>![](_page_133_Picture_0.jpeg)
+<span id="page-133-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_133_Picture_0.jpeg)
 
 {134}------------------------------------------------
 
-<span id="page-134-0"></span>![](_page_134_Picture_0.jpeg)
+<span id="page-134-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_134_Picture_0.jpeg)
 
 ou can easily play a single game of Root: The RPG and have a satisfying, heroic, charming, and brilliant adventure. But the game comes alive when you play a full campaign, when the
 
@@ -3690,7 +3690,7 @@ You're a lot safer saying "We have one or two sessions left" once you've moved i
 
 {147}------------------------------------------------
 
-![](_page_147_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_147_Picture_0.jpeg)
 
 #### Amp It Up
 
@@ -3820,7 +3820,7 @@ their home faction or to find a new home. Expect the Exile to play at the level 
 
 {153}------------------------------------------------
 
-![](_page_153_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_153_Picture_0.jpeg)
 
 #### **harrier**
 
@@ -3924,7 +3924,7 @@ page about it, you can bring in the Ronin's nature as someone definitely from el
 
 {157}------------------------------------------------
 
-![](_page_157_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_157_Picture_0.jpeg)
 
 #### Scoundrel
 
@@ -3976,7 +3976,7 @@ requirement. Use the Tinker's Toolbox move to create all manner of interesting c
 
 {159}------------------------------------------------
 
-![](_page_159_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_159_Picture_0.jpeg)
 
 ### Vagrant
 
@@ -4248,7 +4248,7 @@ Create new vagabonds as if you are starting a brand-new campaign, but have each 
 
 {173}------------------------------------------------
 
-![](_page_173_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_173_Picture_0.jpeg)
 
 ### Moving to a New Woodland
 
@@ -4315,7 +4315,7 @@ Your Reputation with the denizens resets to 0. This group of denizens is functio
 
 {177}------------------------------------------------
 
-<span id="page-177-0"></span>![](_page_177_Picture_0.jpeg)
+<span id="page-177-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Travelers-Outsiders/_page_177_Picture_0.jpeg)
 
 Advances
 

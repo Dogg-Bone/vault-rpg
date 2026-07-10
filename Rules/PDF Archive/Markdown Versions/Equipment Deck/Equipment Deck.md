@@ -6,7 +6,7 @@
 
 {1}------------------------------------------------
 
-![](_page_1_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_1_Picture_0.jpeg)
 
 ### Battle Axe wear 6
 
@@ -30,7 +30,7 @@ special tags
 
 {3}------------------------------------------------
 
-![](_page_3_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_3_Picture_0.jpeg)
 
 ### Birdcatcher
 
@@ -55,7 +55,7 @@ special tags
 
 {5}------------------------------------------------
 
-![](_page_5_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_5_Picture_0.jpeg)
 
 Range FAR
 
@@ -67,7 +67,7 @@ special tags
 
 {6}------------------------------------------------
 
-![](_page_6_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_6_Picture_0.jpeg)
 
 {7}------------------------------------------------
 
@@ -105,7 +105,7 @@ wear 3
 
 {11}------------------------------------------------
 
-![](_page_11_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_11_Picture_0.jpeg)
 
 Range —
 
@@ -129,7 +129,7 @@ special tags
 
 wear 4
 
-![](_page_13_Picture_3.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_13_Picture_3.jpeg)
 
 Range FAR
 
@@ -147,7 +147,7 @@ Mark wear to *attempt the blindside roguish feat* if you don't have it, or to ta
 
 {14}------------------------------------------------
 
-![](_page_14_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_14_Figure_0.jpeg)
 
 {15}------------------------------------------------
 
@@ -172,7 +172,7 @@ special tags
 
 {17}------------------------------------------------
 
-![](_page_17_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_17_Picture_0.jpeg)
 
 ### Crossbow
 
@@ -197,7 +197,7 @@ special tags
 
 {19}------------------------------------------------
 
-![](_page_19_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_19_Picture_0.jpeg)
 
 wear | 8
 
@@ -223,7 +223,7 @@ special tags
 
 ![](_page_21_Picture_0.jpeg)
 
-![](_page_21_Picture_1.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_21_Picture_1.jpeg)
 
 ### special tags
 
@@ -238,7 +238,7 @@ special tags
 
 {23}------------------------------------------------
 
-![](_page_23_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_23_Picture_0.jpeg)
 
 ### Gauntlet wear 6
 
@@ -259,7 +259,7 @@ weapon skill tags
 
 {25}------------------------------------------------
 
-![](_page_25_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_25_Picture_0.jpeg)
 
 ### Greatsword wear 7
 
@@ -276,7 +276,7 @@ special tags
 
 {26}------------------------------------------------
 
-![](_page_26_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_26_Figure_0.jpeg)
 
 {27}------------------------------------------------
 
@@ -304,7 +304,7 @@ special tags
 
 {29}------------------------------------------------
 
-![](_page_29_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_29_Picture_0.jpeg)
 
 ### Herb Satchel
 
@@ -385,11 +385,11 @@ special tags
 
 {36}------------------------------------------------
 
-![](_page_36_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_36_Figure_0.jpeg)
 
 {37}------------------------------------------------
 
-![](_page_37_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_37_Picture_0.jpeg)
 
 Range CLOSE
 
@@ -437,7 +437,7 @@ special tags
 
 {41}------------------------------------------------
 
-![](_page_41_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_41_Picture_0.jpeg)
 
 ## Push Dagger wear 4
 
@@ -507,7 +507,7 @@ special tags
 
 {46}------------------------------------------------
 
-![](_page_46_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_46_Figure_0.jpeg)
 
 {47}------------------------------------------------
 
@@ -533,7 +533,7 @@ special tags
 
 {49}------------------------------------------------
 
-![](_page_49_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_49_Picture_0.jpeg)
 
 ### Salamander Spit
 
@@ -557,7 +557,7 @@ Harm SPECIAL
 
 {51}------------------------------------------------
 
-![](_page_51_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_51_Picture_0.jpeg)
 
 ## Scorpion Tail
 
@@ -581,7 +581,7 @@ If the head, then on a hit, mark wear and inflict 2-injury.
 
 {52}------------------------------------------------
 
-![](_page_52_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_52_Picture_0.jpeg)
 
 {53}------------------------------------------------
 
@@ -605,7 +605,7 @@ special tags
 
 {54}------------------------------------------------
 
-![](_page_54_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_54_Picture_0.jpeg)
 
 {55}------------------------------------------------
 
@@ -627,7 +627,7 @@ special tags + **Tricky**: When you use this item to *trick an NPC* by distracti
 
 {56}------------------------------------------------
 
-![](_page_56_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_56_Figure_0.jpeg)
 
 {57}------------------------------------------------
 
@@ -695,7 +695,7 @@ special tags
 
 {63}------------------------------------------------
 
-![](_page_63_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_63_Picture_0.jpeg)
 
 ## Targe Shield
 
@@ -715,7 +715,7 @@ wear 4
 
 {65}------------------------------------------------
 
-![](_page_65_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_65_Picture_0.jpeg)
 
 ### Throwing Axe wear 5
 
@@ -738,7 +738,7 @@ special tags
 
 {67}------------------------------------------------
 
-![](_page_67_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_67_Picture_0.jpeg)
 
 ## Warhammer wear 6
 
@@ -757,7 +757,7 @@ special tags
 
 {68}------------------------------------------------
 
-![](_page_68_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Equipment%20Deck/_page_68_Picture_0.jpeg)
 
 {69}------------------------------------------------
 

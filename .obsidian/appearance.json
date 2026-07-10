@@ -1,8 +1,7 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Wikipedia",
+  "cssTheme": "Typomagical",
   "enabledCssSnippets": [
-    "heading-fonts",
     "MCL Gallery Cards",
     "MCL Multi Column"
   ],

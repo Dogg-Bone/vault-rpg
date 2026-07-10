@@ -14,5 +14,21 @@
       ],
       "key": "U"
     }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }

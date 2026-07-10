@@ -1,4 +1,3 @@
-#npc
 EYRIE DYNASTIES
 **Disgraced Vizier Cluck**
 *Exiled Eyrie Politician*
@@ -42,3 +41,4 @@ Morale: [ ] [ ] [ ] [ ]
 **Social Status:** 1 - Dirt (Formerly 4, now an outcast)
 
 **Perception of Vagabonds:** *"Tools. Blunt instruments to be pointed at the foundations of those self-righteous fools in their roosts."*
+#npc

@@ -2,11 +2,11 @@
 
 {0}------------------------------------------------
 
-![](_page_0_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_0_Picture_0.jpeg)
 
 {1}------------------------------------------------
 
-![](_page_1_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_1_Picture_0.jpeg)
 
 # Core Book
 
@@ -28,7 +28,7 @@ Root Board Game Concept: Patrick Leder
 
 ![](_page_1_Picture_10.jpeg)
 
-![](_page_1_Picture_11.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_1_Picture_11.jpeg)
 
 Root: The Roleplaying Game text and design @ 2019-2021 Magpie Games. All rights reserved. Root: A Game of Woodland Right and Might @ 2017 Leder Games. All rights reserved. Leder Games logo and Root art TM & @ 2017-2020. All rights reserved.
 
@@ -102,7 +102,7 @@ Printed by LongPack Games. First printing 2021.
 
 {3}------------------------------------------------
 
-<span id="page-3-0"></span>![](_page_3_Picture_0.jpeg)
+<span id="page-3-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_3_Picture_0.jpeg)
 
 {4}------------------------------------------------
 
@@ -261,7 +261,7 @@ You can find the materials for running a game of **Root**: **The RPG** as downlo
 
 {11}------------------------------------------------
 
-<span id="page-11-1"></span><span id="page-11-0"></span>![](_page_11_Picture_0.jpeg)
+<span id="page-11-1"></span><span id="page-11-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_11_Picture_0.jpeg)
 
 {12}------------------------------------------------
 
@@ -443,7 +443,7 @@ Not every clearing is embroiled in battle at every moment. Some are behind lines
 
 # <span id="page-21-0"></span>The Factions
 
-![](_page_21_Picture_1.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_21_Picture_1.jpeg)
 
 #### The Eyrie Dynasties
 
@@ -487,7 +487,7 @@ The denizens, above all else, just want to live and be safe. There may be outlie
 
 {23}------------------------------------------------
 
-![](_page_23_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_23_Picture_0.jpeg)
 
 # The Vagabonds
 
@@ -511,7 +511,7 @@ A whole band of vagabonds, shoring up each other's weaknesses and supporting eac
 
 {25}------------------------------------------------
 
-<span id="page-25-0"></span>![](_page_25_Picture_0.jpeg)
+<span id="page-25-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_25_Picture_0.jpeg)
 
 {26}------------------------------------------------
 
@@ -605,7 +605,7 @@ The trigger tells you *when* the move comes into play. Triggers are always phras
 
 {30}------------------------------------------------
 
-![](_page_30_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_30_Picture_0.jpeg)
 
 A common way to phrase the way moves work is "To do it, do it." If you want the results of the move to *engage someone in melee*, then you have to do that in the world of the game—in the fiction (see "The Fiction" on [page 33](#page-33-0))—by describing yourself swinging your sword and dashing forward. And if you decide to start sword-fighting someone, then you're going to roll *engage someone in melee*. You took the action, so now you roll for results on the move…and to roll for results on the move, you must take the action.
 
@@ -766,7 +766,7 @@ Is a wolf the same size as a mouse? Depends on the wolf and the mouse!
 
 {37}------------------------------------------------
 
-![](_page_37_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_37_Picture_0.jpeg)
 
 #### Close to Medieval…But with a Hint of the Fantastic
 
@@ -833,7 +833,7 @@ Because the Woodland is in danger, and you and your friends may be its greatest 
 
 {41}------------------------------------------------
 
-<span id="page-41-1"></span><span id="page-41-0"></span>![](_page_41_Picture_0.jpeg)
+<span id="page-41-1"></span><span id="page-41-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_41_Picture_0.jpeg)
 
 {42}------------------------------------------------
 
@@ -888,7 +888,7 @@ In fact, your species can more or less be anything, with a few limits:
 
 {44}------------------------------------------------
 
-![](_page_44_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_44_Picture_0.jpeg)
 
 Animals don't come with any special traits or abilities, beyond what makes sense in the fiction. Birds can fly. Moles can dig. Beavers can chew through wood. Foxes can scent other animals with ease. And on and on.
 
@@ -1086,7 +1086,7 @@ $$-3 \bigcirc \bigcirc \bigcirc -2 \bigcirc \bigcirc \bigcirc \bigcirc \bigcirc 
 
 {54}------------------------------------------------
 
-![](_page_54_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_54_Picture_0.jpeg)
 
 During character creation, you'll only change your reputation through background questions and some connections—but it's not impossible to start with a +1 or a -1.
 
@@ -1152,7 +1152,7 @@ Most playbooks have your roguish feats pre-selected, so you don't have a choice 
 
 {57}------------------------------------------------
 
-![](_page_57_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_57_Picture_0.jpeg)
 
 # Weapon Skills
 
@@ -1278,7 +1278,7 @@ Once you've established your band's exploits, you're ready to play! The whole of
 
 {63}------------------------------------------------
 
-<span id="page-63-0"></span>![](_page_63_Picture_0.jpeg)
+<span id="page-63-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_63_Picture_0.jpeg)
 
 {64}------------------------------------------------
 
@@ -1541,7 +1541,7 @@ Finally, persuading an NPC is an honest move. You ultimately might not follow th
 
 *"The captain is looking at the pouch of gold with greed in his eyes. 'How about you give me the gold up front, and then I'll go,' he says. You're going to have to give him the gold, but then he'll head out." Marissa groans, but agrees, and marks the gold off her character sheet.*
 
-![](_page_76_Picture_12.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_76_Picture_12.jpeg)
 
 {77}------------------------------------------------
 
@@ -1637,7 +1637,7 @@ On a 7–9, however, they might not do what you want. The NPC (meaning, the GM o
 
 {81}------------------------------------------------
 
-![](_page_81_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_81_Picture_0.jpeg)
 
 # Example
 
@@ -1967,7 +1967,7 @@ On a 10+, you get to make the first choice, picking a single option that immedia
 
 {96}------------------------------------------------
 
-![](_page_96_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_96_Picture_0.jpeg)
 
 # Target Someone
 
@@ -2070,7 +2070,7 @@ A group of bandits is coming your way; you lift your bow and fire arrow after ar
 
 *Harrying a group* uses up your arrows and puts fatigue on your bow, so you have to mark wear to use it. It also only works at far range, when you can fire from enough distance that you can put many arrows into the air safely before anyone can react and reach you.
 
-![](_page_100_Picture_11.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_100_Picture_11.jpeg)
 
 {101}------------------------------------------------
 
@@ -2179,7 +2179,7 @@ Weapons tagged with *quick shot* are generally smaller or more compact, more eas
 
 {105}------------------------------------------------
 
-![](_page_105_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_105_Picture_0.jpeg)
 
 **"You keep your target at bay—they don't move"** means that your enemy can't change their position or take cover. If you do choose this, your opponent is functionally pinned. If you don't choose this, however, they won't stay still when you fire an arrow at them; regardless of whether you choose to move quickly and change your position, they will move and change theirs, up to and including changing ranges.
 
@@ -2683,7 +2683,7 @@ You can clear exhaustion by fulfilling your nature (page 49), or by getting some
 
 {129}------------------------------------------------
 
-![](_page_129_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_129_Picture_0.jpeg)
 
 You can clear injury by receiving medical attention—someone tending to your wounds, splinting broken bones and applying poultices to bruised limbs. Most often it requires a real healer and not just a fellow vagabond.
 
@@ -2723,7 +2723,7 @@ This end of session move lets players keep their characters updated throughout p
 
 {132}------------------------------------------------
 
-![](_page_132_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_132_Picture_0.jpeg)
 
 hen you make a player character for Root: The RPG, you start by choosing a playbook. Each playbook is a kind of character, a set of options for how you interact with and see the
 
@@ -2751,7 +2751,7 @@ The list of playbooks included in this chapter is:
 
 {133}------------------------------------------------
 
-<span id="page-133-0"></span>![](_page_133_Picture_0.jpeg)
+<span id="page-133-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_133_Picture_0.jpeg)
 
 # The Adventurer
 
@@ -3349,7 +3349,7 @@ For *The Rules of War*, your foe must be "reasonable"—if they are raging, or i
 
 {153}------------------------------------------------
 
-<span id="page-153-0"></span>![](_page_153_Picture_0.jpeg)
+<span id="page-153-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_153_Picture_0.jpeg)
 
 # The Scoundrel
 
@@ -3469,7 +3469,7 @@ For *Danger Mask*, the mask doesn't create a totally separate identity. You'd ha
 
 {157}------------------------------------------------
 
-<span id="page-157-0"></span>![](_page_157_Picture_0.jpeg)
+<span id="page-157-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_157_Picture_0.jpeg)
 
 # The Thief
 
@@ -3950,7 +3950,7 @@ Your Reputation is the number, not simply notoriety boxes. The actual value of y
 
 {173}------------------------------------------------
 
-![](_page_173_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_173_Picture_0.jpeg)
 
 #### Loyalty
 
@@ -4427,7 +4427,7 @@ Here is a set of pre-made equipment, common enough throughout the Woodland. Use 
 
 {193}------------------------------------------------
 
-<span id="page-193-0"></span>![](_page_193_Picture_0.jpeg)
+<span id="page-193-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Core-Book/_page_193_Picture_0.jpeg)
 
 {194}------------------------------------------------
 

@@ -9,6 +9,7 @@ KEEPERS IN IRON
 Drive: to unearth and understand the forbidden history of the Woodland
 *A wiry, older badger whose fur is permanently stained with soot and ancient dust. He wears a heavy leather apron over chainmail, his spectacles constantly slipping down his snout. His movements are sharp and jerky, like a startled bird, always examining his surroundings.*
 
+--- 
 **Equipment**
 - A crumbling, leather-bound journal filled with forbidden translations (personally significant)
 - Heavy iron pickaxe (Close, 1-injury, 1-wear, piercing)

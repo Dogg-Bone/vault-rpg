@@ -2,11 +2,11 @@
 
 {0}------------------------------------------------
 
-![](_page_0_Figure_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_0_Figure_0.jpeg)
 
 {1}------------------------------------------------
 
-<span id="page-1-0"></span>![](_page_1_Picture_0.jpeg)
+<span id="page-1-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_1_Picture_0.jpeg)
 
 # Ruins & Expeditions
 
@@ -34,7 +34,7 @@ Root Board Game Graphic Design & Layout: Cole Wehrle, Kyle Ferrin, Nick Brachman
 
 Root Board Game Concept: Patrick Leder
 
-![](_page_1_Picture_14.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_1_Picture_14.jpeg)
 
 ![](_page_1_Picture_15.jpeg)
 
@@ -120,7 +120,7 @@ Special thanks to Meguey and Vincent Baker for creating Apocalypse World, the Le
 
 {3}------------------------------------------------
 
-<span id="page-3-0"></span>![](_page_3_Picture_0.jpeg)
+<span id="page-3-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_3_Picture_0.jpeg)
 
 # Greetings, brave explorer!
 
@@ -147,11 +147,11 @@ Finally, you can find the playbooks and other Root: The RPG materials for print 
 
 {5}------------------------------------------------
 
-<span id="page-5-0"></span>![](_page_5_Picture_0.jpeg)
+<span id="page-5-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_5_Picture_0.jpeg)
 
 {6}------------------------------------------------
 
-<span id="page-6-0"></span>![](_page_6_Picture_0.jpeg)
+<span id="page-6-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_6_Picture_0.jpeg)
 
 5.22
 
@@ -261,7 +261,7 @@ The Keepers own leadership caste doesn't agree on which reasons are dominant. So
 
 For at least some of the Keepers, however, the answer to the questions raised by their dedication to the War is simple: no one else can be trusted to lead the Woodland. The Explusion's scars—the years wandering outside the Woodland—linger and fester, pushing the Keepers to see themselves as the only true protectors of the Woodland's future. If they are not willing to step up and guide the Woodland to some sort of peace, who will?
 
-![](_page_13_Picture_3.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_13_Picture_3.jpeg)
 
 {14}------------------------------------------------
 
@@ -459,7 +459,7 @@ On a hit, the faction scores a victory; choose one minor boon. On a 10+, choose 
 
 {19}------------------------------------------------
 
-![](_page_19_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_19_Picture_0.jpeg)
 
 #### **MAJOR BOONS**
 
@@ -650,11 +650,11 @@ Every time a new relic is delivered to a faction or a new ruin is discovered, ro
 
 {29}------------------------------------------------
 
-<span id="page-29-1"></span><span id="page-29-0"></span>![](_page_29_Picture_0.jpeg)
+<span id="page-29-1"></span><span id="page-29-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_29_Picture_0.jpeg)
 
 {30}------------------------------------------------
 
-<span id="page-30-0"></span>![](_page_30_Picture_0.jpeg)
+<span id="page-30-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_30_Picture_0.jpeg)
 
 oth Root: The RPG and Travelers & Outsiders offer more than a dozen different roguish feats and Reputation moves, new weapon skills and species abilities, and much, much more.
 
@@ -917,7 +917,7 @@ You and another vagabond came from the same clearing, one that has since faded i
 
 {44}------------------------------------------------
 
-![](_page_44_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_44_Picture_0.jpeg)
 
 #### Veteran
 
@@ -1150,13 +1150,13 @@ Mark exhaustion to activate an ability:
 
 {51}------------------------------------------------
 
-<span id="page-51-0"></span>![](_page_51_Picture_0.jpeg)
+<span id="page-51-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_51_Picture_0.jpeg)
 
 New Equipment
 
 {52}------------------------------------------------
 
-![](_page_52_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_52_Picture_0.jpeg)
 
 n addition to the new natures, drives, and connections found in Chapter 2 (page 29), this chapter details new rules for additional equipment for Root: The RPG, including new
 
@@ -1237,7 +1237,7 @@ These tags, like the others listed on page 188 of the Root: The RPG core book, c
 
 {57}------------------------------------------------
 
-![](_page_57_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_57_Picture_0.jpeg)
 
 - **Eerie:** When you *persuade* someone while displaying this item and roll 7-9 or a miss, mark notoriety in addition to any other consequences of your roll. (Anything strange and unusual)
 - **Flamboyant:** When you *attempt a roguish feat to sneak or hide*, you incur an additional risk, even when using Mastery options. (Anything)
@@ -1458,7 +1458,7 @@ You can mark exhaustion to ask a followup question; they must answer it honestly
 
 {65}------------------------------------------------
 
-<span id="page-65-0"></span>![](_page_65_Picture_0.jpeg)
+<span id="page-65-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_65_Picture_0.jpeg)
 
 {66}------------------------------------------------
 
@@ -1485,7 +1485,7 @@ While any of these new playbooks can be included in a game of **Root: Gbe RPG**,
 
 {67}------------------------------------------------
 
-<span id="page-67-0"></span>![](_page_67_Picture_0.jpeg)
+<span id="page-67-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_67_Picture_0.jpeg)
 
 # The Dealer
 
@@ -1511,7 +1511,7 @@ While any of these new playbooks can be included in a game of **Root: Gbe RPG**,
 
 ![](_page_67_Picture_13.jpeg)
 
-![](_page_67_Picture_14.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_67_Picture_14.jpeg)
 
 ![](_page_67_Picture_15.jpeg)
 
@@ -1943,7 +1943,7 @@ For *A Hunter's Look*, you use the value of +1 instead of your Reputation when y
 
 {81}------------------------------------------------
 
-<span id="page-81-0"></span>![](_page_81_Picture_0.jpeg)
+<span id="page-81-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_81_Picture_0.jpeg)
 
 # The Nomad
 
@@ -2425,7 +2425,7 @@ without any real pressure on them might be able to comfortably climb the side of
 
 {96}------------------------------------------------
 
-![](_page_96_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_96_Picture_0.jpeg)
 
 # The Scourge
 
@@ -2443,7 +2443,7 @@ If the Scourge seems to be on track to defeat their nemesis "early," however, th
 
 {97}------------------------------------------------
 
-<span id="page-97-0"></span>![](_page_97_Picture_0.jpeg)
+<span id="page-97-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_97_Picture_0.jpeg)
 
 {98}------------------------------------------------
 
@@ -3045,7 +3045,7 @@ Regardless, the Cornucopian Cauldron is hearty enough to be used as a makeshift 
 
 {121}------------------------------------------------
 
-<span id="page-121-0"></span>![](_page_121_Picture_0.jpeg)
+<span id="page-121-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_121_Picture_0.jpeg)
 
 <span id="page-121-1"></span>the Woodland
 
@@ -3227,7 +3227,7 @@ A giant snake's primary drive is to consume, with survival coming in at a close 
 
 {132}------------------------------------------------
 
-![](_page_132_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_132_Picture_0.jpeg)
 
 **Description:** Few arthropods are as well-armed and well-armored as the Giant Scorpion. Sporting two massive, crab-like pincers and a long, sickleshaped tail, these aggressive predators pose a triple-threat to anything they deem to be aggressive toward them. And of course, one mustn't forget the venom sac attached to their stinger.
 
@@ -3279,7 +3279,7 @@ Should the giant scorpion incapacitate something it deems edible, it will try to
 
 {134}------------------------------------------------
 
-![](_page_134_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_134_Picture_0.jpeg)
 
 **Description:** What is the difference between a giant bee and a giant hornet? For most denizens of the Woodland, the answer is rather simple: a giant bee can sting you… but a giant hornet will sting you. Indeed, these aggressive carnivorous hunters often make meals out of their more docile insect cousins. Giant hornets are fiercely territorial, defending their hives, their hunting ground, and themselves with deadly force. They tend to prefer to attack in large numbers, often summoning more hornets by releasing powerful attack pheromones to draw others into the fray.
 
@@ -3545,7 +3545,7 @@ He picks **Protective** as the crab's instinct—they just want to hold on to th
 
 {147}------------------------------------------------
 
-<span id="page-147-0"></span>![](_page_147_Picture_0.jpeg)
+<span id="page-147-0"></span>![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_147_Picture_0.jpeg)
 
 # Clearings of the Woodlands
 
@@ -3866,7 +3866,7 @@ Note: These stats represent a squad of the Claws of the Dragon, the most common 
 
 {159}------------------------------------------------
 
-![](_page_159_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_159_Picture_0.jpeg)
 
 # CONTRACTOR EXHAUSTION CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACTOR INJURY CONTRACT
 
@@ -4364,7 +4364,7 @@ On a hit, you pick your way through the grass to any clearing on the other side.
 
 {177}------------------------------------------------
 
-![](_page_177_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_177_Picture_0.jpeg)
 
 #### <span id="page-177-0"></span>Luring Rhonda
 
@@ -4757,7 +4757,7 @@ Don't be afraid to make the giant trout a real and present danger and then relat
 
 {193}------------------------------------------------
 
-![](_page_193_Picture_0.jpeg)
+![](Rules/PDF%20Archive/Markdown%20Versions/Root-Ruins-and-Expeditions/_page_193_Picture_0.jpeg)
 
 #### The darkest depths of the ruins await!
 
