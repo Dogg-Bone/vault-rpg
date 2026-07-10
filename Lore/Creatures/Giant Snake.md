@@ -29,3 +29,4 @@ A giant snake's primary drive is to consume, with survival coming in at a close 
 - Sacrifice a position in favor of a swift and powerful strike
 - Slip into a hard-to-reach place to avoid damage
 - Immediately strike and then change range before anyone can react
+![[Giant Snake-1783666639420.webp]]

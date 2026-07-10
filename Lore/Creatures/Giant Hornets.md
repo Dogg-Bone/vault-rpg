@@ -48,3 +48,4 @@ It is also possible that the band is tasked by a faction like the [[Riverfolk Co
 - Bite through a branch, restraint, or piece of gear
 - Work in concert to overwhelm an attacker in a swarm of chitin and stingers
 - Summon nearby giant hornets to the area
+![[Giant Hornets-1783666913135.webp]]

@@ -30,3 +30,4 @@ The vagabonds might run into carnivorous plants as they explore the forests, but
 - Ensnare a creature with vines and drag it closer
 - Trip up a creature with roiling roots
 - Swallow a creature whole into the plant’s pitcher
+![[Giant Carnivorous Plant-1783667312956.webp]]

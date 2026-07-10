@@ -30,3 +30,4 @@ When portraying the giant hercules beetle, represent their strength as a force i
 - Smash into an attacker or barricade, knocking it down
 - Pick up and fling an attacker using its two large horns
 - Scurry across uneven or even vertical terrain
+![[Giant Hercules Beetle-1783667131876.webp]]

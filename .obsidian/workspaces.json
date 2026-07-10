@@ -734,7 +734,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "jules/Cinematic Scene Ideas.md",
+                    "file": "Workshop/jules/Faction Turn.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
@@ -854,5 +854,5 @@
       "mtime": "2026-07-09T20:00:26-06:00"
     }
   },
-  "active": "Running the Game"
+  "active": "Welcome"
 }

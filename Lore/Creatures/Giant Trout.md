@@ -34,3 +34,4 @@ When the vagabonds finally face the giant trout, be sure to play up the epic nat
 - Strike out above the waves with a quick attack at intimate range
 - Dive beneath the waves, avoiding harm
 - Flail about to free itself from restraints
+![[Giant Trout-1783666292490.webp]]

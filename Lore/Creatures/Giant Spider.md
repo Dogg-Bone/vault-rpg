@@ -35,3 +35,4 @@ As you're considering how to best incorporate giant spiders into your campaign, 
 - Spit venom up to far range
 - Skitter into a strange hiding place
 - Change their position to a wall or ceiling
+![[Giant Spider-1783666533464.webp]]

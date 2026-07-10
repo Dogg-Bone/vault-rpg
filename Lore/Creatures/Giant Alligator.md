@@ -34,3 +34,4 @@ It's easy to introduce the alligator as a threat—the vagabonds might come acro
 - Dive beneath the water, avoiding all attacks
 - Trample over attackers on land
 - Thrash about tearing apart attackers and breaking restraints
+![[Giant Alligator-1783667245482.webp]]

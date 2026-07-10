@@ -49,3 +49,4 @@ It is possible for the vagabonds to happen upon a group of these pollinators as 
 - Shake violently, releasing a cloud of pollen
 - Work in concert to bury an attacker in a swarm of bodies
 - Summon nearby giant bees to the area
+![[Giant Honeybees-1783667039187.webp]]

@@ -51,3 +51,4 @@ When the vagabonds confront a swarm of giant ants, be sure to narrate when the p
 - Clamp down on a limb or weapon
 - Scurry across rough or even vertical terrain
 - Summon giant fire ants to the area
+![[Giant Fire Ants-1783666415972.webp]]

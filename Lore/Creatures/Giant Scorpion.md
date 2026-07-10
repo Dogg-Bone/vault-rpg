@@ -31,3 +31,4 @@ Should the giant scorpion incapacitate something it deems edible, it will try to
 - Scale a vertical surface to gain an advantage
 - Throw up sand or dirt to blind enemies
 - Rush forward into a target, knocking them prone
+![[Giant Scorpion-1783666713187.webp]]
