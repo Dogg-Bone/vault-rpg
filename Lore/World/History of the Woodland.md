@@ -11,7 +11,7 @@ This “new” Woodland—not exactly unified, but connected to itself; not tame
 
 The forests between the clearings and the paths are still utterly untamed, great hiding places for bandits and criminals, home to dangerous or unknowable creatures like bears or deer. The paths themselves are far from safe—plenty of dangerous denizens like to stage ambushes along the path, and all it takes is one bad storm to inadvertently send a flood crashing across the path at the wrong moment—a denizen’s entire life can be washed away. The Woodland is still a place of hardship and difficulty…but the denizens who call it home wouldn’t leave it for the world.
 
-### Control of [[the Woodland]]
+### Control of [[The Woodland]]
 Dangerous as it can be in places, the Woodland has always been filled with denizens to control and resources to take. Once the paths and clearings were formed, it was only a matter of time before greater powers in the world took an interest in the Woodland…or before denizens of the Woodland itself chose to seize control of whatever they could in the world around them. 
 
 The most successful and notable power to control the Woodland within the past couple centuries was the so-called Eyrie Dynasties. A collective of birds, ruled by birds, raising birds up above the other denizens. The birds already flew above the other denizens—why shouldn’t they rule? 
@@ -67,7 +67,7 @@ Soon enough, Marquisate control over the Woodland began to solidify. Their thin 
 
 But the Marquisate wouldn’t be without challenge for long.
 
-### The War for [[the Woodland]]
+### The War for [[The Woodland]]
 While the Marquise de Cat was eyeing the Woodland, the Eyrie Dynasties, shredded and tattered though they were, had fled to the edges of the Woodland and beyond. In those spaces at the edges of the clearings, they reestablished themselves under new leadership. They appealed to loyalists in exile. They grew in power and strength, waiting for the moment to return to the Woodland, triumphant and powerful. They were preparing to attack… 
 
 Then the Marquisate invaded the Woodland, before the Eyrie had brought itself to action. The Woodland was no longer simply “awaiting their return”; now it was occupied by a powerful enemy. 
