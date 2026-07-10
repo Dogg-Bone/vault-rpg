@@ -450,7 +450,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "jules/Cinematic Scene Ideas.md",
+                    "file": "Lore/Factions/Eyrie Dynasties/Eyrie Dynasties.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
@@ -477,7 +477,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "jules/Cinematic Scene Ideas.md",
+                    "file": "Rules/Moves/Ruin Moves/Threats of the Ruins.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -496,7 +496,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "jules/Jyn Erso Rescue.md",
+                    "file": "Rules/Moves/Ruin Moves/Threats of the Ruins.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
