@@ -1,0 +1,3 @@
+**You're loyal to someone; name them. Advance when you obey their order at a great cost to yourself.**
+
+You can name any character, including an NPC you make up from scratch or another PC if you so choose. If you name an NPC, make sure you consider how you get orders from them—if they stay put and you travel, then you can still receive orders from them through missives. "At a great cost to yourself" means that you undertake great risk or suffer great consequence in carrying out their orders. If you carry out their orders while suffering nothing, risking nothing, and paying no cost, then you haven't satisfied the drive.
