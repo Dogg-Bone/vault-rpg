@@ -1,9 +1,9 @@
 > [!tip] Scavenge for Resources
 > When your band scavenges for resources in the deep ruins, one member of the band rolls a number of dice equal to the level you are on currently, plus however many safe chambers are adjacent to the band's location. Individual vagabonds in the band can spend these dice by their value to:
 >
-> - · 1-2: recover 1-depletion
-> - · 3-4: recover 1-depletion and 1-wear
-> - · 5-6: clear 2-depletion or discover an item worth 3-value
+> - 1-2: recover 1-depletion
+> - 3-4: recover 1-depletion and 1-wear
+> - 5-6: clear 2-depletion or discover an item worth 3-value
 >
 > The band can only make this move once per level of the ruins; you must descend to a new level in order to scavenge again.
 

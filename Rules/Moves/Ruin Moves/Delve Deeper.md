@@ -1,9 +1,9 @@
 > [!tip] Delve Deeper
 > When you delve deeper into a ruin toward a new level through an open pathway, one member of the band rolls for the group:
 >
-> - · if every member of the band is free of injury, take +1.
-> - · if the band collectively marks 2-depletion and 2-wear, take +1.
-> - · if the band is dealing with an active threat or crisis, take -2.
+> - if every member of the band is free of injury, take +1.
+> - if the band collectively marks 2-depletion and 2-wear, take +1.
+> - if the band is dealing with an active threat or crisis, take -2.
 >
 > On a hit, your band moves to the next level of the deep ruins. On a 10+, your descent is auspicious; you find some natural resources or a secure place to camp, your choice. On a miss, you descend…but a serious threat of the ruins comes to bear, trapping you on the lower level until you deal with it or find another route.
 

@@ -1,15 +1,15 @@
 > [!tip] Make Camp in the Ruins
 > When your band makes camp in the deep ruins, each member of the band marks any amount of depletion, and one member of the band rolls with the total (max +4, including the bonuses below).
 >
-> - · if there's a useful resource nearby (water, food, etc), take +1.
-> - · if there's shelter or security (caves, stone doors, etc.), take +1.
-> - · if a member of the band forgoes any benefits to stand watch, take +1.
+> - if there's a useful resource nearby (water, food, etc), take +1.
+> - if there's shelter or security (caves, stone doors, etc.), take +1.
+> - if a member of the band forgoes any benefits to stand watch, take +1.
 >
 > On a hit, the band gets some rest; each member clears an exhaustion. On a 7-9, each member also picks 1. On a 10+, they instead pick 2:
 >
-> - · you get some sleep; clear an additional exhaustion.
-> - · you have time for makeshift repairs; clear 1-wear.
-> - · you map the area; take an extra die when *scavenging* this level.
+> - you get some sleep; clear an additional exhaustion.
+> - you have time for makeshift repairs; clear 1-wear.
+> - you map the area; take an extra die when *scavenging* this level.
 >
 > On a miss, the supplies you spent are wasted as a threat of the ruin suddenly comes to bear; tell the GM the watch order, and they will tell you who first spots the danger now upon you.
 
