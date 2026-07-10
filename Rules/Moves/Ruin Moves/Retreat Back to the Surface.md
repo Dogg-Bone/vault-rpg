@@ -6,7 +6,7 @@
 > - · if the band is retreating in the face of an active threat, take -1.
 > - · if any member of the band is burdened, take -2
 >
-> On a 10+, you scramble back to the surface, emerging to relative safety wherever you first entered the ruins. On a 7-9, one threat of the ruins blocks your escape; you must deal with it before you can claw your way out. On a miss, you find yourself trapped between an obstacle that blocks your path forward and a threat that won't stop advancing.
+> On a 10+, you scramble back to the surface, emerging to relative safety wherever you first entered the ruins. On a 7-9, one [[Threats of the Ruins|threat of the ruins]] blocks your escape; you must deal with it before you can claw your way out. On a miss, you find yourself trapped between an obstacle that blocks your path forward and a threat that won't stop advancing.
 
 Gold and relics secured, your band starts the long journey back to Pricklegrass Marsh from the depths of the ruins. You're *retreating back to the surface*!
 
@@ -18,6 +18,6 @@ Eventually, your band will need to return to the surface, bringing back whatever
 
 **"A member of the band is burdened"** when they are carrying more Load than their maximum (4+Might). If any member of the band is burdened, then they are slowing down the rest of the group as they climb back to the surface.
 
-On a strong hit, your band emerges from the ruins without paying any further costs; on a weak hit, you'll have to first deal with one threat of the ruins before you can escape completely. The GM will tell you what danger you face, but it probably looks like a monster or other shift in the ruin that blocks your way!
+On a strong hit, your band emerges from the ruins without paying any further costs; on a weak hit, you'll have to first deal with one [[Threats of the Ruins|threat of the ruins]] before you can escape completely. The GM will tell you what danger you face, but it probably looks like a monster or other shift in the ruin that blocks your way!
 
 On a miss, you get caught between two threats—an obstacle in front of you and something coming up behind you. These problems might both be monsters, but they could also be a fire or cave-in pushing you to keep moving or keeping you from escaping quickly. Once you've overcome the obstacle, you're free to leave…but you might also need to *return from a forest ruin* before you make it back to a clearing.

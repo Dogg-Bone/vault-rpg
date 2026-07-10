@@ -6,7 +6,7 @@
 > - if any vagabond has more than 1-injury marked, take -1
 > - if the band doesn't have a local guide, take -1
 >
-> On a hit, you find the site you seek, safely arriving at the gates of the ruins! On a 10+, you discover a safe and inviting area nearby; everyone can clear an exhaustion if you make camp before delving deeper. On a 7-9, you instead spot a threat of the ruins blocking your path forward; you'll have to find a way past or through it to enter the ruins themselves. On a miss, the ruins find you; a threat of the ruins drags you deeper in before you have time to prepare for your delve.
+> On a hit, you find the site you seek, safely arriving at the gates of the ruins! On a 10+, you discover a safe and inviting area nearby; everyone can clear an exhaustion if you make camp before delving deeper. On a 7-9, you instead spot a [[Threats of the Ruins|threat of the ruins]] blocking your path forward; you'll have to find a way past or through it to enter the ruins themselves. On a miss, the ruins find you; a [[Threats of the Ruins|threat of the ruins]] drags you deeper in before you have time to prepare for your delve.
 
 You and your band leave Ricklebell Falls, following a map you hope will lead you to an unexplored ruin in the forest. You're *searching for ruins*!
 

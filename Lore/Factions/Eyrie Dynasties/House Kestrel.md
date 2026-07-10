@@ -22,7 +22,7 @@ Rhys is a wiry, high-energy kestrel with a tattered cloak and a habit of pacing 
 House Kestrel was historically treated as second-class citizens within the Dynasties, relegated to border patrols and skirmishing duties. During the collapse, their sheer numbers allowed them to survive while smaller, elite Houses were decimated. In the modern era of the Eyrie's resurgence, their numbers make them indispensable. They have recently begun demanding a louder voice in the viziers' council, causing friction with the traditionalist Houses who view them as upstarts.
 
 ## Notable Facts, Connections, and Resources
-- **The Swarm:** In battle, House Kestrel relies on speed and overwhelming numbers, performing hit-and-run tactics that frustrate the slower, heavily armored Marquisate forces.
+- **The Swarm:** In battle, House Kestrel relies on speed and overwhelming numbers, performing hit-and-run tactics that frustrate the slower, heavily armored [[Marquise de Cat|Marquisate]] forces.
 - **Populist Appeal:** Because they live closer to the ground and interact more with the common denizens of the Woodland, House Kestrel often has better relations with non-bird locals than the rest of the Eyrie.
 - **Agility:** They are unmatched aerial acrobats, capable of navigating dense canopy that would ground larger birds like Owls or Condors.
 - **Rivalry:** They deeply resent House Condor's despotic rule and House Strix's rigid, unyielding military hierarchy, preferring a more egalitarian, tribal structure.

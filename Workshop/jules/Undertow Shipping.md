@@ -33,7 +33,7 @@ Undertow Shipping operates with the subtlety of a falling tree. They believe tha
 - **Resource Squeezing:** If a clearing relies heavily on imported raw materials (like coal for forges or grain for winter), Undertow Shipping will buy up the supply upriver, artificially inflate the price, and refuse to ship it until their demands are met.
 
 ## Relations
-- **Marquise de Cat:** A tense but necessary alliance. The Marquise needs Undertow Shipping to move the massive amounts of lumber and ore they produce. The Undertow knows this and charges premium rates, often angering local commanders.
+- **[[Marquise de Cat]]:** A tense but necessary alliance. The Marquise needs Undertow Shipping to move the massive amounts of lumber and ore they produce. The Undertow knows this and charges premium rates, often angering local commanders.
 - **Eyrie Dynasties:** The Eyrie despises paying tolls to "commoners," but frequently hires Undertow mercenaries when their own forces are stretched thin by internal political squabbles. House Mallard, in particular, views them as a significant naval rival.
 - **Woodland Alliance:** The Alliance views Undertow Shipping as just another oppressive force. Undertow Shipping's heavy tolls often starve out poorer clearings, making them ripe grounds for Alliance sympathy. The Undertow ruthlessly crushes any Alliance sabotage attempts on their barges.
 - **The Corvid Conspiracy:** The Undertow is difficult for the Corvids to blackmail directly, as they operate in the open and rely on brute strength. However, the Corvids often incite unrest in clearings blockaded by Undertow Shipping to create chaos.

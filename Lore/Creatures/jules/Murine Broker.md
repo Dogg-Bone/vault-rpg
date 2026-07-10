@@ -22,7 +22,7 @@ Losing their network of informants. Information is their only defense.
 They are secretly playing three different factions against each other for maximum profit.
 
 ## Request for the Vagabonds
-"I need you to plant this forged letter in the desk of the local Marquise commander. It will create... a lucrative opportunity for me."
+"I need you to plant this forged letter in the desk of the local [[Marquise de Cat|Marquise]] commander. It will create... a lucrative opportunity for me."
 
 ## Opinion/Info
 "The Corvid Conspiracy is planning something big here. I've noticed a sudden spike in the price of explosives."

@@ -22,7 +22,7 @@ Vane rarely raises her voice, speaking in soft, measured tones that force others
 - **Fear:** That the Corvid Conspiracy will successfully assassinate her and absorb her intelligence network into their own.
 - **Secret:** She holds a massive, crippling gambling debt to a Magpie Syndicate Don within the Corvid Conspiracy, forcing her to occasionally alter her smuggling routes or betray clients to keep the Don pacified.
 - **Request:** She asks the Vagabonds to break into the Corvid Conspiracy's local headquarters to steal a specific, encoded cipher ring, promising them a favor that "cannot be bought with coin."
-- **Opinion/Info:** She knows for a fact that the local Marquise commander's child is being held hostage in the capital to ensure his loyalty, making him desperate and unpredictable.
+- **Opinion/Info:** She knows for a fact that the local [[Marquise de Cat|Marquise]] commander's child is being held hostage in the capital to ensure his loyalty, making him desperate and unpredictable.
 - **Current Wares:** Exotic spices, rare poisons, lockpicks, smuggled luxury goods (silks, fine wines), safe passage for wanted individuals.
 - **Can Acquire:** High-level faction intelligence, deeply hidden blackmail material, elite assassination contracts, clockwork devices.
 
@@ -33,9 +33,9 @@ Silk Tide Mercantile thrives in the shadows and the gray areas of woodland law.
 - **Information Brokering:** Every luxury good delivered is an opportunity to spy. Their operatives gather secrets and sell them to the highest bidder, often creating the very conflicts they later profit from.
 
 ## Relations
-- **Marquise de Cat:** Officially, the Marquise heavily outlaws Silk Tide Mercantile, branding them smugglers and pirates. Unofficially, many Marquise commanders rely on them to acquire luxury goods from their homeland that the official supply lines fail to provide.
+- **[[Marquise de Cat]]:** Officially, the [[Marquise de Cat|Marquise]] heavily outlaws Silk Tide Mercantile, branding them smugglers and pirates. Unofficially, many [[Marquise de Cat|Marquise]] commanders rely on them to acquire luxury goods from their homeland that the official supply lines fail to provide.
 - **Eyrie Dynasties:** The Eyrie despises them on principle, viewing them as honorless thieves. However, House Strix occasionally employs their covert operatives for wet-work they cannot be officially tied to.
-- **Woodland Alliance:** A complicated relationship. Silk Tide Mercantile frequently smuggles weapons and pamphlets for the Alliance, but only for a steep price. The Alliance knows the Company would gladly sell out their rebel cells to the Marquise if the price was right.
+- **Woodland Alliance:** A complicated relationship. Silk Tide Mercantile frequently smuggles weapons and pamphlets for the Alliance, but only for a steep price. The Alliance knows the Company would gladly sell out their rebel cells to the [[Marquise de Cat|Marquise]] if the price was right.
 - **The Corvid Conspiracy:** A dangerous rivalry. Both deal in secrets, smuggling, and leverage. They occasionally collaborate on major operations, but more often, they engage in shadow wars over control of lucrative blackmail networks in major clearings.
 
 ## Custom Move: The Whispers' Toll
@@ -48,13 +48,13 @@ When you **seek an audience with a Silk Tide operative to purchase contraband or
 | Roll | Encounter |
 | :--: | :-------- |
 | **2** | A Silk Tide skiff slips out of the fog, nearly colliding with the Vagabonds. A heavily cloaked, aristocratic Eyrie official is visible huddled in the stern, looking terrified. |
-| **3** | The Vagabonds find a dead drop hidden in a hollow reed by the riverbank. It contains a coded ledger detailing the crippling debts of several local Marquise officers. |
+| **3** | The Vagabonds find a dead drop hidden in a hollow reed by the riverbank. It contains a coded ledger detailing the crippling debts of several local [[[[Marquise de Cat]]|[[[[Marquise de Cat]]|[[[[Marquise de Cat]]|[[[[Marquise de Cat]]|[[[[Marquise de Cat]]|Marquise]]]]]]]]]] officers. |
 | **4** | A smooth-talking otter from the Company offers to sell the Vagabonds a rare, highly illegal weapon (like a clockwork repeating crossbow) at a suspiciously steep discount. |
 | **5** | The Vagabonds overhear an argument in a dark tavern: a desperate merchant is begging a Silk Tide representative for more time to pay off a debt for imported spices. |
 | **6** | Skipper Vane is holding court in a secluded, lantern-lit cavern accessible only by water. She is casually interrogating a captured Corvid Conspiracy agent. |
 | **7** | A sleek, black-painted skiff is moored off the main dock. The crew consists of hard-eyed, elite fox mercenaries who are clearly waiting for a high-profile target to arrive. |
 | **8** | The Vagabonds are approached by a Company operative who offers to buy any maps of ancient ruins or forgotten tunnels they might possess, paying in pure silver. |
 | **9** | A local official desperately tries to hire the Vagabonds to intercept a Silk Tide shipment; he claims it contains blackmail material that will ruin his family. |
-| **10** | A heavy fog rolls in, and the distinct, muffled sound of Silk Tide oars can be heard approaching. They are attempting to board a heavily guarded Marquise supply barge under the cover of the weather. |
+| **10** | A heavy fog rolls in, and the distinct, muffled sound of Silk Tide oars can be heard approaching. They are attempting to board a heavily guarded [[Marquise de Cat|[[Marquise de Cat|Marquise]]]] supply barge under the cover of the weather. |
 | **11** | An injured Silk Tide operative stumbles into the Vagabonds' camp. They offer a small fortune in gemstones if the Vagabonds will hide them from an approaching Eyrie patrol. |
 | **12** | The Vagabonds find an abandoned Silk Tide skiff adrift. Inside are exotic silks, rare poisons, and a manifest detailing a massive conspiracy involving multiple faction leaders. |

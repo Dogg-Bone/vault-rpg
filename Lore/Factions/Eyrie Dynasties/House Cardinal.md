@@ -13,7 +13,7 @@ House Cardinal is the industrious heart of the Eyrie Dynasties. Where other Hous
 ## NPC Leader: Guildmaster Lorenzo di Cardinal
 Lorenzo is an older, stout cardinal with a meticulously groomed crest and eyes that constantly assess the structural integrity of his surroundings.
 - **Location:** The grandest forge or largest construction site currently controlled by the Eyrie, usually deep within a heavily forested clearing.
-- **Fear:** That the Marquisate will strip-mine the Woodland of resources before the Eyrie can rebuild their ancient infrastructure.
+- **Fear:** That the [[Marquise de Cat|Marquisate]] will strip-mine the Woodland of resources before the Eyrie can rebuild their ancient infrastructure.
 - **Secret:** Lorenzo has been secretly trading with independent Fox smiths to acquire superior iron, technically breaking an Eyrie embargo.
 - **Request for the Vagabonds:** He needs Vagabonds to delve into the Sunken Tomb (or another dangerous ruin) to recover the schematics for an ancient, high-capacity forge-bellows. Compensation: Masterwork-quality armor or weapons crafted to the Vagabonds' specifications.
 - **Opinion/Info:** He finds Commander Dietrich of House Strix to be "an uncultured brute who treats masterwork armor like disposable tin," but acknowledges the Strix's military necessity.
@@ -25,5 +25,5 @@ Historically, House Cardinal was responsible for the construction of the Eyrie's
 - **The Premier Roost-Builders:** While any Eyrie garrison is fully capable of constructing the standard, defensible Roosts required to project power in a clearing, House Cardinal specializes in designing the truly grand, sprawling architectural marvels of the old Dynasties.
 - **Master Smiths:** Their weapons and armor are unparalleled within the Eyrie, rivaling even the finest Fox craftsmanship.
 - **Logistics Network:** They manage the vast majority of the Eyrie's supply chains, ensuring that troops have food and munitions.
-- **Rivalry:** They despise the Marquisate not just as invaders, but as careless industrialists who destroy the forest for cheap lumber rather than building in harmony with the trees.
+- **Rivalry:** They despise the [[Marquise de Cat|Marquisate]] not just as invaders, but as careless industrialists who destroy the forest for cheap lumber rather than building in harmony with the trees.
 - **Resources:** They control access to specialized building materials, rare ores, and the most skilled labor force in the Eyrie Dynasties.

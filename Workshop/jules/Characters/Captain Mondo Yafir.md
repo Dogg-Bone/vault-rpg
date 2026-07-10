@@ -39,7 +39,7 @@ Morale: [ ] [ ] [ ]
 1. He runs an absolutely, completely legal operation that is totally above board in every way (according to him, and only him).
 2. He is a charismatic survivor who will talk his way out of any situation, playing the fool when it suits him and a ruthless pirate when it doesn't.
 
-**Immediate Pressure:** A Marquise river patrol has blockaded his usual smuggling route, and his current cargo of "liberated" Eyrie weapons is becoming a massive liability.
+**Immediate Pressure:** A [[Marquise de Cat|Marquise]] river patrol has blockaded his usual smuggling route, and his current cargo of "liberated" Eyrie weapons is becoming a massive liability.
 
 **Persuasion Tactics:**
 1. Enthusiastic, overwhelming charm and blatant lies

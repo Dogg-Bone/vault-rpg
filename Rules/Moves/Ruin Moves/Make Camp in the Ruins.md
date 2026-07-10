@@ -11,7 +11,7 @@
 > - you have time for makeshift repairs; clear 1-wear.
 > - you map the area; take an extra die when *scavenging* this level.
 >
-> On a miss, the supplies you spent are wasted as a threat of the ruin suddenly comes to bear; tell the GM the watch order, and they will tell you who first spots the danger now upon you.
+> On a miss, the supplies you spent are wasted as a [[Threats of the Ruins|threat of the ruin]] suddenly comes to bear; tell the GM the watch order, and they will tell you who first spots the danger now upon you.
 
 Tired and hungry, your band of vagabonds decides you've gone far enough into the ruins for today; it's time to rest. You're *making camp in the ruins*!
 
@@ -25,4 +25,4 @@ A **"useful resource"** has to be enough for the whole group. A single mushroom 
 
 For anyone not standing watch, they clear an exhaustion and get to pick some additional benefits—one from the list on a soft hit, two from the list on a strong hit. If someone chooses to take an extra die while scavenging, then they add that die to the pool when the band next *scavenges for resources*.
 
-On a miss, a threat of the ruin interrupts your respite before anyone can get any benefits, plunging the group into danger and wasting the resources you've spent.
+On a miss, a [[Threats of the Ruins|threat of the ruin]] interrupts your respite before anyone can get any benefits, plunging the group into danger and wasting the resources you've spent.

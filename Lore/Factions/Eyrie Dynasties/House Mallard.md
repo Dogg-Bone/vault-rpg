@@ -8,14 +8,14 @@ author: jules
 **Naming Convention:** Dutch
 
 ## Overview
-House Mallard represents the steady, protective wing of the Eyrie Dynasties. They control the rivers and lakes of the Woodland, giving them unparalleled mobility to swiftly deploy garrisons where they are needed most. Unlike the martial ferocity of the Strix, the Mallards believe that true control of the Woodland is achieved through stable occupation and winning the hearts of the denizens, rather than bloody battles. They are driven by a genuine, if somewhat paternalistic, belief that only the Eyrie can provide just and compassionate rule to the non-bird factions, protecting them from the industrial exploitation of the Marquisate and the chaotic uprisings of the Woodland Alliance.
+House Mallard represents the steady, protective wing of the Eyrie Dynasties. They control the rivers and lakes of the Woodland, giving them unparalleled mobility to swiftly deploy garrisons where they are needed most. Unlike the martial ferocity of the Strix, the Mallards believe that true control of the Woodland is achieved through stable occupation and winning the hearts of the denizens, rather than bloody battles. They are driven by a genuine, if somewhat paternalistic, belief that only the Eyrie can provide just and compassionate rule to the non-bird factions, protecting them from the industrial exploitation of the [[Marquise de Cat|Marquisate]] and the chaotic uprisings of the Woodland Alliance.
 
 ## NPC Leader: Admiral Willem van Mallard
-Willem is an aging but robust mallard with kind eyes and a uniform that prioritizes practicality over ostentatious display. He views the denizens of the Woodland not as subjects to be conquered, but as dependents who have been tragically misled by the Marquisate.
+Willem is an aging but robust mallard with kind eyes and a uniform that prioritizes practicality over ostentatious display. He views the denizens of the Woodland not as subjects to be conquered, but as dependents who have been tragically misled by the [[Marquise de Cat|Marquisate]].
 - **Location:** Aboard his flagship, a heavily armored but beautifully crafted river patrol vessel, often docked in a recently secured clearing to oversee the establishment of an Eyrie garrison.
 - **Fear:** That the brutal tactics of other Eyrie Houses (like House Condor or Strix) will irrevocably alienate the Woodland's denizens, turning them permanently against the Dynasties.
-- **Secret:** Willem has been secretly diverting Eyrie supply shipments meant for Strix frontlines to feed starving mouse and rabbit villages recovering from Marquisate occupation.
-- **Request for the Vagabonds:** He needs Vagabonds to discreetly escort a group of displaced civilian refugees downriver to a safe Mallard-controlled clearing, avoiding both Marquisate patrols and aggressive Eyrie warbands. Compensation: Free passage on any Mallard vessel and a mastercrafted naval compass.
+- **Secret:** Willem has been secretly diverting Eyrie supply shipments meant for Strix frontlines to feed starving mouse and rabbit villages recovering from [[Marquise de Cat|Marquisate]] occupation.
+- **Request for the Vagabonds:** He needs Vagabonds to discreetly escort a group of displaced civilian refugees downriver to a safe Mallard-controlled clearing, avoiding both [[Marquise de Cat|Marquisate]] patrols and aggressive Eyrie warbands. Compensation: Free passage on any Mallard vessel and a mastercrafted naval compass.
 - **Opinion/Info:** He considers Commander Dietrich of House Strix to be "a butcher who forgets that we are trying to reclaim a home, not conquer a graveyard."
 
 ## Brief History

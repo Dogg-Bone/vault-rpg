@@ -1,3 +1,8 @@
+---
+aliases:
+  - Marquise
+  - Marquisate
+---
 The invaders from another empire, led by the Marquise de Cat. Industrializing, forceful, opportunistic, and pragmatic. 
 
 The Marquisate is, at heart, a foreign power come from far-off Le Monde de Cat to conquer the Woodland. But it grows more tied to the Woodland each day. It builds new structures across controlled clearings; it recruits new soldiers and agents directly from ruled denizens; and it forces the culture of the Marquisate upon the Woodland, even as the Marquisate itself changes to adapt. 

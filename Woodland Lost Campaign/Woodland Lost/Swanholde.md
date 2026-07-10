@@ -4,10 +4,10 @@ author: jules
 # Swanholde
 
 **Inhabitants:** Foxes (Dominant)
-**Control:** Marquise de Cat
+**Control:** [[Marquise de Cat]]
 
 ## Description
-Swanholde is a bustling clearing situated along a major riverway, historically known for its elegant, tiered burrows carved into the high riverbanks. The natural architecture of the foxes—curved archways, interwoven root supports, and softly glowing lantern-lit patios—stands in stark contrast to the recent, brutalist additions of the Marquise de Cat. Thick plumes of gray smoke rise from a large, newly constructed sawmill that dominates the western edge of the clearing, processing lumber from the surrounding forests. The air, once smelling of damp earth and river reeds, is now choked with the scent of sawdust, exhaust, and industry.
+Swanholde is a bustling clearing situated along a major riverway, historically known for its elegant, tiered burrows carved into the high riverbanks. The natural architecture of the foxes—curved archways, interwoven root supports, and softly glowing lantern-lit patios—stands in stark contrast to the recent, brutalist additions of the [[Marquise de Cat]]. Thick plumes of gray smoke rise from a large, newly constructed sawmill that dominates the western edge of the clearing, processing lumber from the surrounding forests. The air, once smelling of damp earth and river reeds, is now choked with the scent of sawdust, exhaust, and industry.
 
 ## Important Locations
 - **The Riverside Terraces:** The historical heart of Swanholde, a series of interconnected, multi-level fox dens built directly into the steep banks of the river.
@@ -36,7 +36,7 @@ A charismatic and sharp-tongued merchant who runs a modest trading post in the T
 *Rumor to share:* He can tell the Vagabonds that 'Smiles' the Otter isn't a tough guy—those muscle-bound bodyguards are just desperate debtors whose families are being threatened with ruin.
 
 ### Captain Aridara (Cat)
-The Marquise de Cat commander in charge of Swanholde. Aridara is a scarred, no-nonsense veteran of the initial invasion. She wears polished half-plate armor and carries a heavy, custom-forged halberd. She views the foxes not with malice, but with cold, calculating utility. Her mandate is to keep the lumber flowing to the capital, and she will crush any dissent with overwhelming, disciplined force. She is currently frustrated by the disruption caused by the Sibilant Snake.
+The [[Marquise de Cat]] commander in charge of Swanholde. Aridara is a scarred, no-nonsense veteran of the initial invasion. She wears polished half-plate armor and carries a heavy, custom-forged halberd. She views the foxes not with malice, but with cold, calculating utility. Her mandate is to keep the lumber flowing to the capital, and she will crush any dissent with overwhelming, disciplined force. She is currently frustrated by the disruption caused by the Sibilant Snake.
 *Location: Barking orders from the elevated foreman's office overlooking the cutting floor of The Ironwood Mill.*
 *Drive: To meet her quotas and maintain absolute order in the clearing.*
 *Fear: Failing the Marquise higher-ups and being demoted or reassigned to a meaningless outpost.*

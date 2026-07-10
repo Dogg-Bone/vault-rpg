@@ -3,7 +3,7 @@ author: jules
 layout: Root NPC Layout
 ---
 #npc
-MARQUISE DE CAT
+[[MARQUISE DE CAT]]
 **Deputy Kara Dun**
 *Clearing Deputy*
 Drive: To execute the orders of her superiors with absolute, unflinching loyalty.

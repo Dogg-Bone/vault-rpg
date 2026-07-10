@@ -1,9 +1,9 @@
 #npc
-MARQUISE DE CAT
+[[MARQUISE DE CAT]]
 **Marechal Kyne**
-*Marquise Marshal (Leader of all Marquise armies)*
-Drive: To enforce the absolute will of the Marquise through disciplined military might.
-*A fearsome, scarred cat wearing heavily modified Marquise plate armor. Both of his legs have been replaced with heavy, clanking clockwork prosthetics that hiss with steam.*
+*[[Marquise de Cat|Marquise]] Marshal (Leader of all [[Marquise de Cat|Marquise]] armies)*
+Drive: To enforce the absolute will of the [[Marquise de Cat|Marquise]] through disciplined military might.
+*A fearsome, scarred cat wearing heavily modified [[Marquise de Cat|Marquise]] plate armor. Both of his legs have been replaced with heavy, clanking clockwork prosthetics that hiss with steam.*
 
 **Equipment**
 - Flamberge (Close, 2-injury, 1-exhaustion, +heavy, +valuable)
@@ -16,7 +16,7 @@ Exhaustion: [ ] [ ] [ ] [ ]
 Wear: [ ] [ ] [ ] [ ] [ ]
 Morale: [ ] [ ] [ ] [ ] [ ]
 
-**Found at:** The heavily fortified command tent or war room of a major Marquise encampment.
+**Found at:** The heavily fortified command tent or war room of a major [[Marquise de Cat|Marquise]] encampment.
 
 **Found doing:** Reviewing tactical maps, berating an underperforming officer, or maintaining the intricate gears of his prosthetic legs.
 

@@ -7,7 +7,7 @@ author: jules
 If the Rook Family is the invisible hand guiding the Woodland's politics, the Magpie Syndicate is the heavy boot resting on its economy. Bold, aggressively wealthy, and fiercely territorial, this crime family operates like a sprawling, deeply entrenched mob. Primarily composed of Magpies—known for their striking black-and-white plumage and keen eye for valuables—the Syndicate is obsessed with the accumulation of wealth. They recruit heavily from the local denizens, offering protection, loans, and lucrative, if illegal, employment to those willing to look the other way.
 
 ## History
-The Magpie Syndicate began as a loose coalition of smugglers and highwaymen who realized that organized crime was far more profitable than chaotic banditry. During the early days of the Marquise de Cat's industrial expansion, the Magpies saw an opportunity. They didn't fight the Marquise; they bled them. By infiltrating supply lines, opening illicit gambling dens for overworked soldiers, and offering "protection" to local merchants, the Syndicate built an empire on the back of the Woodland's industrialization.
+The Magpie Syndicate began as a loose coalition of smugglers and highwaymen who realized that organized crime was far more profitable than chaotic banditry. During the early days of the [[Marquise de Cat]]'s industrial expansion, the Magpies saw an opportunity. They didn't fight the Marquise; they bled them. By infiltrating supply lines, opening illicit gambling dens for overworked soldiers, and offering "protection" to local merchants, the Syndicate built an empire on the back of the Woodland's industrialization.
 
 ## Current Operations
 The Magpie Syndicate controls the street-level illicit economy, focusing on the laypeople and the flow of goods:

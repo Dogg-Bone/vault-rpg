@@ -72,7 +72,7 @@ An exhausted, middle-aged Eyrie bureaucrat tasked with managing the failing logi
 *Location: Slumped over a massive desk overflowing with requisition forms in the lower administrative levels of The Stone Roost.*
 *Drive: To survive his posting in Drytown without being executed for treason or dying of a stress-induced heart attack.*
 *Fear: That Commander Vance will discover his illicit connections with the Corvid Conspiracy and hang him from the Roost's highest balcony.*
-*Secret: He is firmly in the pocket of Madam Whisper. Years ago, to cover a massive gambling debt, he sold the exact patrol routes of an elite Eyrie strike force to the Marquise de Cat, leading to a slaughter. Madam Whisper possesses the letters proving his treason and uses them to force him to create blind spots for her operatives.*
+*Secret: He is firmly in the pocket of Madam Whisper. Years ago, to cover a massive gambling debt, he sold the exact patrol routes of an elite Eyrie strike force to the [[Marquise de Cat]], leading to a slaughter. Madam Whisper possesses the letters proving his treason and uses them to force him to create blind spots for her operatives.*
 *Request:* He desperately begs the Vagabonds to quietly eliminate a suspicious Eyrie auditor who was recently sent from the capital and is getting far too close to discovering his falsified patrol logs. He can offer official Eyrie travel documents and a stash of embezzled coin.
 *Rumor to share:* He nervously mutters that Barnaby Thistle in the Grand Market is far more dangerous than he looks, implying that the 'antiquities dealer' is actually a highly trained assassin waiting for an order.
 

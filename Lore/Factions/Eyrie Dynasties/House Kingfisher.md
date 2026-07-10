@@ -14,7 +14,7 @@ House Kingfisher is the gilded beak of the Eyrie Dynasties. While other Houses c
 Arthur is a sharply dressed kingfisher who speaks with measured, polite tones. He is rarely seen without an intricate abacus and a ledger detailing the debts of half the Woodland.
 - **Location:** The largest, most bustling market square in an established, Eyrie-controlled clearing, usually seated inside a heavily guarded, velvet-lined pavilion.
 - **Fear:** That the Riverfolk Company will establish a universally accepted fiat currency, rendering the Eyrie's physical gold reserves obsolete and destroying Kingfisher economic leverage.
-- **Secret:** Arthur has been quietly purchasing the debts of several prominent Marquisate officers, holding massive financial leverage over the enemy's logistics commanders.
+- **Secret:** Arthur has been quietly purchasing the debts of several prominent [[Marquise de Cat|Marquisate]] officers, holding massive financial leverage over the enemy's logistics commanders.
 - **Request for the Vagabonds:** He needs Vagabonds to discreetly sabotage a highly anticipated, independent Fox artisan fair that threatens to draw business away from a Kingfisher-run market. Compensation: Forgiven debt (if the Vagabonds have any) or a substantial letter of credit valid at any Kingfisher trading post.
 - **Opinion/Info:** He views House Condor's habit of destroying infrastructure as "appalling economic vandalism that sets the Dynasties back a decade with every building they burn."
 

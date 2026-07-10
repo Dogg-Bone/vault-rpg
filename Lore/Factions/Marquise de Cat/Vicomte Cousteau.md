@@ -1,5 +1,5 @@
 #npc
-MARQUISE DE CAT
+[[MARQUISE DE CAT]]
 **Vicomte Cousteau**
 *Marquise Officer and Sycophant*
 Drive: To climb the Marquise social ladder through treacherous opportunism while avoiding any actual danger.
