@@ -1,0 +1,10 @@
+> [!tip] Call Upon The Enemies of Your Enemies (Requires Reputation -3)
+> When you *spread word that you're looking for allies against a powerful foe in the area*, roll with your Reputation with that foe's faction, treating your Reputation as positive (+3) for this roll. On a hit, you discover powerful allies who are willing to help, but they're beset by their own internal squabbles. On a 7-9, you realize that your foe has eyes and ears amongst them; you risk exposing your new friends to serious consequences if you move them to action while the traitor is still active. On a miss, your foolish call for help leads you right into a trap set by your enemies.
+
+You drop a few coins into a beggar's cup, asking if anyone around might be willing to help you deal with the Marquisate governor. As her eyes widen everyone knows the Marquis hates and fear you—you smile. You're *calling upon the enemies of your enemies*!
+
+*Calling upon the enemies of your enemies* requires you to take a risk with an intensely negative Reputation; in order to find some support for taking on a powerful foe, you need to go around announcing that you're looking for help. You can be subtle about it—whispering in back rooms and obliquely asking about the power structure fo the clearing—but you have to be obvious enough that you stand a reasonable chance of finding the people you want to find.
+
+But if you do find such allies, they are exactly the kind of help you need: powerful friends who can make a real difference. Of course, they might need some help themselves getting past their internal drama and figuring out a plan for taking on your mutual enemies.
+
+If you *call upon the enemies of your enemies* and discover that there is a traitor in the midst of your new allies, it doesn't mean you know exactly who it is that's betrayed the group. You might have to do some work finding them—or convincing the rest of the group they aren't to be trusted when you do find them—but if you don't address the traitor before you move against your real foe, the consequences will be dire for your new friends.
