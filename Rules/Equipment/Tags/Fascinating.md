@@ -1,0 +1,2 @@
+> [!tip] Fascinating
+> After you *meet someone important*, mark exhaustion and pick 1; you tell them how you used the item to… - Defend a faction, person, or clearing; they will tell you some current news relevant to that thing - Fight a faction, person, or idea; they will reveal their true allegiance in the conflict you've described - Serve a faction, person, or cause; they will point you toward others who share your loyalty to that thing You can mark exhaustion to ask a followup question; they must answer it honestly, but can be cagey with the details. (Anything)

@@ -1,0 +1,2 @@
+> [!danger] Coveted
+> When you first arrive in a clearing, roll with Luck. On a hit, this item attracts unwanted attention from the local denizens; the GM will tell you who has their eye on it. On a 7-9, their interest is intense; they offer to purchase it, try to steal it, or simply attempt to take it, GM's choice. On a 10+, the interest is good-natured—admiration of the craft, interest in the object's history—and modest. On a miss, someone powerful in the clearing decides to pursue this item, even at great cost. (Anything)
