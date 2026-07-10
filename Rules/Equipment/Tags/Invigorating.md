@@ -1,0 +1,4 @@
+> [!tip] Invigorating
+> When you consume this item, mark 2-injury to clear all your exhaustion and add 2 boxes to your exhaustion track for the rest of the scene (they go away at the end of the scene, whether they are marked or unmarked, with no further harmful effects either way). (Stimulant)
+> #### A Miss to a Hit?
+> Some of the positive tags in this chapter can change a miss to a hit (7–9) or a soft hit (7-9) to a strong hit (10+). If a vagabond uses one of these abilities, other vagabonds cannot *interfere* with the roll to change it back to a miss from a 7-9 or a 7-9 from a 10+, but it's possible a vagabond could *interfere* before the ability is used—for example, turning a total roll of 8 into a 6 by interfering, only to find that the vagabond they *interfered* with turns the roll back into a hit by activating the tag.

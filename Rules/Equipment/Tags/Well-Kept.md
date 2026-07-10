@@ -1,0 +1,2 @@
+> [!tip] Well-Kept
+> This piece of armor has been well-maintained and repaired over the years, so much so that it is very difficult to destroy. This armor is never destroyed for all of its wear being filled; it can only be destroyed by filling every box of wear, and then taking direct, intentional action to destroy it with specialized tools or a particularly destructive environment. (Old but sturdy armor)

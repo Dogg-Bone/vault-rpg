@@ -1,0 +1,2 @@
+> [!danger] Custom Fitted
+> This item can only be wielded or worn by a particular species of animal common in the Woodland. When this item is created, choose the single type of animal that can use it—all others find it nearly impossible to use and must mark an exhaustion to take any meaningful action while doing so. This tag cannot be chosen by a player when creating an item; only the GM can assign this tag to an item. (Anything)
