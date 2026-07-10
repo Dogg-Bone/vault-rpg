@@ -8,7 +8,7 @@ author: jules
 **Naming Convention:** English
 
 ## Overview
-House Kingfisher is the gilded beak of the Eyrie Dynasties. While other Houses conquer through martial strength or naval occupation, House Kingfisher conquers through economics and culture. They are the premier merchants, bankers, and cultural tastemakers of the Eyrie. They believe that true dominance is achieved not just by holding territory, but by ensuring that every denizen in the Woodland relies on Kingfisher coin and covets Kingfisher goods. They operate extensive trade caravans and opulent markets, viewing the Woodland as a vast economic engine meant to enrich the Dynasties.
+House Kingfisher is the gilded beak of the [[Eyrie Dynasties]]. While other Houses conquer through martial strength or naval occupation, House Kingfisher conquers through economics and culture. They are the premier merchants, bankers, and cultural tastemakers of the Eyrie. They believe that true dominance is achieved not just by holding territory, but by ensuring that every denizen in the Woodland relies on Kingfisher coin and covets Kingfisher goods. They operate extensive trade caravans and opulent markets, viewing the Woodland as a vast economic engine meant to enrich the Dynasties.
 
 ## NPC Leader: Governor Arthur Kingfisher
 Arthur is a sharply dressed kingfisher who speaks with measured, polite tones. He is rarely seen without an intricate abacus and a ledger detailing the debts of half the Woodland.

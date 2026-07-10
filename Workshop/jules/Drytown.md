@@ -4,13 +4,13 @@ author: jules
 # Drytown
 
 **Inhabitants:** Mice (Dominant)
-**Control:** Eyrie Dynasties
+**Control:** [[Eyrie Dynasties]]
 
 ## Description
-Drytown is a sprawling, almost city-sized clearing encircled by towering, ancient stone walls built by a long-forgotten civilization. The architecture within is a stark contrast of eras: massive, crumbling stone monoliths are intricately honeycombed with the wooden scaffolding, rope bridges, and densely packed burrows of the resident mice. The Eyrie Dynasties have established absolute control, their regal blue banners draping aggressively over the sun-bleached masonry. The air is arid and thick with dust, filled with the cacophony of a thousand mice going about their daily toil under the strict, watchful eyes of avian patrols.
+Drytown is a sprawling, almost city-sized clearing encircled by towering, ancient stone walls built by a long-forgotten civilization. The architecture within is a stark contrast of eras: massive, crumbling stone monoliths are intricately honeycombed with the wooden scaffolding, rope bridges, and densely packed burrows of the resident mice. The [[Eyrie Dynasties]] have established absolute control, their regal blue banners draping aggressively over the sun-bleached masonry. The air is arid and thick with dust, filled with the cacophony of a thousand mice going about their daily toil under the strict, watchful eyes of avian patrols.
 
 ## Important Locations
-- **The Stone Roost:** A heavily fortified, ancient state building built into the eastern wall. The Eyrie Dynasties have claimed this imposing structure as their seat of power and main roost. While it bristles with ballistae, the avian garrison inside is demoralized, dehydrated, and stretched incredibly thin due to Commander Vance's constant patrols. It also houses other high-ranking avian nobility, most notably Chancellor Peregrine, an exhausted bureaucrat who manages the city's failing logistics.
+- **The Stone Roost:** A heavily fortified, ancient state building built into the eastern wall. The [[Eyrie Dynasties]] have claimed this imposing structure as their seat of power and main roost. While it bristles with ballistae, the avian garrison inside is demoralized, dehydrated, and stretched incredibly thin due to Commander Vance's constant patrols. It also houses other high-ranking avian nobility, most notably Chancellor Peregrine, an exhausted bureaucrat who manages the city's failing logistics.
 - **The Grand Market:** A sprawling, chaotic bazaar situated in the shadow of a collapsed stone aqueduct. Here, Riverfolk Company merchants peddle imported water and exotic goods from their heavy wagons, gouging the desperate locals.
 - **The Deep Slums:** An intensely overcrowded network of subterranean tunnels and root-cellars beneath the city streets. It is a maze of desperate poverty and the perfect hiding place for the Corvid Conspiracy to plot their sabotage.
 - **The Parched Aqueduct:** A massive, ruined stone channel that once brought fresh water to the city. It is now mostly dry, save for a few heavily-guarded trickle-pools. Vagabonds often use its hollowed-out pillars as hidden highways across the city.
@@ -19,7 +19,7 @@ Drytown is a sprawling, almost city-sized clearing encircled by towering, ancien
 
 ## Notable NPCs
 ### Commander Aurelius Vance (Hawk)
-The Eyrie Dynasties commander appointed to rule Drytown. Commander Vance is an uncompromising, rigid traditionalist who believes that order must be maintained at any cost. He wears ceremonial, gilded plate armor that looks exhausting to bear in the heat. He views the massive mouse population as a chaotic force that must be strictly regimented.
+The [[Eyrie Dynasties]] commander appointed to rule Drytown. Commander Vance is an uncompromising, rigid traditionalist who believes that order must be maintained at any cost. He wears ceremonial, gilded plate armor that looks exhausting to bear in the heat. He views the massive mouse population as a chaotic force that must be strictly regimented.
 *Location: Pacing the high balconies of The Stone Roost, observing the city below with a spyglass.*
 *Drive: To maintain the illusion of perfect control in Drytown long enough to secure a promotion back to the capital and leave this dusty outpost forever.*
 *Fear: That his inability to solve the water crisis will lead to a mass uprising, disgracing him before the Eyrie lords.*
@@ -79,7 +79,7 @@ An exhausted, middle-aged Eyrie bureaucrat tasked with managing the failing logi
 ## The Problems
 
 ### Problem 1: The Corvid Sabotage
-The Corvid Conspiracy has deeply infiltrated Drytown, utilizing the chaotic architecture and desperate populace to hide their operations. They are actively trying to incite a riot against the Eyrie Dynasties through insidious means. Recently, they have begun distributing forged Eyrie edicts mandating impossible grain tithes, while quietly lacing public wells with paranoia-inducing alchemical compounds. The resulting hysteria has caused Commander Aurelius Vance to institute brutal curfews and random searches, which is only pushing more terrified mice toward the Corvids. The Vagabonds must navigate this web of psychological warfare, deciding whether to help the Eyrie expose the truth, aid the Corvids in causing chaos, or protect the caught-in-the-middle townsfolk.
+The Corvid Conspiracy has deeply infiltrated Drytown, utilizing the chaotic architecture and desperate populace to hide their operations. They are actively trying to incite a riot against the [[Eyrie Dynasties]] through insidious means. Recently, they have begun distributing forged Eyrie edicts mandating impossible grain tithes, while quietly lacing public wells with paranoia-inducing alchemical compounds. The resulting hysteria has caused Commander Aurelius Vance to institute brutal curfews and random searches, which is only pushing more terrified mice toward the Corvids. The Vagabonds must navigate this web of psychological warfare, deciding whether to help the Eyrie expose the truth, aid the Corvids in causing chaos, or protect the caught-in-the-middle townsfolk.
 
 ### Problem 2: The Parched Crisis
 Drytown is living up to its name. The ancient aqueduct system that historically supplied the massive clearing is failing, leaving the vast mouse population dangerously short on water. The Riverfolk Company has capitalized on this, monopolizing the remaining trickles and selling imported water at extortionate rates. The Eyrie has prioritized water for their soldiers, leaving the Deep Slums to die of thirst. The situation is a powder keg. The Vagabonds could investigate the source of the blockage upriver, negotiate (or fight) with the Riverfolk, or uncover hidden ancient cisterns within the city walls to save the populace.

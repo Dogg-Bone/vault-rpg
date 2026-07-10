@@ -8,7 +8,7 @@ author: jules
 **Headquarters Base:** Often operates out of massive, slow-moving armored barges that link together to form floating fortresses.
 
 ## Description
-Undertow Shipping is one of the largest and most militarized Riverfolk companies operating in the Woodland. Unlike companies that deal in fine goods or subtle manipulation, Undertow Shipping deals in bulk and brute force. They control massive, heavy-bottomed barges capable of hauling massive quantities of raw materials—timber from Marquise clear-cuts, iron ore from deep mines, and stone for Eyrie roosts. They are the undeniable masters of heavy logistics.
+Undertow Shipping is one of the largest and most militarized Riverfolk companies operating in the Woodland. Unlike companies that deal in fine goods or subtle manipulation, Undertow Shipping deals in bulk and brute force. They control massive, heavy-bottomed barges capable of hauling massive quantities of raw materials—timber from Marquise clear-cuts, iron ore from deep mines, and stone for [[Eyrie Dynasties|Eyrie]] roosts. They are the undeniable masters of heavy logistics.
 
 However, they are perhaps best known for their aggressive monopolization of key river checkpoints. Undertow Shipping frequently anchors their massive barges across narrow straits or critical junctions, effectively blockading the river and demanding exorbitant "protection tolls" from anyone wishing to pass. To enforce these tolls and protect their massive shipments, Undertow Shipping employs legions of heavy mercenaries—often heavily armored turtles, badgers, and bears—armed with polearms and heavy crossbows.
 
@@ -22,7 +22,7 @@ He speaks in a deep, rumbling baritone that commands immediate attention. Silas 
 - **Fear:** That a coalition of factions will realize they outnumber him and sink his fleet to break his monopoly.
 - **Secret:** His flagship, the *Iron Draft*, has a severe structural flaw in its hull that he hides desperately; a well-placed explosive could sink his entire floating fortress.
 - **Request:** He needs the Vagabonds to quietly eliminate a charismatic Woodland Alliance leader who is successfully organizing a boycott of Undertow goods in a major clearing downriver.
-- **Opinion/Info:** He warns that House Mallard of the Eyrie Dynasties is secretly building a fleet of shallow-draft war galleys in the northern lakes, preparing for a major river offensive.
+- **Opinion/Info:** He warns that House Mallard of the [[Eyrie Dynasties]] is secretly building a fleet of shallow-draft war galleys in the northern lakes, preparing for a major river offensive.
 - **Current Wares:** Bulk timber, raw iron ore, heavy mercenary contracts, safe (but expensive) passage past blockades.
 - **Can Acquire:** Siege engines, massive quantities of black powder, forged architectural plans for major fortresses.
 

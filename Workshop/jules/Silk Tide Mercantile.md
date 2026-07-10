@@ -34,7 +34,7 @@ Silk Tide Mercantile thrives in the shadows and the gray areas of woodland law.
 
 ## Relations
 - **[[Marquise de Cat]]:** Officially, the [[Marquise de Cat|Marquise]] heavily outlaws Silk Tide Mercantile, branding them smugglers and pirates. Unofficially, many [[Marquise de Cat|Marquise]] commanders rely on them to acquire luxury goods from their homeland that the official supply lines fail to provide.
-- **Eyrie Dynasties:** The Eyrie despises them on principle, viewing them as honorless thieves. However, House Strix occasionally employs their covert operatives for wet-work they cannot be officially tied to.
+- **[[Eyrie Dynasties]]:** The Eyrie despises them on principle, viewing them as honorless thieves. However, House Strix occasionally employs their covert operatives for wet-work they cannot be officially tied to.
 - **Woodland Alliance:** A complicated relationship. Silk Tide Mercantile frequently smuggles weapons and pamphlets for the Alliance, but only for a steep price. The Alliance knows the Company would gladly sell out their rebel cells to the [[Marquise de Cat|Marquise]] if the price was right.
 - **The Corvid Conspiracy:** A dangerous rivalry. Both deal in secrets, smuggling, and leverage. They occasionally collaborate on major operations, but more often, they engage in shadow wars over control of lucrative blackmail networks in major clearings.
 

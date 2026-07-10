@@ -1,3 +1,7 @@
+---
+aliases:
+  - Eyrie
+---
 The old regents of the Woodland, led by one royal monarch or another alongside a court of viziers. Rigid, tradition-bound, arrogant, and ambitious. 
 
 The Eyrie Dynasties ruled the Woodland for years and years, but those times were far from peaceful. The Eyrie helped structure the Woodland into a larger entity, but they were just as likely to tear the Woodland apart as a new group of royals tried to seize power from the old group. They lost power because of just such a conflict, creating the opportunity for the [[Marquise de Cat|Marquisate]] to invade. Now they’re struggling to regain the territory they see as rightfully theirs. 

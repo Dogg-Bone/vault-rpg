@@ -8,7 +8,7 @@ author: jules
 **Naming Convention:** Slavic
 
 ## Overview
-House Condor casts a dark, imposing shadow over the Eyrie Dynasties. They are the authoritarians and the enforcers of the old ways, believing that the Woodland denizens must be ruled with an iron talon to maintain order. They specialize in capturing clearings and brutally reshaping them to fit their needs. Rather than building from scratch, they have a propensity for seizing the infrastructure left behind by other factions—such as [[Marquise de Cat|Marquisate]] sawmills or Alliance hideouts—repurposing what is useful for their war machine and unceremoniously demolishing anything that does not serve their immediate despotic purposes.
+House Condor casts a dark, imposing shadow over the [[Eyrie Dynasties]]. They are the authoritarians and the enforcers of the old ways, believing that the Woodland denizens must be ruled with an iron talon to maintain order. They specialize in capturing clearings and brutally reshaping them to fit their needs. Rather than building from scratch, they have a propensity for seizing the infrastructure left behind by other factions—such as [[Marquise de Cat|Marquisate]] sawmills or Alliance hideouts—repurposing what is useful for their war machine and unceremoniously demolishing anything that does not serve their immediate despotic purposes.
 
 ## NPC Leader: Regent Vladimir of Condor
 Vladimir is an ancient, massive condor whose presence alone can quiet a bustling clearing. He speaks softly, but his decrees are absolute and backed by terrifying enforcement.

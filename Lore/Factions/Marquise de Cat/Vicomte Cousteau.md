@@ -34,7 +34,7 @@ Morale: [ ] [ ]
 1. He portrays himself as a swashbuckling hero akin to "Puss in Boots," but has the treacherous, cowardly, and overly-ambitious personality of a Starscream.
 2. He actively plots to undermine his superiors, hoping to inherit their positions without doing the actual work.
 
-**Immediate Pressure:** A superior officer has finally called his bluff and ordered him to lead a dangerous vanguard assault on an Eyrie roost.
+**Immediate Pressure:** A superior officer has finally called his bluff and ordered him to lead a dangerous vanguard assault on an [[Eyrie Dynasties|Eyrie]] roost.
 
 **Persuasion Tactics:**
 1. Flattery and obsequious groveling

@@ -9,7 +9,7 @@
 
 As you are exploring a ruin, you find a hole descending into deeper caves you throw down a rope and begin to climb! You're *delving deeper*!
 
-If your band wishes to find the true secrets of the Woodlands—relics of the Ancients, lost heraldry of the Eyrie Dynasties, etc.—you will need to go deeper into the ruins, exploring areas no one has touched in eons.
+If your band wishes to find the true secrets of the Woodlands—relics of the Ancients, lost heraldry of the [[Eyrie Dynasties]], etc.—you will need to go deeper into the ruins, exploring areas no one has touched in eons.
 
 **"Every member of the band is free of injury"** means that no one who is descending to the next level has any injury harm marked. Some members of your band might stay behind to help you earn that +1 to the roll, but they will have to face the other [[threats of the ruins]] alone; it will take time to return to them.
 

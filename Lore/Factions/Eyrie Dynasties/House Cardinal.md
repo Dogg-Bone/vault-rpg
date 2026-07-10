@@ -8,7 +8,7 @@ author: jules
 **Naming Convention:** Italian
 
 ## Overview
-House Cardinal is the industrious heart of the Eyrie Dynasties. Where other Houses focus on war or politics, the Cardinals focus on building, forging, and preserving the physical legacy of the Eyrie. They are master artisans, architects, and quartermasters. Their bright red plumage is often smudged with soot or sawdust, a mark of pride among their kind. They believe the Woodland can only truly be reclaimed once the grand roosts and forges of old are rebuilt.
+House Cardinal is the industrious heart of the [[Eyrie Dynasties]]. Where other Houses focus on war or politics, the Cardinals focus on building, forging, and preserving the physical legacy of the Eyrie. They are master artisans, architects, and quartermasters. Their bright red plumage is often smudged with soot or sawdust, a mark of pride among their kind. They believe the Woodland can only truly be reclaimed once the grand roosts and forges of old are rebuilt.
 
 ## NPC Leader: Guildmaster Lorenzo di Cardinal
 Lorenzo is an older, stout cardinal with a meticulously groomed crest and eyes that constantly assess the structural integrity of his surroundings.

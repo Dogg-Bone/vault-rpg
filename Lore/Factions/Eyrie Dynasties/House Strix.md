@@ -8,7 +8,7 @@ author: jules
 **Naming Convention:** Germanic
 
 ## Overview
-House Strix is the indisputable martial backbone of the Eyrie Dynasties. Renowned for their imposing physical stature and unparalleled nocturnal vision, the owls of House Strix have historically commanded the vanguard of the Eyrie's armies. They are austere, disciplined, and view the reclamation of the Woodland as a purely military campaign to be won through overwhelming force and tactical superiority.
+House Strix is the indisputable martial backbone of the [[Eyrie Dynasties]]. Renowned for their imposing physical stature and unparalleled nocturnal vision, the owls of House Strix have historically commanded the vanguard of the Eyrie's armies. They are austere, disciplined, and view the reclamation of the Woodland as a purely military campaign to be won through overwhelming force and tactical superiority.
 
 ## NPC Leader: Commander Dietrich von Strix
 Dietrich is a towering Great Horned Owl and a seasoned veteran of the Woodland wars. His plumage is scarred from numerous skirmishes with the [[Marquise de Cat|Marquisate]].

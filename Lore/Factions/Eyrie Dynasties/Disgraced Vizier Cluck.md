@@ -1,4 +1,4 @@
-EYRIE DYNASTIES
+[[EYRIE DYNASTIES]]
 **Disgraced Vizier Cluck**
 *Exiled Eyrie Politician*
 Drive: To exact obsessive, ruinous revenge upon the Eyrie leaders who disgraced him.

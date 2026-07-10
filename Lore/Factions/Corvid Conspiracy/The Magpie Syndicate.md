@@ -54,5 +54,5 @@ A massive, scarred rabbit who serves as a Crew Boss and chief enforcer for the l
 | **2-3** | The Vagabonds enter a clearing to find a local bakery burned to the ground. The owner weeps, whispering that they missed their "insurance" payment to the Magpies. |
 | **4-6** | A desperate mouse begs the Vagabonds for help; they owe a massive gambling debt to the Syndicate, and the enforcers are coming to collect by sundown. |
 | **7-9** | A Marquise supply caravan is found abandoned. All the weapons are gone, but the food is left behind. A single Magpie feather is stuck into a crate. |
-| **10-11** | The Vagabonds are approached by a slick Magpie offering them a highly lucrative, but incredibly illegal, smuggling contract to move stolen Marquise iron across Eyrie lines. |
+| **10-11** | The Vagabonds are approached by a slick Magpie offering them a highly lucrative, but incredibly illegal, smuggling contract to move stolen Marquise iron across [[Eyrie Dynasties|Eyrie]] lines. |
 | **12** | The local mayor approaches the Vagabonds in secret. The Syndicate has completely taken over the town's economy, and the mayor wants to hire the Vagabonds to assassinate the local Crew Boss. |

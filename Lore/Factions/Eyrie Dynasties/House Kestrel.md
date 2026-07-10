@@ -8,7 +8,7 @@ author: jules
 **Naming Convention:** Celtic
 
 ## Overview
-House Kestrel is the swarming, chaotic heart of the Eyrie Dynasties' lower echelons. What they lack in the sheer martial power of the Strix or the political cunning of the Mallards, they make up for in overwhelming numbers and fierce, communal loyalty. They are the foot soldiers, the fast outriders, and the zealous believers in the Eyrie's divine right to rule. They are highly adaptable and view the rigid traditions of the older Houses as suffocating.
+House Kestrel is the swarming, chaotic heart of the [[Eyrie Dynasties]]' lower echelons. What they lack in the sheer martial power of the Strix or the political cunning of the Mallards, they make up for in overwhelming numbers and fierce, communal loyalty. They are the foot soldiers, the fast outriders, and the zealous believers in the Eyrie's divine right to rule. They are highly adaptable and view the rigid traditions of the older Houses as suffocating.
 
 ## NPC Leader: Chieftain Rhys Kestrel
 Rhys is a wiry, high-energy kestrel with a tattered cloak and a habit of pacing restlessly. He leads from the front and is beloved by the common soldiers.

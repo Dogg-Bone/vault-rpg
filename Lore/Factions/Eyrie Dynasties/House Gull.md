@@ -8,7 +8,7 @@ author: jules
 **Naming Convention:** Nordic
 
 ## Overview
-House Gull represents the wild, untamed fury of the Eyrie Dynasties' naval forces. Operating primarily on the major lakes and coastal borders of the Woodland, they are fiercely independent raiders and explorers. Where other Houses value political cunning, architectural grandeur, or strict military discipline, House Gull values strength, bravery, and the spoils of war. They are brash, loud, and largely self-sufficient, preferring the mobility of their swift raiding vessels to the stagnant life within a traditional roost.
+House Gull represents the wild, untamed fury of the [[Eyrie Dynasties]]' naval forces. Operating primarily on the major lakes and coastal borders of the Woodland, they are fiercely independent raiders and explorers. Where other Houses value political cunning, architectural grandeur, or strict military discipline, House Gull values strength, bravery, and the spoils of war. They are brash, loud, and largely self-sufficient, preferring the mobility of their swift raiding vessels to the stagnant life within a traditional roost.
 
 ## NPC Leader: Jarl Leif of House Gull
 Leif is a scarred, boisterous seagull with sea-salt permanently crusted in his feathers. He leads his followers not by divine right, but by being the loudest, strongest, and most successful raider among them.

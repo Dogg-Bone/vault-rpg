@@ -8,7 +8,7 @@ author: jules
 **Naming Convention:** Greek
 
 ## Overview
-House Finch is the intellectual core of the Eyrie Dynasties. While other Houses train soldiers or build physical fortresses, the Finches build libraries and archive the vast, sprawling history of the Woodland. They are the scribes, scholars, and historians who believe that those who control the past dictate the future. They possess an insatiable curiosity and are functionally independent, maintaining their own hidden archives and a massive network of inconspicuous observers to gather knowledge.
+House Finch is the intellectual core of the [[Eyrie Dynasties]]. While other Houses train soldiers or build physical fortresses, the Finches build libraries and archive the vast, sprawling history of the Woodland. They are the scribes, scholars, and historians who believe that those who control the past dictate the future. They possess an insatiable curiosity and are functionally independent, maintaining their own hidden archives and a massive network of inconspicuous observers to gather knowledge.
 
 ## NPC Leader: Archivist Theron of House Finch
 Theron is an elderly, bespectacled finch whose plumage is perpetually dusted with chalk and old parchment flakes. He is absent-minded about daily routines but has a flawless memory for historical treaties and ancient lineages.
