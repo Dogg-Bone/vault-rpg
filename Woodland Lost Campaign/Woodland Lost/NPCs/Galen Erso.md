@@ -5,6 +5,8 @@ job:
 drive: Rescue daughter Jyn Erso
 faction: Vagabond
 species:
+aliases:
+  - Galen
 ---
 #npc
 
