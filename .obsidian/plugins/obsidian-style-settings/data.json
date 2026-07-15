@@ -32,5 +32,8 @@
   "typomagical-title@@font-title": "Playfair Display",
   "CG@@CG-settings-background": false,
   "CG@@CG-workspace-background-image": "CG-workspace-background-image-custom",
-  "CG@@CG-workspace-background": true
+  "CG@@CG-workspace-background": true,
+  "typomagical-text@@callout-quote-style": true,
+  "typomagical-text@@blockquote": "blockquote-bustle",
+  "typomagical-colour@@ss-background-color": "#D63A3A"
 }
