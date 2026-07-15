@@ -26,3 +26,4 @@ A **"useful resource"** has to be enough for the whole group. A single mushroom 
 For anyone not standing watch, they clear an exhaustion and get to pick some additional benefits—one from the list on a soft hit, two from the list on a strong hit. If someone chooses to take an extra die while scavenging, then they add that die to the pool when the band next *scavenges for resources*.
 
 On a miss, a [[Threats of the Ruins|threat of the ruin]] interrupts your respite before anyone can get any benefits, plunging the group into danger and wasting the resources you've spent.
+#move/ruin

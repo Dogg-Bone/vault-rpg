@@ -23,3 +23,4 @@ The GM answers all the questions (one of their roles being to describe the world
 **“What should I be on the lookout for?”** flags a danger, threat, or problem in the area. It doesn’t have to be a brand-new problem, either. Finding out that something you thought would be a problem really will be a problem is still useful, not least because of the +1 to act on the answer.
 
 **“Who is in control here?”** is the question most directed towards subtlety and secrets. It’s possible that the real power in the scene—the character really in control—is not at all whom you expected, and this question points that out. On the other hand, this question might point out that everything is exactly as it seems. Make sure you and the GM both have a sense for what “control” means in each situation. A bear might be the biggest threat, but the enemy vagabond who stands at the front of the bear’s cave, preventing anyone from fleeing, may actually be in control.
+#move/basic

@@ -6,3 +6,5 @@
 > · impress, dismay, or frighten your foe
 
 \* fists inflict 1-exhaustion
+
+#move/weapon/basic

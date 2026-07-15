@@ -18,3 +18,5 @@ Traveling **"quickly and efficiently"** means you stick to an intense pace—and
 **"Fleeing toward safety"** means you move as quickly as possible through the woods. Everyone gets beat up on the way back, but it's an option you can choose even if you have no depletion or exhaustion left to mark,.
 
 Encountering **"a reminder of the War"** might be an active threat (like a band of soldiers) or a fleeting opportunity (like the remains of a battle), but you're almost back to safety! "**Something catching up with you"** or **"someone is awaiting your return"** means that trouble finds you; you'll have to deal with whatever is chasing you or waiting for you in order to make it to the clearing.
+
+#move/ruin

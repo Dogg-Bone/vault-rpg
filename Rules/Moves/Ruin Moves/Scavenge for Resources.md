@@ -18,3 +18,5 @@ Spending a die that shows a 3 or 4 means you've found something better—enough 
 Spending a die that shows a 5 or 6 means you've found enough resources to clear 2-depletion...or something worth 3-value. You get to pick which one, but the GM will tell you what you find either way.
 
 You can only make this move once on a given level of the ruins, so be cautious about when you decide to *scavenge*. Once you've *scavenged* on a specific level, there's not much left to find until you delve deeper and get to a new level of the ruins you can explore for the first time. For that reason, it's usually better to explore each level of the ruins for a while—uncovering safe areas and even *making camp*—before you throw your efforts into *scavenging*.
+
+#move/ruin

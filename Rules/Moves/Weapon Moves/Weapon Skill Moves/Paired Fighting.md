@@ -10,3 +10,5 @@
 > · you create a path for the two of you to retreat or advance
 
 \* Paired fighting does require both vagabonds to have this skill, and both vagabonds to have a weapon with the paired fighting weapon skill tag. Otherwise, you can’t use the move.
+
+#move/weapon/skill

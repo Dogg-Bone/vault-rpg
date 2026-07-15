@@ -4,3 +4,5 @@
 >· your shot strikes a second available target of your choice 
 >· your shot cuts something, breaks something, or knocks something over, your choice 
 >· your shot distracts an opponent and provides an opportunity
+
+#move/weapon/skill

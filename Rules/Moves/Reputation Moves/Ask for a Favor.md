@@ -8,3 +8,4 @@
 | +0         | Information, one or two boxes of depletion resupply, a barebones place to stay  |
 | –1         | A few moments to hear you out                                                    |
 | –2, –3     | A head start                                                                      |
+#move/reputation

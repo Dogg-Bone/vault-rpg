@@ -17,3 +17,5 @@ The roll is modified by the fiction surrounding your band's departure. If at lea
 Having **"a detailed map of the area"** or **"a local guide"** means you're bringing those resources along with you. They don't have to be perfect, but both the map and the guide need to be reasonably accurate to count.
 
 On a hit, you find the ruin you're seeking without problems along the journey; you manage to slip past the monsters and other hazards of the forest unharmed. On a 10+, you even find **"a safe and inviting area"** to rest and recuperate before you go inside. But on a 7-9 or a miss, you find yourself in real danger close to the ruins. Either you find your way to the ruins blocked or something grabs you and drags you in before you can prepare yourself for what is ahead.
+
+#move/ruin

@@ -3,3 +3,5 @@
 > · you’ve heard stories; ask a question about them, and the GM will tell you one story you’ve heard about them or their interests as an answer. 
 > · they’ve heard something in your favor; take +1 forward when you first try to play up your connection with them and their faction. 
 > On a miss, you only know the basics about them, and they’ve heard stories about you and the things you’ve done, true or false—prepare for major complications.
+
+#move/reputation

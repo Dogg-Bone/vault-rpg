@@ -5,3 +5,5 @@
 > · the leader (or their defenders and supporters) grows more radical in their defensiveness; they will respond to any threats to their position with force 
 > · you are singled out for your blunt outspokenness; expect reprisals 
 > On a miss, your words wind up stoking opposition—more denizens, agents, and faction members come out in support of the leader you tried to vilify.
+
+#move/reputation

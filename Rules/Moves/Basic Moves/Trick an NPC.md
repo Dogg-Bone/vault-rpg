@@ -17,3 +17,4 @@ On a 7–9, however, they might not do what you want. The NPC (meaning, the GM o
 **“They stumble”** means that the NPC makes a mistake, trips up, or leaves an opening. The NPC doesn’t entirely fall for the trick— they don’t simply do what the PC wanted, but they might give the PC another opening,  if the PC is willing to take a risk and seize the chance.
 
 **“They overreact”** means that the NPC gets upset, angry, overexcited, or something similar. They might fall for the trick too much. Their overreaction gives the PC a mild advantage against them, in the form of +1 forward. 
+#move/basic

@@ -17,3 +17,4 @@ You can only mark 2-exhaustion total—one for the +1 or –2, and a second for 
 **“Conceal your aid or interference”** means that you aren’t tied to the results of the move in the same way. An observer wouldn’t know that you had just intervened. If you do not select this option, you’ll be tied to the results of the move—for example, if a wreck move you helped winds up “drawing attention,” then attention is drawn to you, as well. 
 
 **“Create an opportunity or obstacle”** is a way to get an additional benefit from your help. An opportunity is a chance the GM describes and fleshes out, based on your help, to get some extra benefit on top of the move; an obstacle is a new difficulty or problem that further inhibits your opposition’s actions.
+#move/basic

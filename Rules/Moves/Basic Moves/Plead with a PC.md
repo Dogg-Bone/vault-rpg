@@ -4,3 +4,4 @@
 The one real way to mechanically bribe another PC to follow your plans.
 
 If the PC does not agree to go along with you, that still counts as your one use of this move per session.
+#move/basic

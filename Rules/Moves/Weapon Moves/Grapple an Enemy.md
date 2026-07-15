@@ -4,3 +4,5 @@
 > · you wear them down; they mark exhaustion 
 > · you exploit weakness; mark exhaustion to inflict 2-injury 
 > · you withdraw; disengage to close range
+
+#move/weapon/basic

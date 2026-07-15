@@ -14,3 +14,4 @@ Those vagabonds who earn the trust of the Keepers in Iron sometimes get the oppo
 The Keepers in Iron care more about the vagabond who is *shepherding the relic* than the specific cause. So long as you offer the Keepers a reasonable motive for supporting you in your fight—and you have Reputation +2—they are likely to offer something fitting. They won't throw their support behind a clearly unjust cause or something that hurts their own interests, but they believe deeply in those who have earned their trust.
 
 Of course, the Keepers in Iron have to have a relic nearby for them to offer it to you; you can implore a wandering knight to grant you such a gift, but unless they have a relic on them (or nearby), they can't give you one. It's far easier to request a relic from a waystation filled with knights!
+#move/reputation

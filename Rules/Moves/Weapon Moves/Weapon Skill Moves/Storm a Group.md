@@ -4,3 +4,5 @@
 > · you keep them off-balance and confused; you inflict 2-exhaustion 
 > · you avoid their blows to the best of your ability; you suffer little (–1) harm 
 > · you use them against each other; mark exhaustion again and they inflict their harm against themselves
+
+#move/weapon/skill

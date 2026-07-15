@@ -5,3 +5,5 @@
 > · the faction deploys an available, capable NPC agent (of your choice) to chase you down 
 > · the faction is rattled by your threat; mark 2-notoriety with them 
 > On a miss, your enemies are already moving against you quietly; the GM tells you how they catch you unprepared.
+
+#move/reputation

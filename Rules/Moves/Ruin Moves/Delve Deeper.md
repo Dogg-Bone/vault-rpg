@@ -20,3 +20,5 @@ When your band **"marks 2-depletion and 2-wear,"** anyone in the band can mark t
 On a hit, you move down into a new level of the ruins, even discovering some immediate resource like running water or edible plans on a strong hit. The danger mounts as you descend; the [[threats of the ruins]] you confront in the first and second levels of a ruin are much easier to contain than those faced in the fourth and fifth levels. But the rewards are far greater at those depths, both in the secrets you might discover and in the gold and relics you might retrieve.
 
 On a miss, a [[Threats of the Ruins|threat of the ruins]] finds your band, trapping you on the new level of the ruins. Your band will have to not only deal with the new threat, but you must also find some new way to the surface if you can't find some way to resolve whatever is blocking your retreat.
+
+#move/ruin

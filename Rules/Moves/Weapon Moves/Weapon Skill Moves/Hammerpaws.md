@@ -6,3 +6,6 @@
 > · you deflect some of their incoming blows; suffer little (-1) harm 
 > · you inflict wear on their equipment with precise strikes 
 > · you take an object from them; they must mark exhaustion to stop you
+
+
+#move/weapon/skill

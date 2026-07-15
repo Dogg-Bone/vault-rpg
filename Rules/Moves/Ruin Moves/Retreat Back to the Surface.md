@@ -21,3 +21,5 @@ Eventually, your band will need to return to the surface, bringing back whatever
 On a strong hit, your band emerges from the ruins without paying any further costs; on a weak hit, you'll have to first deal with one [[Threats of the Ruins|threat of the ruins]] before you can escape completely. The GM will tell you what danger you face, but it probably looks like a monster or other shift in the ruin that blocks your way!
 
 On a miss, you get caught between two threats—an obstacle in front of you and something coming up behind you. These problems might both be monsters, but they could also be a fire or cave-in pushing you to keep moving or keeping you from escaping quickly. Once you've overcome the obstacle, you're free to leave…but you might also need to *return from a forest ruin* before you make it back to a clearing.
+
+#move/ruin

@@ -8,3 +8,4 @@ It takes only a little push for members of the Hundreds to turn to violence, and
 You have to at least give the appearance of rioting along with them to *incite the mob*—you can't send them off to burn things down without you. You can, however, slink away once the rioting is underway to crack open a safe or kill a particular noble, but the mob has to believe you're on their side for you to *incite* them!
 
 If things go poorly, it's likely that the mob still loots and razes the target you designated...but they also don't follow your instructions or even see you as one of them. A mob unleashed in such a faction is likely a danger to you too...
+#move/reputation

@@ -12,3 +12,4 @@ Note that impressing an audience* only works for the denizens themselves, the or
 The hold you generate by *impressing an audience* lasts as long as you're in the clearing; if you leave the clearing and return, you likely still have the hold, so long as the denizens might reasonably remember you. If you've been away long enough for the denizens to forget you, you'll have to *impress* them all over again.
 
 If the denizens ask you to solve an urgent problem in the clearing, you have to work on it right away. If you say you'll do it, but you don't make any real progress, then you'll mark 2-notoriety and lose the hold when they figure out you were leading them on.
+#move/reputation

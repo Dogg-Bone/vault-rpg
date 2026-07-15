@@ -3,3 +3,5 @@
 > · you inflict morale or exhaustion harm (GM’s choice) 
 > · you disarm your opponent; their weapon is out of hand, but in reach 
 > · you don’t suffer any harm
+
+#move/weapon/skill

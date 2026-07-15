@@ -5,3 +5,5 @@
 > · the enemy troops will target you, above all else, when they attack 
 > · the enemy troops are rattled; inflict 2-morale harm on the group 
 > On a miss, the enemy is invigorated by their anger at you, and they act right now, in full force.
+
+#move/reputation

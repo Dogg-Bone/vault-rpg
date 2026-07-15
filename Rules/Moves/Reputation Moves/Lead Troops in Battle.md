@@ -7,3 +7,5 @@
 >· destroy a fortification or resource 
 >· defend a group or location 
 >On a miss, your troops engage in battle but with a confused command structure—they wind up embroiled in chaotic battle across the entire area, and in their confusion, they’re losing.
+
+#move/reputation

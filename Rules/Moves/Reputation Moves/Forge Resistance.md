@@ -6,3 +6,4 @@ As the armed soldiers invading Riverwest Reach march forward, you climb up on th
 *Forging resistance* is a move that allows you to turn your positive reputation with a group into a temporary position of leadership, a rallying cry that binds together a mob into a group that can follow your orders. In the event that you use them as a weapon, the GM can use the group rules to determine how much damage they do and how much harm they can take.
 
 If you do whatever is necessary to inspire the capable leader who emerged from you *forging resistance* to act on their own in the future—like publicly support their role or kill off their greatest rival—you no longer need to lead the group yourself to keep it together. From that point forward, the new leader can keep the group together...but that doesn't mean they are always an ally. You'll have to maintain that relationship to ensure a group led by another stays on your side.
+#move/reputation

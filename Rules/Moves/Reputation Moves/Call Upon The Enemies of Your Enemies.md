@@ -8,3 +8,4 @@ You drop a few coins into a beggar's cup, asking if anyone around might be willi
 But if you do find such allies, they are exactly the kind of help you need: powerful friends who can make a real difference. Of course, they might need some help themselves getting past their internal drama and figuring out a plan for taking on your mutual enemies.
 
 If you *call upon the enemies of your enemies* and discover that there is a traitor in the midst of your new allies, it doesn't mean you know exactly who it is that's betrayed the group. You might have to do some work finding them—or convincing the rest of the group they aren't to be trusted when you do find them—but if you don't address the traitor before you move against your real foe, the consequences will be dire for your new friends.
+#move/reputation

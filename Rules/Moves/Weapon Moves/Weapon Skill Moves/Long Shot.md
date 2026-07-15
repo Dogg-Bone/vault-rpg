@@ -1,2 +1,5 @@
 > [!tip] Long Shot
 > When you *pull hard on your bow’s draw to extend its range beyond far*, mark wear and exhaustion to roll any far range weapon move (target someone, pinpoint shot, etc.) with Might instead of the move’s normal stat, paying the additional cost(s) of the weapon move as well. This weapon skill requires your weapon to be tagged with far range, this skill, and the tag for whatever weapon move you are using (if needed).
+
+
+#move/weapon/skill

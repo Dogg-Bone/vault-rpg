@@ -5,3 +5,5 @@
 > · the denizens of the clearing aren’t on board; you need to speak to denizen leadership and convince them, or expect direct opposition 
 > · the faction’s enemies in the clearing want to take advantage of the shift in power; keep an eye out for conspiracies and plots 
 > On a miss, after you publicly announce your support something new and dangerous is revealed about the leadership or the individual you endorsed that reframes the situation.
+
+#move/reputation

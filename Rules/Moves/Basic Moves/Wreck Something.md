@@ -15,3 +15,4 @@ The move only triggers when you’re trying to wreck something that requires lot
 **“Attract attention”** means that someone or something is going to come running to see what made that noise. "Attracting attention” means that no matter how safe you thought you were, danger is on its way. 
 
 **“End up in a bad spot”** means that the GM can complicate your situation and put you in a tough, difficult position right now. 
+#move/basic

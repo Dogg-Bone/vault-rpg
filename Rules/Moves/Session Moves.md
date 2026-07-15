@@ -6,3 +6,5 @@
 >· Replace one drive with a new drive from any playbook 
 >· Replace nature with a new nature from any playbook 
 >· Replace a connection (both type and subject) with a new connection from any playbook
+
+#move/session
