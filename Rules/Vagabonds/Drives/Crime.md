@@ -1,3 +1,5 @@
 **Advance when you illicitly score a significant prize or pull off an illegal caper against impressive odds.**
 
 "Illicitly score a significant prize" or "pull off an illegal caper against impressive odds" offer two ways to advance with this drive. "A significant prize" can be relative to the vagabonds' circumstances, but it should always be something either of extraordinary monetary value or of extraordinary intrinsic value—an incredibly valuable gemstone, or the gemstone that determines the next ruler of the Eyrie, respectively. "Pulling off" the caper in no way means that everything went well; all it means is that you more or less achieved your desired end. When determining whether "impressive odds" applies, think about whether or not it makes a good story; you wouldn't recount the tale of duping some guard, but you would absolutely recount the tale of robbing the local governor's mansion.
+
+#drives

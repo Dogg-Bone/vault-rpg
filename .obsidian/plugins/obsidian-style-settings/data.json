@@ -24,16 +24,12 @@
   "ITS@@font-monospace": "'Cutive Mono', 'Fira Code Medium', 'Source Code Pro', monospace",
   "ITS@@comment-font": "'Cutive Mono', 'Fira Code Medium'",
   "modular-css-layout-wv@@is-adj-rll": false,
-  "typomagical-text@@body-ligatures": true,
-  "typomagical-text@@mjx-font": "mathjax-font-default",
   "typomagical-colour@@theme-variant": "obsidian",
   "typomagical-colour@@background-color-enable": false,
-  "typomagical-images@@ss-image-caption": false,
-  "typomagical-title@@font-title": "Playfair Display",
   "CG@@CG-settings-background": false,
   "CG@@CG-workspace-background-image": "CG-workspace-background-image-custom",
   "CG@@CG-workspace-background": true,
-  "typomagical-text@@callout-quote-style": true,
-  "typomagical-text@@blockquote": "blockquote-bustle",
-  "typomagical-colour@@ss-background-color": "#D63A3A"
+  "typomagical-colour@@ss-background-color": "#D63A3A",
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-text@@font-default": "IM FELL English"
 }

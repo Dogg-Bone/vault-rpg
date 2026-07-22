@@ -1,0 +1,31 @@
+/* ==========================================================
+   UPDATED DROPCAP FIX (READING MODE)
+   ========================================================== */
+
+/* 1. Apply the dropcap style to paragraphs */
+.theme-light .markdown-rendered p::first-letter {
+    font-size: 3.8em;
+    /* font-weight: bold; */
+    float: left;
+    line-height: 0.7;
+    margin-right: 0.05em;
+    margin-top: 0.05em;
+    font-family: 'Cormorant Garamond', 'Times New Roman', serif;
+    color: #0f0d0c;
+}
+
+/* 2. Cancel the dropcap for any paragraph that comes AFTER the first one */
+.theme-light .markdown-rendered div:has(p)~div:has(p) p::first-letter,
+/* Also prevent dropcaps from appearing inside lists or blockquotes */
+.theme-light .markdown-rendered li p::first-letter,
+.theme-light .markdown-rendered blockquote p::first-letter,
+.theme-light .markdown-rendered .callout p::first-letter {
+    font-size: inherit;
+    font-weight: inherit;
+    float: none;
+    line-height: inherit;
+    margin-right: 0;
+    margin-top: 0;
+    font-family: inherit;
+    color: inherit;
+}

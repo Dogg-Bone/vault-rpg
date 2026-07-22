@@ -1,3 +1,5 @@
 **Advance when you win a battle against enemy soldiers alongside friends and allies.**
 
 This drive emphasizes a vagabond's pursuit of military camaraderie—it only triggers after winning a battle, specifically against enemy soldiers, and in the presence of friends and allies. "Enemy soldiers" means they are real combatants—bandits, a rabble, or a mob wouldn't count. A battle can be any kind of combat engagement but it needs to be some kind of direct confrontation, whether it's a siege or a skirmish in an open field. You don't need to be leading those friends and allies to trigger the drive—as long as you've won the day with comrades-in-arms, you qualify.
+
+#drives

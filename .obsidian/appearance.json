@@ -1,13 +1,17 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Typomagical",
+  "cssTheme": "Typomagical Bespoke",
   "enabledCssSnippets": [
     "MCL Gallery Cards",
-    "MCL Multi Column"
+    "MCL Multi Column",
+    "Vintage News Styles",
+    "Dropcap"
   ],
   "textFontFamily": "",
   "monospaceFontFamily": "Cutive Mono",
-  "accentColor": "#d27b4b",
+  "accentColor": "#687953",
   "interfaceFontFamily": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
 }

@@ -1,3 +1,5 @@
 **Advance when you replace a valuable or meaningful item with one that represents the local culture.**
 
 You can't trigger this drive by ditching your equipment and picking up a replacement off the ground. The equipment you leave behind has to be something valuable to you—it can't be something you might have thrown out anyway because it's not worth the weight to carry. The equipment you replace it with needs to reflect the essential nature of the clearing you're in, or otherwise represent a central aspect of its culture. You might acquire a sword from a clearing known for its fine steelwork, cookware and spices suited to a regional specialty dish, or a musical instrument tied to a clearing's heritage. Whatever equipment you leave behind is of no further use to you, and you become a walking tapestry of the Woodland with each new acquisition.
+
+#drives

@@ -1,3 +1,5 @@
 **Advance when you express or embody your moral principles at great cost to yourself or your allies.**
 
 "Your moral principles" have to be real—no "but my moral principles say it's fine to steal from anyone at any time!" By choosing this drive, you are saying your character has real moral principles, a code of conduct that matters to them. You don't have to outline every aspect of their principles, but at character creation you should have a notion of some overriding principle that matters to your character—"Violence is never justified," "The poor deserve as much succor as we can give," "Democracy is the only fair mode of government." "Express or embody your moral principles at great cost to yourself or your allies" means that your principles dictated your action, and because of those actions you and your friends paid a meaningful price.
+
+#drives

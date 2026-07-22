@@ -1,3 +1,5 @@
 **Name a faction. Advance when you successfully complete a mission given to you by an important member of that faction.**
 
 As a vagabond, you are a deniable asset for each faction but your outsider status means you're never truly seen as one of them. By taking this drive, you indicate you've taken a clear side as a dedicated freelancer for a particular side of the War. "An important member" of a faction must hold some position of power or influence, and the most obvious way to pursue this drive is to *meet someone important* and ask for (or be given) an assignment. Missions must be "given"—you can't assign yourself a mission, so be sure to talk to important representatives of your chosen faction often! For the MC, "a mission" can be just about anything but it should either advance the goals of the vagabond's chosen faction, or the personal goals of whoever gave you the task. A mission is complete when all of its objectives are met, whether or not you immediately report back to your handler.
+
+#drives

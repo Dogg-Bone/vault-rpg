@@ -1,3 +1,5 @@
 **Advance when you prove a local folktale or legend true or false.**
 
 Every clearing has its own stories of local flora, fauna, and phenomena that bring a chill or smile (or both) to adult and child alike. Who else but a vagabond can discover the truth behind these stories? While this drive overlaps a bit with Mysteries, you are more interested in things rooted in a clearing's history and thus in a clearing's identity. Denizens may be invested, too invested, in proving the folktale true or false, and some people may already know the truth and want it suppressed. Regardless, accomplishing the drive requires you to talk to the denizens, get their takes on the tale, and discover the importance it has to the clearing. That said, the folklore that interests you tends to be spooky, strange, and/or dangerous, otherwise where is the challenge? Lastly, the evidence you find must definitively prove things one way or the other; lack of evidence doesn't prove something didn't happen.
+
+#drives

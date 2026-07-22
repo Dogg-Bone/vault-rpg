@@ -1,3 +1,5 @@
 **Advance when you help a clearing discover and claim a valuable natural resource.**
 
 Clearings, while mostly self-sufficient, always need a means to expand or to save for lean times. The more replenishable resources a clearing possesses, the greater the clearing's chances of surviving a harsh winter, natural disaster, or invasion of hostile soldiers. Yet denizens tend to be too busy dealing with their own immediate needs to search the forest for resources. This is where vagabonds can be helpful! The natural resource has to be something found in the forest that isn't otherwise available to any other clearing (trees don't count, for example). It can't be claimed by another clearing either. It can be a hot spring, an underground river, a vein of ore, or even a rare fruit or berry patch. In other words, the resource must have the potential to change the fortunes of the clearing—a single chunk of iron isn't enough. Finally, note that you must delve into the forest to find these resources; you won't find what you're looking for on a well-worn path between the clearings.
+
+#drives
