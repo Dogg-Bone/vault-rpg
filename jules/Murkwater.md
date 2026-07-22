@@ -17,9 +17,9 @@ Vagabonds arriving in the clearing will immediately notice the stark contrast in
 The Marquise de Cat are determined to forge the finest soldiers in the woodland within the swamp's crucible, but their absolute control is threatened by a brazen expedition of Keepers in Iron. The Keepers have set up camp near a set of ancient ruins alarmingly close to the clearing's edge, completely ignoring Marquisate decrees to vacate. The Marquise commander cannot spare the troops for a full-scale assault without halting the vital training program, but the Keepers' presence is an unacceptable breach of authority.
 *How it Develops:* If the vagabonds never arrive, the Marquise paranoia will peak, leading to a disastrous preemptive strike against the heavily armored Keepers. The resulting battle will devastate the clearing, catching the innocent mouse denizens in the crossfire.
 
-**Side Conflict: A Fiery Proposal**
-A contingent of the Lord of Hundreds has slipped into the deeper swamps, establishing a hidden encampment. They are actively seeking a collaboration with the local Marquisate forces, hoping to combine their fanatic numbers with the cats' elite training to crush a mutual Eyrie Dynasties enemy in a neighboring clearing.
-*How it Develops:* Without intervention, the Marquisate commander might actually accept the desperate alliance, introducing chaotic Lord of Hundreds arsonists into the disciplined ranks, which will inevitably lead to violent betrayals and mutiny from within the garrison.
+**Side Conflict: A Desperate Proposal**
+A contingent of the Lord of Hundreds has slipped into the deeper swamps, establishing a hidden encampment. They are actively seeking a collaboration with the local Marquisate forces, hoping to combine their fanatic numbers and scavenged scrap with the cats' elite training to crush a mutual Eyrie Dynasties enemy in a neighboring clearing.
+*How it Develops:* Without intervention, the Marquisate commander might actually accept the desperate alliance, introducing chaotic, undisciplined mobs into the rigid ranks, which will inevitably lead to violent betrayals and mutiny from within the garrison.
 
 ### Important Locations
 **The Command Center (Formerly Reed Manor)**
@@ -32,12 +32,12 @@ A massive expanse of mud, stagnant water, and lethal obstacle courses carved out
 Located just past the clearing's eastern border, massive, moss-covered stone ziggurats slowly sink into the deepest part of the swamp. The air here is unnaturally still, broken only by the rhythmic clinking of the Keepers in Iron's excavation tools. The ruins possess an oppressive, ancient weight, and the Keepers have rigged complex pulley systems and sturdy iron scaffolding to delve into the flooded, pitch-black chambers below.
 
 **The Lord of Hundreds Encampment**
-Hidden within a dense grove of weeping willows and bioluminescent mushrooms, this makeshift camp is chaotic and smells strongly of sulfur and unwashed bodies. The atmosphere is twitchy and paranoid. Scavenged scrap metal and bone totems hang from the branches, and a heavily guarded, smokeless fire burns in the center, around which the Warlord's envoys anxiously plot their diplomatic overtures.
+Hidden within a dense grove of weeping willows and bioluminescent mushrooms, this makeshift camp is chaotic and smells strongly of rusted iron and unwashed bodies. The atmosphere is twitchy and paranoid. Scavenged scrap metal, mismatched armor pieces, and bone totems hang from the branches, and a heavily guarded pile of looted relics sits in the center, around which the Warlord's envoys anxiously plot their diplomatic overtures.
 
 ### Notable NPCs
 - [[Chevalier Ardent]] (Marquise de Cat Training Commander)
 - [[Barek]] (Keepers in Iron Expedition Leader)
-- [[Scorcher Cinderpaw]] (Lord of Hundreds Envoy)
+- [[Scrapper Rustpaw]] (Lord of Hundreds Envoy)
 - [[Elara Reed]] (Displaced Mouse Aristocrat)
 
 ### Special Resource / Rules
@@ -53,11 +53,11 @@ Hidden within a dense grove of weeping willows and bioluminescent mushrooms, thi
 ### Rumors, Secrets & Hooks
 - *The Sunken Relic:* The Keepers in Iron aren't just exploring; they are close to unearthing a pre-Dynastic pneumatic weapon capable of destroying the Command Center in a single blast.
 - *The Hidden Ledger:* Elara Reed knows the location of her family's hidden treasury, buried deep under the Command Center, but she needs mercenaries reckless enough to infiltrate the heavily guarded Marquisate HQ to retrieve it.
-- *The Scorcher's Bluff:* The Lord of Hundreds envoy is actually acting independently, without the Warlord's blessing. If the Marquisate discovers this, they will execute the envoy on the spot, triggering a massive, retaliatory mob invasion.
+- *The Scrapper's Bluff:* The Lord of Hundreds envoy is actually acting independently, without the Warlord's blessing. If the Marquisate discovers this, they will execute the envoy on the spot, triggering a massive, retaliatory mob invasion.
 
 ### First Session Encounters (2d6)
 - **2-3:** A panicked, mud-soaked Marquise recruit attempts to desert the Training Grounds, begging the vagabonds for help hiding from their pursuing drill instructors.
 - **4-6:** A heavily armed Keepers in Iron patrol aggressively stops the vagabonds, demanding they surrender any relics or metal scrap they carry "for the greater good."
 - **7-9:** The vagabonds witness a brutal eviction as Marquise soldiers forcefully throw a family of mice out of their home to convert it into a munitions storehouse.
-- **10-11:** Scorcher Cinderpaw corners the vagabonds in a misty alleyway, offering them a hefty pouch of salvaged coins to deliver a sealed, incendiary "diplomatic" letter to Chevalier Ardent.
+- **10-11:** Scrapper Rustpaw corners the vagabonds in a misty alleyway, offering them a hefty pouch of salvaged coins to deliver a sealed, threatening "diplomatic" letter wrapped in rusty wire to Chevalier Ardent.
 - **12:** An ancient, dormant trap in the nearby ruins is triggered by the Keepers, causing a localized earthquake that partially collapses a section of the Marquise Command Center into the muck.
