@@ -102,3 +102,16 @@ Sorted by weight, low to high. In the Root RPG setting, these large animals serv
 - **Habitat / Territory:** Vast open steppes and massive woodlands; continuously nomadic.
 - **Social Structure:** Travel in small, earth-shaking herds.
 - **Description:** Larger even than a moose, the Wood Bison is a walking mountain. They are nomadic behemoths that reshape the geography as they migrate. Whole ecosystems of scavengers might live upon their matted fur. They are indifferent to the squabbles of the woodland denizens, representing the unstoppable, grinding force of nature itself.
+
+---
+
+## Size and Scale Comparison
+
+In the Root RPG, standard woodland denizens (mice, rabbits, foxes, cats, and birds) are roughly human-sized relative to their own society, architecture, and the trees that make up their clearings. This drastically shifts the scale when encountering "giant" bugs or true "Large Animals," creating a terrifying sense of monstrosity.
+
+* **Woodland Denizens:** The baseline. A mouse or cat vagabond is the "human" equivalent, standing maybe a few feet tall in absolute terms but considered average height for this world.
+* **Giant Insects:** Creatures like Giant Centipedes (6–10 feet long), Giant Hornets (large enough to carry off livestock or a denizen), and Giant Fire Ants (whose swarms can swallow entire burrows) act as the standard "monstrous beasts" or dire animals of the setting. They are significantly larger than the denizens, akin to a human fighting a horse-sized spider or a wolf-sized wasp.
+* **Trolls & Nymphs (Deer, Black Bears):** These creatures tower over the denizens, standing anywhere from 15 to 25 feet tall. A Black Bear is large enough to span an entire bridge or block a cavern entrance with its body, while a Deer's spindly legs might be as thick as a young sapling.
+* **Giants & Golems (Grizzly Bears, Oxen, Elk):** Standing between 30 and 50 feet tall, these creatures are the size of multi-story buildings or castle keeps. An Ox can smash through a stone gatehouse effortlessly, and a Grizzly Bear can stand toe-to-toe with the oldest, thickest oak trees in a clearing.
+* **Dragons & Leviathans (Moose, Crocodiles):** Reaching lengths or heights of 60 to 100 feet. A Crocodile is easily the length of three Riverfolk trading barges lined up end-to-end, while a Moose's antlers could shadow an entire bustling town square.
+* **Titans & Behemoths (Polar Bears, Wood Bison):** These creatures are on a scale that defies standard architecture, acting more like moving geography. They are hundreds of feet tall or long. A Wood Bison migrating through a clearing doesn't just destroy the town; its footsteps permanently alter the valley's topography, uprooting the ancient trees that the denizens build their homes upon.
