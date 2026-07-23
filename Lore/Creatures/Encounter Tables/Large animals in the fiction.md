@@ -105,13 +105,64 @@ Sorted by weight, low to high. In the Root RPG setting, these large animals serv
 
 ---
 
+## Other Potential Monstrous Roles
+
+While the animals above fill many traditional RPG niches, the woodland ecosystem is vast. Below are examples of other large creatures that could be introduced to fill roles not currently covered:
+
+### [[Wild Boar]]
+- **Analogy / Role:** Orc Warlord or Berserker
+- **Form:** Bipedal Humanoid (Squat, heavily muscled, and tusks protruding)
+- **Intelligence:** Low Sapience (Brutish, understands combat tactics and intimidation)
+- **Alignment:** Chaotic Evil
+- **Habitat / Territory:** Muddy valleys and dense scrublands; aggressively territorial.
+- **Social Structure:** Roam in violent, chaotic warbands (sounders).
+- **Description:** Filling the role of standard marauding greenskins or berserkers, Wild Boars are relentless, heavily armored bruisers. They are too aggressive to barter with like Black Bears and too numerous to handle like a solitary Grizzly. They crash through the woodlands, destroying crops and raiding clearings purely for the thrill of destruction.
+
+### [[Snapping Turtle]]
+- **Analogy / Role:** Dragon-Turtle or Otyugh
+- **Form:** Primal Beast (Massive, crag-shelled amphibious tank)
+- **Intelligence:** Sluggish Animalistic Instinct
+- **Alignment:** True Neutral
+- **Habitat / Territory:** Deep bogs and the murky bottoms of lakes; sedentary ambush predator.
+- **Social Structure:** Solitary.
+- **Description:** Filling the role of a stationary, armored hazard or a garbage-eating swamp monster (Otyugh), Snapping Turtles disguise themselves as mossy boulders or small islands in the wetlands. They do not hunt actively like crocodiles; instead, they wait for decades in one spot until a traveler—or a Riverfolk skiff—gets too close to their massive jaws.
+
+### [[Bullfrog]]
+- **Analogy / Role:** Kelpie, Siren, or Deep-One
+- **Form:** Bipedal / Amphibious Hybrid (Bloated, with mesmerizing vocal sacs)
+- **Intelligence:** Semi-sapient (Capable of mimicking voices and songs)
+- **Alignment:** Neutral Evil
+- **Habitat / Territory:** Fog-choked swamps and flooded grottos; highly territorial.
+- **Social Structure:** Loose, croaking congregations in the deep muck.
+- **Description:** Bullfrogs fill the role of the deceptive siren or swamp hag. They are enormous amphibians that use deep, resonant, and almost hypnotic croaks to disorient travelers in the fog. Some are rumored to perfectly mimic the cries of lost vagabonds to lure rescuers directly into the deep, sucking mud where they feed.
+
+### [[Armadillo]]
+- **Analogy / Role:** Bulette (Landshark) or Basilisk
+- **Form:** Primal Beast (Heavily armored, subterranean terror)
+- **Intelligence:** Predatory Animalistic Instinct
+- **Alignment:** True Neutral
+- **Habitat / Territory:** Arid borders and loose, sandy soil; nomadic burrower.
+- **Social Structure:** Solitary.
+- **Description:** Armadillos are the subterranean horrors of the setting, acting like the classic D&D Bulette. They are massive, armored beasts that burrow just beneath the surface of the earth, causing localized earthquakes. They surface violently to consume roots, unfortunate burrowing denizens, or entire merchant wagons before rolling into an impenetrable, razor-edged ball if threatened.
+
+### [[Cougar]] / Mountain Lion
+- **Analogy / Role:** Manticore or Sphinx
+- **Form:** Bipedal Humanoid or Quadrupedal Beast (Sleek, regal, and terrifyingly fast)
+- **Intelligence:** High Sapience (Arrogant, calculating, and fond of games/riddles)
+- **Alignment:** Lawful Evil
+- **Habitat / Territory:** High rocky peaks and canyon overlooks; claims massive hunting domains.
+- **Social Structure:** Solitary apex predator.
+- **Description:** Cougars fill the role of the arrogant, hyper-lethal apex monster like a Sphinx or Manticore. They possess a terrifying intellect and view the woodland denizens as amusing playthings rather than mere food. A Cougar might stalk a vagabond party for days, occasionally speaking from the shadows to test their wits or demand tribute, attacking only if bored or insulted.
+
+---
+
 ## Size and Scale Comparison
 
 In the Root RPG, standard woodland denizens (mice, rabbits, foxes, cats, and birds) are roughly human-sized relative to their own society, architecture, and the trees that make up their clearings. This drastically shifts the scale when encountering "giant" bugs or true "Large Animals," creating a terrifying sense of monstrosity.
 
 * **Woodland Denizens:** The baseline. A mouse or cat vagabond is the "human" equivalent, standing maybe a few feet tall in absolute terms but considered average height for this world.
 * **Giant Insects:** Creatures like Giant Centipedes (6–10 feet long), Giant Hornets (large enough to carry off livestock or a denizen), and Giant Fire Ants (whose swarms can swallow entire burrows) act as the standard "monstrous beasts" or dire animals of the setting. They are significantly larger than the denizens, akin to a human fighting a horse-sized spider or a wolf-sized wasp.
-* **Trolls & Nymphs (Deer, Black Bears):** These creatures tower over the denizens, standing anywhere from 15 to 25 feet tall. A Black Bear is large enough to span an entire bridge or block a cavern entrance with its body, while a Deer's spindly legs might be as thick as a young sapling.
+* **Trolls & Nymphs (Deer, Black Bears, Boars):** These creatures tower over the denizens, standing anywhere from 15 to 25 feet tall. A Black Bear is large enough to span an entire bridge or block a cavern entrance with its body, while a Deer's spindly legs might be as thick as a young sapling.
 * **Giants & Golems (Grizzly Bears, Oxen, Elk):** Standing between 30 and 50 feet tall, these creatures are the size of multi-story buildings or castle keeps. An Ox can smash through a stone gatehouse effortlessly, and a Grizzly Bear can stand toe-to-toe with the oldest, thickest oak trees in a clearing.
 * **Dragons & Leviathans (Moose, Crocodiles):** Reaching lengths or heights of 60 to 100 feet. A Crocodile is easily the length of three Riverfolk trading barges lined up end-to-end, while a Moose's antlers could shadow an entire bustling town square.
 * **Titans & Behemoths (Polar Bears, Wood Bison):** These creatures are on a scale that defies standard architecture, acting more like moving geography. They are hundreds of feet tall or long. A Wood Bison migrating through a clearing doesn't just destroy the town; its footsteps permanently alter the valley's topography, uprooting the ancient trees that the denizens build their homes upon.
