@@ -154,6 +154,45 @@ While the animals above fill many traditional RPG niches, the woodland ecosystem
 - **Social Structure:** Solitary apex predator.
 - **Description:** Cougars fill the role of the arrogant, hyper-lethal apex monster like a Sphinx or Manticore. They possess a terrifying intellect and view the woodland denizens as amusing playthings rather than mere food. A Cougar might stalk a vagabond party for days, occasionally speaking from the shadows to test their wits or demand tribute, attacking only if bored or insulted.
 
+### Giant Insects and Arthropods
+Insects also play a massive role as monstrous threats. While ants, hornets, and centipedes are common terrors, the following represent more specialized monstrous niches:
+
+#### [[Giant Praying Mantis]]
+- **Analogy / Role:** Displacer Beast or Assassin Bug
+- **Form:** Towering Insectoid (Bladed forelimbs and camouflaged carapace)
+- **Intelligence:** Cunning Predatory Instinct
+- **Alignment:** Lawful Evil (Patient and methodical)
+- **Habitat / Territory:** Dense canopies and overgrown thickets; highly territorial.
+- **Social Structure:** Solitary ambush hunters.
+- **Description:** Standing the height of two denizens with scythe-like arms, the Praying Mantis is a perfectly camouflaged assassin. They mimic the sway of branches in the wind, striking with blinding speed to decapitate their prey. Factions dread marching through Mantis territory, as soldiers simply vanish from the rear guard without a sound.
+
+#### [[Giant Antlion]]
+- **Analogy / Role:** Sarlacc or Roper
+- **Form:** Primal Insectoid (Burrowed larval horror with massive mandibles)
+- **Intelligence:** Mindless Animalistic Instinct
+- **Alignment:** True Neutral (Hungry)
+- **Habitat / Territory:** Sandy clearings, dry riverbeds, or ruins; creates massive funnel traps.
+- **Social Structure:** Solitary.
+- **Description:** The Antlion larva creates treacherous, shifting sand pits along established paths. When a merchant wagon or traveler slips on the loose dirt, the Antlion hurls sand from the bottom of the pit to trigger a localized avalanche, dragging its prey down into crushing mandibles hidden beneath the soil.
+
+#### [[Giant Bombardier Beetle]]
+- **Analogy / Role:** Artillery Beast or Lesser Dragon (Breath Weapon)
+- **Form:** Heavily Armored Quadrupedal Insectoid
+- **Intelligence:** Stubborn Animalistic Instinct
+- **Alignment:** True Neutral
+- **Habitat / Territory:** Rocky scrublands and dry canyons; nomadic wanderer.
+- **Social Structure:** Often found in mated pairs.
+- **Description:** The Bombardier Beetle is a walking siege engine, fiercely sought after by factions like the Lord of Hundreds. When threatened, it sprays a jet of boiling, caustic chemical liquid that melts armor, flesh, and even light fortifications. Harvesting its volatile chemical sacs is incredibly dangerous but highly lucrative.
+
+#### [[Giant Tick]]
+- **Analogy / Role:** Vampire or Stirge (Swarm)
+- **Form:** Parasitic Arthropod (Bloated and leathery)
+- **Intelligence:** Parasitic Instinct
+- **Alignment:** Neutral Evil
+- **Habitat / Territory:** Overgrown ruins and tall grasses; infests specific dark areas.
+- **Social Structure:** Swarms or solitary giant parasites.
+- **Description:** A horrifying parasite that drops from the ceilings of ancient ruins or tall grass, the Giant Tick latches onto denizens and rapidly drains their vitality. A single giant tick can drain a vagabond dry in minutes, leaving only a shriveled husk. They are stealthy, nearly silent, and incredibly difficult to detach once their jaws lock in place.
+
 ---
 
 ## Size and Scale Comparison
@@ -161,7 +200,7 @@ While the animals above fill many traditional RPG niches, the woodland ecosystem
 In the Root RPG, standard woodland denizens (mice, rabbits, foxes, cats, and birds) are roughly human-sized relative to their own society, architecture, and the trees that make up their clearings. This drastically shifts the scale when encountering "giant" bugs or true "Large Animals," creating a terrifying sense of monstrosity.
 
 * **Woodland Denizens:** The baseline. A mouse or cat vagabond is the "human" equivalent, standing maybe a few feet tall in absolute terms but considered average height for this world.
-* **Giant Insects:** Creatures like Giant Centipedes (6–10 feet long), Giant Hornets (large enough to carry off livestock or a denizen), and Giant Fire Ants (whose swarms can swallow entire burrows) act as the standard "monstrous beasts" or dire animals of the setting. They are significantly larger than the denizens, akin to a human fighting a horse-sized spider or a wolf-sized wasp.
+* **Giant Insects:** Creatures like Giant Centipedes (6–10 feet long), Giant Praying Mantises (roughly 10 feet tall), and Giant Fire Ants (whose swarms can swallow entire burrows) act as the standard "monstrous beasts" or dire animals of the setting. They are significantly larger than the denizens, akin to a human fighting a horse-sized spider or a wolf-sized wasp.
 * **Trolls & Nymphs (Deer, Black Bears, Boars):** These creatures tower over the denizens, standing anywhere from 15 to 25 feet tall. A Black Bear is large enough to span an entire bridge or block a cavern entrance with its body, while a Deer's spindly legs might be as thick as a young sapling.
 * **Giants & Golems (Grizzly Bears, Oxen, Elk):** Standing between 30 and 50 feet tall, these creatures are the size of multi-story buildings or castle keeps. An Ox can smash through a stone gatehouse effortlessly, and a Grizzly Bear can stand toe-to-toe with the oldest, thickest oak trees in a clearing.
 * **Dragons & Leviathans (Moose, Crocodiles):** Reaching lengths or heights of 60 to 100 feet. A Crocodile is easily the length of three Riverfolk trading barges lined up end-to-end, while a Moose's antlers could shadow an entire bustling town square.
