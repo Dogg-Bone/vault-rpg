@@ -137,14 +137,64 @@ here's what I love most about Laban: none of this requires more prep. you don't 
 
 ## Chekhov
 ### Scenes
-if your goal is to make scenes feel coherent and distinct without walls of description first before the scene pick one atmosphere word melancholy feverish brittle festive suffocating suspicious hollow sacred then choose your details and pacing based on your word so a melancholy forest might have bowed branches soggy leaves sounds swallowed by fog a feverish market might be too many voices bright colors arguments that flare and vanish or a brittle throne room polished floors tight smiles every word feels like it might crack then use two to three sensory details then stop don't lecture drop a few cues and then move on for example in a tavern the atmosphere is suspicious when you step inside the conversations don't stop but they bend voices dip a pair of dice clacks onto the floor and just stays there the barkeep watches you a moment too long before pretending not to players feel the mood if your goal is to let players feel what an NPC is up to before you explain anything think of how the energy moves pressing forward insistent gliding smooth unbroken slightly eerie slashing sharp abrupt cutting or floating meandering dreamy first decide the NPC's current energy quality a guard captain interrogating he might be pressing a fay noble playing with mortals gliding an angry inquisitor slashing an absent-minded prophet floating next reflect that quality in your speech rhythm pressing no stop listen you were at the docks after midnight three nights in a row why or maybe gliding oh you poor little things you've wandered so far so far from home and now you've stepped right into our dance longer phrases no hard edges and it flows here's a simple recipe for any big encounter combat negotiation or revelation first pick an atmosphere for the scene so suffocating electric reverent frantic then pick a psychological gesture for the scene itself think of what the environment is doing emotionally an alleyway is closing in a cathedral is lifting upward a forbidden archive is pulling deeper or a battlefield is tearing apart next pick a gesture or energy quality for the key NPC or monster reaching a demon might be crushing a ghost might be withdrawing a knight is pressing then start the scene with one strong image that fits all three so for example a haunted archive the atmosphere is hushed dread and the scene gesture is pulling deeper and the ghost scholar is withdrawing the shelves here don't stand in rows so much as they lean toward a single black doorway at the back like old men straining to hear a secret as you enter your footsteps feel too loud a figure in a motheaten robe notices you and then recoils as if the sight of you stings from there you just keep pulling deeper in your descriptions and let the ghost's withdrawal shape how it talks
+
+If your goal is to make scenes feel coherent and distinct without walls of description, first, before the scene, pick one atmosphere word: **melancholy**, **feverish**, **brittle**, **festive**, **suffocating**, **suspicious**, **hollow**, or **sacred**.
+
+Then choose your details and pacing based on your word. So, a **melancholy** forest might have bowed branches, soggy leaves, and sounds swallowed by fog. A **feverish** market might be too many voices, bright colors, and arguments that flare and vanish. Or a **brittle** throne room: polished floors, tight smiles, and every word feels like it might crack. Then use two to three sensory details, then stop. Don't lecture, drop a few cues, and then move on.
+
+For example, in a tavern the atmosphere is **suspicious**: "When you step inside, the conversations don't stop, but they bend. Voices dip. A pair of dice clacks onto the floor and just stays there. The barkeep watches you a moment too long before pretending not to." Players feel the mood.
+
+If your goal is to let players feel what an NPC is up to before you explain anything, think of how the energy moves:
+- **Pressing forward:** insistent
+- **Gliding:** smooth, unbroken, slightly eerie
+- **Slashing:** sharp, abrupt, cutting
+- **Floating:** meandering, dreamy
+
+First decide the NPC's current energy quality. A guard captain interrogating? He might be **pressing**. A fey noble playing with mortals? **Gliding**. An angry inquisitor? **Slashing**. An absent-minded prophet? **Floating**.
+
+Next, reflect that quality in your speech rhythm:
+- **Pressing:** "No, stop, listen. You were at the docks after midnight, three nights in a row. Why?"
+- **Gliding:** "Oh, you poor little things. You've wandered so far, so far from home, and now you've stepped right into our dance..." (Longer phrases, no hard edges, and it flows).
+
+Here's a simple recipe for any big encounter (combat, negotiation, or revelation):
+1. **First, pick an atmosphere for the scene.** So, **suffocating**, **electric**, **reverent**, or **frantic**.
+2. **Then pick a psychological gesture for the scene itself.** Think of what the environment is doing emotionally. An alleyway is **closing in**, a cathedral is **lifting upward**, a forbidden archive is **pulling deeper**, or a battlefield is **tearing apart**.
+3. **Next, pick a gesture or energy quality for the key NPC or monster.** A demon might be **crushing**, a ghost might be **withdrawing**, a knight is **pressing**.
+4. **Then start the scene with one strong image that fits all three.**
+
+So for example, a haunted archive: the atmosphere is **hushed dread**, the scene gesture is **pulling deeper**, and the ghost scholar is **withdrawing**. "The shelves here don't stand in rows so much as they lean toward a single black doorway at the back, like old men straining to hear a secret. As you enter, your footsteps feel too loud. A figure in a moth-eaten robe notices you and then recoils as if the sight of you stings."
+
+From there you just keep **pulling deeper** in your descriptions and let the ghost's **withdrawal** shape how it talks.
 
 ## Laban
 ### Rhythm and phrasing
-this idea of turning combat into music first decide the core rhythm of the fight before you think about monsters terrain or tactics decide what this fight might feel like over time is it frantic crushing coiled and waiting sudden and shocking think in musical terms rather than mechanical ones this of course can change based on player decisions this is just a starting place or maybe a different way of thinking about encounter design ask yourself one simple question does this fight feel like rapid percussion slow bass a rising crescendo or long unsettling pauses so for example a swarm fight might be fast relentless staccato a giant monster might feel slow heavy and deliberate an assassin the fight might feel silence punctuated by sudden violence next assign each major enemy a rhythm style give each enemy a rhythmic behavior not an attack routine but a timing identity do they act in bursts in steady pressure or in sudden reversals this alone prevents fights from blending together you can also think about designing encounters by rhythm first mechanics second once the rhythm is chosen you select creatures abilities terrains and tactics that support that tempo instead of thinking what cool attack should this monster have you can think how does this creature make time feel at the table
+
+This is the idea of turning combat into music. First, decide the core rhythm of the fight. Before you think about monsters, terrain, or tactics, decide what this fight might feel like over time. Is it **frantic**, **crushing**, **coiled and waiting**, or **sudden and shocking**? Think in musical terms rather than mechanical ones. This, of course, can change based on player decisions; this is just a starting place, or maybe a different way of thinking about encounter design.
+
+Ask yourself one simple question: "Does this fight feel like **rapid percussion**, **slow bass**, a **rising crescendo**, or **long unsettling pauses**?"
+
+For example:
+- A swarm fight might be fast, relentless, and staccato.
+- A giant monster might feel slow, heavy, and deliberate.
+- An assassin fight might feel like silence punctuated by sudden violence.
+
+Next, assign each major enemy a rhythm style. Give each enemy a rhythmic behavior, not an attack routine, but a timing identity. Do they act in **bursts**, in **steady pressure**, or in **sudden reversals**? This alone prevents fights from blending together.
+
+You can also think about designing encounters by rhythm first, mechanics second. Once the rhythm is chosen, you select creatures, abilities, terrains, and tactics that support that tempo. Instead of thinking, "What cool attack should this monster have?", you can think, "How does this creature make time feel at the table?"
 
 ### Shape flow
-shape flow this is tracking power over time shape Flow lets you show how power evolves instead of just stating that something gets worse first identify what kind of power you're describing before you think about visuals or mechanics decide what force is present in the scene is this necroantic magic divine authority political control fear corruption hope or social influence you're defining what kind of energy is in motion for example in a crypt scene the dominant force might be death and lingering will in a throne room it might be authority and control next choose how that power moves over time and now decide the shape of its movement ask yourself a simple question does this energy rise spread condense fracture stagnate or sink political power might condense slowly over months fear might spread fast and then sink into quiet dread you only need one clear direction for the scene so for example you decide the necroantic energy in a ruined chapel is condensing and sinking you describe the environment reacting to that flow before describing the effect instead of saying "A necromancer casts a spell show how the flow reshapes the space." Let the players feel the power migrating for example the air stills as if a deep breath is being held dust that should be drifting begins to settle faster tugged downward shadows thicken along the floor pooling like spilled ink when the bodies begin to rise they don't spring upward they drag themselves loose as if hauled from deep water you haven't said necromancy but everyone at the table knows or at least suspects what kind of power just entered the room
+
+Shape flow is tracking power over time. Shape flow lets you show how power evolves instead of just stating that something gets worse.
+
+First, identify what kind of power you're describing. Before you think about visuals or mechanics, decide what force is present in the scene. Is this **necromantic magic**, **divine authority**, **political control**, **fear**, **corruption**, **hope**, or **social influence**? You're defining what kind of energy is in motion. For example, in a crypt scene, the dominant force might be death and lingering will. In a throne room, it might be authority and control.
+
+Next, choose how that power moves over time, and now decide the shape of its movement. Ask yourself a simple question: "Does this energy **rise**, **spread**, **condense**, **fracture**, **stagnate**, or **sink**?" Political power might condense slowly over months; fear might spread fast and then sink into quiet dread. You only need one clear direction for the scene.
+
+So for example, you decide the **necromantic energy** in a ruined chapel is **condensing** and **sinking**. You describe the environment reacting to that flow before describing the effect. Instead of saying, "A necromancer casts a spell," show how the flow reshapes the space. Let the players feel the power migrating.
+
+For example: "The air stills as if a deep breath is being held. Dust that should be drifting begins to settle faster, tugged downward. Shadows thicken along the floor, pooling like spilled ink. When the bodies begin to rise, they don't spring upward, they drag themselves loose as if hauled from deep water."
+
+You haven't said necromancy, but everyone at the table knows, or at least suspects, what kind of power just entered the room.
 
 ## Effort States
 effort states are a way that you give an entire scene, faction, dungeon wing, or story arc a shared emotional language. instead of deciding every creature individually, you decide the dominant emotional motion of the situation.
