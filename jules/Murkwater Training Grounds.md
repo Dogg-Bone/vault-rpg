@@ -32,4 +32,4 @@ The area is teeming with exhausted Marquise feline recruits and their loud, unfo
 ### Loot & Resources
 - *Healer's Salve:* A tin of strong-smelling ointment from the Quartermaster's tent. (Clear 2-Depletion when used to treat wounds, 1-Wear)
 - *Weighted Training Sword:* A blunt, exceptionally heavy metal sword used for strength training. (1-Harm, 3-Wear, Clumsy)
-- *Instructor's Whistle:* A loud, piercing silver whistle used to command recruits. (Value: 1, +valuable)
+- *Instructor's Whistle:* A loud, piercing silver whistle used to command recruits. (Value: 1, Identifiable)

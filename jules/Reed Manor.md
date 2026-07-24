@@ -30,6 +30,6 @@ The manor is heavily guarded by Marquise de Cat shock troops, commanded by Cheva
 - *The Defaced Portrait:* The defaced portrait in the Commandant's office conceals a hidden switch that disables the mechanical alarm system for the armory.
 
 ### Loot & Resources
-- *Marquise Forged Halberd:* A sturdy, well-crafted weapon used by shock troops. (2-Harm, Range, 2-Wear)
-- *Commandant's Ledger:* A detailed record of Marquisate operations, troop movements, and supply lines in Murkwater. (Value: 2-3 to the right faction, +valuable)
-- *Reed Family Heirloom:* A delicate, silver-inlaid music box found in the hidden treasury. (Value: 3, +valuable, +fragile)
+- *Marquise Forged Halberd:* A sturdy, well-crafted weapon used by shock troops. (2-Harm, Reach, 2-Wear)
+- *Commandant's Ledger:* A detailed record of Marquisate operations, troop movements, and supply lines in Murkwater. (Value: 2-3 to the right faction, Incriminating)
+- *Reed Family Heirloom:* A delicate, silver-inlaid music box found in the hidden treasury. (Value: 3, Coveted, Fragile)

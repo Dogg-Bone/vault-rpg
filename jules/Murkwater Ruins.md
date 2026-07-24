@@ -30,6 +30,6 @@ The ruins are occupied by an aggressive expedition of the Keepers in Iron, led b
 - *The Vat Release:* A hidden sequence of stone panels near the jammed metal vault door in the Undercroft acts as a master purge valve for the mechanical preservation systems; triggering it could drain the vats or flood the chamber with toxic preservative fluid.
 
 ### Loot & Resources
-- *Keeper's Heavy Pick:* A specialized, steel-headed excavation tool. (1-Harm, 2-Wear, +heavy, +tool)
-- *Vat Preservative Syringe:* A strange, intricately machined brass syringe filled with an unknown ancient alchemical fluid from the deep chamber. (Value: 3, +valuable, +relic)
-- *Waterlogged Keeper's Journal:* A soggy notebook detailing the Keepers' translation of the ancient ruins' purpose and their growing horror at what the vats contain. (Value: 2 to a scholar, +valuable)
+- *Keeper's Heavy Pick:* A specialized, steel-headed excavation tool. (1-Harm, 2-Wear, Weighty)
+- *Vat Preservative Syringe:* A strange, intricately machined brass syringe filled with an unknown ancient alchemical fluid from the deep chamber. (Value: 3, Coveted, Eerie)
+- *Waterlogged Keeper's Journal:* A soggy notebook detailing the Keepers' translation of the ancient ruins' purpose and their growing horror at what the vats contain. (Value: 2 to a scholar, Coveted)
