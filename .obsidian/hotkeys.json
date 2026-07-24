@@ -48,5 +48,14 @@
       ],
       "key": "'"
     }
-  ]
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }
