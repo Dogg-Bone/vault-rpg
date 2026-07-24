@@ -30,6 +30,6 @@ The camp is occupied by a contingent of the Lord of Hundreds, mostly consisting 
 - *The Hidden Arsenal:* A partially buried, hollowed-out log near the perimeter contains a cache of stolen Marquisate black powder, meant to be used if the diplomatic overtures fail.
 
 ### Loot & Resources
-- *Scavenged Scrap Armor:* A mismatched, noisy set of armor made from pots, pans, and rusted plates. (1-Armor, 3-Wear, Clumsy, Noisy)
-- *Rusted Pre-Dynastic Gear:* A strange, heavy mechanical part from the Hoard. (Value: 2, Coveted, Weighty)
-- *Forged Diplomatic Seal:* A crude but convincing replica of the Warlord's seal found in the Envoy's Tent. (Value: 1, Incriminating)
+- *Scavenged Scrap Armor:* A mismatched, noisy set of armor made from pots, pans, and rusted plates. (1-Armor, 3-Wear, [[Clumsy]], [[Noisy]])
+- *Rusted Pre-Dynastic Gear:* A strange, heavy mechanical part from the Hoard. (Value: 2, [[Coveted]], [[Weighty]])
+- *Forged Diplomatic Seal:* A crude but convincing replica of the Warlord's seal found in the Envoy's Tent. (Value: 1, [[Incriminating]])
