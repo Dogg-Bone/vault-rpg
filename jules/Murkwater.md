@@ -22,17 +22,17 @@ A contingent of the Lord of Hundreds has slipped into the deeper swamps, establi
 *How it Develops:* Without intervention, the Marquisate commander might actually accept the desperate alliance, introducing chaotic, undisciplined mobs into the rigid ranks, which will inevitably lead to violent betrayals and mutiny from within the garrison.
 
 ### Important Locations
-**The Command Center (Formerly Reed Manor)**
-Once the grandest mouse manor in Murkwater, this leaning, three-story wooden structure is now the nerve center of the Marquise occupation. The delicate carved wooden arches have been boarded up and reinforced with iron plating. Inside, the air is suffocatingly hot and smells of cheap cigars and wet fur. Maps of the swamp are pinned to the walls with daggers, and heavy feline guards stand at every choke point, their armor gleaming in the dim lamplight.
+**[[Reed Manor]]**
+Once the grandest mouse manor in Murkwater, this leaning, three-story wooden structure is now the nerve center of the Marquise occupation.
 
-**The Training Grounds**
-A massive expanse of mud, stagnant water, and lethal obstacle courses carved out of the dense swamp thicket. The atmosphere here is one of relentless, grueling exhaustion. Barbed wire, deep mud pits, and swinging logs create a brutal landscape where feline recruits are pushed past their breaking points. The constant shouting of drill instructors and the splashing of exhausted soldiers drown out the natural sounds of the swamp.
+**[[Murkwater Training Grounds]]**
+A massive expanse of mud, stagnant water, and lethal obstacle courses where the Marquise forces their feline recruits through a brutal crucible of training.
 
-**The Sunken Ruins**
-Located just past the clearing's eastern border, massive, moss-covered stone ziggurats slowly sink into the deepest part of the swamp. The air here is unnaturally still, broken only by the rhythmic clinking of the Keepers in Iron's excavation tools. The ruins possess an oppressive, ancient weight, and the Keepers have rigged complex pulley systems and sturdy iron scaffolding to delve into the flooded, pitch-black chambers below.
+**[[Murkwater Ruins]]**
+Massive, moss-covered stone ziggurats slowly sinking into the deepest part of the swamp, currently being forcefully excavated by the Keepers in Iron.
 
-**The Lord of Hundreds Encampment**
-Hidden within a dense grove of weeping willows and bioluminescent mushrooms, this makeshift camp is chaotic and smells strongly of rusted iron and unwashed bodies. The atmosphere is twitchy and paranoid. Scavenged scrap metal, mismatched armor pieces, and bone totems hang from the branches, and a heavily guarded pile of looted relics sits in the center, around which the Warlord's envoys anxiously plot their diplomatic overtures.
+**[[Hundreds Murkwater Encampment]]**
+A chaotic, makeshift camp hidden within a grove of weeping willows where a twitchy contingent of the Lord of Hundreds plots an unsanctioned alliance.
 
 ### Notable NPCs
 - [[Chevalier Ardent]] (Marquise de Cat Training Commander)
