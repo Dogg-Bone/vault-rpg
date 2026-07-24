@@ -1,0 +1,1 @@
+An annual day of tax collection established by the [[Eyrie Dynasties]]. Each year the Eyrie exact tribute from their subjects on or before the first day of Kraest.

@@ -1,5 +1,5 @@
 {
-  "autoParse": false,
+  "autoParse": true,
   "calendars": [
     {
       "name": "Dynastic Reckoning",
@@ -183,7 +183,28 @@
         "month": 0,
         "year": 842
       },
-      "events": [],
+      "events": [
+        {
+          "name": "Tithe Day",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 1,
+            "year": [
+              1,
+              1000
+            ]
+          },
+          "id": "ID_597acbe9389a",
+          "note": "Lore/World/Events/Tithe Day.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,
