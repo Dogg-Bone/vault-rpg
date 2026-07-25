@@ -7,14 +7,14 @@
 | Comfortable      | This item counts as 1 fewer Load.                                                                                                                          |
 | Eaglecraft       | Mark wear when engaging in melee to both make and suffer another exchange of harm.                                                                         |
 | Fast             | Mark wear when engaging in melee to suffer 1 fewer harm, even on a miss.                                                                                   |
-| Friendly         | When you meet someone important, mark exhaustion to roll with your Reputation +1.                                                                          |
+| Friendly         | When you [[Meet Someone Important|meet someone important]], mark exhaustion to roll with your Reputation +1.                                                                          |
 | Flexible         | When you grapple with someone, mark exhaustion to ignore the first choice they make.                                                                       |
 | Foxfolk steel    | Ignore the first box of wear you mark on this item each session.                                                                                           |
 | Heavy bludgeon   | Mark exhaustion to ignore your enemy’s armor when you inflict harm.                                                                                        |
 | Iron bolts       | This weapon inflicts 1 additional wear when its harm is absorbed by armor.                                                                                 |
 | Large            | Mark exhaustion when inflicting harm with this weapon to inflict 1 additional harm.                                                                        |
 | Luxury           | After creation, this item is worth +3-Value.                                                                                                               |
-| Mousefolk steel  | Mark wear to engage in melee using Cunning instead of Might.                                                                                               |
+| Mousefolk steel  | Mark wear to [[Engage in Melee|engage in melee]] using Cunning instead of Might.                                                                                               |
 | Quick            | Mark exhaustion to engage in melee with Finesse instead of Might.                                                                                          |
 | Rabbitfolk steel | Mark wear to engage in melee with Finesse instead of Might.                                                                                                |
 | Reach            | When you engage in melee, mark wear on this weapon to inflict harm instead of trading harm; you cannot use this tag if your enemy’s weapon also has reach. |
