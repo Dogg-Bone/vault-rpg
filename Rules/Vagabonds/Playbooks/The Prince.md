@@ -90,7 +90,7 @@ You get *Heirloom Weapon* & *Legacy*, then choose one more:
 | **Why did your parents raise you as a vagabond?** | **What happened to your parents?** |
 | :--- | :--- |
 | • they rejected the ordinary life of a clearing of the Woodland<br>• they feared their enemies would find them if they settled down<br>• they wanted me to make my own choices free of society's influence<br>• they never fit in with the denizens<br>• they didn't know how else to live | • captured by a powerful faction<br>• felled by a rival vagabond<br>• retired to a Woodland clearing<br>• missing in the forest, now presumed dead<br>• killed in battle by agents of a powerful faction |
-| **Which faction did your parents serve the most?** | **With faction did your parents most often oppose?** |
+| **Which faction did your parents serve the most?** | **With which faction did your parents most often oppose?** |
 | (mark two prestige for appropriate group) | (mark one notoriety for appropriate group) |
 
 ### Notes on Playbook Moves
