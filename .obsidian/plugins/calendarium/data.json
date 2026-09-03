@@ -1426,7 +1426,7 @@
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_8808f8eaa838",
+  "defaultCalendar": null,
   "eventPreview": false,
   "exit": {
     "saving": false,
