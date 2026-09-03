@@ -8,37 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Rules  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
       "query": "path:Lore  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Rules  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     },
     {
       "query": "path:Workshop  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.6276611328125,
-  "lineSizeMultiplier": 0.575325520833333,
+  "nodeSizeMultiplier": 1.59658914728682,
+  "lineSizeMultiplier": 0.411472868217054,
   "collapse-forces": false,
-  "centerStrength": 0.407063802083333,
+  "centerStrength": 0.553488372093023,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.04201404677262545,
+  "scale": 0.08258096363643534,
   "close": false
 }
