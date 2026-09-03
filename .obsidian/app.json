@@ -27,5 +27,6 @@
   "readableLineLength": true,
   "showLineNumber": true,
   "propertiesInDocument": "hidden",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "defaultViewMode": "preview"
 }
