@@ -9,6 +9,39 @@
 > *"To map the empire is to map a beast that is constantly devouring itself and rebuilding its scales. Where I drew a border yesterday, a new factory stands today, built upon the ruins of last week's conquest."*
 > — Excerpt from the Continental Survey by Cartographer Finch
 
+> *"The Marquise plays at empire, but they are mere squatters in a house the Dynasties built. Their 'Monde' is temporary; the sky is eternal."*
+> — An Eyrie Commander
+
+> *"They turn our forests into lumber and our brothers into subjects. Le Monde will fall, not by their own machines, but by the righteous anger of the people."*
+> — A Woodland Alliance Partisan
+
+> *"They boast of their grand capital, but what is a city without roots? Let them have the surface and its fleeting sun; true wealth lies where they cannot dig."*
+> — A Minister of the Underground Duchy
+
+> *"Fascinating bureaucracy they have! Every permit requires a fee, and every border crossing requires a bribe. A highly profitable enterprise, if you know which pockets to fill."*
+> — A Riverfolk Merchant
+
+> *"They pave over the earth and worship the machine. But the Dragon slumbers beneath their cobblestones, and when it wakes, their industry will melt into slag."*
+> — A Lizard Cult Acolyte
+
+> *"A sprawling machine of rules and patrols. How delightful. The larger the machine, the more cogs there are to break, and the louder the crash when it fails."*
+> — A Corvid Agent
+
+> *"They hoard shiny rocks and build walls to protect their scraps. But we are the horde! We do not build walls; we dismantle them and take what is ours!"*
+> — A Warlord of the Lord of Hundreds
+
+> *"Their Empire relies on shoddy iron and rust. They do not revere the metal; they merely exploit it. We will reclaim the true artifacts before they tarnish them entirely."*
+> — A Keeper in Iron
+
+> *"Their daylight laws and rigid hierarchies are an illusion. When the sun sets on La Capitale, it is our shadows that dictate the true flow of power."*
+> — A Whisperer of the Twilight Council
+
+> *"Let them keep their patrols on the main roads. As long as the Empire's gaze is fixed forward, they never notice us slipping through the cracks with their coin."*
+> — A Knave of Deepwood
+
+> *"They claim the rivers and swamps as their 'marches,' but the water remembers who first swam its currents. Their boots sink; we endure."*
+> — An Elder of the Lilypad Diaspora
+
 **Le Monde de Cat** (literally, "The World of Cat") is the grand, sprawling Cat Empire and the uncontested dominant power of the [[Root Continent]]'s eastern reach. Renowned for its industrial might, complex bureaucracy, and formidable military presence, Le Monde casts a long shadow over the continent.
 
 [[Carte du Monde]]

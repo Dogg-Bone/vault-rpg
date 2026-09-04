@@ -14,6 +14,39 @@ time: "21:31"
 > *"My ink ran with the humidity before I could finish the southern coastline. The water here does not just sit; it breathes, it reaches, it pulls the empire's stone down into the muck as quickly as they can lay it."*
 > — Excerpt from the Continental Survey by Cartographer Finch
 
+> *"The wetlands were once a pristine hunting ground. Now, they are choked with imperial sludge. We will clear the muck and restore the old ways, even if we must drown every Cat to do it."*
+> — An Eyrie Commander
+
+> *"The swamps hide our movements better than any forest. Let the Marechaux stumble in the mud while we rally the frogs to our cause. The revolution will rise from the mire."*
+> — A Woodland Alliance Partisan
+
+> *"Too wet. Too soft. Our tunnels flood, our picks rust. The Anuran March is a miserable place, best left to the surface-dwellers and their foolish boats."*
+> — A Minister of the Underground Duchy
+
+> *"Ah, the Anuran March! Perfect for trade, if you know the currents. We offer premium amphibious transport—guaranteed not to sink, for a modest fee, of course."*
+> — A Riverfolk Merchant
+
+> *"The water here is sacred, teeming with life and ancient secrets. We shall baptize the non-believers in the deep pools, until they see the true scales of the Dragon."*
+> — A Lizard Cult Acolyte
+
+> *"A whisper travels fast over water, but faster through the fog. We leave our messages where the leeches nest, knowing only the right eyes will find them."*
+> — A Corvid Agent
+
+> *"We hate the wet. It ruins our gear and slows our advance. But we hear there are shiny things hidden in the sunken ruins, so we will drain the swamp if we have to!"*
+> — A Warlord of the Lord of Hundreds
+
+> *"The humidity destroys inferior metal, but our relics endure. We march through the muck because true iron never rusts, and neither does our resolve."*
+> — A Keeper in Iron
+
+> *"The mist is our greatest ally. It masks our meetings and swallows our enemies. In the Anuran March, the Twilight Council rules the unseen."*
+> — A Whisperer of the Twilight Council
+
+> *"The merchants think their barges are safe. They forget that we learned to swim before we learned to walk. A quick dive, a sliced rope, and their cargo is ours."*
+> — A Knave of Deepwood
+
+> *"These waters are our ancestral home. The frogs sing the old songs, and the lilies bloom as they always have. We will outlast the Empire's stone just as water outlasts the mountain."*
+> — An Elder of the Lilypad Diaspora
+
 The **Anuran March** is a vast, humid, and sprawling wetland located at the southern edge of [[Le Monde de Cat]]. Defined by its oppressive atmosphere, submerged ruins of older civilizations, and winding waterways, the march is an untamed frontier of mud and mist, where the empire's industrial ambitions constantly battle against creeping nature.
 
 ## Demographics & Inhabitants
