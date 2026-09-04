@@ -11,6 +11,9 @@ time: "21:30"
 > *"A wasteland? Hardly. The sands are crawling, shifting, bleeding if you know where to cut. There's ancient gold out there, assuming the antlions don't drag you under first."*
 > — A Vagabond Scoundrel
 
+> *"The geography here is a lie told by the wind. The dunes migrate like massive beasts, and the canyon walls sheer off without warning. I draw the maps in pencil, for the desert will certainly erase them."*
+> — Excerpt from the Continental Survey by Cartographer Finch
+
 Located southeast of [[La Capitale]], the **Saurian March** is a vast, unforgiving sandstone desert. Defined by its scorching sun, jagged rocky outcroppings, and punishing sandstorms, the march is an environment that actively resists civilization. The atmosphere is oppressive and feverish, demanding extreme resilience from those who attempt to cross its shifting dunes.
 
 ## Demographics & Inhabitants

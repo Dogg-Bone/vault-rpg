@@ -11,6 +11,9 @@ time: "21:31"
 > *"The Avian March represents the untamed potential of the West. It is unruly, yes, and teeming with insubordinate elements, but the resources beneath that canopy will fund La Capitale for a century. We need only harvest it."*
 > — A Senechal's report to the Marquis
 
+> *"The trees here are older than the empire's memory, and the roots dig deeper than their foundation stones. Charting it is an exercise in futility; by the time I have mapped a path, the forest has already reclaimed it."*
+> — Excerpt from the Continental Survey by Cartographer Finch
+
 Located directly to the west of [[La Capitale]], the **Avian March** is an expansive, ancient, and deeply contested region. While imperial cartographers refer to it strictly as the Avian March, it is known to its inhabitants, and to much of the wider world, simply as **[[The Woodland]]**.
 
 It is a place of deep, old-growth forests, ancient overgrown ruins, and isolated clearings, characterized by a constant, simmering tension between imperial ambitions, rebel factions, and the primal forces of the forest itself.

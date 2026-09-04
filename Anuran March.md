@@ -11,6 +11,9 @@ time: "21:31"
 > *"You don't fight the swamp. You make deals with it. Keep your boots dry, keep your eyes on the waterline, and never, ever trust a ripple."*
 > — 'Slip,' Otter River-Guide
 
+> *"My ink ran with the humidity before I could finish the southern coastline. The water here does not just sit; it breathes, it reaches, it pulls the empire's stone down into the muck as quickly as they can lay it."*
+> — Excerpt from the Continental Survey by Cartographer Finch
+
 The **Anuran March** is a vast, humid, and sprawling wetland located at the southern edge of [[Le Monde de Cat]]. Defined by its oppressive atmosphere, submerged ruins of older civilizations, and winding waterways, the march is an untamed frontier of mud and mist, where the empire's industrial ambitions constantly battle against creeping nature.
 
 ## Demographics & Inhabitants

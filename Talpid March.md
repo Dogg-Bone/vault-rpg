@@ -11,6 +11,9 @@ time: "21:30"
 > *"The empire thinks it rules the world, but it only rules the surface. The real power is down below, in the dark, where the gold is mined and the Iron Keepers march."*
 > — A mole merchant in the markets of La Capitale
 
+> *"My maps of this march are purely decorative. How does one chart the vertical plunge of a gorge, or the winding, lightless labyrinth beneath the mountain's crust? To map the Talpid March is to attempt to map the veins of a living god."*
+> — Excerpt from the Continental Survey by Cartographer Finch
+
 The **Talpid March** encompasses the soaring mountains and treacherous ravines to the north and west of [[La Capitale]]. The peaks of the Talpid Mountains soar high above the continent, while the valleys and subterranean networks delve impossibly deep into the earth. It is a region characterized by its imposing verticality, suffocating depths, and immense, hidden wealth.
 
 ## Governance & The Underground Duchy

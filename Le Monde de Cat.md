@@ -6,6 +6,9 @@
 > *"They call it 'The World of Cat.' I call it a cage gilded in brass and bone. You can dress tyranny up in fine silk, give it a grand title, but a claw at your throat feels the same regardless of who wears the crown."*
 > — A vagabond smuggler, overheard in a border tavern
 
+> *"To map the empire is to map a beast that is constantly devouring itself and rebuilding its scales. Where I drew a border yesterday, a new factory stands today, built upon the ruins of last week's conquest."*
+> — Excerpt from the Continental Survey by Cartographer Finch
+
 **Le Monde de Cat** (literally, "The World of Cat") is the grand, sprawling Cat Empire and the uncontested dominant power of the [[Root Continent]]'s eastern reach. Renowned for its industrial might, complex bureaucracy, and formidable military presence, Le Monde casts a long shadow over the continent.
 
 [[Carte du Monde]]

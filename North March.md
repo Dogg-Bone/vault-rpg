@@ -11,6 +11,9 @@ time: "21:31"
 > *"Don't go north. There's nothing up there but ghosts, white-out storms, and beasts the size of fortresses that hunt by the sound of your shivering."*
 > — A tavern-keeper in La Capitale
 
+> *"My compass spins uselessly in the cold, and the ink freezes to the nib. I am charting a graveyard of ice, trying to draw borders over a land that has already surrendered entirely to the wind."*
+> — Excerpt from the Continental Survey by Cartographer Finch
+
 The **North March** is a desolate, frozen wasteland located at the northernmost boundaries of the empire. Once a lush, vibrant region teeming with life and commerce, it has been reduced to a grim, suffocating expanse of frost, towering ice structures, and biting winds.
 
 The atmosphere of the North March is one of profound isolation and lingering death. The remnants of its prosperous past—frozen ruins, abandoned clearings, and shattered infrastructure—protrude from the snow, creating a stratified landscape where the present is entirely buried by a tragic, sudden history.
