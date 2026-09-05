@@ -1,0 +1,5 @@
+**When they come to you in confidence with a problem, mark exhaustion to suggest a course of action to resolve it; if they do as you say to the best of their ability, they clear their exhaustion track.**
+
+This connection speaks to a deep level of trust between you and another vagabond that they simply don't have with the rest of the band. They see you as someone they can talk to about anything, especially weighty personal issues, and they value your guidance. By marking exhaustion, you perform the emotional labor of listening to them and offering a solution. The bond you both share is strong enough that following your advice lets them clear exhaustion. Remember that they need to come to you with a problem—you might suspect something is wrong but they need to approach you on their own terms in order to gain the benefits of this connection. This connection is best served if you make sure they know that they can come to you to receive this benefit; you should remind the other player often.
+
+#connections
