@@ -2,7 +2,6 @@
 date: "2026-09-02"
 time: "21:30"
 ---
-
 # Saurian March
 
 > *"The desert strips away all pretense. There is no politics in the dunes, no grand strategy in the sun. There is only endurance, and those who lack it simply blow away with the sand."*

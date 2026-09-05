@@ -1,0 +1,1 @@
+Home of [[Vulcan]], a clearing in the trees with rope bridge paths. Giant mushrooms.

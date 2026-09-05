@@ -5,8 +5,8 @@
 > [!info|float-right] Base Stats
 > **Charm** -1
 > **Cunning** +1
-> **Finesse** 0
-> **Luck** 0
+> **Finesse** +2
+> **Luck** -1
 > **Might** +2
 > *(Add +1 to a stat of your choice, to a max of +2)*
 

@@ -31,7 +31,7 @@ Choose one weapon skill to start
 ### Roguish Feats
 You start with this one: Blindside
 
-**Equipment Starting Value:** 10
+**Equipment Starting Value:** 11
 
 ### Your Nature
 Choose one:
