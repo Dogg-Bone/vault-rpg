@@ -2,6 +2,64 @@
 date: "2026-09-02"
 time: "21:31"
 ---
-Previously the homeland of many [[Corvids]], [[Frogs]], and [[Lizardfolk]], this once lush region is now covered in frost, ice, and biting winds. The cold arrived suddenly, and has yet to be driven off by the changing of seasons in the many years since. Few now inhabit the frozen reaches of this march.
 
-The region is home to [[Polar Bear]]s, [[Elk]], [[Wood Bison]], and [[Stag]]s. Travelers beyond the few clearings often fail to return.
+# North March
+
+> *"The records say it was once a paradise of green hills and deep lakes. Now, it is a monument to our impotence. The ice does not care for our industry; the wind does not bow to the Empereur."*
+> — Excerpt from a banished Marquis' journal
+
+> *"Don't go north. There's nothing up there but ghosts, white-out storms, and beasts the size of fortresses that hunt by the sound of your shivering."*
+> — A tavern-keeper in La Capitale
+
+> *"My compass spins uselessly in the cold, and the ink freezes to the nib. I am charting a graveyard of ice, trying to draw borders over a land that has already surrendered entirely to the wind."*
+> — Excerpt from the Continental Survey by Cartographer Finch
+
+> *"The skies here are clear, but the wind is a cruel master. We once soared over these lands in glory; now, we only endure the cold to spite the Cats who claim it."*
+> — An Eyrie Commander
+
+> *"The Empire's patrols freeze just as easily as we do. In the North, the winter is the great equalizer, and it favors those who know how to hide in the snow."*
+> — A Woodland Alliance Partisan
+
+> *"The surface is a frozen hell, but the deep earth remembers the warmth. We dig deeper here than anywhere else, seeking the geothermal heat the Empire cannot tax."*
+> — A Minister of the Underground Duchy
+
+> *"Ice makes for poor trade routes, but excellent preservation. We deal in rare goods pulled from the permafrost, provided you can pay the hazard fee."*
+> — A Riverfolk Merchant
+
+> *"The ice is merely another form of the Dragon's patience. We study the frozen ruins, seeking the spark that will ignite the great thaw."*
+> — A Lizard Cult Acolyte
+
+> *"A footprint in the snow tells a story, but a footprint that suddenly vanishes tells a secret. The North is a wonderful place for secrets."*
+> — A Corvid Agent
+
+> *"We do not fear the cold! The fire of the horde burns hotter than their winter! We will shatter their ice sculptures and take what is ours!"*
+> — A Warlord of the Lord of Hundreds
+
+> *"The ancient machinery buried here was preserved perfectly by the freeze. We brave the blizzards to recover designs the Empire could never comprehend."*
+> — A Keeper in Iron
+
+> *"The long nights of the North are our true domain. When the blizzards howl, our whispers carry furthest."*
+> — A Whisperer of the Twilight Council
+
+> *"The guards are too busy shivering to watch their pockets. The cold makes them careless, and careless guards are profitable guards."*
+> — A Knave of Deepwood
+
+> *"We survived the journey here, we will survive the cold. The ice is harsh, but it is pure, and it cleanses the land of the Empire's taint."*
+> — An Elder of the Lilypad Diaspora
+
+The **North March** is a desolate, frozen wasteland located at the northernmost boundaries of the empire. Once a lush, vibrant region teeming with life and commerce, it has been reduced to a grim, suffocating expanse of frost, towering ice structures, and biting winds.
+
+The atmosphere of the North March is one of profound isolation and lingering death. The remnants of its prosperous past—frozen ruins, abandoned clearings, and shattered infrastructure—protrude from the snow, creating a stratified landscape where the present is entirely buried by a tragic, sudden history.
+
+## The Great Freeze & Demographics
+Previously the fertile homeland of many **[[Corvids]]**, **[[Frogs]]**, and **[[Lizardfolk]]**, the region suffered a catastrophic and sudden climatic shift. The cold arrived suddenly and without warning, and in the many years since, it has yet to be driven off by the changing of seasons.
+
+As a result, a massive exodus occurred. The vast majority of the population fled to the southern marches, leaving the North March practically abandoned. Today, few denizens inhabit the frozen reaches, mostly clinging to survival in a handful of heavily insulated, subterranean, or heavily fortified clearings.
+
+## Geography & Hazards
+Travel through the North March is widely considered a death sentence for the unprepared. The paths are constantly erased by blizzards, and the biting wind saps the strength of even the hardiest Vagabonds.
+
+Beyond the environmental hazards of exposure and starvation, the wastes are stalked by massive, cold-adapted megafauna that have claimed the ruins of the old world. Travelers who venture beyond the few surviving clearings often fail to return, falling prey to the elements or the region's apex predators, which include:
+- Ferocious, solitary **[[Polar Bear]]s**.
+- Massive, wandering herds of **[[Elk]]** and **[[Wood Bison]]**.
+- Territorial, towering **[[Stag]]s**.
