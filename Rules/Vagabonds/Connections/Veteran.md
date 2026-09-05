@@ -1,0 +1,5 @@
+**When you fight side-by-side or back-to-back with them, both of you have access to the parry weapon move regardless of weapon type, as long as you remain within intimate range of each other. If you choose to inflict morale or exhaustion upon a successful parry, you inflict an additional morale or exhaustion.**
+
+You and another vagabond have fought on the front lines of the War and defended each other through the thick of it. This doesn't necessarily mean either of you was a leader or an officer, but it does mean you are both experienced in the War. You could have been a volunteer, conscript, mercenary, irregular, or clearing militia member. This War bond is something non-veterans will never understand. Note that you now are no longer part of an army or militia, whether tired of the rigid structure or more interested in striking out on your own. You understand each other's fighting styles and, when together, shore up each other's weaknesses with a strong defensive style. As a veteran, you also know how to force your foes to overextend themselves while conserving your own energy—you don't get to claim medals you earn by dying.
+
+#connections
