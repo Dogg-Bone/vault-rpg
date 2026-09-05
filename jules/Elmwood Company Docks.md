@@ -20,7 +20,7 @@ Tall, rickety cranes made of hastily assembled timber swing dangerously overhead
   - *Notable Features:* Teetering stacks of unstable crates, hidden trapdoors leading to the river, and shadowy corners used for illicit negotiations.
 
 ### Current Occupants & Hazards
-The docks are swarming with Riverfolk merchants, hired muscle, and sweating laborers moving cargo. Inspector Valerius and her small contingent of Marquisate guards patrol the area, constantly frustrated by the Riverfolk's bureaucratic evasion. Finnian Rapids oversees the operation from a central toll booth. The primary hazards are the swinging cranes, unstable cargo stacks, and the aggressive Riverfolk muscle who don't take kindly to unauthorized individuals poking around the high-value moorings.
+The docks are swarming with Riverfolk merchants, hired muscle, and sweating laborers moving cargo. [[Inspector Valerius]] and her small contingent of Marquisate guards patrol the area, constantly frustrated by the Riverfolk's bureaucratic evasion. [[Finnian Rapids]] oversees the operation from a central toll booth. The primary hazards are the swinging cranes, unstable cargo stacks, and the aggressive Riverfolk muscle who don't take kindly to unauthorized individuals poking around the high-value moorings.
 
 ### Secrets & Clues
 - Finnian Rapids keeps a secondary, hidden ledger detailing the massive bribes he pays to certain Marquisate officers to look the other way.
