@@ -26,7 +26,7 @@ The Anuran March is as dangerous as it is ecologically rich. The landscape is a 
 
 Vagabonds and imperial patrols alike must be constantly vigilant, as the region is infamous for its massive, deadly fauna. Known perils of the deep swamps include:
 - **[[Giant Snake]]s** that drop from the dense canopy.
-- Swarms of **[[Giant Leech]]es** and **[[Giant Tick]]s** that plague the stagnant pools.
+- Swarms of **[[Giant Leeches]]** and **[[Giant Tick]]s** that plague the stagnant pools.
 - **[[Giant Alligator]]s** that ambush boats in the deeper waterways.
 - Territorial, water-logged **[[Moose]]** that wade through the shallows.
 - Massive, monstrous **Giant [[Bullfrog]]s**.

@@ -7,6 +7,10 @@
 > **Finesse** +2
 > **Luck** -1
 > **Might** +2
+### Harm Tracks
+Injury \[ ] \[ ] \[ ] \[ ]
+Exhaustion \[ ] \[ ] \[ ] \[ ]
+Depletion \[ ] \[ ] \[ ] \[ ]
 #### Species
 [[Lizardfolk]] (basilisk lizard)
 #### Demeanor
@@ -21,15 +25,15 @@ Blindside, Counterfeit, Disable Device, Hide, Sleight of Hand
 
 **Equipment Starting Value:** 9
 ### Your Nature
-**Believer:** Clear your exhaustion track when you publicly call out a symbol or authority dedicated to beliefs opposed to yours.
+**[[Believer]]:** Clear your exhaustion track when you publicly call out a symbol or authority dedicated to beliefs opposed to yours.
 ### Your Drives
-- **Principles:** Advance when you express or embody your moral principles at great cost to yourself or your allies.
-- **Freedom:** Advance when you free a group of denizens from oppression.
+- **[[Principles]]:** Advance when you express or embody your moral principles at great cost to yourself or your allies.
+- **[[Freedom]]:** Advance when you free a group of denizens from oppression.
 ### Your Connections
-See page 51 for mechanical effects of connections.
-- **Peer:** [[Wren Greenboot]] assisted me in dealing with a dangerous monster that had come to threaten a whole clearing. What did we defeat? How did we defeat it? Why doesn't the clearing feel more indebted to us?
-### Obligation
-Oath \[ ] \[ ] \[ ] \[ ]
+- [[Partner|Peer]]: [[Wren Greenboot]] assisted me in dealing with a [[Giant Snake|Swamp Snake]] that was threatening the clearing of [[Elmwood Reach]]. Wren's tracked it and used his bow to distract it so I could strike it down.
+### [[Obligation]]
+**Oath:** I am oath-bound to serve the [[Lizard Cult]] and to obey the Great Wyrm.
+\[ ] \[ ] \[ ] \[ ]
 ### Playbook Moves
 You get *Traps and Snares*, then choose two more:
 
@@ -50,6 +54,10 @@ You get *Traps and Snares*, then choose two more:
 
 > [!tip] Follow the Trail
 > When you **track someone or something,** roll with Cunning. On a 10+, you have a clear sense of where they are going; the GM will tell you where. On a 7-9, the trail is fleeting or the target is on the move; if you don't follow immediately, you won't find their final destination. On a miss, the GM will tell you what new danger comes upon you while you investigate the trail.
+
+> [!tip] Sail On
+> When you travel from clearing to clearing by ship, mark wear on the ship and roll with Luck. On a hit, you reach the next port; the GM will tell you one (mostly) friendly denizen you know there. On a 7-9, they are holding a grudge—work it out or offer at least 2-Value to let things go. On a miss, you are caught in a dangerous situation along your route before you arrive at port.
+
 ### Background Questions
 
 | Where do you call home?                                                                                    | Whom have you left behind?                                                                   |

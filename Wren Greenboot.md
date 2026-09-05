@@ -7,6 +7,10 @@
 > **Finesse** +2
 > **Luck** +1
 > **Might** 0
+### Harm Tracks
+Injury \[ ] \[ ] \[ ] \[ ]
+Exhaustion \[ ] \[ ] \[ ] \[ ] \[ ]
+Depletion \[ ] \[ ] \[ ] \[ ]
 #### Species
 - rooster
 #### Demeanor
@@ -20,14 +24,14 @@ Acrobatics, Blindside, Sneak
 
 **Equipment Starting Value:** 11
 ### Your Nature
-- **Dutiful:** Clear your exhaustion track when you take on a dangerous or difficult task on behalf of another.
+- **[[Dutiful]]:** Clear your exhaustion track when you take on a dangerous or difficult task on behalf of another.
 ### Your Drives
-- **Wanderlust:** Advance when you finish a journey to a clearing.
-- **Revenge:** Name your foe. Advance when you cause significant harm to them or their interests.
+- **[[Wanderlust]]:** Advance when you finish a journey to a clearing.
+- **[[Revenge]]:** Name your foe. Advance when you cause significant harm to them or their interests.
 ### Your Connections
-See page 51 for mechanical effects of connections.
-- **Professional:** [[Savage Wyrmbourne]] and I tried to blaze a new trail between two clearings; without the support of the major factions, it never fully came to fruition.
-### Obligation
+- [[Professional]]: [[Savage Wyrmbourne]] and I tried to blaze a new smuggler's trail between two clearings that passed too close to a den of monsters; without the support of the major factions, it never fully came to fruition.
+### [[Obligation]]
+**Favor**: Vulcan took me in and raised me, and I've never been able to fully repay the favor.
 \[ ] \[ ] \[ ] \[ ]
 ### Playbook Moves
 > [!tip] Cross Country
@@ -48,6 +52,21 @@ See page 51 for mechanical effects of connections.
 > [!tip] At Your Mercy
 > When you **have an NPC completely at your mercy**, you may spare them to demand a favor of them; roll with Might. On a 10+, they must grant you the favor right now or offer you something of immense value to let them go. On a 7-9, they must grant you the favor, but they'll only do it if you can guarantee their safety from your allies and enemies. On a miss, your mercy is turned against you immediately; the GM will tell you how you are put in a terrible spot.
 
+> [!tip] Small Ship
+> By default, your ship has a wear track with four boxes. Mark wear when it suffers serious damage or when a move calls for it. When your ship's wear track is filled, it is dead in the water and must be repaired at port. If you must mark wear on your ship but its whole track is full, your ship is lost. If you ever lose the ship the GM may present you with an opportunity to get a new one.
+>
+> **Your Ship's Name:** [[The Gobbler]]
+> Wear \[ ] \[ ] \[ ] \[ ]
+> Depletion \[ ] \[ ]
+>
+> **Blessings:**
+> - stocked: your ship gains a 2-box depletion track of cargo and gear
+> - swift: once per session, mark wear to outrun any pursuer on the water
+>
+> **Flaws:**
+> - clumsy: take -1 ongoing to trusting fate when piloting your ship carefully
+> - stolen: someone dangerous is pursuing you to recover their property
+
 ### Background Questions
 
 | Where do you call home?                                                   | Whom have you left behind?                               |
@@ -62,5 +81,7 @@ See page 51 for mechanical effects of connections.
 
 For *Cross Country*, if you take injuries instead of exhaustion, you get to choose which injury boxes to mark in whatever way makes sense to you based on what you're doing.
 For *Smuggler's Path*, if a place has no chance of having a secret way in or out, you simply can't trigger the move—spending the time will do you no good. If you aren't certain, the GM should usually err on the side of giving you a chance! The move applies equally well to secret passages in a keep and smuggling tunnels beneath the clearing.
+
 For _The List_, the +1 ongoing to pursue vengeance against anyone on your list helps you out so long as you are making a move that can be easily connected to your quest for vengeance. You can't gain this bonus in disconnected self-defense—if you're fighting some random guard, you can't take +1 just because they might end your life! But you could gain this bonus if you're pulling yourself up a cliff while your nemesis taunts you from above; their presence makes the vengeance much more directly connected. The GM is the final arbiter of whether or not your action deserves the bonus. Wreaking vengeance upon a name on the List should also be fairly easy to see; it represents the point at which, thanks to your actions, they have suffered and been laid low. The GM is the final arbiter of whether you wreak vengeance and have to take a Mark. Most of your Marks place some new effect upon your character, and that effect is permanent; you cannot remove Marks. You may choose to take your last Mark early if you want, turning your PC into an NPC devoted to vengeance, but usually you will only take that last Mark if you have no others to take. When you choose to add names to your List, be sure to try to add significant characters against whom you cannot pursue simple, easy vengeance. Your List is far better used for foes who have a lasting, resilient presence in the Woodland than for local bullies.
+
 For _At Your Mercy_, sparing the NPC means letting them go, leaving them unharmed, or something equivalent; you must stop before crossing a meaningful line in order to be considered to have spared them. They, and most who see the action, must understand that you spared them, that you could have destroyed them but chose to do otherwise. If the gesture elicits material gratitude, that gratitude can, but does not have to, come directly from the person you spared. It could also come from a watcher, someone who cares about the person you spared. If you roll a miss, the GM will tell you exactly how your kindness and mercy is turned against you, immediately. It's not enough that the person you spared swears vengeance for some later day; they do something right here and now.
