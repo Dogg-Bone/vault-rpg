@@ -49,7 +49,7 @@ time: "21:30"
 Located southeast of [[La Capitale]], the **Saurian March** is a vast, unforgiving sandstone desert. Defined by its scorching sun, jagged rocky outcroppings, and punishing sandstorms, the march is an environment that actively resists civilization. The atmosphere is oppressive and feverish, demanding extreme resilience from those who attempt to cross its shifting dunes.
 
 ## Demographics & Inhabitants
-Those that call this region home must be tough, clever, or biologically suited to the relentless heat. The march is primarily inhabited by **[[Lizardfolk]]**, whose natural hardiness and affinity for the arid climate make them the dominant political and social force in the scattered desert clearings.
+Most [[Denizens]] know [[Saurian March]] as the homeland of the [[Lizard Cult]]. Those that call this region home must be tough, clever, or biologically suited to the relentless heat. The march is primarily inhabited by **[[Lizardfolk]]**, whose natural hardiness and affinity for the arid climate make them the dominant political and social force in the scattered desert clearings.
 
 The region is also home to a variety of specialized desert denizens, primarily burrowing nocturnal rodents such as meerkats and desert rats, alongside owls, fennec foxes, and resilient species of squirrels. Life here revolves heavily around the scarce watering holes and the subterranean architecture designed to escape the midday sun.
 
