@@ -1,0 +1,5 @@
+**When you fill in this connection, you each mark 2-prestige with the faction you once served together. When you ask for a favor from that faction, you may mark 2-exhaustion to take 10+ instead of rolling.**
+
+You and the vagabond with whom you share your connection once served a particular faction well, and you still maintain strong relations with them. Your connection may no longer be in contact with the faction, or might not even like the faction anymore, but they are still in good favor with them. You, however, kept in touch with the faction, even while you resisted recruitment (or if you *once* belonged, resisted rejoining.) You might agree with the faction's goals or simply see them as useful contacts and clients. And even though you aren't a part of that faction anymore, you and the other faction members still have a friendly, mutual bond. In addition, whatever you did for the faction was big enough to earn you a reciprocal kind of loyalty. As such you can navigate the bureaucracy or social niceties to get their help by leveraging that social debt, even if it takes some effort.
+
+#connections
