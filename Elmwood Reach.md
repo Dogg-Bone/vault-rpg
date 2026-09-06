@@ -31,8 +31,8 @@ The Marquisate's heavy wooden construction and industrial waste from the docks a
 - **Vulcan's Workshop:** A secluded, cluttered array of treehouses suspended near the edge of the clearing, filled with strange mechanical parts, half-finished inventions, and the glow of hot forges.
 
 ### Notable NPCs
-- **Inspector Valerius:** A rigid, meticulous Marquisate customs inspector determined to bring order to the vertical chaos, regardless of the cost to the denizens. (See `Inspector Valerius`)
-- **Finnian Rapids:** The slick, manipulative Riverfolk dockmaster who prioritizes profit above all else and operates with near impunity down at the water level. (See `Finnian Rapids`)
+- **Inspector Valerius:** A rigid, meticulous Marquisate customs inspector determined to bring order to the vertical chaos, regardless of the cost to the denizens. (See [[Inspector Valerius]])
+- **Finnian Rapids:** The slick, manipulative Riverfolk dockmaster who prioritizes profit above all else and operates with near impunity down at the water level. (See [[Finnian Rapids]])
 
 ### Special Resource / Rules
 **Navigating the Canopy**

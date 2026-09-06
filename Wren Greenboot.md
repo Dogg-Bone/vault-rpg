@@ -20,7 +20,7 @@ Depletion \[ ] \[ ] \[ ] \[ ]
 ### Weapon Skills
 - [[Quick Shot]]
 ### Roguish Feats
-Acrobatics, Blindside, Sneak
+Acrobatics, Blindside, Hide, Sleight of Hand, Sneak
 
 **Equipment Starting Value:** 11
 ### Your Nature
