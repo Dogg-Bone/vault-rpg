@@ -72,7 +72,7 @@ You get *The List*, then choose two more:
 > When you *attempt a roguish feat* while pursuing your vengeance or investigating a terrible wrongdoing, roll with Luck instead of Finesse.
 
 > [!tip] At Your Mercy
-> When you **have an NPC completely at your mercy**, you may spare them to demand a favor of them; roll with Might. On a 10+, they must grant you the favor right now or offer you something of immense value to let them go. On a 7-9, they must grant you the favor, but they'll only do it if you can guarantee their safety from your allies and enemies. On a miss, your mercy is turned against you immediately; the GM will tell you how you are put in a terrible spot.
+> When you spare an NPC whom you could have destroyed or humiliated, roll with Luck. On a hit, your gesture of mercy soothes your troubled soul (clear all exhaustion) or elicits material gratitude (clear 2 or more depletion, GM’s choice). On a 10+, both. On a miss, someone—perhaps even the one you spared—is quick to take malicious advantage of your foolhardy gesture.
 
 > [!tip] A Fearsome Reputation
 > Mark exhaustion to use Might instead of Reputation when you *ask for a favor* from someone who fears you.

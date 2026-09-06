@@ -12,7 +12,6 @@
 There has to be some sense of uncertainty, danger, or concern. 
 
 The GM answers all the questions (one of their roles being to describe the world) and answers truthfully. All of the answers they give are “true”—if they say that something is the best way through, then it is actually the best way. Sometimes the GM and the player will need to make sure they both understand exactly what question is being asked so the GM can provide the appropriate answer.
-
 ### Options for [[Read a Tense Situation]]
 **“What’s my best way out/in/through?”** lets the player find out how to get out of or past a bad situation. The player gets to choose out, in, or through. Whatever the GM says is the best way, but that doesn’t have to mean the best way is actually good.
 

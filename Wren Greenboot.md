@@ -3,10 +3,10 @@
 *Wren is the ward of his godfather, the criminal boss [[Vulcan]]. Wren's family was captured or killed by a group led by [[Perry the Platypus]]. Wren is questing to find his family.*
 > [!info|float-right] Base Stats
 > **Charm** 0
-> **Cunning** 0
+> **Cunning** -1
 > **Finesse** +2
 > **Luck** +1
-> **Might** 0
+> **Might** +1
 ### Harm Tracks
 Injury \[ ] \[ ] \[ ] \[ ]
 Exhaustion \[ ] \[ ] \[ ] \[ ] \[ ]
@@ -50,7 +50,7 @@ Acrobatics, Blindside, Sneak
 > If you take a Mark when no more options are available, your quest for vengeance consumes you; you retire from the vagabond life to become an NPC dedicated to hunting down anyone left on your list.
 
 > [!tip] At Your Mercy
-> When you **have an NPC completely at your mercy**, you may spare them to demand a favor of them; roll with Might. On a 10+, they must grant you the favor right now or offer you something of immense value to let them go. On a 7-9, they must grant you the favor, but they'll only do it if you can guarantee their safety from your allies and enemies. On a miss, your mercy is turned against you immediately; the GM will tell you how you are put in a terrible spot.
+> When you spare an NPC whom you could have destroyed or humiliated, roll with Luck. On a hit, your gesture of mercy soothes your troubled soul (clear all exhaustion) or elicits material gratitude (clear 2 or more depletion, GM’s choice). On a 10+, both. On a miss, someone—perhaps even the one you spared—is quick to take malicious advantage of your foolhardy gesture.
 
 > [!tip] Small Ship
 > By default, your ship has a wear track with four boxes. Mark wear when it suffers serious damage or when a move calls for it. When your ship's wear track is filled, it is dead in the water and must be repaired at port. If you must mark wear on your ship but its whole track is full, your ship is lost. If you ever lose the ship the GM may present you with an opportunity to get a new one.

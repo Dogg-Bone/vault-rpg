@@ -24,7 +24,7 @@ Drive: to bring absolute, orderly control to a chaotic mercantile hub
 
 **Key Facts**
 1. She despises the Riverfolk Company's influence in Elmwood Reach but lacks the manpower to shut them down outright.
-2. She suspects Finnian Rapids is smuggling dangerous contraband but hasn't found the proof she needs.
+2. She suspects [[Finnian Rapids]] is smuggling dangerous contraband but hasn't found the proof she needs.
 
 **Immediate Pressure:** Her superiors in the Keep are demanding higher tax yields from Elmwood Reach to fund the war effort.
 
