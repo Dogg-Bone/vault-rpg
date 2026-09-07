@@ -3,8 +3,8 @@
 *You are a professional representative, capable of speaking for other powers while maintaining plausible deniability, fashioned as the ultimate neutral agent and diplomatic mercenary.*
 
 > [!info|float-right] Base Stats
-> **Charm** +2
-> **Cunning** 0
+> **Charm** 0
+> **Cunning** +2
 > **Finesse** -1
 > **Luck** 0
 > **Might** 0
