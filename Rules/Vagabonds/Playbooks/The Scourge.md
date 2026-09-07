@@ -3,7 +3,7 @@
 *You are a fearsome combatant, an outlaw and warrior known across the Woodland for the bloody trail you leave behind you, dedicated to a singular cause: destroying your enemies.*
 
 > [!info|float-right] Base Stats
-> **Charm** -1
+> **Charm** 0
 > **Cunning** 0
 > **Finesse** +1
 > **Luck** 0
@@ -14,7 +14,7 @@
 - fox, mouse, rabbit, bird, other
 
 #### Demeanor
-- brutal, demanding, erratic, grim
+- taciturn, intense, weary, argumentative
 
 #### Details
 - he, she, they, shifting
@@ -24,7 +24,7 @@
 ### Weapon Skills
 Choose one weapon skill to start
 - Cleave
-- Harry
+- Quick Shot
 - Storm a Group
 - Vicious Strike
 
