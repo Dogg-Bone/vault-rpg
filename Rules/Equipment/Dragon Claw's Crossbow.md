@@ -4,7 +4,7 @@ time: "14:39"
 ---
 Range: Far
 Wear: 4
-Value: 8
+Value: 7
 #### Tags
 ![[Iron bolts]]
 ![[Heavy Draw Weight]]
@@ -18,6 +18,7 @@ Value: 8
 ![[Hard to Hold]]
 ![[Suspicious]]
 ![[Ugly]]
+![[Noisy]]
 #### Weapon Skills
 ![[Long Shot]]
 ![[Pinpoint Shot]]

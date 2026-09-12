@@ -3,8 +3,8 @@ date: "2026-09-12"
 time: "15:20"
 ---
 Range: Close, Intimate
-Wear: 2
-Value: 4
+Wear: 3
+Value: 5
 #### Tags
 ![[Hidden]]
 ![[Throwable]]
