@@ -26,3 +26,4 @@ The Lizard Cult is an ancient religion originating from the [[Saurian March]] re
 - Sacrifice
 - Gardens are sacred, especially a Garden's sanctum
 - Giving to the needy
+- Tithes
