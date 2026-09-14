@@ -1,5 +1,5 @@
 Underground Duchy
-**Mozz**
+**Mozz, Underlord of Bone Gulch**
 *Gambler & Smuggler*
 Drive: to enrich himself and the Duchy by controlling the flow of illicit goods and secrets.
 *"Mozz is a corpulent mole with tiny, squinting eyes hidden behind thick, dark spectacles. He dresses in ostentatious, heavy silks despite the desert heat, constantly dabbing his brow with a lace handkerchief. His fingers are adorned with gaudy rings, one of which doubles as a wax seal for Duchy missives."*
