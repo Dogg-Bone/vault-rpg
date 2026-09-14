@@ -4,15 +4,6 @@ time: "21:30"
 ---
 # Saurian March
 
-> *"The desert strips away all pretense. There is no politics in the dunes, no grand strategy in the sun. There is only endurance, and those who lack it simply blow away with the sand."*
-> — Marechal Kaelen of the Sun-Guard
-
-> *"The geography here is a lie told by the wind. The dunes migrate like massive beasts, and the canyon walls sheer off without warning. I draw the maps in pencil, for the desert will certainly erase them."*
-> — Excerpt from the Continental Survey by Cartographer Finch
-
-> *"Water is more precious than gold here, and we happen to control the best oases. The market dictates the price, and the desert dictates the market."*
-> — A Riverfolk Merchant
-
 > *"The desert sun is the Dragon's eye, unblinking and merciless. It burns away the impurities, leaving only the faithful."*
 > — A Lizard Cult Acolyte
 
@@ -33,3 +24,14 @@ The wilder, untamed regions of the desert are extremely perilous. The sands conc
 - Massive, subterranean **[[Giant Antlion|Antlions]]** that create deadly traps in the loose sand.
 - **[[Giant Centipede]]s** that scour the deep canyons.
 - **[[Giant Crocodile]]s**, which jealously guard the sparse rivers and watering holes.
+
+> [!NOTE|float-right] Resources
+> ### Needs
+> - Water & Food
+> - Timber
+> - Oil
+> ### Supplies
+> - Salt
+> - Radioactive crystal
+> - [[Sweetroot]] plant
+> - Linen
