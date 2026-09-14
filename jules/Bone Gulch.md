@@ -79,6 +79,7 @@ Sandstone structures are haphazardly built into the curves of the ancient bones,
 > ### Secrets & Clues
 > - The Cult is secretly growing a rare, hallucinogenic flower in the lower terraces, used in their most guarded rituals.
 > - A collapsed wall in the Seed Vault reveals a hidden tunnel that connects directly to the Marquisate garrison's water supply.
+- The deepest shadows of the Terraces obscure a sealed, ancient entrance leading down into [[The Sunken Silos]], a dangerous pre-Dynastic ruin.
 >
 > ### Loot & Resources
 > - *Cultist Healing Salves:* 2 uses of poultices that can clear 1-injury or 1-exhaustion.
@@ -98,7 +99,7 @@ Sandstone structures are haphazardly built into the curves of the ancient bones,
 
 ### Secrets & Hooks
 - **The Trail to Perry:** [[Wren Greenboot]]'s tracking of their target has hit a wall, but Mozz's smugglers recently aided a dangerous criminal known as "Perry the Platypus"—the same criminal who abducted Wren's family. Mozz helped him secure passage deeper into the Duchy tunnels and will trade this information, but only for a steep price or a dangerous favor.
-- **The Honored Guest:** If [[Savage Wyrmbourne]] arrives in Bone Gulch, the local Lizard Cult will welcome them with open arms, completely unaware of their heretical beliefs. The Acolytes will look to Savage as a devout champion of the Great Wyrm, offering them access to Cult resources but expecting them to lead the charge against the "sinners" in the Velvet Cavern.
+- **The Champion's Task:** If [[Savage Wyrmbourne]] arrives in Bone Gulch, the local Lizard Cult will welcome them with open arms, completely unaware of their heretical beliefs. The Acolytes will look to Savage as a devout champion of the Great Wyrm, asking for their direct help to clear out the Giant Tarantula infestation in [[The Sunken Silos]] ruin located just beneath the Terraces, so the Cult can safely expand their gardens.
 
 ### First Session Encounters (2d6)
 - **2-3:** A sudden, violent sandstorm forces everyone underground, trapping the vagabonds in a tunnel with a desperate Marquisate patrol and angry Cultists.
