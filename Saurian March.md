@@ -35,4 +35,3 @@ The wilder, untamed regions of the desert are extremely perilous. The sands conc
 > - Radioactive crystal
 > - [[Sweetroot]] plant
 > - Linen
-
