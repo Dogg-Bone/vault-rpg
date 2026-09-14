@@ -13,9 +13,9 @@ The scorching sun beats down on the bleached white ribs that arch over the main 
 Sandstone structures are haphazardly built into the curves of the ancient bones, their flat roofs covered in canvas awnings that flap lazily in the sluggish breeze. Below, the ground is honeycombed with entrances to cooler subterranean levels, where the true life of the clearing thrives away from the punishing heat.
 
 ### Factions & Control
-- **Marquisate:** The Marquisate holds nominal control over Bone Gulch, maintaining a small, sweltering garrison near the leviathan's skull. Their soldiers are demoralized, under-supplied, and largely ignore the deeper underground workings of the town.
-- **Lizard Cult:** The Lizard Cult exerts the true influence over the populace. They see the leviathan's bones as a sacred monument to the [[Great Wyrm]] and preach under its ribcage.
-- **Underground Duchy:** Operating entirely in the shadows, the Duchy uses the natural and excavated tunnels beneath the town for a thriving smuggling and gambling operation.
+- **Marquisate:** The Marquisate holds nominal control over Bone Gulch, maintaining a small, sweltering garrison near the leviathan's skull. They control the **main water cisterns** and tax the town's legal trade, though their soldiers are demoralized and ignore the deeper underground workings.
+- **Lizard Cult:** The Lizard Cult exerts the true influence over the populace. They see the leviathan's bones as a sacred monument to the [[Great Wyrm]] and control the **local agriculture and medical supplies** through their terraced gardens.
+- **Underground Duchy:** Operating entirely in the shadows, the Duchy uses the natural and excavated tunnels beneath the town. They control the flow of **smuggled luxury goods, illegal weapons, and illicit gambling**, maintaining a thriving black market.
 
 ### Core Conflicts & Impending Escalations
 - **The Cult vs. The Garrison:** The Lizard Cult is growing bolder, inciting the locals against the Marquisate's tax collectors. If the tension breaks, a full-scale riot could erupt, leading the Marquisate to call for brutal reinforcements.
@@ -47,12 +47,42 @@ Sandstone structures are haphazardly built into the curves of the ancient bones,
 >
 > ### Secrets & Clues
 > - One of the Marquisate guards, deep in debt, has the patrol schedule for the next incoming supply caravan written on a napkin.
-> - A ledger in Mozz's parlor contains a coded entry detailing the recent passage of a rare, exotic creature matching the description of "Perry the Platypus."
+> - A ledger in Mozz's parlor contains a coded entry detailing a hefty bribe paid by a violent fugitive known as "Perry the Platypus" for safe passage through the tunnels.
 > - A Cultist spy is disguised as a waitress, taking notes on Mozz's operations for an impending raid.
 >
 > ### Loot & Resources
 > - *Duchy Lockbox:* Contains 5-Value in mixed coins and smuggled gems (Requires heavy tools or lockpicking to open).
 > - *Smuggled Marquisate Rations:* 3 uses of high-quality food.
+
+> [!tip] The Sun-Kissed Terraces
+> **Type:** Subterranean & Surface Gardens
+> **Atmosphere & Effort State:** Serene & Float
+> **Shape Flow:** Life is slowly spreading upward
+>
+> ### Description & Stratified History
+> Woven into the eastern ribs of the leviathan and descending into the cooler, sun-dappled sandstone crevices, the Sun-Kissed Terraces are the agricultural heart of Bone Gulch. What began as a desperate attempt by early settlers to grow sweetroot in the harsh desert has been transformed by the Lizard Cult into a lush, highly organized hydroponic sanctuary.
+>
+> ### At First Sight
+> The scent of damp earth and blooming desert flowers cuts through the dry heat of the march. Sunlight filters down through the bleached bones, illuminating vibrant green vines and neatly ordered plots of medicinal herbs. Water softly trickles through ancient stone aqueducts, creating a peaceful, hypnotic ambiance.
+>
+> ### Distinct Areas
+> - **The Upper Canopies:** Suspended gardens hanging from the leviathan's ribs, exposed to the harsh sun but draped in protective canvas.
+>   - *Notable Features:* Rope bridges, hanging baskets of sun-hardy sweetroot, and Cultist guards armed with crossbows.
+> - **The Healing Pools:** Shallow, crystal-clear pools in the cooler, lower shaded recesses of the terraces.
+>   - *Notable Features:* Medicinal mosses, resting mats for the sick, and a small shrine to the Great Wyrm.
+> - **The Seed Vault:** A reinforced sandstone chamber built into the foundation of an older ruin, used to store seeds and agricultural tools.
+>   - *Notable Features:* Heavy iron doors, detailed ledgers of crop yields, and rare, highly valuable botanical specimens.
+>
+> ### Current Occupants & Hazards
+> Devout Lizard Cult Acolytes tend to the crops, alongside sick or injured locals seeking the Cult's healing. The primary hazard is crossing the zealots who view the gardens as sacred ground; they will fiercely defend their crops from any perceived threat.
+>
+> ### Secrets & Clues
+> - The Cult is secretly growing a rare, hallucinogenic flower in the lower terraces, used in their most guarded rituals.
+> - A collapsed wall in the Seed Vault reveals a hidden tunnel that connects directly to the Marquisate garrison's water supply.
+>
+> ### Loot & Resources
+> - *Cultist Healing Salves:* 2 uses of poultices that can clear 1-injury or 1-exhaustion.
+> - *Rare Desert Seeds:* Worth 2-Value to an interested botanist or merchant.
 
 ### Notable NPCs
 - **[[Mozz]]:** A corpulent mole who runs the Velvet Cavern. He controls the smuggling routes and holds the debts of half the town.
@@ -63,12 +93,12 @@ Sandstone structures are haphazardly built into the curves of the ancient bones,
 - **The Heat of the March:** Any vagabond spending a full day on the surface of Bone Gulch without proper shade or ample water must mark 1-exhaustion due to the oppressive sun.
 
 ### Rumors
-- "I heard that the local Cultists are furious about a Heretic in the area. A lizardfolk named [[Savage Wyrmbourne]]—they say there's a hefty bounty for anyone who brings them in to face the Cult's judgment."
+- "I heard the Lizard Cult is preparing a massive holy expedition and is looking for a devoted champion to lead it. They say they'd pay a fortune to an accomplished Acolyte."
 - "The garrison commander is taking bribes from the Moles. She hasn't sent a patrol down into the tunnels in months."
 
 ### Secrets & Hooks
-- **The Trail to Perry:** [[Wren Greenboot]]'s tracking of their target has hit a wall, but Mozz's smugglers recently transported a strange, aquatic creature in a sealed tank heading deeper into the Duchy tunnels. Mozz will trade this information, but only for a steep price or a dangerous favor.
-- **The Heretic's Welcome:** If [[Savage Wyrmbourne]] arrives in Bone Gulch, they will find the local Lizard Cult intensely hostile, actively hunting for them due to their radical beliefs regarding the Great Wyrm.
+- **The Trail to Perry:** [[Wren Greenboot]]'s tracking of their target has hit a wall, but Mozz's smugglers recently aided a dangerous criminal known as "Perry the Platypus"—the same criminal who abducted Wren's family. Mozz helped him secure passage deeper into the Duchy tunnels and will trade this information, but only for a steep price or a dangerous favor.
+- **The Honored Guest:** If [[Savage Wyrmbourne]] arrives in Bone Gulch, the local Lizard Cult will welcome them with open arms, completely unaware of their heretical beliefs. The Acolytes will look to Savage as a devout champion of the Great Wyrm, offering them access to Cult resources but expecting them to lead the charge against the "sinners" in the Velvet Cavern.
 
 ### First Session Encounters (2d6)
 - **2-3:** A sudden, violent sandstorm forces everyone underground, trapping the vagabonds in a tunnel with a desperate Marquisate patrol and angry Cultists.
