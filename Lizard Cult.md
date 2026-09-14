@@ -19,7 +19,7 @@
 > 
 > [^1]: Reports to the contrary are not unheard of, though by and large lack evidence beyond the circumstantial 
 
-The Lizard Cult is an ancient religion originating from the [[Saurian March]] region. Scrolls handed down from time out of mind prophecy that the Great Dragon will arrive at the [[Well of the Ancestors]], a subterranean lake deep in the desert. The cavern housing this lake has been expanded into a vast underground city governed by the Lizard Cult itself, pure and unsullied from the taint of unbelief. The [[Heart of the Dragon]] convenes here and governs the Well along with the Cult as a whole across the marches.
+The Lizard Cult is an ancient religion originating from the [[Saurian March]] region. Scrolls handed down from time out of mind prophecy that the Great Dragon will arrive at the [[Well of the Ancestors]], a subterranean lake deep in the desert. The cavern housing this lake has been expanded into a vast underground city governed by the Lizard Cult itself, pure and unsullied from the taint of unbelief. The [[Heart of the Dragon]] convenes here and governs the Well along with the Cult as a whole across the marches.  
 
 ### Beliefs
 - Post creation conflict between Dragon (lizards) and Raptor (birds)
