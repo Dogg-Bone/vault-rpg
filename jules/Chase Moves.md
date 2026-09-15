@@ -11,10 +11,13 @@ On a 10+, choose one:
 - You keep the pursuit quiet or avoid drawing unwanted attention.
 - You recover something they dropped or left behind in their haste.
 
-On a 7-9, you catch them, but choose one complication:
-- You suffer 1-exhaustion from the grueling chase.
-- You end up in a dangerous or disadvantageous location.
-- You draw the attention of guards, enemies, or a hostile crowd.
+On a 7-9, you catch them, but the GM chooses a **Chase Complication** from the list below. You must roll the appropriate stat to overcome it.
+- On a 10+, you overcome it cleanly.
+- On a 7-9, you push through but mark 1-exhaustion.
+- On a miss, you stumble and must choose one consequence:
+  - You end up in a dangerous or disadvantageous location.
+  - You draw the attention of guards, enemies, or a hostile crowd.
+  - You drop or lose something important in the pursuit.
 
 On a miss, they slip away completely, or lead you straight into an ambush or trap.
 
@@ -31,10 +34,13 @@ On a 10+, choose one:
 - You lead them into a hazard or trap.
 - You steal or grab something valuable on your way out.
 
-On a 7-9, you escape, but barely. Choose one complication:
-- You suffer 1-exhaustion from the exertion or a minor scrape.
-- You leave behind a clear trail or something identifiable.
-- You end up separated from your allies or in an unfamiliar, dangerous area.
+On a 7-9, you escape, but the GM chooses a **Chase Complication** from the list below. You must roll the appropriate stat to overcome it.
+- On a 10+, you overcome it cleanly.
+- On a 7-9, you push through but mark 1-exhaustion.
+- On a miss, you stumble and must choose one consequence:
+  - You leave behind a clear trail or something identifiable.
+  - You end up separated from your allies or in an unfamiliar, dangerous area.
+  - You drop or leave something valuable behind.
 
 On a miss, you are cornered, captured, or fall right into their hands.
 
