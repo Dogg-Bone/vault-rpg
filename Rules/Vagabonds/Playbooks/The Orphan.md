@@ -31,7 +31,7 @@ Choose one weapon skill to start
 ### Roguish Feats
 You gain the roguish feats Hide and Sneak (they do not count against your total).
 
-**Equipment Starting Value:** 7
+**Equipment Starting Value:** 8
 
 ### Your Nature
 Choose one:

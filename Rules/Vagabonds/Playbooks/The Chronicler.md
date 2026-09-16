@@ -23,9 +23,9 @@
 
 ### Weapon Skills
 Choose one weapon skill to start
-- Disarm
+- Confuse Senses
 - Improvise
-- Quick Shot
+- Parry
 - Trick Shot
 
 ### Roguish Feats

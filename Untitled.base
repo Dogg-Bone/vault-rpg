@@ -1,0 +1,6 @@
+formulas:
+  pr: ""
+views:
+  - type: table
+    name: Table
+    order: []

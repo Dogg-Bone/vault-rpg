@@ -34,6 +34,9 @@ Blindside, Counterfeit, Disable Device, Hide, Sleight of Hand
 ### [[Obligation]]
 **Oath:** I am oath-bound to serve the [[Lizard Cult]] and to obey the Great Wyrm.
 \[ ] \[ ] \[ ] \[ ]
+### Equipment
+[[Dragon Claw's Knife]]
+[[Dragon Claw's Crossbow]]
 ### Playbook Moves
 You get *Traps and Snares*, then choose two more:
 

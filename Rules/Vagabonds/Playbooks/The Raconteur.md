@@ -11,10 +11,10 @@
 > *(Add +1 to a stat of your choice, to a max of +2)*
 
 #### Species
-- fox, mouse, rabbit, bird, other
+- fox, mouse, rabbit, bird, weasel, other
 
 #### Demeanor
-- dramatic, intense, quiet, charming
+- ingenuous, passionate, verbose, smooth
 
 #### Details
 - he, she, they, shifting
@@ -23,15 +23,15 @@
 
 ### Weapon Skills
 Choose one weapon skill to start
+- Confuse Senses
 - Disarm
-- Harry
-- Parry
-- Trick Shot
+- Improvise
+- Vicious Strike
 
 ### Roguish Feats
 You start with these: Acrobatics, Sleight of Hand
 
-**Equipment Starting Value:** 7
+**Equipment Starting Value:** 8
 
 ### Your Nature
 Choose one:
