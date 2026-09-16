@@ -7,6 +7,8 @@
 ### Description & History
 Bone Gulch is a harsh, arid settlement in the [[Saurian March]], built directly into and around the fossilized ribs and skull of a colossal, ancient desert leviathan. The bleached bones rise from the shifting sands like the framework of a forgotten cathedral, providing sparse shade and structural support for the sandstone dwellings that cling to them. The settlement represents a classic example of moldy worldbuilding: the current inhabitants have excavated the leviathan's marrow-hollowed bones and the sandstone beneath to escape the relentless sun, building upon layers of older, buried foundations from long-dead desert civilizations.
 
+The clearing is currently active and profitable due to its unique bone-mining industry. Ivory, minerals, powdered bone, and fossil art bring money to the clearing. Nutrients have leached out from the bones into the gulch, fertilizing and providing the area with sparse shade.
+
 ### At First Sight
 The scorching sun beats down on the bleached white ribs that arch over the main thoroughfare, casting harsh, striped shadows across the dusty ground. The air is stifling and oppressive, thick with the smell of dry dust, roasted sweetroot, and the faint, coppery tang of old blood.
 
