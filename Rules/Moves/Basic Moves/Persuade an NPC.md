@@ -3,7 +3,7 @@
 
 *Persuade an NPC* can only be used on individual NPCs.
 
-When you *persuade an NPC,* you’re trying to get them to do something. At heart, this move isn’t about changing beliefs or ideology—that kind of of move is more swaying an NPC with your Reputation (see page 117). Instead, this move is about getting an NPC to actually take some concrete action. And while you can try to persuade an NPC to act in a particular way in the future, if the situation changes enough, they can change their mind. Most often, you use this move to get an NPC to take action right now, so always try to have an idea for what action you want them to take.
+When you *persuade an NPC,* you’re trying to get them to do something. At heart, this move isn’t about changing beliefs or ideology—that kind of move is more swaying an NPC with your Reputation (see page 117). Instead, this move is about getting an NPC to actually take some concrete action. And while you can try to persuade an NPC to act in a particular way in the future, if the situation changes enough, they can change their mind. Most often, you use this move to get an NPC to take action right now, so always try to have an idea for what action you want them to take.
 
 You must always *persuade* using a promise or a threat.
 

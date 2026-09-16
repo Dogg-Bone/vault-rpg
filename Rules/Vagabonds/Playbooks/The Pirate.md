@@ -19,7 +19,7 @@
 #### Details
 - he, she, they, shifting
 - branded, fancy, grizzled, attractive
-- flashy hat, lucky trinket, flask of rum, lodestone and compass
+- flashy hat, lucky trinket, flask of rum, lodestone, and compass
 
 ### Weapon Skills
 Choose one weapon skill to start

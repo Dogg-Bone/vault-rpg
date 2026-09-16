@@ -7,7 +7,7 @@
 > **Cunning** 0
 > **Finesse** +2
 > **Luck** +1
-> **Might** -1
+> **Might** 0
 > *(Add +1 to a stat of your choice, to a max of +2)*
 
 #### Species

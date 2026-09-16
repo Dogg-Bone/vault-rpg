@@ -15,7 +15,7 @@
 | Actions                                                                             | Reputation Effect |
 | ----------------------------------------------------------------------------------- | ----------------- |
 | Legendary service: Deliver the leader of or destroy an enemy faction                | 9+ prestige       |
-| Heroic service: Deliver unique/priceless items, deliver a clearing without suppor   | 7-8 prestige      |
+| Heroic service: Deliver unique/priceless items, deliver a clearing without support  | 7-8 prestige      |
 | Extraordinary service: Rescue a leader, deliver crucial goods                       | 5-6 prestige      |
 | Praiseworthy service: Enact a leader’s plan successfully, protect faction agents    | 3-4 prestige      |
 | Average service: Deliver valuable goods, protect faction resources                  | 2 prestige        |
