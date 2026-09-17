@@ -134,3 +134,18 @@
 | Scout | Guard | Priest | Scholar | Tailor |
 | Cook | Brewer | Baker | Miller | Tinker |
 | Baron | Marquis | Earl | Duke | Lord |
+
+## Weird Events & Curiosities
+
+| | | | | |
+|---|---|---|---|---|
+| Floating Rocks | Red Rain | Whispering Trees | Glowing Moss | Clockwork Bird |
+| Sudden Eclipse | Missing Time | Talking Fox | Bleeding Bark | Frozen Fire |
+| Silent Bell | Living Shadows | Wandering Path | Reversing River| Phantom Music |
+| Crystal Fruit | Howling Stones | Crying Statues | Dancing Lights | Blue Flames |
+| Metallic Vines | Melting Metal | Singing Wind | Giant Tracks | Sudden Fog |
+| Black Snow | Iron Flowers | Unseen Choir | Shimmering Air | Stone Feathers |
+| Glass Leaves | Bone Dust | Sudden Silence | Echoing Steps | Moving Stars |
+| Whispering Fog | Glowing Bones | Liquid Silver | Golden Sap | Rusted Earth |
+| Singing Blades | Weeping Stones | False Sun | Ghostly Owl | Shattered Sky |
+| Burning Ice | Floating Ash | Restless Dead | Ancient Hum | Hidden Moon |
