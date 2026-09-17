@@ -154,13 +154,13 @@
 
 | | | | | |
 |---|---|---|---|---|
-| Glass Heart | Whispering Orb | Bleeding Sword | Eyeless Doll | Frozen Flame |
-| Singing Coin | Black Mirror | Liquid Stone | Shadow Cloak | Rooted Ring |
-| Pulsing Gem | Iron Feather | Floating Crown | Weeping Idol | Bone Flute |
-| Clockwork Eye | Silent Bell | Endless Vial | Cursed Crown | Sunken Star |
-| Ash Locket | Star Metal | Moving Map | Ghost Lantern | Dream Stone |
-| Void Box | Painted Soul | Hollow Bone | Crystal Seed | Brass Moon |
-| Blood Iron | Echo Shell | Shimmer Scale | Velvet Stone | Tear Drop |
-| Silver Branch | Night Pearl | Sun Coin | Wraith Blade | Glass Key |
-| Star Dust | Soul Cage | Ember Stone | Void Glass | Blood Ruby |
-| Bone Mask | Time Watch | Dream Catcher| Memory Box | Shadow Stone |
+| Glass Heart | Whirring Orb | Rusted Blade | Eyeless Doll | Brass Flower |
+| Ticking Coin | Black Mirror | Liquid Lead | Heavy Cloak | Rooted Ring |
+| Glowing Gem | Iron Feather | Heavy Crown | Broken Idol | Bone Flute |
+| Clockwork Eye | Silent Bell | Sealed Vial | Iron Crown | Rusted Gear |
+| Ash Locket | Heavy Ore | Etched Map | Dark Lantern | Smooth Stone |
+| Lead Box | Stained Map | Hollow Bone | Glass Seed | Brass Moon |
+| Blood Iron | Echo Shell | Scratched Lens | Velvet Box | Glass Tear |
+| Silver Branch | Dark Pearl | Brass Coin | Dull Blade | Glass Key |
+| Fine Dust | Iron Cage | Warm Stone | Thick Glass | Blood Ruby |
+| Bone Mask | Brass Watch | Woven Net | Locked Box | Heavy Stone |
