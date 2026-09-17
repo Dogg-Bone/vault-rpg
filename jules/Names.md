@@ -19,16 +19,16 @@
 
 | | | | | |
 |---|---|---|---|---|
-| Smith | Jones | Brown | Davis | Miller |
-| Wilson | Moore | Taylor | White | Harris |
-| Clark | Lewis | Walker | Hall | Allen |
-| Young | King | Wright | Scott | Green |
-| Baker | Adams | Nelson | Hill | Carter |
-| Reed | Cook | Bell | Ward | Evans |
-| Wood | Stone | Cross | Rivers | Ford |
-| Brooks | Lake | Marsh | Frost | Snow |
-| Ash | Birch | Cole | Dent | Finch |
-| Gage | Hull | Knox | Nash | Page |
+| Wood | Stone | Rivers | Crust | Bark |
+| Root | Branch | Leaf | Thorn | Moss |
+| Reed | Ash | Birch | Pine | Oak |
+| Clay | Mud | Dirt | Sand | Flint |
+| Slate | Iron | Brass | Coal | Soot |
+| Smoke | Spark | Flame | Ember | Rain |
+| Cloud | Wind | Storm | Frost | Snow |
+| Ice | Brook | Creek | Pond | Lake |
+| Vale | Glen | Ridge | Cliff | Cave |
+| Burrow | Web | Shell | Bone | Horn |
 
 ## Macguffins
 
@@ -119,3 +119,18 @@
 | Gestures Wildly | Points Fingers | Crosses Arms | Slouches | Stands Straight |
 | Constantly Nods | Shakes Head | Mutters to Self | Rhymes Words | Always Smiling |
 | Never Smiles | Smells Strongly | Smells of Garlic | Spits Often | Chews on Twig |
+
+## NPC Titles
+
+| | | | | |
+|---|---|---|---|---|
+| The Elder | The Swift | The Brave | The Cunning | The Wise |
+| The Strong | The Silent | The Bold | The Vain | The Just |
+| The Cruel | The Kind | The Stout | The Grim | The Pale |
+| The Red | The Black | The White | The Blind | The Scarred |
+| The Old | The Young | The Tall | The Short | The Quick |
+| Captain | Sergeant | Mayor | Sheriff | Doctor |
+| Professor | Merchant | Farmer | Smith | Hunter |
+| Scout | Guard | Priest | Scholar | Tailor |
+| Cook | Brewer | Baker | Miller | Tinker |
+| Baron | Marquis | Earl | Duke | Lord |
