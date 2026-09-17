@@ -149,3 +149,18 @@
 | Whispering Fog | Glowing Bones | Liquid Silver | Golden Sap | Rusted Earth |
 | Singing Blades | Weeping Stones | False Sun | Ghostly Owl | Shattered Sky |
 | Burning Ice | Floating Ash | Restless Dead | Ancient Hum | Hidden Moon |
+
+## Weird Objects
+
+| | | | | |
+|---|---|---|---|---|
+| Glass Heart | Whispering Orb | Bleeding Sword | Eyeless Doll | Frozen Flame |
+| Singing Coin | Black Mirror | Liquid Stone | Shadow Cloak | Rooted Ring |
+| Pulsing Gem | Iron Feather | Floating Crown | Weeping Idol | Bone Flute |
+| Clockwork Eye | Silent Bell | Endless Vial | Cursed Crown | Sunken Star |
+| Ash Locket | Star Metal | Moving Map | Ghost Lantern | Dream Stone |
+| Void Box | Painted Soul | Hollow Bone | Crystal Seed | Brass Moon |
+| Blood Iron | Echo Shell | Shimmer Scale | Velvet Stone | Tear Drop |
+| Silver Branch | Night Pearl | Sun Coin | Wraith Blade | Glass Key |
+| Star Dust | Soul Cage | Ember Stone | Void Glass | Blood Ruby |
+| Bone Mask | Time Watch | Dream Catcher| Memory Box | Shadow Stone |
