@@ -24,7 +24,7 @@
     "command-palette:open"
   ],
   "promptDelete": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showLineNumber": true,
   "propertiesInDocument": "hidden",
   "rightToLeft": false,

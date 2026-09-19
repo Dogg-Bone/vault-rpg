@@ -8,7 +8,16 @@ time: "21:30"
 > — A Lizard Cult Acolyte
 
 Located southeast of [[La Capitale]], the **Saurian March** is a vast, unforgiving sandstone desert. Defined by its scorching sun, jagged rocky outcroppings, and punishing sandstorms, the march is an environment that actively resists civilization. The atmosphere is oppressive and feverish, demanding extreme resilience from those who attempt to cross its shifting dunes.
-
+> [!NOTE|float-right] Resources
+> ### Needs
+> - Water & Food
+> - Timber
+> - Oil
+> ### Supplies
+> - Salt
+> - Radioactive crystal
+> - [[Sweetroot]] plant
+> - Linen
 ## Demographics & Inhabitants
 Most [[Denizens]] know [[Saurian March]] as the homeland of the [[Lizard Cult]]. Those that call this region home must be tough, clever, or biologically suited to the relentless heat. The march is primarily inhabited by **[[Lizardfolk]]**, whose natural hardiness and affinity for the arid climate make them the dominant political and social force in the scattered desert clearings.
 
@@ -24,14 +33,3 @@ The wilder, untamed regions of the desert are extremely perilous. The sands conc
 - Massive, subterranean **[[Giant Antlion|Antlions]]** that create deadly traps in the loose sand.
 - **[[Giant Centipede]]s** that scour the deep canyons.
 - **[[Giant Crocodile]]s**, which jealously guard the sparse rivers and watering holes.
-
-> [!NOTE|float-right] Resources
-> ### Needs
-> - Water & Food
-> - Timber
-> - Oil
-> ### Supplies
-> - Salt
-> - Radioactive crystal
-> - [[Sweetroot]] plant
-> - Linen
