@@ -33,7 +33,7 @@ Blindside, Counterfeit, Disable Device, Hide, Sleight of Hand
 - [[Partner|Peer]]: [[Wren Greenboot]] assisted me in dealing with a [[Giant Snake|Swamp Snake]] that was threatening the clearing of [[Elmwood Reach]]. Wren's tracked it and used his bow to distract it so I could strike it down.
 ### [[Obligation]]
 **Oath:** I am oath-bound to serve the [[Lizard Cult]] and to obey the Great Wyrm.
-\[ ] \[ ] \[ ] \[ ]
+\[x] \[ ] \[ ] \[ ]
 ### Equipment
 [[Dragon Claw's Knife]]
 [[Dragon Claw's Crossbow]]

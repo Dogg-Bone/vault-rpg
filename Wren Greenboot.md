@@ -32,7 +32,7 @@ Acrobatics, Blindside, Hide, Sleight of Hand, Sneak
 - [[Professional]]: [[Savage Wyrmbourne]] and I tried to blaze a new smuggler's trail between two clearings that passed too close to a den of monsters; without the support of the major factions, it never fully came to fruition.
 ### [[Obligation]]
 **Favor**: Vulcan took me in and raised me, and I've never been able to fully repay the favor.
-\[ ] \[ ] \[ ] \[ ]
+\[x] \[x] \[x] \[ ]
 ### Playbook Moves
 > [!tip] Cross Country
 > Take one extra box of exhaustion. When **your exhaustion track is full and you must mark exhaustion**, you may choose to mark an equivalent amount of injury instead of being removed from the situation or going unconscious.
@@ -43,11 +43,16 @@ Acrobatics, Blindside, Hide, Sleight of Hand, Sneak
 > [!tip] The List
 > You have a list of targets against whom you seek vengeance; work with the GM to establish 1 or 2 starting names and who they are. Take +1 ongoing to pursue vengeance against anyone on your list.
 > Whenever you **wreak vengeance upon a name on your list**, take a Mark from below; you can only take each Mark once. You may also take a Mark to add a new name to your list.
-> • Take +1 Might (max +3)
-> • Take +1 Cunning (max +3)
-> • Clear a permanent injury box
-> • Give your band +1 Reputation with any faction
-> If you take a Mark when no more options are available, your quest for vengeance consumes you; you retire from the vagabond life to become an NPC dedicated to hunting down anyone left on your list.
+> **Marks**
+> \[ ] Next time you talk of your joyful life before your loss, clear 2-exhaustion. 
+> \[ ] Next time you talk about your nemesis’s treachery, clear 2-exhaustion. 
+> \[ ] Your anger ever boils; take +1 to wreck something, and -1 to ask for a favor. 
+> \[ ] You weary of paltry concerns; mark exhaustion when you persuade an NPC. 
+> \[ ] Take +1 to all weapon moves while you have 3+ exhaustion marked. 
+> \[ ] Only retribution satisfies; you cannot clear more than 1 exhaustion from resting. 
+> \[ ] Clear 2 exhaustion when you add a wrongdoer to your list. 
+> \[ ] Vengeance begets vengeance; an NPC avenger begins pursuing you for retribution, targeting you at your weakest moments. 
+> \[ ] You lose yourself entirely to your vengeance; your character is no longer a PC. The GM may have them appear in again in the future as an NPC
 
 > [!tip] At Your Mercy
 > When you spare an NPC whom you could have destroyed or humiliated, roll with Luck. On a hit, your gesture of mercy soothes your troubled soul (clear all exhaustion) or elicits material gratitude (clear 2 or more depletion, GM’s choice). On a 10+, both. On a miss, someone—perhaps even the one you spared—is quick to take malicious advantage of your foolhardy gesture.
@@ -56,7 +61,7 @@ Acrobatics, Blindside, Hide, Sleight of Hand, Sneak
 > By default, your ship has a wear track with four boxes. Mark wear when it suffers serious damage or when a move calls for it. When your ship's wear track is filled, it is dead in the water and must be repaired at port. If you must mark wear on your ship but its whole track is full, your ship is lost. If you ever lose the ship the GM may present you with an opportunity to get a new one.
 >
 > **Your Ship's Name:** [[The Gobbler]]
-> Wear \[ ] \[ ] \[ ] \[ ]
+> Wear \[x] \[x] \[ ] \[ ]
 > Depletion \[ ] \[ ]
 >
 > **Blessings:**

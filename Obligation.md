@@ -14,7 +14,7 @@ During character creation, each [[Vagabonds|Vagabond]] chooses an obligation fro
 | Obsession      | Includes compulsions like gluttony, gambling, [[Kleptomaniac\|kleptomania]], or buying overpriced baubles as well as fixations on a person, place, thing, or idea     |
 | Responsibility | Strong sense of accountability to something or someone that weighs on the vagabond's mind                                                                             |
 > [!tip] Obligation Track
-Each vagabond has an obligation track with 4 boxes. Vagabonds mark obligation at the start of each session, when they cross a [[Reputation Reference|Reputation]] threshold, or as part of a move. Vagabonds can clear obligation by somehow fulfilling their obligation in the game, the GM will tell you how many boxes to clear. 
+Each vagabond has an obligation track with 4 boxes. Vagabonds mark obligation at the start of each session, when they cross a [[Reputation Reference|Reputation]] threshold, arriving in a clearing, or as part of a move. Vagabonds can clear obligation by somehow fulfilling their obligation in the game, the GM will tell you how many boxes to clear. 
 >
 > When the obligation track is full, tell the GM, clear the track, and roll. Take +1 for each +2 or -2 Reputation you have with a faction, along with +1 for each "yes" to the following questions:
 > - Are you in a clearing?
