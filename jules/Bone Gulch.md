@@ -82,8 +82,8 @@ Sandstone structures are haphazardly built into the curves of the ancient bones,
 > - The Cult is secretly growing a rare, hallucinogenic flower in the lower terraces, used in their most guarded rituals.
 > - A collapsed wall in the Seed Vault reveals a hidden tunnel that connects directly to the Marquisate garrison's water supply.
 - The deepest shadows of the Terraces obscure a sealed, ancient entrance leading down into [[The Sunken Silos]], a dangerous pre-Dynastic ruin.
->
-> ### Loot & Resources
+
+> [!info] Loot & Resources
 > - *Cultist Healing Salves:* 2 uses of poultices that can clear 1-injury or 1-exhaustion.
 > - *Rare Desert Seeds:* Worth 2-Value to an interested botanist or merchant.
 
